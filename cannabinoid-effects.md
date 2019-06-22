@@ -27,7 +27,6 @@ Adenosintriphosphat ist der universelle und unmittelbar verfügbare  [Energietr�
 ### cAMP - [Cyclic adenosine monophosphate][cAMP]
 **Cyclisches Adenosinmonophosphat** (cAMP) ist ein biochemisch vom [Adenosintriphosphat](https://de.wikipedia.org/wiki/Adenosintriphosphat "Adenosintriphosphat") (ATP) abgeleitetes [Molekül](https://de.wikipedia.org/wiki/Molek%C3%BCl "Molekül")(eine chemische Verbindung), das als _[Second Messenger](https://de.wikipedia.org/wiki/Second_Messenger "Second Messenger")_ bei der zellulären [Signaltransduktion](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion") (Übertragung von Nervenimpulsen) dient und insbesondere zur Aktivierung vieler [Peptidhormone](https://de.wikipedia.org/wiki/Proteohormone "Proteohormone") ([Proteinkinasen](https://de.wikipedia.org/wiki/Proteinkinase "Proteinkinase")) führt.
 
-### 
 ### PKA - [Protein kinase A][PKA]
 Die **Proteinkinase A** (**PKA**) ist eine cAMP-abhängige [Proteinkinase][PKA] und zählt zu den [Serin][Serin]/[Threonin](https://de.wikipedia.org/wiki/Threonin "Threonin")-Kinasen. Sie ist im Vergleich zu anderen Proteinkinasen am besten untersucht und charakterisiert. PKA ist an der Regulation im [Energiestoffwechsel](https://de.wikipedia.org/wiki/Energiestoffwechsel "Energiestoffwechsel") ([Glykogen](https://de.wikipedia.org/wiki/Glykogen "Glykogen"), [Lipiden](https://de.wikipedia.org/wiki/Lipid "Lipid"), [Kohlenhydrate](https://de.wikipedia.org/wiki/Kohlenhydrate "Kohlenhydrate")) beteiligt. Außerdem spielt PKA eine wichtige Rolle bei der Modifikation von Synapsen und der Kontrolle bei Ionenkanälen. Schließlich werden über PKA spezielle [Transkriptionsfaktoren](https://de.wikipedia.org/wiki/Transkriptionsfaktor "Transkriptionsfaktor") aktiviert, das so genannte _cAMP-responsive element-binding protein_ (CREB). Durch einen Coaktivator (_CREB-binding protein_) wird die [Transkription](https://de.wikipedia.org/wiki/Transkription_(Biologie) "Transkription (Biologie)") von Zielgenen ermöglicht, die über ein cAMP-Antwortelement (_cAMP responsive element_) verfügen.
 
@@ -76,6 +75,11 @@ Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird.
 
 ### Funktion
 ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
+
+##
+**Second messenger**  ist ein englischer Fachterminus der Biologie und Medizin, den man mit  **sekundärer Botenstoff**  ins Deutsche übersetzen kann. Auch  **sekundärer Messenger**oder  **Sekundärsignal**  sind in der Fachliteratur anzutreffende, synonyme Begriffe. Ein  _second messenger_  ist eine  [intrazelluläre](https://de.wikipedia.org/wiki/Intrazellul%C3%A4r "Intrazellulär")  chemische Substanz, deren Konzentration als Antwort auf ein Primärsignal (_first messenger_  =  [Ligand](https://de.wikipedia.org/wiki/Ligand_(Biochemie) "Ligand (Biochemie)")) verändert wird.
+
+Der second messenger dient der intrazellulären Weiterleitung eines von außen (extrazellulär) kommenden primären Signals, das die Zellmembran nicht passieren kann. Dient das Primärsignal der Signalübertragung zwischen Zellen, so dient der Second Messenger der  [Signalübertragung](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")  innerhalb der Zelle, also intrazellulär. Dabei steht der Second Messenger oft nur am Anfang einer oder mehrerer längerer, intrazellulärer Signalketten, die auch der Signalverstärkung dienen und schließlich zu einer Zellantwort auf das Primärsignal führen. Second Messenger wurden zunächst für die Signalweiterleitung  [hydrophiler](https://de.wikipedia.org/wiki/Hydrophil "Hydrophil")  [Hormone](https://de.wikipedia.org/wiki/Hormon "Hormon"), wie z. B.  [Insulin](https://de.wikipedia.org/wiki/Insulin "Insulin"),  [Glucagon](https://de.wikipedia.org/wiki/Glucagon "Glucagon")  und  [Adrenalin](https://de.wikipedia.org/wiki/Adrenalin "Adrenalin"), oder  [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), wie z. B.  [Glutamat](https://de.wikipedia.org/wiki/Glutamins%C3%A4ure "Glutaminsäure"), beschrieben.
 # Articles
 ## Genregulation
 **Genregulation**  _w_ [von latein. regulare = regeln], _genetische Regulation, Regulation der Genaktivität, Regulation der Transkription,_ die von dem biochemischen und biophysikalischen Zustand einer [Zelle](https://www.spektrum.de/lexikon/biologie/zelle/71559) oder eines vielzelligen Organismus sowie von Umwelteinflüssen abhängige Regulation der [Transkription](https://www.spektrum.de/lexikon/biologie/transkription/67276) von Genen ([Gen](https://www.spektrum.de/lexikon/biologie/gen/27194)). Die Genregulation ist von entscheidender Bedeutung für die _[differentielle Genexpression](https://www.spektrum.de/lexikon/biologie/differentielle-genexpression/18138)_. Es werden 2 grundlegende Mechanismen der Genregulation unterschieden:  
@@ -103,6 +107,6 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjQxMDA2NywtNzkzMjgxODY2LC01OT
+eyJoaXN0b3J5IjpbLTg0MjQ5MjI1OCwtNzkzMjgxODY2LC01OT
 U2MzcyOThdfQ==
 -->
