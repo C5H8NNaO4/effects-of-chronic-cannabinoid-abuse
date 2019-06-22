@@ -47,7 +47,7 @@ Die Familie der G-Protein-gekoppelten Rezeptoren stellt mit mehr als 1000 versch
 
 
 # Transduktionspfade
-## Cannabinoide
+## [Cannabinoide][cannabinoid-pathway]
 ![https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png](https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png)
 # Gene
 ##  ADCY1 
@@ -128,7 +128,10 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [ADP signalling through P2Y purinoceptor 12]: http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12
 
 [Regulation of CFTR activity (norm and CF)]:http://pathcards.genecards.org/card/regulation_of_cftr_activity_\(norm_and_cf\)
+
+
+[cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyODczNjcxLDEzMjQyOTI4NTAsLTc5Mz
-I4MTg2NiwtNTk1NjM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyND
+I5Mjg1MCwtNzkzMjgxODY2LC01OTU2MzcyOThdfQ==
 -->
