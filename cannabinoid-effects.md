@@ -5,7 +5,7 @@
 Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wir einige Zeit in anspruch nehmen.
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][#ADCY1] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt, da diese über ADCY1 geregelt wird. Da die PKA Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt, da diese über ADCY1 geregelt wird. Da die PKA Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 ## Definitionen 
 
 ### CNR1
@@ -87,9 +87,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [PKA]: https://de.wikipedia.org/wiki/Proteinkinase_A
 [Serin]: https://de.wikipedia.org/wiki/Serin
-[ADC]: [https://de.wikipedia.org/wiki/Adenylylcyclasen](https://de.wikipedia.org/wiki/Adenylylcyclasen)
-[ecb-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
-[gene-regulation]: https://www.spektrum.de/lexikon/biologie/genregulation/27396
+[ADC]: https://de.wikipedia.org/wiki/Adenylylcyclasen
+[ecb-pathway]:https://www.wikipathways.org/index.php/Pathway:WP3869
+[gene-regulation]:https://www.spektrum.de/lexikon/biologie/genregulation/27396
 
 [Enzym]: https://en.wikipedia.org/wiki/Enzyme
 [GPCR]: https://de.wikipedia.org/wiki/G-Protein-gekoppelte_Rezeptoren
@@ -98,9 +98,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [PRKAR1B-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1B
 
-[Carney Complex, Type 1]: http://www.malacards.org/card/carney_complex_type_1
+[Carney Complex, Type 1]:http://www.malacards.org/card/carney_complex_type_1
 
-[Akrodysostose 1]: http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
+[Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNDI1NDA1LC01OTU2MzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTc5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
 -->
