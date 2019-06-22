@@ -12,9 +12,10 @@ Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und dessen
 Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neurobiologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Neurobiologische Auswirkungen auf das Gehirn von Säugetieren hat. - Mischkonsum von Nicotin, Cannabis, MDMA, Pilzen und LSD ist nicht harmlos und kann weitreichende Folgen haben.
 
 ## Auswirkungen
-Die Auswirkungen Jahrelangen Drokenkonsums sind recht umfassend und umfassen Verwirrtheit, Gedächtnisstörungen, übermäßiges Schwitzen, Paranoia und schizoaffektive Störungen.
+Die Auswirkungen Jahrelangen Drokenkonsums sind recht umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßiges Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Dissoziativität und schizoaffektiven Störungen.
+
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt.  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und führt so zu einer einer Dystonie der [Genregulation][gene-regulation] der PKA im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und führt so zu einer einer Dystonie der [Genregulation][gene-regulation] der PKA im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 ## Wissenswertes
 
 ### CNR1
@@ -184,8 +185,8 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MzM1NDkxLDkwOTc0NjUzMSwxMDgxNj
-MwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5NTAsLTIyMzg2MDk3
-NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNzkzMjgxODY2LC01OT
-U2MzcyOThdfQ==
+eyJoaXN0b3J5IjpbMTI4ODM5OTQ5OCw5MDk3NDY1MzEsMTA4MT
+YzMDgxMSwtMTQ0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4NjA5
+NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLTc5MzI4MTg2NiwtNT
+k1NjM3Mjk4XX0=
 -->
