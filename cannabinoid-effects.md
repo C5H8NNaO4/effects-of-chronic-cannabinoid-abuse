@@ -47,7 +47,7 @@ Die Familie der G-Protein-gekoppelten Rezeptoren stellt mit mehr als 1000 versch
 
 
 # Transduktionspfade
-## [Cannabinoide][cannabinoid-pathway]
+## [Cannabinoid receptor signaling (Homo sapiens)][cannabinoid-pathway]
 ![https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png](https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png)
 
 # Grundbegriffe
@@ -179,7 +179,7 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA3OTczMTcsMTU4NjI5MTk1MCwtMj
-IzODYwOTc1LDU5Mjg3MzY3MSwxMzI0MjkyODUwLC03OTMyODE4
-NjYsLTU5NTYzNzI5OF19
+eyJoaXN0b3J5IjpbMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNywxNT
+g2MjkxOTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMjQyOTI4
+NTAsLTc5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
 -->
