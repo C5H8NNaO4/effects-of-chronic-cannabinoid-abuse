@@ -204,3 +204,6 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [Carney Complex, Type 1]: http://www.malacards.org/card/carney_complex_type_1
 
 [Akrodysostose 1]: http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM3MTA4OTAwMl19
+-->
