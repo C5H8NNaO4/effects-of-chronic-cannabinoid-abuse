@@ -118,8 +118,8 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 
 
-[Genregulation]: [https://www.spektrum.de/lexikon/biologie/genregulation/27396
+[Genregulation]: https://www.spektrum.de/lexikon/biologie/genregulation/27396
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMzM1MTI5LC03OTMyODE4NjYsLTU5NT
-YzNzI5OF19
+eyJoaXN0b3J5IjpbLTg1MTE3MTE5NCwtNzkzMjgxODY2LC01OT
+U2MzcyOThdfQ==
 -->
