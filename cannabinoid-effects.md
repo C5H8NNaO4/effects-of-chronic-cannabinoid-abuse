@@ -7,9 +7,9 @@ A compilation of information about the cannabinoid pathways in the mammalian bra
 # Vorwort 
 Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und dessen Vollendung wird einige Zeit in Anspruch nehmen.
 
-Zu diesem Zeitpunkt enthält dieser Artikel lediglich eine Sammlung an Informationen Neurobiologischen Basis-Wissens. Wer Interesse an dieser Thematik hat, kann sich gerne die folgenden Abschnitte durchlesen; darf jedoch nicht erwarten daraus irgendwelche Schlüsse ziehen zu können. 
+Zu diesem Zeitpunkt enthält dieser Artikel lediglich eine Sammlung an Informationen neurobiologischen Basis-Wissens. Wer Interesse an dieser Thematik hat, kann sich gerne die folgenden Abschnitte durchlesen; darf jedoch nicht erwarten daraus irgendwelche Schlüsse ziehen zu können. 
 
-Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informationen gesammelt die oben genannte Krankheitsbilder den jeweiligen Neuropathologischen Ursachen zuordnen um so einen Gesamtüberblick über die Neurobiologische Funktion eines Entzugs zu erhalten und die Wirkung gängiger Psychopharmaka zu Erläutern.
+Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informationen gesammelt die oben genannte Krankheitsbilder den jeweiligen Neuropathologischen Ursachen zuordnen, um so einen Gesamtüberblick über die Neurobiologische Funktion eines Entzugs zu erhalten und die Wirkung gängiger Psychopharmaka zu Erläutern.
 
 ## Motivation
 
@@ -190,8 +190,8 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODk3NDc0LDEyODgzOTk0OTgsOTA5Nz
-Q2NTMxLDEwODE2MzA4MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1
-MCwtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMzI0MjkyODUwLC03OT
-MyODE4NjYsLTU5NTYzNzI5OF19
+eyJoaXN0b3J5IjpbMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
+c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
+NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
+kzMjgxODY2LC01OTU2MzcyOThdfQ==
 -->
