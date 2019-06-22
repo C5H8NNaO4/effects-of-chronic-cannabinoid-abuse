@@ -170,7 +170,7 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [gene-regulation]:https://www.spektrum.de/lexikon/biologie/genregulation/27396
 [Genregulation]: https://www.spektrum.de/lexikon/biologie/genregulation/27396
-[Transkriptio
+[Transkription]:[https://www.spektrum.de/lexikon/biologie/transkription/67276](https://www.spektrum.de/lexikon/biologie/transkription/67276)
 
 [ADP signalling through P2Y purinoceptor 12]: http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12
 
@@ -179,7 +179,7 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODk3MDY4MywxNTg2MjkxOTUwLC0yMj
-M4NjA5NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLTc5MzI4MTg2
-NiwtNTk1NjM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTE0NDA3OTczMTcsMTU4NjI5MTk1MCwtMj
+IzODYwOTc1LDU5Mjg3MzY3MSwxMzI0MjkyODUwLC03OTMyODE4
+NjYsLTU5NTYzNzI5OF19
 -->
