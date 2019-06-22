@@ -2,8 +2,6 @@
 
 # Chronischer Cannabis-Missbrauch und die Auswirkung auf das Gehirn
 
-A compilation of information about the cannabinoid pathways in the mammalian brain. 
- 
 # Vorwort 
 Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und dessen Vollendung wird einige Zeit in Anspruch nehmen.
 
@@ -189,9 +187,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI4ODM5MDksLTE1ODI2Mjc5MTMsLT
-Q3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OTgsOTA5NzQ2
-NTMxLDEwODE2MzA4MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1MC
-wtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMzI0MjkyODUwLC03OTMy
-ODE4NjYsLTU5NTYzNzI5OF19
+eyJoaXN0b3J5IjpbMjA4MjI2MDM2NCwtMTExMjg4MzkwOSwtMT
+U4MjYyNzkxMywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5
+OTQ5OCw5MDk3NDY1MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNy
+wxNTg2MjkxOTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMjQy
+OTI4NTAsLTc5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
 -->
