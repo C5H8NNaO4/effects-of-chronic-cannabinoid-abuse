@@ -5,7 +5,7 @@
 Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wir d einige Zeit in anspruch nehmen.
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt, da diese über ADCY1 geregelt wird.  So entsteht ein chronischer Mangel des *Second Messenger cAMP. Da die PKA Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt, da diese über ADCY1 geregelt wird.  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*. Da die PKA-Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 ## Definitionen 
 
 ### CNR1
@@ -27,6 +27,7 @@ Adenosintriphosphat ist der universelle und unmittelbar verfügbare  [Energietr�
 ### cAMP - [Cyclic adenosine monophosphate][cAMP]
 **Cyclisches Adenosinmonophosphat** (cAMP) ist ein biochemisch vom [Adenosintriphosphat](https://de.wikipedia.org/wiki/Adenosintriphosphat "Adenosintriphosphat") (ATP) abgeleitetes [Molekül](https://de.wikipedia.org/wiki/Molek%C3%BCl "Molekül")(eine chemische Verbindung), das als _[Second Messenger](https://de.wikipedia.org/wiki/Second_Messenger "Second Messenger")_ bei der zellulären [Signaltransduktion](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion") (Übertragung von Nervenimpulsen) dient und insbesondere zur Aktivierung vieler [Peptidhormone](https://de.wikipedia.org/wiki/Proteohormone "Proteohormone") ([Proteinkinasen](https://de.wikipedia.org/wiki/Proteinkinase "Proteinkinase")) führt.
 
+### 
 ### PKA - [Protein kinase A][PKA]
 Die **Proteinkinase A** (**PKA**) ist eine cAMP-abhängige [Proteinkinase][PKA] und zählt zu den [Serin][Serin]/[Threonin](https://de.wikipedia.org/wiki/Threonin "Threonin")-Kinasen. Sie ist im Vergleich zu anderen Proteinkinasen am besten untersucht und charakterisiert. PKA ist an der Regulation im [Energiestoffwechsel](https://de.wikipedia.org/wiki/Energiestoffwechsel "Energiestoffwechsel") ([Glykogen](https://de.wikipedia.org/wiki/Glykogen "Glykogen"), [Lipiden](https://de.wikipedia.org/wiki/Lipid "Lipid"), [Kohlenhydrate](https://de.wikipedia.org/wiki/Kohlenhydrate "Kohlenhydrate")) beteiligt. Außerdem spielt PKA eine wichtige Rolle bei der Modifikation von Synapsen und der Kontrolle bei Ionenkanälen. Schließlich werden über PKA spezielle [Transkriptionsfaktoren](https://de.wikipedia.org/wiki/Transkriptionsfaktor "Transkriptionsfaktor") aktiviert, das so genannte _cAMP-responsive element-binding protein_ (CREB). Durch einen Coaktivator (_CREB-binding protein_) wird die [Transkription](https://de.wikipedia.org/wiki/Transkription_(Biologie) "Transkription (Biologie)") von Zielgenen ermöglicht, die über ein cAMP-Antwortelement (_cAMP responsive element_) verfügen.
 
@@ -102,6 +103,6 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE5NzUwNzcsLTc5MzI4MTg2NiwtNT
-k1NjM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTMzNjQxMDA2NywtNzkzMjgxODY2LC01OT
+U2MzcyOThdfQ==
 -->
