@@ -77,29 +77,6 @@ Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird.
 ### Funktion
 ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
 
-# Gene
-##  ADCY1 
-Dieses [Gen]([https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1)) kodiert für ein Mitglied der Adenylatcyclase-Genfamilie, das hauptsächlich im Gehirn exprimiert wird. Dieses Protein wird durch die Calcium / Calmodulin-Konzentration reguliert und kann an der Entwicklung des Gehirns beteiligt sein. Alternatives Spleißen führt zu mehreren Transkriptionsvarianten.
-
-## PRKAR1A
- [PRKAR1A][PRKAR1A-Gene] (*regulatorische Untereinheit Alpha der CAMP-abhängigen Protein Kinase Typ I*) ist ein Protein-Codierungsgen. 
-
-cAMP ist ein Signalmolekül, das für eine Vielzahl von Zellfunktionen wichtig ist. cAMP übt seine Wirkung aus, indem es die cAMP-abhängige **Proteinkinase** aktiviert, die das Signal durch Phosphorylierung verschiedener Zielproteine ​​weiterleitet. Das inaktive Kinase-Holoenzym ist ein Tetramer, das aus zwei regulatorischen und zwei katalytischen Untereinheiten besteht. cAMP bewirkt die Dissoziation des inaktiven Holoenzyms in ein Dimer von regulatorischen Untereinheiten, die an vier cAMP- und zwei freie monomere katalytische Untereinheiten gebunden sind. Beim Menschen wurden vier verschiedene regulatorische Untereinheiten und drei katalytische Untereinheiten identifiziert. Dieses Gen kodiert für eine der regulatorischen Untereinheiten. Es wurde festgestellt, dass dieses Protein ein gewebespezifischer Löscher ist, der die Expression von sieben Lebergenen in Hepatom-x-Fibroblasten-Hybriden herunterreguliert. Mutationen in diesem Gen verursachen Carney Complex (CNC). Dieses Gen kann durch Genumlagerung an das RET-Protoonkogen fusionieren und das Schilddrüsentumor-spezifische chimäre Onkogen namens PTC2 bilden. Für dieses Protein wurde eine nichtkonventionelle Kernlokalisierungssequenz (NLS) gefunden, die auf eine Rolle bei der DNA-Replikation über das Protein hinweist, das als Kerntransportprotein für die zweite Untereinheit des Replikationsfaktors C (RFC40) dient. Es wurden mehrere alternativ gespleißte Transkriptvarianten beobachtet, die zwei verschiedene Isoformen codieren.
-
-### Verwandte Krankheiten
-
-Zu den mit PRKAR1A assoziierten Krankheiten gehören [Carney Complex, Typ 1][Carney Complex, Type 1] und [Akrodysostose 1][Akrodysostose 1] mit oder ohne Hormonresistenz. 
-### Verwandte Pfade
-Zu seinen verwandten Signalwegen gehören die [*Signalübertragung von ADP über P2Y-Purinozeptor 12*](http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12) und die [*Regulation der CFTR-Aktivität (Norm und CF)*](http://pathcards.genecards.org/card/regulation_of_cftr_activity_(norm_and_cf)). Gen-Ontologie (GO) -Anmerkungen, die sich auf dieses Gen beziehen, umfassen die *Ubiquitin-Protein-Ligase-Bindung* und die katalytische Untereinheit der Protein-Kinase-A-Bindung. Ein wichtiges Paralog dieses Gens ist [PRKAR1B][PRKAR1B-Gene].
-
-## PRKAR1B
- [PRKAR1A][PRKAR1A-Gene] (*regulatorische Untereinheit Beta der CAMP-abhängige Protein Kinase Typ I*) ist ein Protein-Codierungsgen. 
- 
-Das von diesem Gen kodierte Protein ist eine regulatorische Untereinheit der zyklischen AMP-abhängigen Proteinkinase A (PKA), die am Signalweg des Second Messenger cAMP beteiligt ist. Zwei regulatorische und zwei katalytische Untereinheiten bilden das PKA-Holoenzym, das sich nach cAMP-Bindung auflöst. Das Holoenzym ist an vielen zellulären Ereignissen beteiligt, einschließlich Ionentransport, Metabolismus und Transkription. Für dieses Gen wurden mehrere Transkriptvarianten gefunden, die dasselbe Protein codieren.
-
-### Verwandte Krankheiten
-Mit PRKAR1B assoziierte Krankheiten umfassen [PRKAR1B-bedingte neurodegenerative Demenz mit intermediären Filamenten][neurodegenerative Demenz] und [Carney Complex Variant][Carney Complex Variant]. Zu seinen verwandten Signalwegen gehören die [Signalübertragung von ADP über P2Y-Purinozeptor 12][ADP signalling through P2Y purinoceptor 12] und die [Regulation der CFTR-Aktivität (Norm und CF)][Regulation of CFTR activity (norm and CF)]. Ein wichtiges Paralog dieses Gens ist PRKAR1A.
-
 # Articles
 ## Signal Transduction via Cannabinoid Receptors
 ### Abstract 
@@ -187,9 +164,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA4MDQ5NjksLTExMTI4ODM5MDksLT
-E1ODI2Mjc5MTMsLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgz
-OTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4MTEsLTE0NDA3OTczMT
-csMTU4NjI5MTk1MCwtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMzI0
-MjkyODUwLC03OTMyODE4NjYsLTU5NTYzNzI5OF19
+eyJoaXN0b3J5IjpbLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMT
+U4MjYyNzkxMywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5
+OTQ5OCw5MDk3NDY1MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNy
+wxNTg2MjkxOTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMjQy
+OTI4NTAsLTc5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
 -->
