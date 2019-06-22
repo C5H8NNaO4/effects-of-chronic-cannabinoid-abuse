@@ -107,6 +107,7 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [GPCR]: https://de.wikipedia.org/wiki/G-Protein-gekoppelte_Rezeptoren
 [GP]: https://de.wikipedia.org/wiki/G-Proteine
 
+[PRKAR1A-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1A
 
 [PRKAR1B-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1B
 
@@ -116,6 +117,6 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDk5MzYxMSwtNzkzMjgxODY2LC01OT
+eyJoaXN0b3J5IjpbMjExMzU0MDM4NSwtNzkzMjgxODY2LC01OT
 U2MzcyOThdfQ==
 -->
