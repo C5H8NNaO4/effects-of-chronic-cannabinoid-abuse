@@ -1,9 +1,11 @@
 
 
-# The  Effects of cannabis withdrawal on the brain.
+# Chronischer Cannabis-Missbrauch und die Auswirkung auf das Gehirn
+# Vorwort 
+Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wir einige Zeit in anspruch nehmen.
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][#ADCY1] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt, da diese über ADCY1 geregelt wird. Da die PKA Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt, da diese über ADCY1 geregelt wird. Da die PKA Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 ## Definitionen 
 
 ### CNR1
@@ -42,112 +44,7 @@ Die Familie der G-Protein-gekoppelten Rezeptoren stellt mit mehr als 1000 versch
 
 # Transduktionspfade
 ## Cannabinoide
-```mermaid
-graph LR
-2AG[2-arachidonylglycerol]
-ARA[Arachidonic acid]
-GLx[Glutamate]
-ADORA2A
-
-
-Ca[Calcium]
-
-Ca --> NAPELD
-Ca --> DAGLA
-Ca --> DAGLB
-ARA  --- 2AGBLK
-
-subgraph 
- DAGLA
- DAGLA --> 2AGBLK
- DAGLB --> 2AGBLK
-end 
-
-THCOH[11-OH-THC]-->CNR1
-THCOH-->THCOOHBLK
-THCOHBLK(( ))
-THCOOHBLK(( ))
-CYP2C9---THCOHBLK
-CYP2C9---THCOOHBLK
-THCOOHBLK---THCOOH
-THC-->THCOHBLK
-THCOHBLK---THCOH
-
-subgraph inactivated
-THCOOH
-end
-NAPEBLK(( ))
-NAPE --> NAPEBLK 
-NAPEBLK--> AEA
-NAPELD---NAPEBLK
-
-subgraph CBD
-CBD -->CNR2
-CBD -->CNR1
-CBD --> ADORA2A
-end
-
-ADORA2A --- AIP{Anti-Inflammantory pathways}
-
-subgraph THC
-    THC -->CNR1
-end 
-AEA --> CNR1
-2AGBLK --> 2AG
-2AGBLK(( ))
-subgraph ECB
-    2AG
-    AEA
-end
-
-subgraph CNR1 - hyppocampus, cerrebellum, basal ganglia
- MAPK -.- MAPK1
-   cAMPBLK(( ))
-   ADCY1---cAMPBLK
-   subgraph relevant
-    MAPK1
-    MAPK3
-    MAPK8
-    MAPK9
-  end 
- CNR1-- "||||" ---GLx
- CNR1-- "||||" ---GABA
- CNR1-- "||||" ---ADCY1
- CNR1 --> MAPK
-    subgraph 
-         ATP1[ATP]-->cAMPBLK
-        cAMPBLK---cAMP1[cAMP]
-    end 
-end
-
-subgraph CNR2 - Leukocyte - bone tissue
- CNR2 --> ADCY7
-    subgraph 
-         ATP2[ATP]-->cAMP2[cAMP]
-    end 
-end
-
-subgraph cAMP
-    PKA-.-PRKAR1A
-    cAMP1 --- PKA
-    cAMP2 --- PKA
-    subgraph relevant
-         PRKAR1A
-         PRKAR1B
-         PRKAR2A
-         PRKAR2B
-         PRKACA
-         PRKACB
-         PRKACG 
-    end 
-end 
-
-2AG --> CNR1
-PE[Phosphatidylethanolamine]
-PE-->NAPE
-
-linkStyle default interpolate base
-```
+![https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png](https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png)
 # Genecards
 ##  ADCY1 
 Dieses [Gen]([https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1)) kodiert für ein Mitglied der Adenylatcyclase-Genfamilie, das hauptsächlich im Gehirn exprimiert wird. Dieses Protein wird durch die Calcium / Calmodulin-Konzentration reguliert und kann an der Entwicklung des Gehirns beteiligt sein. Alternatives Spleißen führt zu mehreren Transkriptionsvarianten.
@@ -190,9 +87,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [PKA]: https://de.wikipedia.org/wiki/Proteinkinase_A
 [Serin]: https://de.wikipedia.org/wiki/Serin
-[ADC]: [https://de.wikipedia.org/wiki/Adenylylcyclasen](https://de.wikipedia.org/wiki/Adenylylcyclasen)
-[ecb-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
-[gene-regulation]: https://www.spektrum.de/lexikon/biologie/genregulation/27396
+[ADC]: https://de.wikipedia.org/wiki/Adenylylcyclasen
+[ecb-pathway]:https://www.wikipathways.org/index.php/Pathway:WP3869
+[gene-regulation]:https://www.spektrum.de/lexikon/biologie/genregulation/27396
 
 [Enzym]: https://en.wikipedia.org/wiki/Enzyme
 [GPCR]: https://de.wikipedia.org/wiki/G-Protein-gekoppelte_Rezeptoren
@@ -201,9 +98,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [PRKAR1B-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1B
 
-[Carney Complex, Type 1]: http://www.malacards.org/card/carney_complex_type_1
+[Carney Complex, Type 1]:http://www.malacards.org/card/carney_complex_type_1
 
-[Akrodysostose 1]: http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
+[Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTA4OTAwMl19
+eyJoaXN0b3J5IjpbLTc5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
 -->
