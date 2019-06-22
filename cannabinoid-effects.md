@@ -16,7 +16,7 @@ Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informati
 Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neurobiologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Neurobiologische Auswirkungen auf das Gehirn von Säugetieren hat. - Mischkonsum von Nicotin, Cannabis, MDMA, Psylocybin und LSD ist nicht harmlos und kann weitreichende Folgen haben.
 
 ## Auswirkungen
-Die Auswirkungen Jahrelangen Drokenkonsums sind recht umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßiges Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Dissoziativität und schizoaffektiven Störungen.
+Die Auswirkungen Jahrelangen Drokenkonsums sind recht umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßigem Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Panikattacken, Dissoziativität und schizoaffektiven Störungen.
 
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
@@ -189,9 +189,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI2Mjc5MTMsLTQ3Njg5ODQyMywxMT
-g2NTA3NzU2LDEyODgzOTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4
-MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1MCwtMjIzODYwOTc1LD
-U5Mjg3MzY3MSwxMzI0MjkyODUwLC03OTMyODE4NjYsLTU5NTYz
-NzI5OF19
+eyJoaXN0b3J5IjpbLTExMTI4ODM5MDksLTE1ODI2Mjc5MTMsLT
+Q3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OTgsOTA5NzQ2
+NTMxLDEwODE2MzA4MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1MC
+wtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMzI0MjkyODUwLC03OTMy
+ODE4NjYsLTU5NTYzNzI5OF19
 -->
