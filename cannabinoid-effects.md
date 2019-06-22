@@ -2,7 +2,7 @@
 
 # Chronischer Cannabis-Missbrauch und die Auswirkung auf das Gehirn
 # Vorwort 
-Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wir d einige Zeit in anspruch nehmen.
+Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wird einige Zeit in anspruch nehmen.
 
 ## Motivation
 
@@ -129,6 +129,6 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [Regulation of CFTR activity (norm and CF)]:http://pathcards.genecards.org/card/regulation_of_cftr_activity_\(norm_and_cf\)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQzMTg0ODgsLTc5MzI4MTg2NiwtNT
-k1NjM3Mjk4XX0=
+eyJoaXN0b3J5IjpbMTMyNDI5Mjg1MCwtNzkzMjgxODY2LC01OT
+U2MzcyOThdfQ==
 -->
