@@ -1,4 +1,3 @@
-```mermaid
 graph LR
 2AG[2-arachidonylglycerol]
 ARA[Arachidonic acid]
@@ -103,7 +102,3 @@ PE[Phosphatidylethanolamine]
 PE-->NAPE
 
 linkStyle default interpolate base
-```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NTQ1MDQ2XX0=
--->
