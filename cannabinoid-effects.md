@@ -13,20 +13,21 @@ Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informati
 
 ## Motivation
 
-Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neurobiologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Neurobiologische Auswirkungen auf das Gehirn von Säugetieren hat. - Mischkonsum von Nicotin, Cannabis, MDMA, Pilzen und LSD ist nicht harmlos und kann weitreichende Folgen haben.
+Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neurobiologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Neurobiologische Auswirkungen auf das Gehirn von Säugetieren hat. - Mischkonsum von Nicotin, Cannabis, MDMA, Psylocybin und LSD ist nicht harmlos und kann weitreichende Folgen haben.
 
 ## Auswirkungen
 Die Auswirkungen Jahrelangen Drokenkonsums sind recht umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßiges Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Dissoziativität und schizoaffektiven Störungen.
 
+
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und führt so zu einer einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und so zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 
 ## Wissenswertes
 
 ### CNR1
 Der **Cannabinoid-Rezeptor 1** (oder offiziell kurz: **CNR1**, oder alternative abgekürzte Bezeichnungen: _CB1_, _CNR_, _CB-R_, _CB1A_, _CANN6_, _CB1K5_) vermittelt die Wirkungen endogener [Cannabinoide](https://de.wikipedia.org/wiki/Cannabinoide "Cannabinoide") wie auch exogen zugeführter Cannabinoide wie z. B. Δ9-[Tetrahydrocannabinol](https://de.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol") aus [Cannabis sativa](https://de.wikipedia.org/wiki/Cannabis_sativa "Cannabis sativa") im zentralen Nervensystem und ist damit ein Bestandteil des [Endocannabinoid-Systems](https://de.wikipedia.org/wiki/Endocannabinoid-System "Endocannabinoid-System"). Es handelt sich um einen transmembranösen [G-Protein-gekoppelten Rezeptor](https://de.wikipedia.org/wiki/G-Protein-gekoppelter_Rezeptor "G-Protein-gekoppelter Rezeptor"), der die intrazelluläre [Adenylylcyclase](https://de.wikipedia.org/wiki/Adenylylcyclase "Adenylylcyclase")-Aktivität hemmt.
 
-### ADC
+### AC
 
 **Adenylylcyclasen**  (**AC**), früher  _Adenylatcyclasen_, zählen zur Klasse der  [Lyasen](https://de.wikipedia.org/wiki/Lyasen "Lyasen"), d. h. molekülspaltender  [Enzyme](https://de.wikipedia.org/wiki/Enzym "Enzym").
 
@@ -45,8 +46,6 @@ Adenosintriphosphat ist der universelle und unmittelbar verfügbare  [Energietr�
 ### PKA - [Protein kinase A][PKA]
 Die **Proteinkinase A** (**PKA**) ist eine cAMP-abhängige [Proteinkinase][PKA] und zählt zu den [Serin][Serin]/[Threonin](https://de.wikipedia.org/wiki/Threonin "Threonin")-Kinasen. Sie ist im Vergleich zu anderen Proteinkinasen am besten untersucht und charakterisiert. PKA ist an der Regulation im [Energiestoffwechsel](https://de.wikipedia.org/wiki/Energiestoffwechsel "Energiestoffwechsel") ([Glykogen](https://de.wikipedia.org/wiki/Glykogen "Glykogen"), [Lipiden](https://de.wikipedia.org/wiki/Lipid "Lipid"), [Kohlenhydrate](https://de.wikipedia.org/wiki/Kohlenhydrate "Kohlenhydrate")) beteiligt. Außerdem spielt PKA eine wichtige Rolle bei der Modifikation von Synapsen und der Kontrolle bei Ionenkanälen. Schließlich werden über PKA spezielle [Transkriptionsfaktoren](https://de.wikipedia.org/wiki/Transkriptionsfaktor "Transkriptionsfaktor") aktiviert, das so genannte _cAMP-responsive element-binding protein_ (CREB). Durch einen Coaktivator (_CREB-binding protein_) wird die [Transkription](https://de.wikipedia.org/wiki/Transkription_(Biologie) "Transkription (Biologie)") von Zielgenen ermöglicht, die über ein cAMP-Antwortelement (_cAMP responsive element_) verfügen.
 
-### MAPK
-**MAPK**  bzw.  **MAP-Kinasen**, MAP für "Mitogen-activated protein", sind  [Proteinkinasen](https://flexikon.doccheck.com/de/Proteinkinase "Proteinkinase"), die zu den  [Serin/Threonin-Kinasen](https://flexikon.doccheck.com/de/Serin/Threonin-Kinase "Serin/Threonin-Kinase")  gehören, d.h. sie  [phosphorylieren](https://flexikon.doccheck.com/de/Phosphorylierung "Phosphorylierung")  Proteine an  [Serin](https://flexikon.doccheck.com/de/Serin "Serin")- oder  [Threoninresten](https://flexikon.doccheck.com/de/Threonin "Threonin").
 ### G-Protein 
 Die Bezeichnung **G-Protein** steht vereinfacht für _Guanosintriphosphat-bindendes  [Protein](https://de.wikipedia.org/wiki/Protein "Protein")_ oder _GTP-bindendes Protein_. G-Proteine besetzen eine Schlüsselposition in der Signalweiterleitung ([Signaltransduktion](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")) zwischen [Rezeptor](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)") und [Second-Messenger](https://de.wikipedia.org/wiki/Second_Messenger "Second Messenger")-Systemen. Man unterscheidet zwischen membranständigen [_heterotrimeren_  G-Proteinen](https://de.wikipedia.org/wiki/Heterotrimeres_G-Protein "Heterotrimeres G-Protein") und cytosolischen sogenannten [_kleinen_  G-Proteinen](https://de.wikipedia.org/wiki/Kleine_GTPase "Kleine GTPase").
 
@@ -190,8 +189,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyOD
-gzOTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4MTEsLTE0NDA3OTcz
-MTcsMTU4NjI5MTk1MCwtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMz
-I0MjkyODUwLC03OTMyODE4NjYsLTU5NTYzNzI5OF19
+eyJoaXN0b3J5IjpbLTE1ODI2Mjc5MTMsLTQ3Njg5ODQyMywxMT
+g2NTA3NzU2LDEyODgzOTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4
+MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1MCwtMjIzODYwOTc1LD
+U5Mjg3MzY3MSwxMzI0MjkyODUwLC03OTMyODE4NjYsLTU5NTYz
+NzI5OF19
 -->
