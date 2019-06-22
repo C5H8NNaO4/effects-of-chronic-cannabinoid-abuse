@@ -9,7 +9,7 @@ Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wird e
 Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf Neurobiologischer Ebene verstehen was dieser Jahrelange Konsum verschiedenster Drogen für Neurobiologische auswirkungen auf das Gehirn von Säugetieren hat.
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt.  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was zur folDa die PKA-Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt.  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und führt so zu einer einer Dystonie der [Genregulation][gene-regulation] der Protein-Kinasen- im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 ## Definitionen 
 
 ### CNR1
@@ -179,8 +179,7 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mzk5OTQ4NywxMDgxNjMwODExLC0xND
-QwNzk3MzE3LDE1ODYyOTE5NTAsLTIyMzg2MDk3NSw1OTI4NzM2
-NzEsMTMyNDI5Mjg1MCwtNzkzMjgxODY2LC01OTU2MzcyOThdfQ
-==
+eyJoaXN0b3J5IjpbNTY4NzI1MzQ3LDEwODE2MzA4MTEsLTE0ND
+A3OTczMTcsMTU4NjI5MTk1MCwtMjIzODYwOTc1LDU5Mjg3MzY3
+MSwxMzI0MjkyODUwLC03OTMyODE4NjYsLTU5NTYzNzI5OF19
 -->
