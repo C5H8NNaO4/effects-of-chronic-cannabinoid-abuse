@@ -61,19 +61,17 @@ Zu den mit PRKAR1A assoziierten Krankheiten gehören [Carney Complex, Typ 1][Car
 Zu seinen verwandten Signalwegen gehören die [*Signalübertragung von ADP über P2Y-Purinozeptor 12*](http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12) und die [*Regulation der CFTR-Aktivität (Norm und CF)*](http://pathcards.genecards.org/card/regulation_of_cftr_activity_(norm_and_cf)). Gen-Ontologie (GO) -Anmerkungen, die sich auf dieses Gen beziehen, umfassen die *Ubiquitin-Protein-Ligase-Bindung* und die katalytische Untereinheit der Protein-Kinase-A-Bindung. Ein wichtiges Paralog dieses Gens ist [PRKAR1B][PRKAR1B-Gene].
 
 ## PRKAR1B
-
+ [PRKAR1A][PRKAR1A-Gene] (*regulatorische Untereinheit Beta der CAMP-abhängige Protein Kinase Typ I*) ist ein Protein-Codierungsgen. 
+ 
 Das von diesem Gen kodierte Protein ist eine regulatorische Untereinheit der zyklischen AMP-abhängigen Proteinkinase A (PKA), die am Signalweg des Second Messenger cAMP beteiligt ist. Zwei regulatorische und zwei katalytische Untereinheiten bilden das PKA-Holoenzym, das sich nach cAMP-Bindung auflöst. Das Holoenzym ist an vielen zellulären Ereignissen beteiligt, einschließlich Ionentransport, Metabolismus und Transkription. Für dieses Gen wurden mehrere Transkriptvarianten gefunden, die dasselbe Protein codieren.
 
 ### Verwandte Krankheiten
- [PRKAR1A][PRKAR1A-Gene] (*regulatorische Untereinheit Beta der CAMP-abhängige Protein Kinase Typ I*) ist ein Protein-Codierungsgen. 
- 
-Diseases associated with PRKAR1B include [Prkar1b-Related Neurodegenerative Dementia With Intermediate Filaments](http://www.malacards.org/card/prkar1b_related_neurodegenerative_dementia_with_intermediate_filaments "See Prkar1b-Related Neurodegenerative Dementia With Intermediate Filaments at Malacards") and [Carney Complex Variant](http://www.malacards.org/card/carney_complex_variant "See Carney Complex Variant at Malacards"). Among its related pathways are [ADP signalling through P2Y purinoceptor 12](http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12 "See ADP signalling through P2Y purinoceptor 12 at Pathcards") and [Regulation of CFTR activity (norm and CF)](http://pathcards.genecards.org/card/regulation_of_cftr_activity_(norm_and_cf) "See Regulation of CFTR activity (norm and CF) at Pathcards"). Gene Ontology (GO) annotations related to this gene include _cAMP binding_ and _cAMP-dependent protein kinase regulator activity_. An important paralog of this gene is [PRKAR1A](https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1A).
-
 Mit PRKAR1B assoziierte Krankheiten umfassen [PRKAR1B-bedingte neurodegenerative Demenz mit intermediären Filamenten][neurodegenerative Demenz] und [Carney Complex Variant][Carney Complex Variant]. Zu seinen verwandten Signalwegen gehören die [Signalübertragung von ADP über P2Y-Purinozeptor 12][ADP signalling through P2Y purinoceptor 12] und die [Regulation der CFTR-Aktivität (Norm und CF)][Regulation of CFTR activity (norm and CF)]. Ein wichtiges Paralog dieses Gens ist PRKAR1A.
 # Grundbegriffe
 
 ## First Messenger - Ligand
 Als **Ligand** wird in der [Biochemie](https://de.wikipedia.org/wiki/Biochemie "Biochemie") und in verwandten Wissenschaften ein [Stoff](https://de.wikipedia.org/wiki/Chemischer_Stoff "Chemischer Stoff") bezeichnet, der an ein [Zielprotein](https://de.wikipedia.org/wiki/Target_(Biologie) "Target (Biologie)"), beispielsweise einen [Rezeptor](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)"), spezifisch binden kann.[[1]](https://de.wikipedia.org/wiki/Ligand_(Biochemie)#cite_note-MBOC4-1)[[2]](https://de.wikipedia.org/wiki/Ligand_(Biochemie)#cite_note-MCB-2) Die Bindung des Liganden ist üblicherweise reversibel und wird insbesondere durch [Ionenbindungen](https://de.wikipedia.org/wiki/Ionenbindung "Ionenbindung"), [Wasserstoffbrückenbindungen](https://de.wikipedia.org/wiki/Wasserstoffbr%C3%BCckenbindung "Wasserstoffbrückenbindung"), [Van-der-Waals-Kräfte](https://de.wikipedia.org/wiki/Van-der-Waals-Kr%C3%A4fte "Van-der-Waals-Kräfte") und [hydrophobe Effekte](https://de.wikipedia.org/wiki/Hydrophober_Effekt "Hydrophober Effekt")ermöglicht. Die [Affinität](https://de.wikipedia.org/wiki/Affinit%C3%A4t_(Biochemie) "Affinität (Biochemie)") eines Liganden zum Zielprotein kann mit Hilfe von [Ligandenbindungstests](https://de.wikipedia.org/wiki/Ligandenbindungstest "Ligandenbindungstest") bestimmt werden.
+
 ## Second Messenger
 **Second messenger**  ist ein englischer Fachterminus der Biologie und Medizin, den man mit  **sekundärer Botenstoff**  ins Deutsche übersetzen kann. Auch  **sekundärer Messenger**oder  **Sekundärsignal**  sind in der Fachliteratur anzutreffende, synonyme Begriffe. Ein  _second messenger_  ist eine  [intrazelluläre](https://de.wikipedia.org/wiki/Intrazellul%C3%A4r "Intrazellulär")  chemische Substanz, deren Konzentration als Antwort auf ein Primärsignal (_first messenger_  =  [Ligand](https://de.wikipedia.org/wiki/Ligand_(Biochemie) "Ligand (Biochemie)")) verändert wird.
 
@@ -87,6 +85,7 @@ Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird.
 
 ### Funktion
 ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
+
 # Articles
 ## Genregulation
 [**Genregulation**][Genregulation]  _w_ [von latein. regulare = regeln], _genetische Regulation, Regulation der Genaktivität, Regulation der Transkription,_ die von dem biochemischen und biophysikalischen Zustand einer [Zelle](https://www.spektrum.de/lexikon/biologie/zelle/71559) oder eines vielzelligen Organismus sowie von Umwelteinflüssen abhängige Regulation der [Transkription](https://www.spektrum.de/lexikon/biologie/transkription/67276) von Genen ([Gen](https://www.spektrum.de/lexikon/biologie/gen/27194)). Die Genregulation ist von entscheidender Bedeutung für die _[differentielle Genexpression](https://www.spektrum.de/lexikon/biologie/differentielle-genexpression/18138)_. Es werden 2 grundlegende Mechanismen der Genregulation unterschieden:  
@@ -124,8 +123,8 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [ADP signalling through P2Y purinoceptor 12]: http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12
 
-[Regulation of CFTR activity (norm and CF)]:http://pathcards.genecards.org/card/regulation_of_cftr_activity_(norm_and_cf
+[Regulation of CFTR activity (norm and CF)]:http://pathcards.genecards.org/card/regulation_of_cftr_activity_\(norm_and_cf\)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NzEyNiwtNzkzMjgxODY2LC01OTU2Mz
-cyOThdfQ==
+eyJoaXN0b3J5IjpbMTg1OTYyOTY5NCwtNzkzMjgxODY2LC01OT
+U2MzcyOThdfQ==
 -->
