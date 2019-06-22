@@ -1,12 +1,15 @@
 
 
 # Chronischer Cannabis-Missbrauch und die Auswirkung auf das Gehirn
+
+A compilation of information about the cannabinoid pathways in the mammalian brain. 
+ 
 # Vorwort 
-Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wird einige Zeit in anspruch nehmen.
+Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wird einige Zeit in Anspruch nehmen.
 
 ## Motivation
 
-Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf Neurobiologischer Ebene verstehen was dieser Jahrelange Konsum verschiedenster Drogen für Neurobiologische auswirkungen auf das Gehirn von Säugetieren hat.
+Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neurobiologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Neurobiologische Auswirkungen auf das Gehirn von Säugetieren hat.
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
 Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt.  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und führt so zu einer einer Dystonie der [Genregulation][gene-regulation] der PKA im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
@@ -179,8 +182,8 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTE1ODA2Myw5MDk3NDY1MzEsMTA4MT
-YzMDgxMSwtMTQ0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4NjA5
-NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLTc5MzI4MTg2NiwtNT
-k1NjM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTE0Njk3NjIzNzQsOTA5NzQ2NTMxLDEwOD
+E2MzA4MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1MCwtMjIzODYw
+OTc1LDU5Mjg3MzY3MSwxMzI0MjkyODUwLC03OTMyODE4NjYsLT
+U5NTYzNzI5OF19
 -->
