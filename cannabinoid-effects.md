@@ -123,8 +123,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 
 [ADP signalling through P2Y purinoceptor 12]: http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12
-[Regulation of CFTR activity (norm and CF)]: http://pathcards.genecards.org/card/regulation_of_cftr_activity_(norm_and_cf
+
+[Regulation of CFTR activity (norm and CF)]:http://pathcards.genecards.org/card/regulation_of_cftr_activity_(norm_and_cf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY4NTQ3MTgsLTc5MzI4MTg2NiwtNT
-k1NjM3Mjk4XX0=
+eyJoaXN0b3J5IjpbMjU1NzEyNiwtNzkzMjgxODY2LC01OTU2Mz
+cyOThdfQ==
 -->
