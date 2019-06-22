@@ -10,7 +10,7 @@ Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Dro
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
 Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt.  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und führt so zu einer einer Dystonie der [Genregulation][gene-regulation] der PKA im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
-## Definitionen 
+## Wissenswertes
 
 ### CNR1
 Der **Cannabinoid-Rezeptor 1** (oder offiziell kurz: **CNR1**, oder alternative abgekürzte Bezeichnungen: _CB1_, _CNR_, _CB-R_, _CB1A_, _CANN6_, _CB1K5_) vermittelt die Wirkungen endogener [Cannabinoide](https://de.wikipedia.org/wiki/Cannabinoide "Cannabinoide") wie auch exogen zugeführter Cannabinoide wie z. B. Δ9-[Tetrahydrocannabinol](https://de.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol") aus [Cannabis sativa](https://de.wikipedia.org/wiki/Cannabis_sativa "Cannabis sativa") im zentralen Nervensystem und ist damit ein Bestandteil des [Endocannabinoid-Systems](https://de.wikipedia.org/wiki/Endocannabinoid-System "Endocannabinoid-System"). Es handelt sich um einen transmembranösen [G-Protein-gekoppelten Rezeptor](https://de.wikipedia.org/wiki/G-Protein-gekoppelter_Rezeptor "G-Protein-gekoppelter Rezeptor"), der die intrazelluläre [Adenylylcyclase](https://de.wikipedia.org/wiki/Adenylylcyclase "Adenylylcyclase")-Aktivität hemmt.
@@ -179,7 +179,8 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NzQ2NTMxLDEwODE2MzA4MTEsLTE0ND
-A3OTczMTcsMTU4NjI5MTk1MCwtMjIzODYwOTc1LDU5Mjg3MzY3
-MSwxMzI0MjkyODUwLC03OTMyODE4NjYsLTU5NTYzNzI5OF19
+eyJoaXN0b3J5IjpbLTYyNTE1ODA2Myw5MDk3NDY1MzEsMTA4MT
+YzMDgxMSwtMTQ0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4NjA5
+NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLTc5MzI4MTg2NiwtNT
+k1NjM3Mjk4XX0=
 -->
