@@ -19,7 +19,7 @@ Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Dro
 Die Auswirkungen Jahrelangen Drokenkonsums sind recht umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßiges Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Dissoziativität und schizoaffektiven Störungen.
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und führt so zu einer einer Dystonie der [Genregulation][gene-regulation] der PKA im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*.  Was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und führt so zu einer einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 
 ## Wissenswertes
 
@@ -190,8 +190,8 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
-c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
-NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
-kzMjgxODY2LC01OTU2MzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyOD
+gzOTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4MTEsLTE0NDA3OTcz
+MTcsMTU4NjI5MTk1MCwtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMz
+I0MjkyODUwLC03OTMyODE4NjYsLTU5NTYzNzI5OF19
 -->
