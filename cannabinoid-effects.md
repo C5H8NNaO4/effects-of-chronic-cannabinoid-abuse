@@ -114,12 +114,13 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [neurodegenerative Demenz]: http://www.malacards.org/card/prkar1b_related_neurodegenerative_dementia_with_intermediate_filaments
 
 [Carney Complex, Type 1]:http://www.malacards.org/card/carney_complex_type_1
+[Carney Complex Variant]: http://www.malacards.org/card/carney_complex_variant
 
 [Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 
 
 [Genregulation]: https://www.spektrum.de/lexikon/biologie/genregulation/27396
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTM2NTU5MCwtNzkzMjgxODY2LC01OT
-U2MzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTE1MDI3NjA3MDEsLTc5MzI4MTg2NiwtNT
+k1NjM3Mjk4XX0=
 -->
