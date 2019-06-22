@@ -4,6 +4,10 @@
 # Vorwort 
 Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und wir d einige Zeit in anspruch nehmen.
 
+## Motivation
+
+Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge eine
+
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
 Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt, da diese über ADCY1 geregelt wird.  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*. Da die PKA-Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 ## Definitionen 
@@ -125,6 +129,6 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [Regulation of CFTR activity (norm and CF)]:http://pathcards.genecards.org/card/regulation_of_cftr_activity_\(norm_and_cf\)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTYyOTY5NCwtNzkzMjgxODY2LC01OT
+eyJoaXN0b3J5IjpbMTcwMTE5MTkzNiwtNzkzMjgxODY2LC01OT
 U2MzcyOThdfQ==
 -->
