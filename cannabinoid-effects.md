@@ -7,7 +7,7 @@ Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und dessen
 
 Zu diesem Zeitpunkt enthält dieser Artikel lediglich eine Sammlung an Informationen neurobiologischen Basis-Wissens. Wer Interesse an dieser Thematik hat, kann sich gerne die folgenden Abschnitte durchlesen; darf jedoch nicht erwarten daraus irgendwelche Schlüsse ziehen zu können. 
 
-Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informationen gesammelt die oben genannte Krankheitsbilder den jeweiligen Neuropathologischen Ursachen zuordnen, um so einen Gesamtüberblick über die Neurobiologische Funktion eines Entzugs zu erhalten und die Wirkung gängiger Psychopharmaka zu Erläutern.
+Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informationen gesammelt die folgend genannte Krankheitsbilder den jeweiligen Neuropathologischen Ursachen zuordnen, um so einen Gesamtüberblick über die Neurobiologische Funktion eines Entzugs zu erhalten und die Wirkung gängiger Psychopharmaka zu Erläutern.
 
 ## Motivation
 
@@ -187,9 +187,9 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjI2MDM2NCwtMTExMjg4MzkwOSwtMT
-U4MjYyNzkxMywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5
-OTQ5OCw5MDk3NDY1MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNy
-wxNTg2MjkxOTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMjQy
-OTI4NTAsLTc5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTE5MTA4MDQ5NjksLTExMTI4ODM5MDksLT
+E1ODI2Mjc5MTMsLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgz
+OTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4MTEsLTE0NDA3OTczMT
+csMTU4NjI5MTk1MCwtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMzI0
+MjkyODUwLC03OTMyODE4NjYsLTU5NTYzNzI5OF19
 -->
