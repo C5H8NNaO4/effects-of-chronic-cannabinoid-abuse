@@ -65,10 +65,10 @@ Das von diesem Gen kodierte Protein ist eine regulatorische Untereinheit der zyk
 
 ### Verwandte Krankheiten
 PRKAR1B (Protein Kinase CAMP-Dependent Type I Regulatory Subunit Beta) is a Protein Coding gene. Diseases associated with PRKAR1B include [Prkar1b-Related Neurodegenerative Dementia With Intermediate Filaments](http://www.malacards.org/card/prkar1b_related_neurodegenerative_dementia_with_intermediate_filaments "See Prkar1b-Related Neurodegenerative Dementia With Intermediate Filaments at Malacards") and [Carney Complex Variant](http://www.malacards.org/card/carney_complex_variant "See Carney Complex Variant at Malacards"). Among its related pathways are [ADP signalling through P2Y purinoceptor 12](http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12 "See ADP signalling through P2Y purinoceptor 12 at Pathcards") and [Regulation of CFTR activity (norm and CF)](http://pathcards.genecards.org/card/regulation_of_cftr_activity_(norm_and_cf) "See Regulation of CFTR activity (norm and CF) at Pathcards"). Gene Ontology (GO) annotations related to this gene include _cAMP binding_ and _cAMP-dependent protein kinase regulator activity_. An important paralog of this gene is [PRKAR1A](https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1A).
+
+[PRKAR1B] (Protein Kinase CAMP-abhängige Typ I regulatorische Untereinheit Beta) ist ein Protein-Codierungsgen. Mit PRKAR1B assoziierte Krankheiten umfassen Prkar1b-bedingte neurodegenerative Demenz mit intermediären Filamenten und Carney Complex Variant. Zu seinen verwandten Signalwegen gehören die Signalübertragung von ADP über P2Y-Purinozeptor 12 und die Regulation der CFTR-Aktivität (Norm und CF). Gen-Ontologie (GO) -Anmerkungen, die sich auf dieses Gen beziehen, umfassen die cAMP-Bindung und die cAMP-abhängige Proteinkinase-Regulatoraktivität. Ein wichtiges Paralog dieses Gens ist PRKAR1A.
 # Spezifischere Definitionen
 ## ADCY1
-This gene encodes a form of adenylyl cyclase expressed in brain. A similar protein in mice is involved in pattern formation of the brain.
-
 **Adenylylcyclase Typ 1** ist ein [*Enzym*][Enzym], das beim Menschen vom ADCY1-Gen kodiert wird.
 
 Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird. Ein ähnliches Protein in Mäusen ist an der Musterbildung des Gehirns beteiligt.
@@ -109,6 +109,6 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTkzNTgwNywtNzkzMjgxODY2LC01OT
-U2MzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTE2NDE0Mzk2MjUsLTc5MzI4MTg2NiwtNT
+k1NjM3Mjk4XX0=
 -->
