@@ -1,6 +1,6 @@
 
 
-# The  Effects of cannabis withdrawal on the brain.
+# The  effec
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
 Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][#ADCY1] im synaptischen Spalt hemmt und so zu einer Reduktion der [ATP-cAMP Transformation][ADC] führt, da diese über ADCY1 geregelt wird. Da die PKA Transkription abhängig von der cAMP Konzentration in der Zelle ist, führt dies Schlussfolgend zu einer Reduktion der relevanten PKA-Gen-Transkription bzw. einer Dystonie der [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien*. [Spezifisch betroffen][ecb-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
@@ -100,5 +100,5 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [Akrodysostose 1]: http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTYzNzI5OF19
+eyJoaXN0b3J5IjpbNDExMjQ3NjUyLC01OTU2MzcyOThdfQ==
 -->
