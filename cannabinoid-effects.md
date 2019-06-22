@@ -7,7 +7,9 @@ A compilation of information about the cannabinoid pathways in the mammalian bra
 # Vorwort 
 Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und dessen Vollendung wird einige Zeit in Anspruch nehmen.
 
-Zu diesem Zeitpunkt enthält dieser Artikel lediglich eine Sammlung an Informationen Neurobiologischen Basis-Wissens. Wer Interesse an dieser Thematik hat, kann sich gerne die folgenden Abschnitte durchlesen; darf jedoch nicht erwarten 
+Zu diesem Zeitpunkt enthält dieser Artikel lediglich eine Sammlung an Informationen Neurobiologischen Basis-Wissens. Wer Interesse an dieser Thematik hat, kann sich gerne die folgenden Abschnitte durchlesen; darf jedoch nicht erwarten daraus irgendwelche Schlüsse ziehen zu können. 
+
+Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informationen gesammelt die oben genannte Krankheitsbilder den jeweiligen Neuropathologischen Ursachen 
 ## Motivation
 
 Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neurobiologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Neurobiologische Auswirkungen auf das Gehirn von Säugetieren hat. - Mischkonsum von Nicotin, Cannabis, MDMA, Pilzen und LSD ist nicht harmlos und kann weitreichende Folgen haben.
@@ -187,8 +189,8 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzk1NTg4MywxMjg4Mzk5NDk4LDkwOT
-c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
-NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
-kzMjgxODY2LC01OTU2MzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTE3NDE5NTIwODcsMTI4ODM5OTQ5OCw5MD
+k3NDY1MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNywxNTg2Mjkx
+OTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLT
+c5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
 -->
