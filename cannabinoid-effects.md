@@ -49,6 +49,26 @@ Die Familie der G-Protein-gekoppelten Rezeptoren stellt mit mehr als 1000 versch
 # Transduktionspfade
 ## [Cannabinoide][cannabinoid-pathway]
 ![https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png](https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png)
+
+# Grundbegriffe
+
+## First Messenger - Ligand
+Als **Ligand** wird in der [Biochemie](https://de.wikipedia.org/wiki/Biochemie "Biochemie") und in verwandten Wissenschaften ein [Stoff](https://de.wikipedia.org/wiki/Chemischer_Stoff "Chemischer Stoff") bezeichnet, der an ein [Zielprotein](https://de.wikipedia.org/wiki/Target_(Biologie) "Target (Biologie)"), beispielsweise einen [Rezeptor](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)"), spezifisch binden kann.[[1]](https://de.wikipedia.org/wiki/Ligand_(Biochemie)#cite_note-MBOC4-1)[[2]](https://de.wikipedia.org/wiki/Ligand_(Biochemie)#cite_note-MCB-2) Die Bindung des Liganden ist üblicherweise reversibel und wird insbesondere durch [Ionenbindungen](https://de.wikipedia.org/wiki/Ionenbindung "Ionenbindung"), [Wasserstoffbrückenbindungen](https://de.wikipedia.org/wiki/Wasserstoffbr%C3%BCckenbindung "Wasserstoffbrückenbindung"), [Van-der-Waals-Kräfte](https://de.wikipedia.org/wiki/Van-der-Waals-Kr%C3%A4fte "Van-der-Waals-Kräfte") und [hydrophobe Effekte](https://de.wikipedia.org/wiki/Hydrophober_Effekt "Hydrophober Effekt")ermöglicht. Die [Affinität](https://de.wikipedia.org/wiki/Affinit%C3%A4t_(Biochemie) "Affinität (Biochemie)") eines Liganden zum Zielprotein kann mit Hilfe von [Ligandenbindungstests](https://de.wikipedia.org/wiki/Ligandenbindungstest "Ligandenbindungstest") bestimmt werden.
+
+## Second Messenger
+**Second messenger**  ist ein englischer Fachterminus der Biologie und Medizin, den man mit  **sekundärer Botenstoff**  ins Deutsche übersetzen kann. Auch  **sekundärer Messenger**oder  **Sekundärsignal**  sind in der Fachliteratur anzutreffende, synonyme Begriffe. Ein  _second messenger_  ist eine  [intrazelluläre](https://de.wikipedia.org/wiki/Intrazellul%C3%A4r "Intrazellulär")  chemische Substanz, deren Konzentration als Antwort auf ein Primärsignal (_first messenger_  =  [Ligand](https://de.wikipedia.org/wiki/Ligand_(Biochemie) "Ligand (Biochemie)")) verändert wird.
+
+Der second messenger dient der intrazellulären Weiterleitung eines von außen (extrazellulär) kommenden primären Signals, das die Zellmembran nicht passieren kann. Dient das Primärsignal der Signalübertragung zwischen Zellen, so dient der Second Messenger der  [Signalübertragung](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")  innerhalb der Zelle, also intrazellulär. Dabei steht der Second Messenger oft nur am Anfang einer oder mehrerer längerer, intrazellulärer Signalketten, die auch der Signalverstärkung dienen und schließlich zu einer Zellantwort auf das Primärsignal führen. Second Messenger wurden zunächst für die Signalweiterleitung  [hydrophiler](https://de.wikipedia.org/wiki/Hydrophil "Hydrophil")  [Hormone](https://de.wikipedia.org/wiki/Hormon "Hormon"), wie z. B.  [Insulin](https://de.wikipedia.org/wiki/Insulin "Insulin"),  [Glucagon](https://de.wikipedia.org/wiki/Glucagon "Glucagon")  und  [Adrenalin](https://de.wikipedia.org/wiki/Adrenalin "Adrenalin"), oder  [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), wie z. B.  [Glutamat](https://de.wikipedia.org/wiki/Glutamins%C3%A4ure "Glutaminsäure"), beschrieben.
+
+# Enzyme
+## ADCY1
+**Adenylylcyclase Typ 1** ist ein [*Enzym*][Enzym], das beim Menschen vom ADCY1-Gen kodiert wird.
+
+Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird. Ein ähnliches Protein in Mäusen ist an der Musterbildung des Gehirns beteiligt.
+
+### Funktion
+ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
+
 # Gene
 ##  ADCY1 
 Dieses [Gen]([https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1)) kodiert für ein Mitglied der Adenylatcyclase-Genfamilie, das hauptsächlich im Gehirn exprimiert wird. Dieses Protein wird durch die Calcium / Calmodulin-Konzentration reguliert und kann an der Entwicklung des Gehirns beteiligt sein. Alternatives Spleißen führt zu mehreren Transkriptionsvarianten.
@@ -71,24 +91,6 @@ Das von diesem Gen kodierte Protein ist eine regulatorische Untereinheit der zyk
 
 ### Verwandte Krankheiten
 Mit PRKAR1B assoziierte Krankheiten umfassen [PRKAR1B-bedingte neurodegenerative Demenz mit intermediären Filamenten][neurodegenerative Demenz] und [Carney Complex Variant][Carney Complex Variant]. Zu seinen verwandten Signalwegen gehören die [Signalübertragung von ADP über P2Y-Purinozeptor 12][ADP signalling through P2Y purinoceptor 12] und die [Regulation der CFTR-Aktivität (Norm und CF)][Regulation of CFTR activity (norm and CF)]. Ein wichtiges Paralog dieses Gens ist PRKAR1A.
-# Grundbegriffe
-
-## First Messenger - Ligand
-Als **Ligand** wird in der [Biochemie](https://de.wikipedia.org/wiki/Biochemie "Biochemie") und in verwandten Wissenschaften ein [Stoff](https://de.wikipedia.org/wiki/Chemischer_Stoff "Chemischer Stoff") bezeichnet, der an ein [Zielprotein](https://de.wikipedia.org/wiki/Target_(Biologie) "Target (Biologie)"), beispielsweise einen [Rezeptor](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)"), spezifisch binden kann.[[1]](https://de.wikipedia.org/wiki/Ligand_(Biochemie)#cite_note-MBOC4-1)[[2]](https://de.wikipedia.org/wiki/Ligand_(Biochemie)#cite_note-MCB-2) Die Bindung des Liganden ist üblicherweise reversibel und wird insbesondere durch [Ionenbindungen](https://de.wikipedia.org/wiki/Ionenbindung "Ionenbindung"), [Wasserstoffbrückenbindungen](https://de.wikipedia.org/wiki/Wasserstoffbr%C3%BCckenbindung "Wasserstoffbrückenbindung"), [Van-der-Waals-Kräfte](https://de.wikipedia.org/wiki/Van-der-Waals-Kr%C3%A4fte "Van-der-Waals-Kräfte") und [hydrophobe Effekte](https://de.wikipedia.org/wiki/Hydrophober_Effekt "Hydrophober Effekt")ermöglicht. Die [Affinität](https://de.wikipedia.org/wiki/Affinit%C3%A4t_(Biochemie) "Affinität (Biochemie)") eines Liganden zum Zielprotein kann mit Hilfe von [Ligandenbindungstests](https://de.wikipedia.org/wiki/Ligandenbindungstest "Ligandenbindungstest") bestimmt werden.
-
-## Second Messenger
-**Second messenger**  ist ein englischer Fachterminus der Biologie und Medizin, den man mit  **sekundärer Botenstoff**  ins Deutsche übersetzen kann. Auch  **sekundärer Messenger**oder  **Sekundärsignal**  sind in der Fachliteratur anzutreffende, synonyme Begriffe. Ein  _second messenger_  ist eine  [intrazelluläre](https://de.wikipedia.org/wiki/Intrazellul%C3%A4r "Intrazellulär")  chemische Substanz, deren Konzentration als Antwort auf ein Primärsignal (_first messenger_  =  [Ligand](https://de.wikipedia.org/wiki/Ligand_(Biochemie) "Ligand (Biochemie)")) verändert wird.
-
-Der second messenger dient der intrazellulären Weiterleitung eines von außen (extrazellulär) kommenden primären Signals, das die Zellmembran nicht passieren kann. Dient das Primärsignal der Signalübertragung zwischen Zellen, so dient der Second Messenger der  [Signalübertragung](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")  innerhalb der Zelle, also intrazellulär. Dabei steht der Second Messenger oft nur am Anfang einer oder mehrerer längerer, intrazellulärer Signalketten, die auch der Signalverstärkung dienen und schließlich zu einer Zellantwort auf das Primärsignal führen. Second Messenger wurden zunächst für die Signalweiterleitung  [hydrophiler](https://de.wikipedia.org/wiki/Hydrophil "Hydrophil")  [Hormone](https://de.wikipedia.org/wiki/Hormon "Hormon"), wie z. B.  [Insulin](https://de.wikipedia.org/wiki/Insulin "Insulin"),  [Glucagon](https://de.wikipedia.org/wiki/Glucagon "Glucagon")  und  [Adrenalin](https://de.wikipedia.org/wiki/Adrenalin "Adrenalin"), oder  [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), wie z. B.  [Glutamat](https://de.wikipedia.org/wiki/Glutamins%C3%A4ure "Glutaminsäure"), beschrieben.
-
-# Enzyme
-## ADCY1
-**Adenylylcyclase Typ 1** ist ein [*Enzym*][Enzym], das beim Menschen vom ADCY1-Gen kodiert wird.
-
-Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird. Ein ähnliches Protein in Mäusen ist an der Musterbildung des Gehirns beteiligt.
-
-### Funktion
-ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
 
 # Articles
 ## Genregulation
@@ -132,6 +134,7 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyND
-I5Mjg1MCwtNzkzMjgxODY2LC01OTU2MzcyOThdfQ==
+eyJoaXN0b3J5IjpbLTMyMzMwNzEzNSwtMjIzODYwOTc1LDU5Mj
+g3MzY3MSwxMzI0MjkyODUwLC03OTMyODE4NjYsLTU5NTYzNzI5
+OF19
 -->
