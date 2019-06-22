@@ -108,11 +108,12 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 [PRKAR1B-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1B
 
-[neurodegenerative Demenz]: 
+[neurodegenerative Demenz]: http://www.malacards.org/card/prkar1b_related_neurodegenerative_dementia_with_intermediate_filaments
+
 [Carney Complex, Type 1]:http://www.malacards.org/card/carney_complex_type_1
 
 [Akrodysostose 1]:http://www.malacards.org/card/acrodysostosis_1_with_or_without_hormone_resistance_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzAwNjM5MiwtNzkzMjgxODY2LC01OT
+eyJoaXN0b3J5IjpbLTM5MTMxNTM4MCwtNzkzMjgxODY2LC01OT
 U2MzcyOThdfQ==
 -->
