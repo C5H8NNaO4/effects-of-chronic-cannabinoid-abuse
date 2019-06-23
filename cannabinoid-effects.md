@@ -88,9 +88,9 @@ ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es 
 
 Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransduktion. 
 
-> [**Transkription**][Transkription] _w_ [von latein. transcriptio = Umschrift; Verb _transkribieren_], _RNA-Synthese_, _RNS-Synthese_, der 1. Schritt der Genexpression, bei dem es, von bestimmten [RNA-Viren](https://www.spektrum.de/lexikon/biologie/rna-viren/57339) abgesehen, zu einer DNA-abhängigen ([Desoxyribonucleinsäure](https://www.spektrum.de/lexikon/biologie/desoxyribonucleinsaeuren/17575) fungiert als [Matrize](https://www.spektrum.de/lexikon/biologie/matrize/41400)) Synthese der [Ribonucleinsäuren](https://www.spektrum.de/lexikon/biologie/ribonucleinsaeuren/56954)kommt, die durch DNA-abhängige _[RNA-Polymerase](https://www.spektrum.de/lexikon/biologie/rna-polymerase/57324)_ katalysiert wird und zur Bildung von [messenger-RNA](https://www.spektrum.de/lexikon/biologie/messenger-rna/42380) (mRNA),[transfer-RNA](https://www.spektrum.de/lexikon/biologie/transfer-rna/67236) (tRNA), [ribosomaler RNA](https://www.spektrum.de/lexikon/biologie/ribosomale-rna/56971)(rRNA; [vgl. Abb. 1](https://www.spektrum.de/lexika/showpopup.php?lexikon_id=9&art_id=67276&nummer=30744) ) und einer Reihe weiterer RNA-Spezies führt. Die Transkription ähnelt der _DNA-[Replikation](https://www.spektrum.de/lexikon/biologie/replikation/56274)_ dahingehend, daß eine matrizenabhängige Synthese von[Nucleinsäuren](https://www.spektrum.de/lexikon/biologie/nucleinsaeuren/46910) aus Nucleosidtriphosphaten ([2’-Desoxyribonucleosid-5’-triphosphate](https://www.spektrum.de/lexikon/biologie/2-desoxyribonucleosid-5-triphosphate/17580), [Ribonucleosid-5’-triphosphate](https://www.spektrum.de/lexikon/biologie/ribonucleosid-5-triphosphate/56959)) erfolgt. Sie unterscheidet sich von dieser aber auch in wesentlichen Merkmalen [[...][spektrum:transkription]]
+> [**Transkription**][Transkription] _w_ [von latein. transcriptio = Umschrift; Verb _transkribieren_], _RNA-Synthese_, _RNS-Synthese_, der 1. Schritt der Genexpression, bei dem es, von bestimmten [RNA-Viren](https://www.spektrum.de/lexikon/biologie/rna-viren/57339) abgesehen, zu einer DNA-abhängigen ([Desoxyribonucleinsäure](https://www.spektrum.de/lexikon/biologie/desoxyribonucleinsaeuren/17575) fungiert als [Matrize](https://www.spektrum.de/lexikon/biologie/matrize/41400)) Synthese der [Ribonucleinsäuren](https://www.spektrum.de/lexikon/biologie/ribonucleinsaeuren/56954)kommt, die durch DNA-abhängige _[RNA-Polymerase](https://www.spektrum.de/lexikon/biologie/rna-polymerase/57324)_ katalysiert wird und zur Bildung von [messenger-RNA](https://www.spektrum.de/lexikon/biologie/messenger-rna/42380) (mRNA),[transfer-RNA](https://www.spektrum.de/lexikon/biologie/transfer-rna/67236) (tRNA), [ribosomaler RNA](https://www.spektrum.de/lexikon/biologie/ribosomale-rna/56971)(rRNA; [vgl. Abb. 1](https://www.spektrum.de/lexika/showpopup.php?lexikon_id=9&art_id=67276&nummer=30744) ) und einer Reihe weiterer RNA-Spezies führt. Die Transkription ähnelt der _DNA-[Replikation](https://www.spektrum.de/lexikon/biologie/replikation/56274)_ dahingehend, daß eine matrizenabhängige Synthese von[Nucleinsäuren](https://www.spektrum.de/lexikon/biologie/nucleinsaeuren/46910) aus Nucleosidtriphosphaten ([2’-Desoxyribonucleosid-5’-triphosphate](https://www.spektrum.de/lexikon/biologie/2-desoxyribonucleosid-5-triphosphate/17580), [Ribonucleosid-5’-triphosphate](https://www.spektrum.de/lexikon/biologie/ribonucleosid-5-triphosphate/56959)) erfolgt. Sie unterscheidet sich von dieser aber auch in wesentlichen Merkmalen [[...][blog:spektrum:transkription]]
 > 
-> \- https://www.spektrum.de/lexikon/biologie/transkription/67276
+> \- [https://www.spektrum.de/lexikon/biologie/transkription/67276][spektrum:transkription]
 
 
 
@@ -119,6 +119,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 
 [gene-regulation]:https://www.spektrum.de/lexikon/biologie/genregulation/27396
 [Genregulation]: https://www.spektrum.de/lexikon/biologie/genregulation/27396
+[blog:spektrum:transkription]: https://www.spektrum.de/lexikon/biologie/transkription/67276
 [spektrum:transkription]: https://www.spektrum.de/lexikon/biologie/transkription/67276
 
 [ADP signalling through P2Y purinoceptor 12]: http://pathcards.genecards.org/card/adp_signalling_through_p2y_purinoceptor_12
@@ -132,11 +133,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
  [signal-transduction-via-cannabinoid-receptors]: http://asd
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTE4MzQ5OTA1NzEs
-NTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4NDI3MD
-M0MzIsLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYyNzkx
-MywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OCw5MD
-k3NDY1MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNywxNTg2Mjkx
-OTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLT
-c5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbMTkzNzQ3MjQ3Nyw1
+NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0MjcwMz
+QzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3OTEz
+LC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
+c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
+NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
+kzMjgxODY2LC01OTU2MzcyOThdfQ==
 -->
