@@ -86,7 +86,9 @@ ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es 
 
 # Articles
 
-Weiter
+Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransduktion. 
+
+> **Transkription** - [spectrum.de](h
 
 
 
@@ -128,11 +130,11 @@ Weiter
  [signal-transduction-via-cannabinoid-receptors]: http://asd
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbMTUxOTA5NTA1MCw1
-NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0MjcwMz
-QzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3OTEz
-LC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
-c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
-NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
-kzMjgxODY2LC01OTU2MzcyOThdfQ==
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbNTU2NTgyODg3LDU2
+MDU5Nzg3LDExNDI2MDcxODQsNDczNDQwNTE0LC0xODQyNzAzND
+MyLC05MDA5NDUwNTksLTExMTI4ODM5MDksLTE1ODI2Mjc5MTMs
+LTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OTgsOTA5Nz
+Q2NTMxLDEwODE2MzA4MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1
+MCwtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMzI0MjkyODUwLC03OT
+MyODE4NjYsLTU5NTYzNzI5OF19
 -->
