@@ -7,18 +7,18 @@ Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und dessen
 
 Zu diesem Zeitpunkt enthält dieser Artikel lediglich eine Sammlung an Informationen neurobiologischen Basis-Wissens. Wer Interesse an dieser Thematik hat, kann sich gerne die folgenden Abschnitte durchlesen; darf jedoch nicht erwarten daraus irgendwelche Schlüsse ziehen zu können. 
 
-Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informationen gesammelt die folgend genannte Krankheitsbilder den jeweiligen Neuropathologischen Ursachen zuordnen, um so einen Gesamtüberblick über die Neurobiologische Funktion eines Entzugs zu erhalten und die Wirkung gängiger Psychopharmaka zu Erläutern.
+Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informationen gesammelt welche die folgend genannte Krankheitsbilder den jeweiligen Neuropathologischen Ursachen zuordnen, um so einen Gesamtüberblick über die Neurobiologische Funktionsweise eines Entzugs zu erhalten und die Wirkung gängiger Psychopharmaka zu erläutern.
 
 ## Motivation
 
 Nach 14 Jahren übermäßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neuro-biologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Auswirkungen auf das Gehirn von Säugetieren hat. - Mischkonsum von Nicotin, Cannabis, MDMA, Psylocybin und LSD ist nicht harmlos und kann weitreichende Folgen haben.
 
 ## Auswirkungen
-Die Auswirkungen Jahrelangen Drokenkonsums sind umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßigem Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Panikattacken, Dissoziativität und schizoaffektiven Störungen.
+Die Auswirkungen Jahrelangen Drogenkonsums sind umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßigem Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Panikattacken, Dissoziativität und schizoaffektiven Störungen.
 
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und so zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Cerebellum* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADCY1] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und so zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Cerebellum* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 
 ## Wissenswertes
 
@@ -86,7 +86,8 @@ ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es 
 
 # Articles
 ## Signal Transduction via Cannabinoid Receptors
-### Abstract 
+
+### [Abstract][signal-transduction-via-cannabinoid-receptors]
 The endocannabinoids anandamide and 2-arachidonoylglycerol (2-AG) are lipid mediators that signal via CB1 and CB2 cannabinoid receptors and Gi/o-proteins to inhibit adenylyl cyclase and stimulate mitogen-activated protein kinase (MAPK). In the brain, CB1 receptors interact with opioid receptors in close proximity, and these receptors may share G-proteins and effector systems. In the striatum, CB1 receptors function in coordination with D1 and D2 receptors, and combined stimulation of CB1-D2 receptor heteromeric complexes promotes a unique interaction to stimulate cAMP production. CB1 receptors also trigger growth factor receptor signaling cascades in cells by engaging in cross-talk or inter-receptor signal transmission with the receptor tyrosine kinase (RTK) family. Mechanisms for CB1 receptor-RTK transactivation can include stimulation of signal transduction pathways regulated by second messengers such as phospholipase C (PLC), metalloprotease cleavage of membrane-bound precursor proteins such as epidermal growth factor which activate RTKs, RTK autophosphorylation, and recruitment of non-receptor tyrosine kinases. CB1 and CB2 receptors are expressed in peripheral tissues including liver and adipose tissue, and are induced in pathological conditions. Novel signal transduction resulting from endocannabinoid regulation of AMP-regulated kinase (AMPK) and peroxisome proliferator-activated receptors (PPARs) have been discovered from studies of hepatocytes and adipocytes. It can be predicted that drug discovery of the future will be based upon these novel signal transduction mechanisms for endocannabinoid mediators.
 
 ## Transkription
@@ -170,9 +171,12 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 
 
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
+
+
+ [signal-transduction-via-cannabinoid-receptors]: http://asd
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTIxNDM4OTQwNTMs
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTE1NDc3NDE0Mjcs
 NTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4NDI3MD
 M0MzIsLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYyNzkx
 MywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OCw5MD
