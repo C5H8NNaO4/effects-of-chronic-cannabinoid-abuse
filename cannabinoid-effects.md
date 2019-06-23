@@ -1,6 +1,6 @@
 
 
-# Chronischer Cannabis-Missbrauch und die Auswirkung auf das Gehirn
+# Chronic cannabis abuse - a neuro-biological primer
 
 # Vorwort 
 Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und dessen Vollendung wird einige Zeit in Anspruch nehmen.
@@ -168,11 +168,11 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbNTYwNTk3ODcsMTE0
-MjYwNzE4NCw0NzM0NDA1MTQsLTE4NDI3MDM0MzIsLTkwMDk0NT
-A1OSwtMTExMjg4MzkwOSwtMTU4MjYyNzkxMywtNDc2ODk4NDIz
-LDExODY1MDc3NTYsMTI4ODM5OTQ5OCw5MDk3NDY1MzEsMTA4MT
-YzMDgxMSwtMTQ0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4NjA5
-NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLTc5MzI4MTg2NiwtNT
-k1NjM3Mjk4XX0=
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTMwMTA0Nzk0NSw1
+NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0MjcwMz
+QzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3OTEz
+LC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
+c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
+NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
+kzMjgxODY2LC01OTU2MzcyOThdfQ==
 -->
