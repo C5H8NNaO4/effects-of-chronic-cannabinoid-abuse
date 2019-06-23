@@ -138,6 +138,7 @@ Bei Eukaryoten erfolgt die Termination der Transkription analog zur faktorenunab
 In [Hefe](https://www.spektrum.de/lexikon/biologie/hefen/31015) werden die Gene für die beiden unterschiedlichen Paarungstypen a und α in vegetativ reproduzierenden Zellen nicht exprimiert. Unter bestimmten Umständen werden jedoch entweder die a- oder die α-Typ-Gene in den [MAT-Locus](https://www.spektrum.de/lexikon/biologie/mat-locus/41386) verschoben. Nur in dieser Position werden sie exprimiert. Das Produkt des MAT-Locus der Hefe – ebenso wie die Homöobox-Sequenz ([Homöobox](https://www.spektrum.de/lexikon/biologie/homoeobox/32454)) von _[Drosophila melanogaster](https://www.spektrum.de/lexikon/biologie/drosophila-melanogaster/19494)_ und homologe Sequenzen bei anderen Organismen – scheinen als Regulationselemente für zerstreut liegende Gene zu fungieren, die im Verlauf der Entwicklung simultan aktiviert werden. Es wird angenommen, daß die Gene, die durch die Produkte [homöotischer Gene](https://www.spektrum.de/lexikon/biologie/homoeotische-gene/32465) induziert werden, Sequenzen aufweisen, die mit bakteriellen Promotoren oder möglicherweise viralen enhancern verglichen werden können und an die die regulatorischen Proteine, die die Transkription stimulieren, binden. In vielen eukaryotischen Zelltypen existieren Mechanismen zum Transponieren von Genen auf einem Chromosom. Die Umordnung von Genen, wie sie bei den Hefe-Paarungstyp-Genen vorkommen, ist für die Immunglobulin- und T-Zellen-Antigen-Rezeptormoleküle ein notwendiger Schritt zur Aktivierung der entsprechenden Lymphoidklone.  
 Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen der [Signaltransduktion](https://www.spektrum.de/lexikon/biologie/signaltransduktion/61524) ausgelöst. So beruht die Signalwirkung der meisten [Hormone](https://www.spektrum.de/lexikon/biologie/hormone/32617), [Cytokine](https://www.spektrum.de/lexikon/biologie/cytokine/16547) und anderer Substanzen auf deren Bindung an plasmamembranständige Rezeptoren und im folgenden phosphorylierten cytoplasmatischen Substratproteinen, die entweder selbst als Transkriptionsfaktoren aktiv werden oder solche Faktoren aktivieren. – Neben der Regulation der Transkriptionsinitiation kann auch die Steuerung einer vorzeitigen [Termination](https://www.spektrum.de/lexikon/biologie/termination/65880), wie sie bei der [Attenuatorregulation](https://www.spektrum.de/lexikon/biologie/attenuatorregulation/5956) vorliegt, zur Genregulation beitragen. Außerdem kann auch die helikale Torsion der DNA ([DNA-Topoisomerasen](https://www.spektrum.de/lexikon/biologie/dna-topoisomerasen/18870)) die Effizienz der Transkription beeinflussen. Die Kontrolle der Synthese der messenger-RNA stellt zwar den ersten und häufig entscheidenden Schritt in der Steuerung der Genaktivität dar, aber auch nach erfolgter Transkription gibt es noch weitere Möglichkeiten, die [Genexpression](https://www.spektrum.de/lexikon/biologie/genexpression/27305) zu regulieren. So kann z.B. über m-RNA-Stabilität, Translationskontrolle und Proteinstabilität Einfluß auf die Genwirkung genommen werden. – Störungen der Genregulation, z.B. durch defekte Transkriptionsfaktoren, können u.a. Entwicklungsstörungen, hormonelle Störungen, Krebserkrankungen sowie Syndrome defekter DNA-Reparatur hervorrufen. [Genregulation](https://www.spektrum.de/lexika/showpopup.php?lexikon_id=9&art_id=27396&nummer=9539) , [Gentechnologie](https://www.spektrum.de/lexika/showpopup.php?lexikon_id=9&art_id=27396&nummer=9540) .
 
+> Genregulation - https://www.spektrum.de/lexika/showpopup.php?lexikon_id=9&art_id=27396&nummer=9539
 
 [cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [PKA]: https://de.wikipedia.org/wiki/Proteinkinase_A
@@ -176,11 +177,11 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
  [signal-transduction-via-cannabinoid-receptors]: http://asd
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTE1NDc3NDE0Mjcs
-NTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4NDI3MD
-M0MzIsLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYyNzkx
-MywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OCw5MD
-k3NDY1MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNywxNTg2Mjkx
-OTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLT
-c5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTI5NTQ0MjI0Miw1
+NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0MjcwMz
+QzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3OTEz
+LC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
+c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
+NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
+kzMjgxODY2LC01OTU2MzcyOThdfQ==
 -->
