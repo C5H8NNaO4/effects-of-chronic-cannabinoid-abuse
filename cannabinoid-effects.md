@@ -11,10 +11,10 @@ Das ganze ist recht oberflächlich gehalten. Nach und nach werden hier Informati
 
 ## Motivation
 
-Nach 14 Jahren übermßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neurobiologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Neurobiologische Auswirkungen auf das Gehirn von Säugetieren hat. - Mischkonsum von Nicotin, Cannabis, MDMA, Psylocybin und LSD ist nicht harmlos und kann weitreichende Folgen haben.
+Nach 14 Jahren übermäßigem THC-Konsum überwiegt die Negativsymptomatik des Drogenmissbrauchs deutlich dessen positiven Nebeneffekte. Im Zuge einer psychiatrischen Behandlung und einem kalten Entzug, möchte ich gerne auf neuro-biologischer Ebene verstehen was Jahrelanger Konsum verschiedenster Drogen für Auswirkungen auf das Gehirn von Säugetieren hat. - Mischkonsum von Nicotin, Cannabis, MDMA, Psylocybin und LSD ist nicht harmlos und kann weitreichende Folgen haben.
 
 ## Auswirkungen
-Die Auswirkungen Jahrelangen Drokenkonsums sind recht umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßigem Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Panikattacken, Dissoziativität und schizoaffektiven Störungen.
+Die Auswirkungen Jahrelangen Drokenkonsums sind umfassend und reichen von Verwirrtheit, Gedächtnisstörungen, übermäßigem Schwitzen, Depressionen, Bipolarität und Paranoia bis hin zu Panikattacken, Dissoziativität und schizoaffektiven Störungen.
 
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
@@ -165,10 +165,11 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbNDczNDQwNTE0LC0x
-ODQyNzAzNDMyLC05MDA5NDUwNTksLTExMTI4ODM5MDksLTE1OD
-I2Mjc5MTMsLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0
-OTgsOTA5NzQ2NTMxLDEwODE2MzA4MTEsLTE0NDA3OTczMTcsMT
-U4NjI5MTk1MCwtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMzI0Mjky
-ODUwLC03OTMyODE4NjYsLTU5NTYzNzI5OF19
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbNzY0MDkyOTkyLDQ3
+MzQ0MDUxNCwtMTg0MjcwMzQzMiwtOTAwOTQ1MDU5LC0xMTEyOD
+gzOTA5LC0xNTgyNjI3OTEzLC00NzY4OTg0MjMsMTE4NjUwNzc1
+NiwxMjg4Mzk5NDk4LDkwOTc0NjUzMSwxMDgxNjMwODExLC0xND
+QwNzk3MzE3LDE1ODYyOTE5NTAsLTIyMzg2MDk3NSw1OTI4NzM2
+NzEsMTMyNDI5Mjg1MCwtNzkzMjgxODY2LC01OTU2MzcyOThdfQ
+==
 -->
