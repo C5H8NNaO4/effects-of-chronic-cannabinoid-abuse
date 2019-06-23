@@ -18,7 +18,7 @@ Die Auswirkungen Jahrelangen Drogenkonsums sind umfassend und reichen von Verwir
 
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADCY1] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und so zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Cerebellum* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADCY1] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, welche abhängig von der cAMP Konzentration in der Zelle ist und eventuell zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Cerebellum* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 
 ## Wissenswertes
 
@@ -133,11 +133,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
  [signal-transduction-via-cannabinoid-receptors]: http://asd
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbMTkzNzQ3MjQ3Nyw1
-NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0MjcwMz
-QzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3OTEz
-LC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
-c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
-NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
-kzMjgxODY2LC01OTU2MzcyOThdfQ==
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbNzcwMzAzMDk4LDE5
+Mzc0NzI0NzcsNTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MT
+QsLTE4NDI3MDM0MzIsLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwt
+MTU4MjYyNzkxMywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4OD
+M5OTQ5OCw5MDk3NDY1MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMx
+NywxNTg2MjkxOTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMj
+QyOTI4NTAsLTc5MzI4MTg2Nl19
 -->
