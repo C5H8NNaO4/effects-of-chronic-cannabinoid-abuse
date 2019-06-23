@@ -22,6 +22,8 @@ Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synap
 
 ## Wissenswertes
 
+### Hippocampus
+
 ### CNR1
 Der **Cannabinoid-Rezeptor 1** (oder offiziell kurz: **CNR1**, oder alternative abgekürzte Bezeichnungen: _CB1_, _CNR_, _CB-R_, _CB1A_, _CANN6_, _CB1K5_) vermittelt die Wirkungen endogener [Cannabinoide](https://de.wikipedia.org/wiki/Cannabinoide "Cannabinoide") wie auch exogen zugeführter Cannabinoide wie z. B. Δ9-[Tetrahydrocannabinol](https://de.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol") aus [Cannabis sativa](https://de.wikipedia.org/wiki/Cannabis_sativa "Cannabis sativa") im zentralen Nervensystem und ist damit ein Bestandteil des [Endocannabinoid-Systems](https://de.wikipedia.org/wiki/Endocannabinoid-System "Endocannabinoid-System"). Es handelt sich um einen transmembranösen [G-Protein-gekoppelten Rezeptor](https://de.wikipedia.org/wiki/G-Protein-gekoppelter_Rezeptor "G-Protein-gekoppelter Rezeptor"), der die intrazelluläre [Adenylylcyclase](https://de.wikipedia.org/wiki/Adenylylcyclase "Adenylylcyclase")-Aktivität hemmt.
 
@@ -165,11 +167,11 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbNzY0MDkyOTkyLDQ3
-MzQ0MDUxNCwtMTg0MjcwMzQzMiwtOTAwOTQ1MDU5LC0xMTEyOD
-gzOTA5LC0xNTgyNjI3OTEzLC00NzY4OTg0MjMsMTE4NjUwNzc1
-NiwxMjg4Mzk5NDk4LDkwOTc0NjUzMSwxMDgxNjMwODExLC0xND
-QwNzk3MzE3LDE1ODYyOTE5NTAsLTIyMzg2MDk3NSw1OTI4NzM2
-NzEsMTMyNDI5Mjg1MCwtNzkzMjgxODY2LC01OTU2MzcyOThdfQ
-==
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbMTE0MjYwNzE4NCw0
+NzM0NDA1MTQsLTE4NDI3MDM0MzIsLTkwMDk0NTA1OSwtMTExMj
+g4MzkwOSwtMTU4MjYyNzkxMywtNDc2ODk4NDIzLDExODY1MDc3
+NTYsMTI4ODM5OTQ5OCw5MDk3NDY1MzEsMTA4MTYzMDgxMSwtMT
+Q0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4NjA5NzUsNTkyODcz
+NjcxLDEzMjQyOTI4NTAsLTc5MzI4MTg2NiwtNTk1NjM3Mjk4XX
+0=
 -->
