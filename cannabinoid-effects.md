@@ -85,12 +85,8 @@ Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird.
 ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
 
 # Articles
-## Signal Transduction via Cannabinoid Receptors
 
-### [Abstract][signal-transduction-via-cannabinoid-receptors]
-The endocannabinoids anandamide and 2-arachidonoylglycerol (2-AG) are lipid mediators that signal via CB1 and CB2 cannabinoid receptors and Gi/o-proteins to inhibit adenylyl cyclase and stimulate mitogen-activated protein kinase (MAPK). In the brain, CB1 receptors interact with opioid receptors in close proximity, and these receptors may share G-proteins and effector systems. In the striatum, CB1 receptors function in coordination with D1 and D2 receptors, and combined stimulation of CB1-D2 receptor heteromeric complexes promotes a unique interaction to stimulate cAMP production. CB1 receptors also trigger growth factor receptor signaling cascades in cells by engaging in cross-talk or inter-receptor signal transmission with the receptor tyrosine kinase (RTK) family. Mechanisms for CB1 receptor-RTK transactivation can include stimulation of signal transduction pathways regulated by second messengers such as phospholipase C (PLC), metalloprotease cleavage of membrane-bound precursor proteins such as epidermal growth factor which activate RTKs, RTK autophosphorylation, and recruitment of non-receptor tyrosine kinases. CB1 and CB2 receptors are expressed in peripheral tissues including liver and adipose tissue, and are induced in pathological conditions. Novel signal transduction resulting from endocannabinoid regulation of AMP-regulated kinase (AMPK) and peroxisome proliferator-activated receptors (PPARs) have been discovered from studies of hepatocytes and adipocytes. It can be predicted that drug discovery of the future will be based upon these novel signal transduction mechanisms for endocannabinoid mediators.
-
-
+Weiter
 
 
 
@@ -132,11 +128,11 @@ The endocannabinoids anandamide and 2-arachidonoylglycerol (2-AG) are lipid medi
  [signal-transduction-via-cannabinoid-receptors]: http://asd
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbMTIwOTA5MDQwLDU2
-MDU5Nzg3LDExNDI2MDcxODQsNDczNDQwNTE0LC0xODQyNzAzND
-MyLC05MDA5NDUwNTksLTExMTI4ODM5MDksLTE1ODI2Mjc5MTMs
-LTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OTgsOTA5Nz
-Q2NTMxLDEwODE2MzA4MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1
-MCwtMjIzODYwOTc1LDU5Mjg3MzY3MSwxMzI0MjkyODUwLC03OT
-MyODE4NjYsLTU5NTYzNzI5OF19
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbMTUxOTA5NTA1MCw1
+NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0MjcwMz
+QzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3OTEz
+LC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
+c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
+NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
+kzMjgxODY2LC01OTU2MzcyOThdfQ==
 -->
