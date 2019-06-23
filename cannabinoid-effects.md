@@ -23,7 +23,7 @@ Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synap
 ## Wissenswertes
 
 ### Hippocampus
-
+Der **Hippocampus** ([Plural](https://de.wikipedia.org/wiki/Plural "Plural")  _Hippocampi_) ist ein Teil des [Gehirns](https://de.wikipedia.org/wiki/Gehirn "Gehirn"), genauer: des erstmals bei Reptilien auftretenden [Archicortex](https://de.wikipedia.org/wiki/Archicortex "Archicortex").[[1]](https://de.wikipedia.org/wiki/Hippocampus#cite_note-1) Er befindet sich am inneren Rand des [Temporallappens](https://de.wikipedia.org/wiki/Temporallappen "Temporallappen") und ist eine zentrale Schaltstation des [limbischen Systems](https://de.wikipedia.org/wiki/Limbisches_System "Limbisches System"). Es gibt einen Hippocampus pro [Hemisphäre](https://de.wikipedia.org/wiki/Hirnh%C3%A4lfte "Hirnhälfte").
 ### CNR1
 Der **Cannabinoid-Rezeptor 1** (oder offiziell kurz: **CNR1**, oder alternative abgekürzte Bezeichnungen: _CB1_, _CNR_, _CB-R_, _CB1A_, _CANN6_, _CB1K5_) vermittelt die Wirkungen endogener [Cannabinoide](https://de.wikipedia.org/wiki/Cannabinoide "Cannabinoide") wie auch exogen zugeführter Cannabinoide wie z. B. Δ9-[Tetrahydrocannabinol](https://de.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol") aus [Cannabis sativa](https://de.wikipedia.org/wiki/Cannabis_sativa "Cannabis sativa") im zentralen Nervensystem und ist damit ein Bestandteil des [Endocannabinoid-Systems](https://de.wikipedia.org/wiki/Endocannabinoid-System "Endocannabinoid-System"). Es handelt sich um einen transmembranösen [G-Protein-gekoppelten Rezeptor](https://de.wikipedia.org/wiki/G-Protein-gekoppelter_Rezeptor "G-Protein-gekoppelter Rezeptor"), der die intrazelluläre [Adenylylcyclase](https://de.wikipedia.org/wiki/Adenylylcyclase "Adenylylcyclase")-Aktivität hemmt.
 
@@ -167,11 +167,11 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbMTE0MjYwNzE4NCw0
-NzM0NDA1MTQsLTE4NDI3MDM0MzIsLTkwMDk0NTA1OSwtMTExMj
-g4MzkwOSwtMTU4MjYyNzkxMywtNDc2ODk4NDIzLDExODY1MDc3
-NTYsMTI4ODM5OTQ5OCw5MDk3NDY1MzEsMTA4MTYzMDgxMSwtMT
-Q0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4NjA5NzUsNTkyODcz
-NjcxLDEzMjQyOTI4NTAsLTc5MzI4MTg2NiwtNTk1NjM3Mjk4XX
-0=
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTE1NjUyNTAxMTks
+MTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4NDI3MDM0MzIsLTkwMD
+k0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYyNzkxMywtNDc2ODk4
+NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OCw5MDk3NDY1MzEsMT
+A4MTYzMDgxMSwtMTQ0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4
+NjA5NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLTc5MzI4MTg2Ni
+wtNTk1NjM3Mjk4XX0=
 -->
