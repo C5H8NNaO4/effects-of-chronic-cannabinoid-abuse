@@ -18,13 +18,17 @@ Die Auswirkungen Jahrelangen Drokenkonsums sind umfassend und reichen von Verwir
 
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und so zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Kleinhirn* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
+Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADC] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, da diese abhängig von der cAMP Konzentration in der Zelle ist und so zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Cerebellum* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 
 ## Wissenswertes
 
 ### Hippocampus
 Der **Hippocampus** ([Plural](https://de.wikipedia.org/wiki/Plural "Plural")  _Hippocampi_) ist ein Teil des [Gehirns](https://de.wikipedia.org/wiki/Gehirn "Gehirn"), genauer: des erstmals bei Reptilien auftretenden [Archicortex](https://de.wikipedia.org/wiki/Archicortex "Archicortex").[[1]](https://de.wikipedia.org/wiki/Hippocampus#cite_note-1) Er befindet sich am inneren Rand des [Temporallappens](https://de.wikipedia.org/wiki/Temporallappen "Temporallappen") und ist eine zentrale Schaltstation des [limbischen Systems](https://de.wikipedia.org/wiki/Limbisches_System "Limbisches System"). Es gibt einen Hippocampus pro [Hemisphäre](https://de.wikipedia.org/wiki/Hirnh%C3%A4lfte "Hirnhälfte").
 
+### Cerebellum
+Das  **Kleinhirn**  oder  **Cerebellum**  ist ein Teil des  [Gehirns](https://de.wikipedia.org/wiki/Gehirn "Gehirn")  von  [Wirbeltieren](https://de.wikipedia.org/wiki/Wirbeltiere "Wirbeltiere"). Dort lagert es sich dem  [Hirnstamm](https://de.wikipedia.org/wiki/Hirnstamm "Hirnstamm")  hinten auf und befindet sich unterhalb der  [Okzipitallappen](https://de.wikipedia.org/wiki/Okzipitallappen "Okzipitallappen")  des  [Großhirns](https://de.wikipedia.org/wiki/Gro%C3%9Fhirn "Großhirn")  in der  [hinteren Schädelgrube](https://de.wikipedia.org/wiki/Fossa_cranii_posterior "Fossa cranii posterior"). Zusammen mit dem verlängerten Mark ([Myelencephalon](https://de.wikipedia.org/wiki/Myelencephalon "Myelencephalon")) und der Brücke ([Pons](https://de.wikipedia.org/wiki/Pons "Pons")) bildet es das Rautenhirn ([Rhombencephalon](https://de.wikipedia.org/wiki/Rhombencephalon "Rhombencephalon")). Kleinhirn und Brücke werden als Hinterhirn ([Metencephalon](https://de.wikipedia.org/wiki/Metencephalon "Metencephalon")) zusammengefasst.
+
+Das Kleinhirn ist beim  [Menschen](https://de.wikipedia.org/wiki/Mensch "Mensch")  dem Volumen nach der zweitgrößte Teil des Gehirns, besitzt aber eine deutlich höhere Zelldichte als das Großhirn. So macht das menschliche Kleinhirn beim Erwachsenen mit etwa 150 g nur etwa ein Zehntel des durchschnittlichen Hirngewichts aus, doch enthält es mit knapp 70 [Milliarden](https://de.wikipedia.org/wiki/Milliarde "Milliarde")  Nervenzellen etwa vier Fünftel, also den Großteil aller zentralnervösen  [Neuronen](https://de.wikipedia.org/wiki/Neuron "Neuron").[[1]](https://de.wikipedia.org/wiki/Kleinhirn#cite_note-pmc2776484-1)  Die Oberfläche der Kleinhirnrinde ist in feine blattförmige Windungen (_Folia cerebelli_) gefaltet und entspricht etwa 50–75 % der Rindenoberfläche der achtmal größeren Großhirnhemispären.
 ### CNR1
 Der **Cannabinoid-Rezeptor 1** (oder offiziell kurz: **CNR1**, oder alternative abgekürzte Bezeichnungen: _CB1_, _CNR_, _CB-R_, _CB1A_, _CANN6_, _CB1K5_) vermittelt die Wirkungen endogener [Cannabinoide](https://de.wikipedia.org/wiki/Cannabinoide "Cannabinoide") wie auch exogen zugeführter Cannabinoide wie z. B. Δ9-[Tetrahydrocannabinol](https://de.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol") aus [Cannabis sativa](https://de.wikipedia.org/wiki/Cannabis_sativa "Cannabis sativa") im zentralen Nervensystem und ist damit ein Bestandteil des [Endocannabinoid-Systems](https://de.wikipedia.org/wiki/Endocannabinoid-System "Endocannabinoid-System"). Es handelt sich um einen transmembranösen [G-Protein-gekoppelten Rezeptor](https://de.wikipedia.org/wiki/G-Protein-gekoppelter_Rezeptor "G-Protein-gekoppelter Rezeptor"), der die intrazelluläre [Adenylylcyclase](https://de.wikipedia.org/wiki/Adenylylcyclase "Adenylylcyclase")-Aktivität hemmt.
 
@@ -168,11 +172,11 @@ Die Aktivierung spezifischer Transkriptionsfaktoren wird meist durch Mechanismen
 [cannabinoid-pathway]: https://www.wikipathways.org/index.php/Pathway:WP3869
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
-IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTMwMTA0Nzk0NSw1
-NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0MjcwMz
-QzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3OTEz
-LC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LDkwOT
-c0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LDE1ODYyOTE5
-NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMTMyNDI5Mjg1MCwtNz
-kzMjgxODY2LC01OTU2MzcyOThdfQ==
+IwMjAtMDEtMDEnXG4iLCJoaXN0b3J5IjpbLTIxNDM4OTQwNTMs
+NTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4NDI3MD
+M0MzIsLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYyNzkx
+MywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OCw5MD
+k3NDY1MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNywxNTg2Mjkx
+OTUwLC0yMjM4NjA5NzUsNTkyODczNjcxLDEzMjQyOTI4NTAsLT
+c5MzI4MTg2NiwtNTk1NjM3Mjk4XX0=
 -->
