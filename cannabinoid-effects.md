@@ -29,6 +29,7 @@ Der **Hippocampus** ([Plural](https://de.wikipedia.org/wiki/Plural "Plural")  _H
 Das  **Kleinhirn**  oder  **Cerebellum**  ist ein Teil des  [Gehirns](https://de.wikipedia.org/wiki/Gehirn "Gehirn")  von  [Wirbeltieren](https://de.wikipedia.org/wiki/Wirbeltiere "Wirbeltiere"). Dort lagert es sich dem  [Hirnstamm](https://de.wikipedia.org/wiki/Hirnstamm "Hirnstamm")  hinten auf und befindet sich unterhalb der  [Okzipitallappen](https://de.wikipedia.org/wiki/Okzipitallappen "Okzipitallappen")  des  [Großhirns](https://de.wikipedia.org/wiki/Gro%C3%9Fhirn "Großhirn")  in der  [hinteren Schädelgrube](https://de.wikipedia.org/wiki/Fossa_cranii_posterior "Fossa cranii posterior"). Zusammen mit dem verlängerten Mark ([Myelencephalon](https://de.wikipedia.org/wiki/Myelencephalon "Myelencephalon")) und der Brücke ([Pons](https://de.wikipedia.org/wiki/Pons "Pons")) bildet es das Rautenhirn ([Rhombencephalon](https://de.wikipedia.org/wiki/Rhombencephalon "Rhombencephalon")). Kleinhirn und Brücke werden als Hinterhirn ([Metencephalon](https://de.wikipedia.org/wiki/Metencephalon "Metencephalon")) zusammengefasst.
 
 Das Kleinhirn ist beim  [Menschen](https://de.wikipedia.org/wiki/Mensch "Mensch")  dem Volumen nach der zweitgrößte Teil des Gehirns, besitzt aber eine deutlich höhere Zelldichte als das Großhirn. So macht das menschliche Kleinhirn beim Erwachsenen mit etwa 150 g nur etwa ein Zehntel des durchschnittlichen Hirngewichts aus, doch enthält es mit knapp 70 [Milliarden](https://de.wikipedia.org/wiki/Milliarde "Milliarde")  Nervenzellen etwa vier Fünftel, also den Großteil aller zentralnervösen  [Neuronen](https://de.wikipedia.org/wiki/Neuron "Neuron").[[1]](https://de.wikipedia.org/wiki/Kleinhirn#cite_note-pmc2776484-1)  Die Oberfläche der Kleinhirnrinde ist in feine blattförmige Windungen (_Folia cerebelli_) gefaltet und entspricht etwa 50–75 % der Rindenoberfläche der achtmal größeren Großhirnhemispären.
+
 ### CNR1
 Der **Cannabinoid-Rezeptor 1** (oder offiziell kurz: **CNR1**, oder alternative abgekürzte Bezeichnungen: _CB1_, _CNR_, _CB-R_, _CB1A_, _CANN6_, _CB1K5_) vermittelt die Wirkungen endogener [Cannabinoide](https://de.wikipedia.org/wiki/Cannabinoide "Cannabinoide") wie auch exogen zugeführter Cannabinoide wie z. B. Δ9-[Tetrahydrocannabinol](https://de.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol") aus [Cannabis sativa](https://de.wikipedia.org/wiki/Cannabis_sativa "Cannabis sativa") im zentralen Nervensystem und ist damit ein Bestandteil des [Endocannabinoid-Systems](https://de.wikipedia.org/wiki/Endocannabinoid-System "Endocannabinoid-System"). Es handelt sich um einen transmembranösen [G-Protein-gekoppelten Rezeptor](https://de.wikipedia.org/wiki/G-Protein-gekoppelter_Rezeptor "G-Protein-gekoppelter Rezeptor"), der die intrazelluläre [Adenylylcyclase](https://de.wikipedia.org/wiki/Adenylylcyclase "Adenylylcyclase")-Aktivität hemmt.
 
@@ -60,6 +61,12 @@ Die Bezeichnung **G-Protein** steht vereinfacht für _Guanosintriphosphat-binden
 
 Die Familie der G-Protein-gekoppelten Rezeptoren stellt mit mehr als 1000 verschiedenen Mitgliedern die größte Proteinsuperfamilie dar. G-Protein-gekoppelte Rezeptoren sind für die Verarbeitung von  [Licht](https://de.wikipedia.org/wiki/Licht "Licht")-,  [Geruchs](https://de.wikipedia.org/wiki/Geruch "Geruch")- und einer Vielzahl von  [Geschmacksreizen](https://de.wikipedia.org/wiki/Gustatorische_Wahrnehmung "Gustatorische Wahrnehmung")  verantwortlich. Sie spielen eine entscheidende Rolle bei  [Entzündungsprozessen](https://de.wikipedia.org/wiki/Entz%C3%BCndung "Entzündung"), der gezielten Zellbewegung ([Taxis](https://de.wikipedia.org/wiki/Taxis "Taxis")), dem Transport von Stoffen durch die Zellmembran ([Endozytose](https://de.wikipedia.org/wiki/Membrantransport "Membrantransport")  und  [Exozytose](https://de.wikipedia.org/wiki/Exozytose "Exozytose")) sowie beim  [Zellwachstum](https://de.wikipedia.org/wiki/Zellwachstum "Zellwachstum")  und bei der  [Zelldifferenzierung](https://de.wikipedia.org/wiki/Differenzierung_(Biologie) "Differenzierung (Biologie)"). Sie sind darüber hinaus als Zielstrukturen für die Wirkung von  [Hormonen](https://de.wikipedia.org/wiki/Hormon "Hormon"), wie  [Adrenalin](https://de.wikipedia.org/wiki/Adrenalin "Adrenalin")  oder  [Glucagon](https://de.wikipedia.org/wiki/Glucagon "Glucagon"), und  [Neurotransmittern](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), wie  [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin")  und  [Acetylcholin](https://de.wikipedia.org/wiki/Acetylcholin "Acetylcholin"), verantwortlich. Auch einige  [Viren](https://de.wikipedia.org/wiki/Viren "Viren")  nutzen G-Protein-gekoppelte Rezeptoren als Bindungsstellen für den Eintritt in die Zelle (beispielsweise  [HIV](https://de.wikipedia.org/wiki/HIV "HIV")).
 
+# Aminosäuren
+## Tyrosin 
+
+**Tyrosin**  (abgekürzt  **Tyr**  oder  **Y**) ist in seiner natürlichen  [L](https://de.wikipedia.org/wiki/Deskriptor_(Chemie)#D-,_L- "Deskriptor (Chemie)")-Form eine nicht[essentielle](https://de.wikipedia.org/wiki/Essentielle_Stoffe "Essentielle Stoffe")  [proteinogene](https://de.wikipedia.org/wiki/Proteinogen "Proteinogen")  [_α_-](https://de.wikipedia.org/wiki/St%C3%A4ndigkeit "Ständigkeit")[Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4ure "Aminosäure"), die in den meisten  [Proteinen](https://de.wikipedia.org/wiki/Protein "Protein")  vorkommt. Tyrosin ist  [Ausgangssubstanz](https://de.wikipedia.org/wiki/Pr%C3%A4kursor "Präkursor")  für die  [Biosynthese](https://de.wikipedia.org/wiki/Biosynthese "Biosynthese")  von  [DOPA](https://de.wikipedia.org/wiki/Levodopa "Levodopa"),  [Dopamin](https://de.wikipedia.org/wiki/Dopamin "Dopamin"),  [Katecholaminen](https://de.wikipedia.org/wiki/Katecholamine "Katecholamine"),  [Melanin](https://de.wikipedia.org/wiki/Melanin "Melanin"),  [Thyroxin](https://de.wikipedia.org/wiki/Thyroxin "Thyroxin")  und  [Tyramin](https://de.wikipedia.org/wiki/Tyramin "Tyramin"). Die Biosynthese erfolgt in vielen Tieren aus der essentiellen Aminosäure  [Phenylalanin](https://de.wikipedia.org/wiki/Phenylalanin "Phenylalanin"), eine Beeinträchtigung dieses Weges kann vielfältige Defekte auslösen.
+
+Wenn in diesem Text oder in der wissenschaftlichen Literatur „Tyrosin“ ohne weiteren Namenszusatz ([Präfix](https://de.wikipedia.org/wiki/Pr%C3%A4fix "Präfix")) erwähnt wird, ist  L-Tyrosin gemeint.
 
 # Transduktionspfade
 ## [Cannabinoid receptor signaling (Homo sapiens)][cannabinoid-pathway]
@@ -137,11 +144,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbOTUxMjk0MTk5LDEyODIyMzE0MDMs
-NzcwMzAzMDk4LDE5Mzc0NzI0NzcsNTYwNTk3ODcsMTE0MjYwNz
-E4NCw0NzM0NDA1MTQsLTE4NDI3MDM0MzIsLTkwMDk0NTA1OSwt
-MTExMjg4MzkwOSwtMTU4MjYyNzkxMywtNDc2ODk4NDIzLDExOD
-Y1MDc3NTYsMTI4ODM5OTQ5OCw5MDk3NDY1MzEsMTA4MTYzMDgx
-MSwtMTQ0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4NjA5NzUsNT
-kyODczNjcxXX0=
+VyXG4iLCJoaXN0b3J5IjpbLTEyNzg4OTM0MDksOTUxMjk0MTk5
+LDEyODIyMzE0MDMsNzcwMzAzMDk4LDE5Mzc0NzI0NzcsNTYwNT
+k3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4NDI3MDM0MzIs
+LTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYyNzkxMywtND
+c2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OCw5MDk3NDY1
+MzEsMTA4MTYzMDgxMSwtMTQ0MDc5NzMxNywxNTg2MjkxOTUwLC
+0yMjM4NjA5NzVdfQ==
 -->
