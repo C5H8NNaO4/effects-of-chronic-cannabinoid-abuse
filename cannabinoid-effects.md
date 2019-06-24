@@ -74,6 +74,7 @@ The  **endocannabinoid system**  (**ECS**) is a biological system composed of en
 
 Two primary endocannabinoid receptors have been identified: CB1, first cloned in 1990; and CB2, cloned in 1993. CB1 receptors are found predominantly in the brain and nervous system, as well as in peripheral organs and tissues, and are the main molecular target of the endocannabinoid  [ligand](https://en.wikipedia.org/wiki/Ligand_(biochemistry) "Ligand (biochemistry)")  (binding molecule),  [anandamide](https://en.wikipedia.org/wiki/Anandamide "Anandamide"), as well as its  [mimetic](https://en.wikipedia.org/wiki/Mimetic "Mimetic")  phytocannabinoid,  [THC](https://en.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol"). One other main endocannabinoid is  [2-arachidonoylglycerol](https://en.wikipedia.org/wiki/2-arachidonoylglycerol "2-arachidonoylglycerol")  (2-AG) which is active at both cannabinoid receptors, along with its own mimetic phytocannabinoid,  [CBD](https://en.wikipedia.org/wiki/Cannabidiol "Cannabidiol"). 2-AG and CBD are involved in the regulation of appetite, immune system functions and pain management.[[10]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-Grotenhermen2012-10)[[11]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-NatureCB1-11)[[12]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-Russo2011-12)
 [![cannabinoid receptor signaling][cannabinoid-path]][cannabinoid-path-link]
+
 ## Dopamine Metabolism
 [![dopamine metabolism][dopamine-path]][dopamine-path-link]
 
@@ -153,11 +154,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbLTIxNDYwMDEzNzEsMTY0OTk4OTY1
-OCwxMzc3NjY2MzE3LC0xMjc4ODkzNDA5LDk1MTI5NDE5OSwxMj
-gyMjMxNDAzLDc3MDMwMzA5OCwxOTM3NDcyNDc3LDU2MDU5Nzg3
-LDExNDI2MDcxODQsNDczNDQwNTE0LC0xODQyNzAzNDMyLC05MD
-A5NDUwNTksLTExMTI4ODM5MDksLTE1ODI2Mjc5MTMsLTQ3Njg5
-ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OTgsOTA5NzQ2NTMxLD
-EwODE2MzA4MTFdfQ==
+VyXG4iLCJoaXN0b3J5IjpbLTEzMjUxNjcxNzcsLTIxNDYwMDEz
+NzEsMTY0OTk4OTY1OCwxMzc3NjY2MzE3LC0xMjc4ODkzNDA5LD
+k1MTI5NDE5OSwxMjgyMjMxNDAzLDc3MDMwMzA5OCwxOTM3NDcy
+NDc3LDU2MDU5Nzg3LDExNDI2MDcxODQsNDczNDQwNTE0LC0xOD
+QyNzAzNDMyLC05MDA5NDUwNTksLTExMTI4ODM5MDksLTE1ODI2
+Mjc5MTMsLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OT
+gsOTA5NzQ2NTMxXX0=
 -->
