@@ -77,12 +77,12 @@ Der second messenger dient der intrazellulären Weiterleitung eines von außen (
 
 # Enzyme
 ## ADCY1
-**Adenylylcyclase Typ 1** ist ein [*Enzym*][Enzym], das beim Menschen vom ADCY1-Gen kodiert wird.
+>**Adenylylcyclase Typ 1** ist ein [*Enzym*][Enzym], das beim Menschen vom ADCY1-Gen kodiert wird.
 
-Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird. Ein ähnliches Protein in Mäusen ist an der Musterbildung des Gehirns beteiligt.
+>Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird. Ein ähnliches Protein in Mäusen ist an der Musterbildung des Gehirns beteiligt.
 
 ### Funktion
-ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
+>ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
 
 # Articles
 
@@ -135,11 +135,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbMTI4MjIzMTQwMyw3NzAzMDMwOTgs
-MTkzNzQ3MjQ3Nyw1NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MD
-UxNCwtMTg0MjcwMzQzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5
-LC0xNTgyNjI3OTEzLC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMj
-g4Mzk5NDk4LDkwOTc0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3
-MzE3LDE1ODYyOTE5NTAsLTIyMzg2MDk3NSw1OTI4NzM2NzEsMT
-MyNDI5Mjg1MF19
+VyXG4iLCJoaXN0b3J5IjpbLTQ2MzIxNDc2NSwxMjgyMjMxNDAz
+LDc3MDMwMzA5OCwxOTM3NDcyNDc3LDU2MDU5Nzg3LDExNDI2MD
+cxODQsNDczNDQwNTE0LC0xODQyNzAzNDMyLC05MDA5NDUwNTks
+LTExMTI4ODM5MDksLTE1ODI2Mjc5MTMsLTQ3Njg5ODQyMywxMT
+g2NTA3NzU2LDEyODgzOTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4
+MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1MCwtMjIzODYwOTc1LD
+U5Mjg3MzY3MV19
 -->
