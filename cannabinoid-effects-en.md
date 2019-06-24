@@ -36,6 +36,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADCY1] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, welche abhängig von der cAMP Konzentration in der Zelle ist und eventuell zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Cerebellum* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 
 THC activates the CNR1, which inhibits [ADCY1][ADCY1] in the synaptic cleft, leading to a reduction in [ATP-cAMP transformation][ADC]. This results in a chronic deficiency of the secondary messenger *cAMP*, and a reduction of *PKA* transcription, which is dependent on the *cAMP* concentration in the cell and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected] [cannabinoid pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
+
 # Basic Concepts
 I don't know a lot about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge I gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. It's mostly Wikipedia. 
 
@@ -175,5 +176,5 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
  [signal-transduction-via-cannabinoid-receptors]: http://asd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzI5MDAyMV19
+eyJoaXN0b3J5IjpbMTYxOTgwMjgzNSwyMDk3MjkwMDIxXX0=
 -->
