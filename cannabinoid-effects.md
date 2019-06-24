@@ -101,7 +101,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 > 
 > \- [https://www.spektrum.de/lexikon/biologie/transkription/67276][spektrum:transkription]
 
-
+[
 
 
 [cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
@@ -145,11 +145,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbMTM3NzY2NjMxNywtMTI3ODg5MzQw
-OSw5NTEyOTQxOTksMTI4MjIzMTQwMyw3NzAzMDMwOTgsMTkzNz
-Q3MjQ3Nyw1NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwt
-MTg0MjcwMzQzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNT
-gyNjI3OTEzLC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5
-NDk4LDkwOTc0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LD
-E1ODYyOTE5NTBdfQ==
+VyXG4iLCJoaXN0b3J5IjpbMjY5NDg5NjQsMTM3NzY2NjMxNywt
+MTI3ODg5MzQwOSw5NTEyOTQxOTksMTI4MjIzMTQwMyw3NzAzMD
+MwOTgsMTkzNzQ3MjQ3Nyw1NjA1OTc4NywxMTQyNjA3MTg0LDQ3
+MzQ0MDUxNCwtMTg0MjcwMzQzMiwtOTAwOTQ1MDU5LC0xMTEyOD
+gzOTA5LC0xNTgyNjI3OTEzLC00NzY4OTg0MjMsMTE4NjUwNzc1
+NiwxMjg4Mzk5NDk4LDkwOTc0NjUzMSwxMDgxNjMwODExLC0xND
+QwNzk3MzE3XX0=
 -->
