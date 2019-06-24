@@ -84,6 +84,8 @@ Der second messenger dient der intrazellulären Weiterleitung eines von außen (
 ### Funktion
 >ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
 
+
+
 # Articles
 
 Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransduktion. 
@@ -135,11 +137,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbLTQ2MzIxNDc2NSwxMjgyMjMxNDAz
-LDc3MDMwMzA5OCwxOTM3NDcyNDc3LDU2MDU5Nzg3LDExNDI2MD
-cxODQsNDczNDQwNTE0LC0xODQyNzAzNDMyLC05MDA5NDUwNTks
-LTExMTI4ODM5MDksLTE1ODI2Mjc5MTMsLTQ3Njg5ODQyMywxMT
-g2NTA3NzU2LDEyODgzOTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4
-MTEsLTE0NDA3OTczMTcsMTU4NjI5MTk1MCwtMjIzODYwOTc1LD
-U5Mjg3MzY3MV19
+VyXG4iLCJoaXN0b3J5IjpbOTUxMjk0MTk5LDEyODIyMzE0MDMs
+NzcwMzAzMDk4LDE5Mzc0NzI0NzcsNTYwNTk3ODcsMTE0MjYwNz
+E4NCw0NzM0NDA1MTQsLTE4NDI3MDM0MzIsLTkwMDk0NTA1OSwt
+MTExMjg4MzkwOSwtMTU4MjYyNzkxMywtNDc2ODk4NDIzLDExOD
+Y1MDc3NTYsMTI4ODM5OTQ5OCw5MDk3NDY1MzEsMTA4MTYzMDgx
+MSwtMTQ0MDc5NzMxNywxNTg2MjkxOTUwLC0yMjM4NjA5NzUsNT
+kyODczNjcxXX0=
 -->
