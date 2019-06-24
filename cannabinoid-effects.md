@@ -70,7 +70,9 @@ Wenn in diesem Text oder in der wissenschaftlichen Literatur „Tyrosin“ ohne 
 
 # Transduktionspfade
 ## [Cannabinoid receptor signaling (Homo sapiens)][cannabinoid-pathway]
-![https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png](https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabinoid-pathway.png)
+
+## Dopamine Metabolism
+[![dopamine metabolism][dopamine-path]][dopamine-path-link]
 
 # Grundbegriffe
 
@@ -103,6 +105,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 
 
 
+[dopamine-path]:https://raw.githubusercontent.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/master/dopamine-WP2436_98240.svg?sanitize=true
+[dopamine-path-link]:https://www.wikipathways.org/index.php/Pathway:WP2436
 
 [cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [PKA]: https://de.wikipedia.org/wiki/Proteinkinase_A
@@ -145,11 +149,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbMTM3NzY2NjMxNywtMTI3ODg5MzQw
-OSw5NTEyOTQxOTksMTI4MjIzMTQwMyw3NzAzMDMwOTgsMTkzNz
-Q3MjQ3Nyw1NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwt
-MTg0MjcwMzQzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNT
-gyNjI3OTEzLC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5
-NDk4LDkwOTc0NjUzMSwxMDgxNjMwODExLC0xNDQwNzk3MzE3LD
-E1ODYyOTE5NTBdfQ==
+VyXG4iLCJoaXN0b3J5IjpbMTY0OTk4OTY1OCwxMzc3NjY2MzE3
+LC0xMjc4ODkzNDA5LDk1MTI5NDE5OSwxMjgyMjMxNDAzLDc3MD
+MwMzA5OCwxOTM3NDcyNDc3LDU2MDU5Nzg3LDExNDI2MDcxODQs
+NDczNDQwNTE0LC0xODQyNzAzNDMyLC05MDA5NDUwNTksLTExMT
+I4ODM5MDksLTE1ODI2Mjc5MTMsLTQ3Njg5ODQyMywxMTg2NTA3
+NzU2LDEyODgzOTk0OTgsOTA5NzQ2NTMxLDEwODE2MzA4MTEsLT
+E0NDA3OTczMTddfQ==
 -->
