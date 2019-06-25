@@ -156,21 +156,10 @@ Two primary endocannabinoid receptors have been identified: CB1, first cloned in
 [![dopamine metabolism][dopamine-path]][dopamine-path-link]
 Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemical of the catecholamine and [phenethylamine](https://en.wikipedia.org/wiki/Phenethylamine "Phenethylamine") families. It functions both as a hormone and a neurotransmitter, and plays several important roles in the brain and body. It is an [amine](https://en.wikipedia.org/wiki/Amine "Amine") synthesized by removing a [carboxyl group](https://en.wikipedia.org/wiki/Carboxyl_group "Carboxyl group") from a molecule of its [precursor chemical](https://en.wikipedia.org/wiki/Precursor_(chemistry) "Precursor (chemistry)")  [L-DOPA](https://en.wikipedia.org/wiki/L-DOPA "L-DOPA"), which is [synthesized](https://en.wikipedia.org/wiki/Biosynthesis "Biosynthesis") in the brain and kidneys. Dopamine is also synthesized in plants and most animals. In the [brain](https://en.wikipedia.org/wiki/Brain "Brain"), dopamine functions as a [neurotransmitter](https://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter")—a chemical released by [neurons](https://en.wikipedia.org/wiki/Neuron "Neuron") (nerve cells) to send signals to other nerve cells. The brain includes several distinct [dopamine pathways](https://en.wikipedia.org/wiki/Dopaminergic_pathway "Dopaminergic pathway"), one of which plays a major role in the motivational component of [reward-motivated behavior](https://en.wikipedia.org/wiki/Reward_system "Reward system"). The anticipation of most types of rewards increases the level of dopamine in the brain,[[2]](https://en.wikipedia.org/wiki/Dopamine#cite_note-Dissecting_components_of_reward:_%E2%80%98liking%E2%80%99,_%E2%80%98wanting%E2%80%99,_and_learning-2)[_[not in citation given](https://en.wikipedia.org/wiki/Wikipedia:Verifiability "Wikipedia:Verifiability")_] and many [addictive](https://en.wikipedia.org/wiki/Addiction "Addiction")  [drugs](https://en.wikipedia.org/wiki/Psychoactive_drug "Psychoactive drug") increase dopamine release or block its reuptake into neurons following release. Other brain dopamine pathways are involved in [motor control](https://en.wikipedia.org/wiki/Motor_system "Motor system") and in controlling the release of various hormones. These pathways and [cell groups](https://en.wikipedia.org/wiki/Dopaminergic_cell_groups "Dopaminergic cell groups") form a dopamine system which is [neuromodulatory](https://en.wikipedia.org/wiki/Neuromodulation "Neuromodulation").
 
-# Enzyme
-## ADCY1
 
-**Adenylyl cyclase type 1**  is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")  that in humans is encoded by the  _ADCY1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/ADCY1#cite_note-pmid8314585-5)[[6]](https://en.wikipedia.org/wiki/ADCY1#cite_note-entrez-6). This gene encodes a form of adenylyl cyclase expressed in brain
-
-*ADCY1* is a calmodulin-sensitive [adenylyl cyclase](https://en.wikipedia.org/wiki/Adenylyl_cyclase "Adenylyl cyclase"). In terms of function, It may be involved in regulatory processes in the central nervous system; specifically, it may play a role in memory acquisition and learning. It is inhibited by the [G protein](https://en.wikipedia.org/wiki/G_protein "G protein")beta and gamma subunit complex.[[7]](https://en.wikipedia.org/wiki/ADCY1#cite_note-genecards-7)
-> Wikipedia - [ADCY1][wiki:ADCY1]
-
-This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. 
-
-ADCY1 (Adenylate Cyclase 1) is a Protein Coding gene. Diseases associated with ADCY1 include [Deafness, Autosomal Recessive 44](http://www.malacards.org/card/deafness_autosomal_recessive_44 "See Deafness, Autosomal Recessive 44 at Malacards") and [Autosomal Recessive Non-Syndromic Sensorineural Deafness Type Dfnb](http://www.malacards.org/card/autosomal_recessive_non_syndromic_sensorineural_deafness_type_dfnb "See Autosomal Recessive Non-Syndromic Sensorineural Deafness Type Dfnb at Malacards"). Among its related pathways are [RET signaling](http://pathcards.genecards.org/card/ret_signaling "See RET signaling at Pathcards") and [Oocyte meiosis](http://pathcards.genecards.org/card/oocyte_meiosis "See Oocyte meiosis at Pathcards"). Gene Ontology (GO) annotations related to this gene include _nucleotide binding_ and _phosphorus-oxygen lyase activity_. An important paralog of this gene is [ADCY5](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY5).
-> Genecards - [ADCY1]:[gene:ADCY1]
 # Articles
 
-Here's a list of 
+<del>Here's a list of articles well worth reading.</del>  Not yet listed.
 
 [spektrum:cAMP]:https://www.spektrum.de/lexikon/neurowissenschaft/camp/1842
 [spektrum:translated:cAMP]:https://translate.google.de/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.spektrum.de%2Flexikon%2Fneurowissenschaft%2Fcamp%2F1842
@@ -233,8 +222,8 @@ Here's a list of
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNTAzOTM3MjI5LDY3NT
-MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
-OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
-A3OTYzOTMsMjA5NzI5MDAyMV19
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTIyNjI4MDQxMiw2Nz
+UzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMjYzODcz
+MTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMT
+AwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
