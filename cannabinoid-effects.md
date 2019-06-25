@@ -103,7 +103,9 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 
 # Articles
 
-Here's a list of articles well worth reading
+Here's a list of articles well worth reading.
+
+
 
 
 [dopamine-path]:https://raw.githubusercontent.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/master/dopamine-WP2436_98240.svg?sanitize=true
@@ -151,7 +153,7 @@ Here's a list of articles well worth reading
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbLTMzMzI5NjExNCwtMjE0NjAwMTM3
+VyXG4iLCJoaXN0b3J5IjpbMTczMjYzNzM4OCwtMjE0NjAwMTM3
 MSwxNjQ5OTg5NjU4LDEzNzc2NjYzMTcsLTEyNzg4OTM0MDksOT
 UxMjk0MTk5LDEyODIyMzE0MDMsNzcwMzAzMDk4LDE5Mzc0NzI0
 NzcsNTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4ND
