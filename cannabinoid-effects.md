@@ -1,7 +1,7 @@
 
 
 # Chronic cannabis abuse - a neuro-biological primer
-
+<!--more-->
 # Vorwort 
 Dieser Artikel ist **nicht** vollständig. Dies ist bloß ein Entwurf und dessen Vollendung wird einige Zeit in Anspruch nehmen.
 
@@ -159,11 +159,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbLTk0NTExNTM5OCwtMjE0NjAwMTM3
-MSwxNjQ5OTg5NjU4LDEzNzc2NjYzMTcsLTEyNzg4OTM0MDksOT
-UxMjk0MTk5LDEyODIyMzE0MDMsNzcwMzAzMDk4LDE5Mzc0NzI0
-NzcsNTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4ND
-I3MDM0MzIsLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYy
-NzkxMywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OC
-w5MDk3NDY1MzFdfQ==
+VyXG4iLCJoaXN0b3J5IjpbLTE2NTA0OTQ2NzAsLTIxNDYwMDEz
+NzEsMTY0OTk4OTY1OCwxMzc3NjY2MzE3LC0xMjc4ODkzNDA5LD
+k1MTI5NDE5OSwxMjgyMjMxNDAzLDc3MDMwMzA5OCwxOTM3NDcy
+NDc3LDU2MDU5Nzg3LDExNDI2MDcxODQsNDczNDQwNTE0LC0xOD
+QyNzAzNDMyLC05MDA5NDUwNTksLTExMTI4ODM5MDksLTE1ODI2
+Mjc5MTMsLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OT
+gsOTA5NzQ2NTMxXX0=
 -->
