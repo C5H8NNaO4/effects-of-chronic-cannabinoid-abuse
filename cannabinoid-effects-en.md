@@ -125,10 +125,17 @@ Heterotrimeric G proteins located within the cell are activated by  [G protein-c
 
 # Receptors
 ## G protein-coupled receptor
+**G protein-coupled receptors**  (**GPCRs**), also known as  **seven-(pass)-transmembrane domain receptors**,  **7TM receptors**,  **heptahelical receptors**,  **serpentine receptor**, and  **G protein–linked receptors**  (**GPLR**), constitute a large  [protein family](https://en.wikipedia.org/wiki/Protein_family "Protein family")  of  [receptors](https://en.wikipedia.org/wiki/Cell_surface_receptor "Cell surface receptor")that detect  [molecules](https://en.wikipedia.org/wiki/Molecule "Molecule")  outside the  [cell](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)")  and activate internal  [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction "Signal transduction")  pathways and, ultimately, cellular responses. Coupling with  [G proteins](https://en.wikipedia.org/wiki/G_protein "G protein"), they are called seven-transmembrane receptors because they pass through the  [cell membrane](https://en.wikipedia.org/wiki/Cell_membrane "Cell membrane")  seven times.[[2]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-trz-2)
 
-**G-Protein-gekoppelte Rezeptoren**  ([englisch](https://de.wikipedia.org/wiki/Englische_Sprache "Englische Sprache")  _G protein-coupled receptor_,  _GPCR_) sind  [biologische](https://de.wikipedia.org/wiki/Biologie "Biologie")  [Rezeptoren](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)")  in der  [Zellmembran](https://de.wikipedia.org/wiki/Zellmembran "Zellmembran")  und der Membran von  [Endosomen](https://de.wikipedia.org/wiki/Endosom "Endosom"), die Signale über  [GTP](https://de.wikipedia.org/wiki/Guanosintriphosphat "Guanosintriphosphat")-bindende Proteine (kurz  [G-Proteine](https://de.wikipedia.org/wiki/G-Protein "G-Protein")) in das Zellinnere beziehungsweise das Innere des Endosoms weiterleiten ([Signaltransduktion](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")). In der  [Neurobiologie](https://de.wikipedia.org/wiki/Neurobiologie "Neurobiologie")  wird für G-Protein-gekoppelte Rezeptoren häufig der Begriff  **metabotrope Rezeptoren**  verwendet, um sie von einem anderen Rezeptortyp, den  [ligandengesteuerten Ionenkanälen](https://de.wikipedia.org/wiki/Ionotroper_Rezeptor "Ionotroper Rezeptor")  (Ionotroper Rezeptor), zu unterscheiden.[[1]](https://de.wikipedia.org/wiki/G-Protein-gekoppelte_Rezeptoren#cite_note-1)
+G protein-coupled receptors are found only in  [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote "Eukaryote"), including  [yeast](https://en.wikipedia.org/wiki/Yeast "Yeast"),  [choanoflagellates](https://en.wikipedia.org/wiki/Choanoflagellate "Choanoflagellate"),[[3]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-pmid12869759-3)  and animals. The  [ligands](https://en.wikipedia.org/wiki/Ligand_(biochemistry) "Ligand (biochemistry)")  that bind and activate these receptors include light-sensitive compounds,  [odors](https://en.wikipedia.org/wiki/Odor "Odor"),  [pheromones](https://en.wikipedia.org/wiki/Pheromone "Pheromone"),  [hormones](https://en.wikipedia.org/wiki/Hormone "Hormone"), and  [neurotransmitters](https://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), and vary in size from small molecules to  [peptides](https://en.wikipedia.org/wiki/Peptide "Peptide")  to large  [proteins](https://en.wikipedia.org/wiki/Protein "Protein"). G protein-coupled receptors are involved in many diseases, and are also the target of approximately 34% of all modern medicinal drugs.[[4]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-4)[[5]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-pmid17139284-5)[[6]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-pmid29075003-6)
 
-Die Familie der G-Protein-gekoppelten Rezeptoren stellt mit mehr als 1000 verschiedenen Mitgliedern die größte Proteinsuperfamilie dar. G-Protein-gekoppelte Rezeptoren sind für die Verarbeitung von  [Licht](https://de.wikipedia.org/wiki/Licht "Licht")-,  [Geruchs](https://de.wikipedia.org/wiki/Geruch "Geruch")- und einer Vielzahl von  [Geschmacksreizen](https://de.wikipedia.org/wiki/Gustatorische_Wahrnehmung "Gustatorische Wahrnehmung")  verantwortlich. Sie spielen eine entscheidende Rolle bei  [Entzündungsprozessen](https://de.wikipedia.org/wiki/Entz%C3%BCndung "Entzündung"), der gezielten Zellbewegung ([Taxis](https://de.wikipedia.org/wiki/Taxis "Taxis")), dem Transport von Stoffen durch die Zellmembran ([Endozytose](https://de.wikipedia.org/wiki/Membrantransport "Membrantransport")  und  [Exozytose](https://de.wikipedia.org/wiki/Exozytose "Exozytose")) sowie beim  [Zellwachstum](https://de.wikipedia.org/wiki/Zellwachstum "Zellwachstum")  und bei der  [Zelldifferenzierung](https://de.wikipedia.org/wiki/Differenzierung_(Biologie) "Differenzierung (Biologie)"). Sie sind darüber hinaus als Zielstrukturen für die Wirkung von  [Hormonen](https://de.wikipedia.org/wiki/Hormon "Hormon"), wie  [Adrenalin](https://de.wikipedia.org/wiki/Adrenalin "Adrenalin")  oder  [Glucagon](https://de.wikipedia.org/wiki/Glucagon "Glucagon"), und  [Neurotransmittern](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), wie  [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin")  und  [Acetylcholin](https://de.wikipedia.org/wiki/Acetylcholin "Acetylcholin"), verantwortlich. Auch einige  [Viren](https://de.wikipedia.org/wiki/Viren "Viren")  nutzen G-Protein-gekoppelte Rezeptoren als Bindungsstellen für den Eintritt in die Zelle (beispielsweise  [HIV](https://de.wikipedia.org/wiki/HIV "HIV")).
+There are two principal signal transduction pathways involving the G protein-coupled receptors:
+
+-   the  [cAMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate")  signal pathway and
+-   the  [phosphatidylinositol](https://en.wikipedia.org/wiki/Phosphatidylinositol "Phosphatidylinositol")  signal pathway.[[7]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-Gilman_1987-7)
+
+When a ligand binds to the GPCR it causes a conformational change in the GPCR, which allows it to act as a  [guanine nucleotide exchange factor](https://en.wikipedia.org/wiki/Guanine_nucleotide_exchange_factor "Guanine nucleotide exchange factor")  (GEF). The GPCR can then activate an associated  [G protein](https://en.wikipedia.org/wiki/G_protein "G protein")  by exchanging the  [GDP](https://en.wikipedia.org/wiki/Guanosine_diphosphate "Guanosine diphosphate")  bound to the G protein for a  [GTP](https://en.wikipedia.org/wiki/Guanosine_triphosphate "Guanosine triphosphate"). The G protein's α subunit, together with the bound GTP, can then dissociate from the β and γ subunits to further affect intracellular signaling proteins or target functional proteins directly depending on the α subunit type ([Gαs](https://en.wikipedia.org/wiki/Gs_alpha_subunit "Gs alpha subunit"),  [Gαi/o](https://en.wikipedia.org/wiki/Gi_alpha_subunit "Gi alpha subunit"),  [Gαq/11](https://en.wikipedia.org/wiki/Gq_alpha_subunit "Gq alpha subunit"),  [Gα12/13](https://en.wikipedia.org/wiki/G12/G13_alpha_subunits "G12/G13 alpha subunits")).[[8]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-Wettschureck_2005-8)
+> Wikipedia - [G protein-coupled receptor][wiki:GPCR]
 
 # Amino acids 
 ## Tyrosin 
@@ -196,8 +203,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 
 
 [Enzym]: https://en.wikipedia.org/wiki/Enzyme
-[GPCR]: https://de.wikipedia.org/wiki/G-Protein-gekoppelte_Rezeptoren
-
+[GPCR]:  https://en.wikipedia.org/wiki/G_protein-coupled_receptor
 
 [PRKAR1A-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1A
 
@@ -228,8 +234,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTQ5NjUwMDQsNjc1Mz
-A4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5
-LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMD
-c5NjM5MywyMDk3MjkwMDIxXX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNTIxMTc0OTUyLDY3NT
+MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
+OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
+A3OTYzOTMsMjA5NzI5MDAyMV19
 -->
