@@ -90,7 +90,7 @@ All classes of adenylyl cyclase  [catalyse](https://en.wikipedia.org/wiki/Cataly
 From the perspective of  [biochemistry](https://en.wikipedia.org/wiki/Biochemistry "Biochemistry"), ATP is classified as a  [nucleoside triphosphate](https://en.wikipedia.org/wiki/Nucleoside_triphosphate "Nucleoside triphosphate"), which indicates that it consists of three components: a nitrogenous base ([adenine](https://en.wikipedia.org/wiki/Adenine "Adenine")), the sugar  [ribose](https://en.wikipedia.org/wiki/Ribose "Ribose"), and the  [triphosphate](https://en.wikipedia.org/wiki/Polyphosphate "Polyphosphate").
 
 ### cAMP
-**Cyclic adenosine monophosphate** (**cAMP**, **cyclic AMP**, or **3',5'-cyclic  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")**) is a [second messenger](https://en.wikipedia.org/wiki/Second_messenger "Second messenger")important in many biological processes. cAMP is a derivative of [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate") (ATP) and used for intracellular [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction "Signal transduction") in many different organisms, conveying the [cAMP-dependent pathway](https://en.wikipedia.org/wiki/CAMP-dependent_pathway "CAMP-dependent pathway"). It should not be confused with **5'-AMP**-activated protein kinase ([AMP-activated protein kinase](https://en.wikipedia.org/wiki/AMP-activated_protein_kinase "AMP-activated protein kinase")).
+**Cyclic adenosine monophosphate** (**cAMP**, **cyclic AMP**, or **3',5'-cyclic**  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")) is a [second messenger](https://en.wikipedia.org/wiki/Second_messenger "Second messenger")important in many biological processes. cAMP is a derivative of [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate") (ATP) and used for intracellular [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction "Signal transduction") in many different organisms, conveying the [cAMP-dependent pathway](https://en.wikipedia.org/wiki/CAMP-dependent_pathway "CAMP-dependent pathway"). It should not be confused with **5'-AMP**-activated protein kinase ([AMP-activated protein kinase](https://en.wikipedia.org/wiki/AMP-activated_protein_kinase "AMP-activated protein kinase")).
 
 
 [![cAMP Molecule][wiki:camp-molecule]][wiki:cAMP]
@@ -198,6 +198,6 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMjI4NDI2OTA5LC04OD
-I3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOls4MDQ4MTQ5NDcsLTg4Mj
+czOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
