@@ -115,6 +115,8 @@ The cAMP cascade is an intracellular  [signal transduction](https://translate.go
 > 
 In [cell biology](https://en.wikipedia.org/wiki/Cell_biology "Cell biology"), **protein kinase A** (**PKA**[[N 1]](https://en.wikipedia.org/wiki/Protein_kinase_A#cite_note-1)) is a family of [enzymes](https://en.wikipedia.org/wiki/Enzyme "Enzyme") whose activity is dependent on cellular levels of [cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_AMP "Cyclic AMP") (cAMP). PKA is also known as **cAMP-dependent protein kinase** ([EC](https://en.wikipedia.org/wiki/Enzyme_Commission_number "Enzyme Commission number")  [2.7.11.11](https://enzyme.expasy.org/EC/2.7.11.11)). Protein kinase A has several functions in the cell, including regulation of [glycogen](https://en.wikipedia.org/wiki/Glycogen "Glycogen"), [sugar](https://en.wikipedia.org/wiki/Sugar "Sugar"), and [lipid](https://en.wikipedia.org/wiki/Lipid "Lipid")  [metabolism](https://en.wikipedia.org/wiki/Metabolism "Metabolism").
 
+---
+
 ### G-Protein 
 Die Bezeichnung **G-Protein** steht vereinfacht für _Guanosintriphosphat-bindendes  [Protein](https://de.wikipedia.org/wiki/Protein "Protein")_ oder _GTP-bindendes Protein_. G-Proteine besetzen eine Schlüsselposition in der Signalweiterleitung ([Signaltransduktion](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")) zwischen [Rezeptor](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)") und [Second-Messenger](https://de.wikipedia.org/wiki/Second_Messenger "Second Messenger")-Systemen. Man unterscheidet zwischen membranständigen [_heterotrimeren_  G-Proteinen](https://de.wikipedia.org/wiki/Heterotrimeres_G-Protein "Heterotrimeres G-Protein") und cytosolischen sogenannten [_kleinen_  G-Proteinen](https://de.wikipedia.org/wiki/Kleine_GTPase "Kleine GTPase").
 
@@ -218,7 +220,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTcxODM1NjY5MCwyMT
-I2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3
-MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODE5ODM5Mzk5LDIxMj
+YzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTcz
+MiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
