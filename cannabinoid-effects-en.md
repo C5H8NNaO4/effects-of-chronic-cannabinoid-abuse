@@ -182,7 +182,9 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 # Articles
 
 <del>Here's a list of articles well worth reading.</del>  Not yet listed.
- [The effects of Δ9-tetrahydrocannabinol on the dopamine system][thc-effects-dopamin
+ [The effects of Δ9-tetrahydrocannabinol on the dopamine system][thc-effects-dopamine]
+ >www.ncbi.nlm.nih.gov
+
 [spektrum:cAMP]:https://www.spektrum.de/lexikon/neurowissenschaft/camp/1842
 [spektrum:translated:cAMP]:https://translate.google.de/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.spektrum.de%2Flexikon%2Fneurowissenschaft%2Fcamp%2F1842
 [spektrum:AC]:https://www.spektrum.de/lexikon/neurowissenschaft/adenylatcyclase/147
@@ -250,9 +252,9 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NTYyNzg1MzQ1LC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNj
-ExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIz
-OTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMT
-I2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3
-MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
+NzI3MDY4MDQsLTIwNzU3OTE3NDIsLTExODI0ODE5MTIsNjA2MT
+EwODA3LC0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMTk4NTUwMjM5
+MSw2NzUzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMj
+YzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTcz
+MiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
