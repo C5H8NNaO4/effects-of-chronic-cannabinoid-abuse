@@ -8,7 +8,7 @@ This article is **not** complete yet. This is just a draft and its completion wi
 
 Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, please read the following sections. However, do not expect any conclusions.
 
-The whole thing is very superficial. Gradually, information is being collected that links the following diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal and to explain the effect of common psychotropic drugs.
+The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal and to explain the effect of common psychotropic drugs.
 
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
@@ -247,9 +247,9 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MT
-M4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMwODYx
-MiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMxOSwxNT
-A3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYz
-OTMsMjA5NzI5MDAyMV19
+NDk4MTYxMjExLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNj
+ExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIz
+OTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMT
+I2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3
+MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
 -->
