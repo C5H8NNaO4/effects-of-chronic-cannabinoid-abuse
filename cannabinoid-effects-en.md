@@ -179,10 +179,12 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!-- Wikipedia references -->
 [wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/800px-Cyclic-AMPchemdraw.png
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
+
 [wiki:cerebellum]:https://en.wikipedia.org/wiki/Cerebellum
 [wiki:PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
+[wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
+[wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
 
-[PK]:https://en.wikipedia.org/wiki/Protein_kinase
 [PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [Serin]: https://en.wikipedia.org/wiki/Serine
 [wiki:ADC]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
@@ -223,7 +225,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODc0Njk0MzMyLC04MT
-k4MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0
-NywtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxNjA3NjQ2NzkxLC04Nz
+Q2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5LDE1MDcxMzc4
+ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMD
+k3MjkwMDIxXX0=
 -->
