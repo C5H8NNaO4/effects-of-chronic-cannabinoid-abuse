@@ -31,11 +31,11 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 THC activates the CNR1, which inhibits [ADCY1][wiki:adcy1] in the synaptic cleft, leading to a reduction in ATP-cAMP transformation
 >All classes of adenylyl cyclase [catalyse](https://en.wikipedia.org/wiki/Catalysis "Catalysis") the conversion of [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate") (ATP) to [3',5'-cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate") (cAMP) and [pyrophosphate](https://en.wikipedia.org/wiki/Pyrophosphate "Pyrophosphate").[[4]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:2-4)
 >
-This results in a chronic deficiency of the secondary messenger *cAMP*, and a reduction of *PKA* transcription, which is dependent on the *cAMP* concentration in the cell. 
+This results in a chronic deficiency of the secondary messenger *cAMP*, and a reduction of *PKA* transcription, which is dependent on the *cAMP* concentration in the cell
 
-> PKA is also commonly known as cAMP-dependent protein kinase
-> 
-and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected] [cannabinoid pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
+> PKA is also commonly known as cAMP-dependent protein kinase {...] as protein expression varies from cell type to cell type, the proteins that are available for phosphorylation will depend upon the cell in which PKA is present. Thus, the effects of PKA activation vary.
+
+and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
 # Brain regions
 I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
@@ -237,8 +237,8 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTE3Mjc0MzkyNCwxOT
-g1NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4Mzkz
-OTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtOD
-gyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
+bCBQcmltZXJcbiIsImhpc3RvcnkiOls1ODM2Mjc3MzYsMTk4NT
+UwMjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5
+LDIxMjYzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4Mj
+czOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
