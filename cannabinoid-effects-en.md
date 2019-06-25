@@ -1,7 +1,7 @@
 
 
 # Chronic cannabis abuse - a neuro-biological primer
-With over 24 million users, cannabis is the most widely used drug in the USA. It a 
+With over 24 million users, cannabis is the most widely used drug in the USA. It's seemingly harmless substance, abuse however is not to be underestimated and can have tremendous consequences when abused over 
 
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
@@ -265,10 +265,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjEwMDIyOTU2NSwxOTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMD
-c1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNywtMTQxMzgz
-NzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyLC
-04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5LDE1MDcx
-Mzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5My
-wyMDk3MjkwMDIxXX0=
+NTcxNzM1NDE0LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDEsLTIwNz
+U3OTE3NDIsLTExODI0ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3
+NDk0LDEyMjg4MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTIsLT
+g3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEz
+Nzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzLD
+IwOTcyOTAwMjFdfQ==
 -->
