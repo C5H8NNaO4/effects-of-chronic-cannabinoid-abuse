@@ -123,7 +123,8 @@ There are two classes of G proteins. The first function as  [monomeric](https://
 Heterotrimeric G proteins located within the cell are activated by  [G protein-coupled receptors](https://en.wikipedia.org/wiki/G_protein-coupled_receptor "G protein-coupled receptor")  (GPCRs) that span the cell membrane.[[3]](https://en.wikipedia.org/wiki/G_protein#cite_note-3)Signaling molecules bind to a domain of the GPCR located outside the cell, and an intracellular GPCR domain then in turn activates a particular G protein. Some active-state GPCRs have also been shown to be "pre-coupled" with G proteins.[[4]](https://en.wikipedia.org/wiki/G_protein#cite_note-Kou_Qin-4)  The G protein activates a cascade of further signaling events that finally results in a change in cell function. G protein-coupled receptor and G proteins working together transmit signals from many  [hormones](https://en.wikipedia.org/wiki/Hormone "Hormone"),  [neurotransmitters](https://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), and other signaling factors.[[5]](https://en.wikipedia.org/wiki/G_protein#cite_note-Campbell-5)  G proteins regulate metabolic  [enzymes](https://en.wikipedia.org/wiki/Enzyme "Enzyme"),  [ion channels](https://en.wikipedia.org/wiki/Ion_channel "Ion channel"),  [transporter proteins](https://en.wikipedia.org/wiki/Membrane_transport_protein "Membrane transport protein"), and other parts of the cell machinery, controlling  [transcription](https://en.wikipedia.org/wiki/Transcription_(genetics) "Transcription (genetics)"),  [motility](https://en.wikipedia.org/wiki/Motility "Motility"),  [contractility](https://en.wikipedia.org/wiki/Contractility "Contractility"), and  [secretion](https://en.wikipedia.org/wiki/Secretion "Secretion"), which in turn regulate diverse systemic functions such as  [embryonic development](https://en.wikipedia.org/wiki/Embryonic_development "Embryonic development"), learning and memory, and  [homeostasis](https://en.wikipedia.org/wiki/Homeostasis "Homeostasis").[[6]](https://en.wikipedia.org/wiki/G_protein#cite_note-pmid12040175-6)
 > Wikipedia - [G protein][wiki:GP]
 
-### G-Protein-gekoppelte Rezeptoren
+# Receptors
+## G protein-coupled receptor
 
 **G-Protein-gekoppelte Rezeptoren**  ([englisch](https://de.wikipedia.org/wiki/Englische_Sprache "Englische Sprache")  _G protein-coupled receptor_,  _GPCR_) sind  [biologische](https://de.wikipedia.org/wiki/Biologie "Biologie")  [Rezeptoren](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)")  in der  [Zellmembran](https://de.wikipedia.org/wiki/Zellmembran "Zellmembran")  und der Membran von  [Endosomen](https://de.wikipedia.org/wiki/Endosom "Endosom"), die Signale über  [GTP](https://de.wikipedia.org/wiki/Guanosintriphosphat "Guanosintriphosphat")-bindende Proteine (kurz  [G-Proteine](https://de.wikipedia.org/wiki/G-Protein "G-Protein")) in das Zellinnere beziehungsweise das Innere des Endosoms weiterleiten ([Signaltransduktion](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")). In der  [Neurobiologie](https://de.wikipedia.org/wiki/Neurobiologie "Neurobiologie")  wird für G-Protein-gekoppelte Rezeptoren häufig der Begriff  **metabotrope Rezeptoren**  verwendet, um sie von einem anderen Rezeptortyp, den  [ligandengesteuerten Ionenkanälen](https://de.wikipedia.org/wiki/Ionotroper_Rezeptor "Ionotroper Rezeptor")  (Ionotroper Rezeptor), zu unterscheiden.[[1]](https://de.wikipedia.org/wiki/G-Protein-gekoppelte_Rezeptoren#cite_note-1)
 
@@ -182,7 +183,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 
 [wiki:cerebellum]:https://en.wikipedia.org/wiki/Cerebellum
-[wiki:GP]: https://de.wikipedia.org/wiki/G-Proteine
+[wiki:GP]: https://en.wikipedia.org/wiki/G_protein
 [wiki:PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
@@ -227,8 +228,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNzM4Njg3Mjg5LDY3NT
-MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
-OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
-A3OTYzOTMsMjA5NzI5MDAyMV19
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTQ5NjUwMDQsNjc1Mz
+A4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5
+LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMD
+c5NjM5MywyMDk3MjkwMDIxXX0=
 -->
