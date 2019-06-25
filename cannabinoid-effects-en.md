@@ -142,6 +142,7 @@ Heterotrimeric G proteins located within the cell are activated by  [G protein-c
 > Wikipedia - [G protein][wiki:GP]
 
 ## Enzymes / Genes
+
 ### ADCY1
 
 **Adenylyl cyclase type 1**  is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")  that in humans is encoded by the  _ADCY1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/ADCY1#cite_note-pmid8314585-5)[[6]](https://en.wikipedia.org/wiki/ADCY1#cite_note-entrez-6). This gene encodes a form of adenylyl cyclase expressed in brain
@@ -152,9 +153,11 @@ Heterotrimeric G proteins located within the cell are activated by  [G protein-c
 This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. 
 
 ADCY1 (Adenylate Cyclase 1) is a Protein Coding gene. Diseases associated with ADCY1 include [Deafness, Autosomal Recessive 44](http://www.malacards.org/card/deafness_autosomal_recessive_44 "See Deafness, Autosomal Recessive 44 at Malacards") and [Autosomal Recessive Non-Syndromic Sensorineural Deafness Type Dfnb](http://www.malacards.org/card/autosomal_recessive_non_syndromic_sensorineural_deafness_type_dfnb "See Autosomal Recessive Non-Syndromic Sensorineural Deafness Type Dfnb at Malacards"). Among its related pathways are [RET signaling](http://pathcards.genecards.org/card/ret_signaling "See RET signaling at Pathcards") and [Oocyte meiosis](http://pathcards.genecards.org/card/oocyte_meiosis "See Oocyte meiosis at Pathcards"). Gene Ontology (GO) annotations related to this gene include _nucleotide binding_ and _phosphorus-oxygen lyase activity_. An important paralog of this gene is [ADCY5](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY5).
+
 > Genecards - [ADCY1]:[gene:ADCY1]
-> 
+
 ## Amino acids 
+
 ### Tyrosin 
 
 **Tyrosin**  (abgekürzt  **Tyr**  oder  **Y**) ist in seiner natürlichen  [L](https://de.wikipedia.org/wiki/Deskriptor_(Chemie)#D-,_L- "Deskriptor (Chemie)")-Form eine nicht[essentielle](https://de.wikipedia.org/wiki/Essentielle_Stoffe "Essentielle Stoffe")  [proteinogene](https://de.wikipedia.org/wiki/Proteinogen "Proteinogen")  [_α_-](https://de.wikipedia.org/wiki/St%C3%A4ndigkeit "Ständigkeit")[Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4ure "Aminosäure"), die in den meisten  [Proteinen](https://de.wikipedia.org/wiki/Protein "Protein")  vorkommt. Tyrosin ist  [Ausgangssubstanz](https://de.wikipedia.org/wiki/Pr%C3%A4kursor "Präkursor")  für die  [Biosynthese](https://de.wikipedia.org/wiki/Biosynthese "Biosynthese")  von  [DOPA](https://de.wikipedia.org/wiki/Levodopa "Levodopa"),  [Dopamin](https://de.wikipedia.org/wiki/Dopamin "Dopamin"),  [Katecholaminen](https://de.wikipedia.org/wiki/Katecholamine "Katecholamine"),  [Melanin](https://de.wikipedia.org/wiki/Melanin "Melanin"),  [Thyroxin](https://de.wikipedia.org/wiki/Thyroxin "Thyroxin")  und  [Tyramin](https://de.wikipedia.org/wiki/Tyramin "Tyramin"). Die Biosynthese erfolgt in vielen Tieren aus der essentiellen Aminosäure  [Phenylalanin](https://de.wikipedia.org/wiki/Phenylalanin "Phenylalanin"), eine Beeinträchtigung dieses Weges kann vielfältige Defekte auslösen.
@@ -162,7 +165,9 @@ ADCY1 (Adenylate Cyclase 1) is a Protein Coding gene. Diseases associated with A
 Wenn in diesem Text oder in der wissenschaftlichen Literatur „Tyrosin“ ohne weiteren Namenszusatz ([Präfix](https://de.wikipedia.org/wiki/Pr%C3%A4fix "Präfix")) erwähnt wird, ist  L-Tyrosin gemeint.
 
 ## Signaling Pathways
+
 ### Cannabinoid receptor signaling (homo sapiens)
+
 [![cannabinoid receptor signaling][cannabinoid-path]][cannabinoid-path-link]
 
 The  **endocannabinoid system**  (**ECS**) is a biological system composed of endocannabinoids, which are  [endogenous](https://en.wikipedia.org/wiki/Endogenous "Endogenous")  [lipid](https://en.wikipedia.org/wiki/Lipid "Lipid")-based  [retrograde neurotransmitters](https://en.wikipedia.org/wiki/Retrograde_neurotransmission "Retrograde neurotransmission")  that bind to  [cannabinoid receptors](https://en.wikipedia.org/wiki/Cannabinoid_receptors "Cannabinoid receptors"), and cannabinoid receptor proteins that are expressed throughout the vertebrate  [central nervous system](https://en.wikipedia.org/wiki/Central_nervous_system "Central nervous system")  (including the  [brain](https://en.wikipedia.org/wiki/Brain "Brain")) and  [peripheral nervous system](https://en.wikipedia.org/wiki/Peripheral_nervous_system "Peripheral nervous system"). The endocannabinoid system is involved in regulating a variety of physiological and  [cognitive processes](https://en.wikipedia.org/wiki/Cognitive_process "Cognitive process")  including  [fertility](https://en.wikipedia.org/wiki/Fertility "Fertility"),[[1]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-1)  [pregnancy](https://en.wikipedia.org/wiki/Pregnancy "Pregnancy"),[[2]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-2)during  [pre](https://en.wikipedia.org/wiki/Prenatal_development "Prenatal development")- and  [postnatal](https://en.wikipedia.org/wiki/Postpartum_period "Postpartum period")  development,[[3]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-3)  [appetite](https://en.wikipedia.org/wiki/Appetite "Appetite"),  [pain-sensation](https://en.wikipedia.org/wiki/Nociception "Nociception"),  [mood](https://en.wikipedia.org/wiki/Mood_(psychology) "Mood (psychology)"), and  [memory](https://en.wikipedia.org/wiki/Memory "Memory"), and in mediating the  [pharmacological](https://en.wikipedia.org/wiki/Pharmacological "Pharmacological")  effects of  [cannabis](https://en.wikipedia.org/wiki/Cannabis_(drug) "Cannabis (drug)").[[4]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-4)[[5]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-5)  The ECS is also involved in mediating some of the physiological and cognitive effects of voluntary  [physical exercise](https://en.wikipedia.org/wiki/Physical_exercise "Physical exercise")  in humans and other animals, such as contributing to exercise-induced  [euphoria](https://en.wikipedia.org/wiki/Euphoria "Euphoria")  as well as modulating  [locomotor activity](https://en.wikipedia.org/wiki/Locomotor_activity "Locomotor activity")  and  [motivational salience](https://en.wikipedia.org/wiki/Motivational_salience "Motivational salience")  for  [rewards](https://en.wikipedia.org/wiki/Reward_system "Reward system").[[6]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-endocannabinoids-6)[[7]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-Primary-Runner's_high_definition-7)[[8]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-8)[[9]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-9)  In humans, the  [plasma](https://en.wikipedia.org/wiki/Blood_plasma "Blood plasma")  concentration of certain endocannabinoids (i.e.,  [anandamide](https://en.wikipedia.org/wiki/Anandamide "Anandamide")) have been found to rise during physical activity;[[6]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-endocannabinoids-6)[[7]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-Primary-Runner's_high_definition-7)  since endocannabinoids can effectively penetrate the  [blood–brain barrier](https://en.wikipedia.org/wiki/Blood%E2%80%93brain_barrier "Blood–brain barrier"), it has been suggested that anandamide, along with other  [euphoriant](https://en.wikipedia.org/wiki/Euphoriant "Euphoriant")  neurochemicals, contributes to the development of exercise-induced euphoria in humans, a state colloquially referred to as a  [runner's high](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#Euphoria "Neurobiological effects of physical exercise").[[6]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-endocannabinoids-6)[[7]](https://en.wikipedia.org/wiki/Endocannabinoid_system#cite_note-Primary-Runner's_high_definition-7)
@@ -238,9 +243,9 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxNTY5OTYyNzUwLDEyMj
-g4MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMz
-MiwtODE5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4Myw4MD
-Q4MTQ5NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAw
-MjFdfQ==
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTQxMzgzNzQ5NCwxMj
+I4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQz
+MzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsOD
+A0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMDk3Mjkw
+MDIxXX0=
 -->
