@@ -183,6 +183,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [cannabinoid-path-link]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
 <!-- Wikipedia references -->
+[wiki:ADCY1]:[https://en.wikipedia.org/w/index.php?title=ADCY1&gettingStartedReturn=true](https://en.wikipedia.org/w/index.php?title=ADCY1&gettingStartedReturn=true)
 [wiki:ATP]:https://en.wikipedia.org/wiki/Adenosine_triphosphate
 [wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/800px-Cyclic-AMPchemdraw.png
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
@@ -233,8 +234,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsyNTMzMjcxNjQsNjc1Mz
-A4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5
-LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMD
-c5NjM5MywyMDk3MjkwMDIxXX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODkyNzU4MjI5LDY3NT
+MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
+OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
+A3OTYzOTMsMjA5NzI5MDAyMV19
 -->
