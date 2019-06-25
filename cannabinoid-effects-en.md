@@ -116,7 +116,7 @@ The cAMP cascade is an intracellular  [signal transduction](https://translate.go
 In [cell biology](https://en.wikipedia.org/wiki/Cell_biology "Cell biology"), **protein kinase A** (**PKA**[[N 1]](https://en.wikipedia.org/wiki/Protein_kinase_A#cite_note-1)) is a family of [enzymes](https://en.wikipedia.org/wiki/Enzyme "Enzyme") whose activity is dependent on cellular levels of [cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_AMP "Cyclic AMP") (cAMP). PKA is also known as **cAMP-dependent protein kinase** ([EC](https://en.wikipedia.org/wiki/Enzyme_Commission_number "Enzyme Commission number")  [2.7.11.11](https://enzyme.expasy.org/EC/2.7.11.11)). Protein kinase A has several functions in the cell, including regulation of [glycogen](https://en.wikipedia.org/wiki/Glycogen "Glycogen"), [sugar](https://en.wikipedia.org/wiki/Sugar "Sugar"), and [lipid](https://en.wikipedia.org/wiki/Lipid "Lipid")  [metabolism](https://en.wikipedia.org/wiki/Metabolism "Metabolism").
 
 ---
-PKA plays a central role in nervous signal transduction you might want to read the whole [article][wiki:PKA
+PKA plays a central role in nervous signal transduction you might want to read the whole [article][wiki:PKA] especially the sections [Activation][wiki:PKA#Activation] and [Function][wiki:PKA#Function]
 
 ---
 
@@ -223,8 +223,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTA3Njg5Nzk0NCwtOD
-E5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5
-NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ
-==
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODc0Njk0MzMyLC04MT
+k4MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0
+NywtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
 -->
