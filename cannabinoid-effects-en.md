@@ -18,7 +18,7 @@ Mixed consumption of nicotine, cannabis, MDMA, psylocybin and LSD is not harmles
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time having fun. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
 
 ### Effects
-The effects of years of drug abuse are extensive and range from confusion, memory disorders, excessive sweating, depression, bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
+The effects of years of drug abuse are extensive and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
 \- Yes you can get stuck in a horrortrip and it's no fun at all.
 
 ### Treatments
@@ -256,11 +256,11 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-OTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMT
-gyNDgxOTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4
-NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLT
-gxOTgzOTM5OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0
-OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX
-0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTQzMTYxMjkwOSwxOTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMD
+c1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNywtMTQxMzgz
+NzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyLC
+04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5LDE1MDcx
+Mzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5My
+wyMDk3MjkwMDIxXX0=
 -->
