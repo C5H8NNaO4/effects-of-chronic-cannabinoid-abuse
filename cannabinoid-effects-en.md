@@ -99,7 +99,8 @@ From the perspective of  [biochemistry](https://en.wikipedia.org/wiki/Biochemist
 ##### cAMP Cascade:
 
 The cAMP cascade is an intracellular  [signal transduction](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.de&sl=de&sp=nmt4&tl=en&u=https://www.spektrum.de/lexikon/neurowissenschaft/signaltransduktion/11823&xid=17259,15700023,15700186,15700191,15700256,15700259&usg=ALkJrhjPVrkrDNUFfBwq7uh-GwCG2LIyYQ)  system in which the incoming signal is additionally amplified.  The binding of a  [hormone](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.de&sl=de&sp=nmt4&tl=en&u=https://www.spektrum.de/lexikon/neurowissenschaft/hormone/5649&xid=17259,15700023,15700186,15700191,15700256,15700259&usg=ALkJrhh2TXErLD2uRA_zDUmRoFAYweVDgA)  to a cell receptor (  [receptors](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.de&sl=de&sp=nmt4&tl=en&u=https://www.spektrum.de/lexikon/neurowissenschaft/rezeptoren/11010&xid=17259,15700023,15700186,15700191,15700256,15700259&usg=ALkJrhhv8Poy7BFRgA0XxX0WDYLAZRLkAQ)  ) starts the cascade.  First, a  [G protein](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.de&sl=de&sp=nmt4&tl=en&u=https://www.spektrum.de/lexikon/neurowissenschaft/g-proteine/4923&xid=17259,15700023,15700186,15700191,15700256,15700259&usg=ALkJrhiUOPHzUEjm0Kszka84P0v6QjGD8w)  adjacent to the receptor is activated, which then binds a GTP (guanosine 5'-triphosphate) and cleaves its α subunit.  This process induces the formation of cAMP until the GTP is hydrolyzed.  The cAMP in turn activates protein kinase A, which catalyses another reaction.  Until the goal of the cascade is reached, two more reaction steps may be necessary.  The amplification of the signal is effected by each of the activated messengers inducing the next step until it is itself degraded or inactivated.  The cAMP cascade is ubiquitous, but can trigger different metabolic processes in different cells.
-> Spektrum - [
+> Spektrum - [cAMP][spektrum:translated:cAMP]
+> 
 ### PKA - [Protein kinase A][PKA]
 Die **Proteinkinase A** (**PKA**) ist eine cAMP-abhängige [Proteinkinase][PKA] und zählt zu den [Serin][Serin]/[Threonin](https://de.wikipedia.org/wiki/Threonin "Threonin")-Kinasen. Sie ist im Vergleich zu anderen Proteinkinasen am besten untersucht und charakterisiert. PKA ist an der Regulation im [Energiestoffwechsel](https://de.wikipedia.org/wiki/Energiestoffwechsel "Energiestoffwechsel") ([Glykogen](https://de.wikipedia.org/wiki/Glykogen "Glykogen"), [Lipiden](https://de.wikipedia.org/wiki/Lipid "Lipid"), [Kohlenhydrate](https://de.wikipedia.org/wiki/Kohlenhydrate "Kohlenhydrate")) beteiligt. Außerdem spielt PKA eine wichtige Rolle bei der Modifikation von Synapsen und der Kontrolle bei Ionenkanälen. Schließlich werden über PKA spezielle [Transkriptionsfaktoren](https://de.wikipedia.org/wiki/Transkriptionsfaktor "Transkriptionsfaktor") aktiviert, das so genannte _cAMP-responsive element-binding protein_ (CREB). Durch einen Coaktivator (_CREB-binding protein_) wird die [Transkription](https://de.wikipedia.org/wiki/Transkription_(Biologie) "Transkription (Biologie)") von Zielgenen ermöglicht, die über ein cAMP-Antwortelement (_cAMP responsive element_) verfügen.
 
@@ -150,6 +151,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 > 
 > \- [https://www.spektrum.de/lexikon/biologie/transkription/67276][spektrum:transkription]
 
+[spektrum:translated:cAMP]:
 
 [https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate)
 <!-- Wiki Pathway References -->
@@ -202,7 +204,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOls4NzI4MjUyNDgsODA0OD
-E0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIx
-XX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstOTA3ODI5MTQ0LDgwND
+gxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAy
+MV19
 -->
