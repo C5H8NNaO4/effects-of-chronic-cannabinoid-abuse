@@ -39,6 +39,7 @@ THC activates the CNR1, which inhibits [ADCY1][ADCY1] in the synaptic cleft, lea
 
 # Brain regions
 I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
+
 >! Spoiler: It's mostly Wikipedia. 
 
 ## First Messenger - Ligand
@@ -235,7 +236,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNjQyMDY3Nzg5LDY3NT
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlsyMDA2NTQyMTc3LDY3NT
 MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
 OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
 A3OTYzOTMsMjA5NzI5MDAyMV19
