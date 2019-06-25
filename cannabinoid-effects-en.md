@@ -6,9 +6,9 @@
 
 This article is **not** complete yet. This is just a draft and its completion will take some time.
 
-At this time, this article contains only a collection of basic neurobiological know. If you are interested in this topic, you are welcome to read through the following sections; However, do not expect to be able to draw any conclusions.
+Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, please read the following sections. However, do not expect any conclusions.
 
-The whole thing is kept very superficial. Gradually, information is collected here which connects the following mentioned diseases to their respective neuropathological causes in order to obtain a general overview of the neurobiological functioning of a withdrawal and to explain the effect of common psychotropic drugs.
+The whole thing is very superficial. Gradually, information is being collected that links the following diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal and to explain the effect of common psychotropic drugs.
 
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
@@ -247,9 +247,9 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTE4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyOD
-gxODQzNywxOTg1NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMy
-LC04MTk4MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwND
-gxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAy
-MV19
+MjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MT
+M4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMwODYx
+MiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMxOSwxNT
+A3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYz
+OTMsMjA5NzI5MDAyMV19
 -->
