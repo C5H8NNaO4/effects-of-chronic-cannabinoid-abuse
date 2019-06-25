@@ -89,7 +89,8 @@ All classes of adenylyl cyclase  [catalyse](https://en.wikipedia.org/wiki/Cataly
 **Adenosine triphosphate**  (**ATP**) is a complex  [organic chemical](https://en.wikipedia.org/wiki/Organic_compound "Organic compound")  that provides energy to drive many processes in living  [cells](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)"), e.g. muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all forms of life, ATP is often referred to as the "molecular unit of  [currency](https://en.wikipedia.org/wiki/Currency "Currency")" of intracellular  [energy transfer](https://en.wikipedia.org/wiki/Energy_transfer "Energy transfer").[[2]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-2)  When consumed in  [metabolic](https://en.wikipedia.org/wiki/Metabolism "Metabolism")  processes, it converts either to  [adenosine diphosphate](https://en.wikipedia.org/wiki/Adenosine_diphosphate "Adenosine diphosphate")(ADP) or to  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")  (AMP). Other processes regenerate ATP so that the human body recycles its own body weight equivalent in ATP each day.[[3]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-3)  It is also a  [precursor](https://en.wikipedia.org/wiki/Precursor_(chemistry) "Precursor (chemistry)")  to DNA and RNA, and is used as a  [coenzyme](https://en.wikipedia.org/wiki/Coenzyme "Coenzyme").
 
 From the perspective of  [biochemistry](https://en.wikipedia.org/wiki/Biochemistry "Biochemistry"), ATP is classified as a  [nucleoside triphosphate](https://en.wikipedia.org/wiki/Nucleoside_triphosphate "Nucleoside triphosphate"), which indicates that it consists of three components: a nitrogenous base ([adenine](https://en.wikipedia.org/wiki/Adenine "Adenine")), the sugar  [ribose](https://en.wikipedia.org/wiki/Ribose "Ribose"), and the  [triphosphate](https://en.wikipedia.org/wiki/Polyphosphate "Polyphosphate").
-> Wikipedia - [ATP]
+> Wikipedia - [Adenosine triphosphate][wiki:ATP]
+> 
 ### cAMP 
 **Cyclic adenosine monophosphate** (**cAMP**, **cyclic AMP**, or **3',5'-cyclic**  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")) is a [second messenger](https://en.wikipedia.org/wiki/Second_messenger "Second messenger")important in many biological processes. cAMP is a derivative of [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate") (ATP) and used for intracellular [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction "Signal transduction") in many different organisms, conveying the [cAMP-dependent pathway](https://en.wikipedia.org/wiki/CAMP-dependent_pathway "CAMP-dependent pathway"). It should not be confused with **5'-AMP**-activated protein kinase ([AMP-activated protein kinase](https://en.wikipedia.org/wiki/AMP-activated_protein_kinase "AMP-activated protein kinase")).
 [![cAMP Molecule][wiki:camp-molecule]][wiki:cAMP]
@@ -171,6 +172,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [cannabinoid-path-link]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
 <!-- Wikipedia references -->
+[wiki:ATP]:https://en.wikipedia.org/wiki/Adenosine_triphosphate
 [wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/800px-Cyclic-AMPchemdraw.png
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 
@@ -219,7 +221,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNjU3NjM1MDc4LDY3NT
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNDU5Nzk0MDAzLDY3NT
 MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
 OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
 A3OTYzOTMsMjA5NzI5MDAyMV19
