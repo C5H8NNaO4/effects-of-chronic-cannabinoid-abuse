@@ -17,23 +17,16 @@ Mixed consumption of nicotine, cannabis, MDMA, psylocybin and LSD is not harmles
 
 I'm not trying to say drugs are bad (mhkay); I spent a lot of time having fun. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
 
-#
-
 ## Effects
-
 The effects of years of drug abuse are extensive and range from confusion, memory disorders, excessive sweating, depression, bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
 \- Yes you can get stuck in a horrortrip and it's no fun at all.
 
 ## Treatments
-
 The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
 
-## A neurobiological primer
-
-
+# A neurobiological primer
 
 ## THC, ADCY1, ATP, cAMP und die PKA Transkription
-Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADCY1] im synaptischen Spalt hemmt und führt so zu einer Reduktion der [ATP-cAMP Transformation][ADC].  So entsteht ein chronischer Mangel des sekundären Botenstoffes *cAMP*, was eine Reduktion der PKA-Transkription zur Folge hat, welche abhängig von der cAMP Konzentration in der Zelle ist und eventuell zu einer Dystonie der PKA [Genregulation][gene-regulation] im *Hippocampus*, *Cerebellum* und *Basalganglien* führt. [Spezifisch betroffen][cannabinoid-pathway] sind davon: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB und PRKACG.
 
 THC activates the CNR1, which inhibits [ADCY1][ADCY1] in the synaptic cleft, leading to a reduction in [ATP-cAMP transformation][ADC]. This results in a chronic deficiency of the secondary messenger *cAMP*, and a reduction of *PKA* transcription, which is dependent on the *cAMP* concentration in the cell and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected] [cannabinoid pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
@@ -55,7 +48,8 @@ Ligand binding to a  [receptor protein](https://en.wikipedia.org/wiki/Receptor_(
 They are one of the triggers of intracellular  [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction "Signal transduction")  cascades.[[1]](https://en.wikipedia.org/wiki/Second_messenger_system#cite_note-1)
 
 Examples of second messenger molecules include  [cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate"),  [cyclic GMP](https://en.wikipedia.org/wiki/Cyclic_guanosine_monophosphate "Cyclic guanosine monophosphate"),  [inositol trisphosphate](https://en.wikipedia.org/wiki/Inositol_trisphosphate "Inositol trisphosphate"),  [diacylglycerol](https://en.wikipedia.org/wiki/Diacylglycerol "Diacylglycerol"), and  [calcium](https://en.wikipedia.org/wiki/Calcium "Calcium").[[2]](https://en.wikipedia.org/wiki/Second_messenger_system#cite_note-2)  First messengers are extracellular factors, often  [hormones](https://en.wikipedia.org/wiki/Hormone "Hormone")  or  [neurotransmitters](https://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), such as  [epinephrine](https://en.wikipedia.org/wiki/Epinephrine "Epinephrine"),  [growth hormone](https://en.wikipedia.org/wiki/Growth_hormone "Growth hormone"), and  [serotonin](https://en.wikipedia.org/wiki/Serotonin "Serotonin"). Because  [peptide hormones](https://en.wikipedia.org/wiki/Peptide_hormone "Peptide hormone")  and neurotransmitters typically are biochemically  [hydrophilic](https://en.wikipedia.org/wiki/Hydrophile "Hydrophile")molecules, these first messengers may not physically cross the phospholipid bilayer to initiate changes within the cell directly—unlike  [steroid hormones](https://en.wikipedia.org/wiki/Steroid_hormone "Steroid hormone"), which usually do. This functional limitation necessitates the cell to devise signal transduction mechanisms to transduce first messenger into second messengers, so that the extracellular signal may be propagated intracellularly. An important feature of the second messenger signaling system is that second messengers may be coupled downstream to multi-cyclic kinase cascades to greatly amplify the strength of the original first messenger signal[[3]](https://en.wikipedia.org/wiki/Second_messenger_system#cite_note-3)[[4]](https://en.wikipedia.org/wiki/Second_messenger_system#cite_note-4). For example, RasGTP signals link with the  [Mitogen Activated Protein Kinase](https://en.wikipedia.org/wiki/Mitogen-activated_protein_kinase "Mitogen-activated protein kinase")  (MAPK) cascade to amplify the allosteric activation of proliferative transcription factors such as  [Myc](https://en.wikipedia.org/wiki/Myc "Myc")  and  [CREB](https://en.wikipedia.org/wiki/CREB "CREB").
-## Worth knowing
+
+# Brain Regions
 
 ### Hippocampus
 The  **hippocampus**  (from the  [Greek](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek")  ἱππόκαμπος, "[seahorse](https://en.wikipedia.org/wiki/Seahorse "Seahorse")" from ἵππος  _hippos_, "horse" and κάμπος  _kampos_, "sea-monster") is a major component of the  [brain](https://en.wikipedia.org/wiki/Brain "Brain")  of  [humans](https://en.wikipedia.org/wiki/Human "Human")  and other  [vertebrates](https://en.wikipedia.org/wiki/Vertebrates "Vertebrates"). Humans and other mammals have two hippocampi, one in each  [side of the brain](https://en.wikipedia.org/wiki/Cerebral_hemisphere "Cerebral hemisphere"). The hippocampus is part of the  [limbic system](https://en.wikipedia.org/wiki/Limbic_system "Limbic system"), and plays important roles in the  [consolidation](https://en.wikipedia.org/wiki/Memory_consolidation "Memory consolidation")  of information from  [short-term memory](https://en.wikipedia.org/wiki/Short-term_memory "Short-term memory")  to  [long-term memory](https://en.wikipedia.org/wiki/Long-term_memory "Long-term memory"), and in  [spatial memory](https://en.wikipedia.org/wiki/Spatial_memory "Spatial memory")  that enables navigation. The hippocampus is located under the  [cerebral cortex](https://en.wikipedia.org/wiki/Cerebral_cortex "Cerebral cortex")  in the  [allocortex](https://en.wikipedia.org/wiki/Allocortex "Allocortex"),[[1]](https://en.wikipedia.org/wiki/Hippocampus#cite_note-Martin2003-1)[[2]](https://en.wikipedia.org/wiki/Hippocampus#cite_note-Amaral2007-1a-2)[[3]](https://en.wikipedia.org/wiki/Hippocampus#cite_note-Amaral2007-1b-3)  and in  [primates](https://en.wikipedia.org/wiki/Primate "Primate")  it is in the  [medial temporal lobe](https://en.wikipedia.org/wiki/Medial_temporal_lobe "Medial temporal lobe"). It contains two main interlocking parts: the  [hippocampus proper](https://en.wikipedia.org/wiki/Hippocampus_proper "Hippocampus proper")(also called Ammon's horn)[[4]](https://en.wikipedia.org/wiki/Hippocampus#cite_note-Pearce01-4)  and the  [dentate gyrus](https://en.wikipedia.org/wiki/Dentate_gyrus "Dentate gyrus").
@@ -236,8 +230,8 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsyMDA2NTQyMTc3LDY3NT
-MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
-OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
-A3OTYzOTMsMjA5NzI5MDAyMV19
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTM3Nzg2NDc2NSw2Nz
+UzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMjYzODcz
+MTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMT
+AwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
