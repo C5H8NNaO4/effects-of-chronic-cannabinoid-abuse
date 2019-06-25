@@ -198,6 +198,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
  [signal-transduction-via-cannabinoid-receptors]: http://asd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTQxNjY0MiwtODgyNzM5NzMyLC0xMD
-A3OTYzOTMsMjA5NzI5MDAyMV19
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
+BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNTIwMzE0OTMyLC04OD
+I3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
 -->
