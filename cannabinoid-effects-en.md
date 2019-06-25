@@ -98,7 +98,7 @@ In addition to its direct role in motor control, the cerebellum is necessary for
 
 The primary  [endogenous agonist](https://en.wikipedia.org/wiki/Endogenous_agonist "Endogenous agonist")  of the human CB1  receptor is  [anandamide](https://en.wikipedia.org/wiki/Anandamide "Anandamide").[[5]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-IUPHAR_CB1_Receptor-5)
 
-## G protein-coupled receptor
+### G protein-coupled receptor
 **G protein-coupled receptors**  (**GPCRs**), also known as  **seven-(pass)-transmembrane domain receptors**,  **7TM receptors**,  **heptahelical receptors**,  **serpentine receptor**, and  **G protein–linked receptors**  (**GPLR**), constitute a large  [protein family](https://en.wikipedia.org/wiki/Protein_family "Protein family")  of  [receptors](https://en.wikipedia.org/wiki/Cell_surface_receptor "Cell surface receptor")that detect  [molecules](https://en.wikipedia.org/wiki/Molecule "Molecule")  outside the  [cell](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)")  and activate internal  [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction "Signal transduction")  pathways and, ultimately, cellular responses. Coupling with  [G proteins](https://en.wikipedia.org/wiki/G_protein "G protein"), they are called seven-transmembrane receptors because they pass through the  [cell membrane](https://en.wikipedia.org/wiki/Cell_membrane "Cell membrane")  seven times.[[2]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-trz-2)
 
 G protein-coupled receptors are found only in  [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote "Eukaryote"), including  [yeast](https://en.wikipedia.org/wiki/Yeast "Yeast"),  [choanoflagellates](https://en.wikipedia.org/wiki/Choanoflagellate "Choanoflagellate"),[[3]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-pmid12869759-3)  and animals. The  [ligands](https://en.wikipedia.org/wiki/Ligand_(biochemistry) "Ligand (biochemistry)")  that bind and activate these receptors include light-sensitive compounds,  [odors](https://en.wikipedia.org/wiki/Odor "Odor"),  [pheromones](https://en.wikipedia.org/wiki/Pheromone "Pheromone"),  [hormones](https://en.wikipedia.org/wiki/Hormone "Hormone"), and  [neurotransmitters](https://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), and vary in size from small molecules to  [peptides](https://en.wikipedia.org/wiki/Peptide "Peptide")  to large  [proteins](https://en.wikipedia.org/wiki/Protein "Protein"). G protein-coupled receptors are involved in many diseases, and are also the target of approximately 34% of all modern medicinal drugs.[[4]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-4)[[5]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-pmid17139284-5)[[6]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-pmid29075003-6)
@@ -241,8 +241,9 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxMjI4ODE4NDM3LDE5OD
-U1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5
-OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04OD
-I3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxMzIzMDk4MTg2LDEyMj
+g4MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMz
+MiwtODE5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4Myw4MD
+Q4MTQ5NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAw
+MjFdfQ==
 -->
