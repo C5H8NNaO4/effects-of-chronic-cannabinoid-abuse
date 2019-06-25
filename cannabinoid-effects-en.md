@@ -26,8 +26,11 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 
 # A neurobiological primer
 
-## THC, ADCY1, ATP, cAMP und die PKA Transkription
-
+I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
+>! Spoiler: It's mostly Wikipedia. 
+>
+# Basics
+### THC, ADCY1, ATP, cAMP und die PKA Transkription
 THC activates the CNR1, which inhibits [ADCY1][wiki:adcy1] in the synaptic cleft, leading to a reduction in ATP-cAMP transformation
 >All classes of adenylyl cyclase [catalyse](https://en.wikipedia.org/wiki/Catalysis "Catalysis") the conversion of [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate") (ATP) to [3',5'-cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate") (cAMP) and [pyrophosphate](https://en.wikipedia.org/wiki/Pyrophosphate "Pyrophosphate").[[4]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:2-4)
 >
@@ -36,11 +39,6 @@ This results in a chronic deficiency of the secondary messenger *cAMP*, and a re
 > PKA is also commonly known as cAMP-dependent protein kinase {...] as protein expression varies from cell type to cell type, the proteins that are available for phosphorylation will depend upon the cell in which PKA is present. Thus, the effects of PKA activation vary.
 
 and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
-
-
-I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
-
->! Spoiler: It's mostly Wikipedia. 
 
 ## First Messenger - Ligand
 In  [biochemistry](https://en.wikipedia.org/wiki/Biochemistry "Biochemistry")  and  [pharmacology](https://en.wikipedia.org/wiki/Pharmacology "Pharmacology"), a  **ligand**  is a substance that forms a  [complex](https://en.wikipedia.org/wiki/Complex_(chemistry) "Complex (chemistry)")  with a  [biomolecule](https://en.wikipedia.org/wiki/Biomolecule "Biomolecule")  to serve a biological purpose. In protein-ligand binding, the ligand is usually a molecule which produces a signal by binding to a  [site](https://en.wikipedia.org/wiki/Binding_site "Binding site")  on a target  [protein](https://en.wikipedia.org/wiki/Protein "Protein"). The binding typically results in a change of  [conformational isomerism](https://en.wikipedia.org/wiki/Conformational_isomerism "Conformational isomerism")  (conformation) of the target protein. In DNA-ligand binding studies, the ligand can be a small molecule, ion,[[1]](https://en.wikipedia.org/wiki/Ligand_(biochemistry)#cite_note-1)  or protein[[2]](https://en.wikipedia.org/wiki/Ligand_(biochemistry)#cite_note-2)  which binds to the  [DNA double helix](https://en.wikipedia.org/wiki/Nucleic_acid_double_helix "Nucleic acid double helix"). The relationship between ligand and binding partner is a function of charge, hydrophobicity, and molecular structure. The instance of binding occurs over an infinitesimal range of time and space, so the rate constant is usually a very small number.
@@ -74,6 +72,7 @@ Anatomically, the human cerebellum has the appearance of a separate structure at
 
 In addition to its direct role in motor control, the cerebellum is necessary for several types of  [motor learning](https://en.wikipedia.org/wiki/Motor_learning "Motor learning"), most notably learning to adjust to changes in  [sensorimotor relationships](https://en.wikipedia.org/wiki/Sensory-motor_coupling "Sensory-motor coupling"). Several theoretical models have been developed to explain sensorimotor calibration in terms of  [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity "Synaptic plasticity")  within the cerebellum. These models derive from those formulated by  [David Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist) "David Marr (neuroscientist)")  and  [James Albus](https://en.wikipedia.org/wiki/James_S._Albus "James S. Albus"), based on the observation that each cerebellar Purkinje cell receives two dramatically different types of input: one comprises thousands of weak inputs from the  [parallel fibers](https://en.wikipedia.org/wiki/Parallel_fiber "Parallel fiber")  of the granule cells; the other is an extremely strong input from a single  [climbing fiber](https://en.wikipedia.org/wiki/Climbing_fiber "Climbing fiber").[[5]](https://en.wikipedia.org/wiki/Cerebellum#cite_note-Albus-5)  The basic concept of the  [Marr–Albus theory](https://en.wikipedia.org/wiki/Marr%E2%80%93Albus_theory "Marr–Albus theory")  is that the climbing fiber serves as a "teaching signal", which induces a long-lasting change in the strength of parallel fiber inputs. Observations of  [long-term depression](https://en.wikipedia.org/wiki/Long-term_depression "Long-term depression")  in parallel fiber inputs have provided support for theories of this type, but their validity remains controversial.[[6]](https://en.wikipedia.org/wiki/Cerebellum#cite_note-6)
 
+## Receptors
 ### CNR1
 **Cannabinoid receptor type 1**  (**CB1**), also known as  **cannabinoid receptor 1**, is a  [G protein-coupled](https://en.wikipedia.org/wiki/G_protein-coupled_receptor "G protein-coupled receptor")  [cannabinoid receptor](https://en.wikipedia.org/wiki/Cannabinoid_receptor "Cannabinoid receptor")that in humans is encoded by the  _CNR1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-IUPHAR_CB1_Receptor-5)  The human CB1  receptor is  [expressed](https://en.wikipedia.org/wiki/Gene_expression "Gene expression")  in the  [peripheral nervous system](https://en.wikipedia.org/wiki/Peripheral_nervous_system "Peripheral nervous system")and  [central nervous system](https://en.wikipedia.org/wiki/Central_nervous_system "Central nervous system").[[5]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-IUPHAR_CB1_Receptor-5)  It is activated by:  [endocannabinoids](https://en.wikipedia.org/wiki/Endocannabinoids "Endocannabinoids"), a group of  [retrograde neurotransmitters](https://en.wikipedia.org/wiki/Retrograde_signaling "Retrograde signaling")  that include  [anandamide](https://en.wikipedia.org/wiki/Anandamide "Anandamide")  and  [2-arachidonoylglycerol](https://en.wikipedia.org/wiki/2-arachidonoylglycerol "2-arachidonoylglycerol")  (2-AG); plant  [phytocannabinoids](https://en.wikipedia.org/wiki/Phytocannabinoid "Phytocannabinoid"), such as the compound  [THC](https://en.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol")  which is an active ingredient of the  [psychoactive drug](https://en.wikipedia.org/wiki/Psychoactive_drug "Psychoactive drug")  [cannabis](https://en.wikipedia.org/wiki/Cannabis_(drug) "Cannabis (drug)"); and,  [synthetic analogs of THC](https://en.wikipedia.org/wiki/Synthetic_cannabinoids "Synthetic cannabinoids"). CB1 is  [antagonized](https://en.wikipedia.org/wiki/Receptor_antagonist "Receptor antagonist")  by the phytocannabinoid  [tetrahydrocannabivarin](https://en.wikipedia.org/wiki/Tetrahydrocannabivarin "Tetrahydrocannabivarin")  (THCV).[[6]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-6)[[7]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-7)
 
@@ -237,7 +236,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODkyODkyNjA0LDE5OD
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMzc2MjAwMjc0LDE5OD
 U1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5
 OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04OD
 I3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
