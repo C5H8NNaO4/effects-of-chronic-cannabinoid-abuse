@@ -1,6 +1,9 @@
 
 
 # Chronic cannabis abuse - a neuro-biological primer
+
+[![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
+
 <!--more-->
 ## Preface
 
@@ -253,16 +256,18 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 [thc-effects-dopamine]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/
 [thc-effects-dopamine:41]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41
 
-
+<!-- images -->
+[cannabis-statistics-image]:https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabis-statistics.png
+[cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NTkxNjk1NzI3LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDEsLTIwNz
-U3OTE3NDIsLTExODI0ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3
-NDk0LDEyMjg4MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTIsLT
-g3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEz
-Nzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzLD
-IwOTcyOTAwMjFdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls5
+MzI5MTYxNTQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NT
+c5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0
+OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMwODYxMiwtOD
+c0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3
+ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYzOTMsMj
+A5NzI5MDAyMV19
 -->
