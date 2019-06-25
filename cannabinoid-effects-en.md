@@ -159,9 +159,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 # Enzyme
 ## ADCY1
 
-**Adenylyl cyclase type 1**  is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")  that in humans is encoded by the  _ADCY1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/ADCY1#cite_note-pmid8314585-5)[[6]](https://en.wikipedia.org/wiki/ADCY1#cite_note-entrez-6)
-
-This gene encodes a form of adenylyl cyclase expressed in brain
+**Adenylyl cyclase type 1**  is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")  that in humans is encoded by the  _ADCY1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/ADCY1#cite_note-pmid8314585-5)[[6]](https://en.wikipedia.org/wiki/ADCY1#cite_note-entrez-6). This gene encodes a form of adenylyl cyclase expressed in brain
 
 *ADCY1* is a calmodulin-sensitive [adenylyl cyclase](https://en.wikipedia.org/wiki/Adenylyl_cyclase "Adenylyl cyclase"). In terms of function, It may be involved in regulatory processes in the central nervous system; specifically, it may play a role in memory acquisition and learning. It is inhibited by the [G protein](https://en.wikipedia.org/wiki/G_protein "G protein")beta and gamma subunit complex.[[7]](https://en.wikipedia.org/wiki/ADCY1#cite_note-genecards-7)
 > Wikipedia - [ADCY1][wiki:ADCY1]
@@ -235,8 +233,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNzQzMzEwNTE4LDY3NT
-MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
-OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
-A3OTYzOTMsMjA5NzI5MDAyMV19
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlsyNTMzMjcxNjQsNjc1Mz
+A4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5
+LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMD
+c5NjM5MywyMDk3MjkwMDIxXX0=
 -->
