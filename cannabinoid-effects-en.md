@@ -110,8 +110,10 @@ From the perspective of  [biochemistry](https://en.wikipedia.org/wiki/Biochemist
 
 The cAMP cascade is an intracellular  [signal transduction](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.de&sl=de&sp=nmt4&tl=en&u=https://www.spektrum.de/lexikon/neurowissenschaft/signaltransduktion/11823&xid=17259,15700023,15700186,15700191,15700256,15700259&usg=ALkJrhjPVrkrDNUFfBwq7uh-GwCG2LIyYQ)  system in which the incoming signal is additionally amplified.  The binding of a  [hormone](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.de&sl=de&sp=nmt4&tl=en&u=https://www.spektrum.de/lexikon/neurowissenschaft/hormone/5649&xid=17259,15700023,15700186,15700191,15700256,15700259&usg=ALkJrhh2TXErLD2uRA_zDUmRoFAYweVDgA)  to a cell receptor (  [receptors](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.de&sl=de&sp=nmt4&tl=en&u=https://www.spektrum.de/lexikon/neurowissenschaft/rezeptoren/11010&xid=17259,15700023,15700186,15700191,15700256,15700259&usg=ALkJrhhv8Poy7BFRgA0XxX0WDYLAZRLkAQ)  ) starts the cascade.  First, a  [G protein](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.de&sl=de&sp=nmt4&tl=en&u=https://www.spektrum.de/lexikon/neurowissenschaft/g-proteine/4923&xid=17259,15700023,15700186,15700191,15700256,15700259&usg=ALkJrhiUOPHzUEjm0Kszka84P0v6QjGD8w)  adjacent to the receptor is activated, which then binds a GTP (guanosine 5'-triphosphate) and cleaves its α subunit.  This process induces the formation of cAMP until the GTP is hydrolyzed.  The cAMP in turn activates protein kinase A, which catalyses another reaction.  Until the goal of the cascade is reached, two more reaction steps may be necessary.  The amplification of the signal is effected by each of the activated messengers inducing the next step until it is itself degraded or inactivated.  The cAMP cascade is ubiquitous, but can trigger different metabolic processes in different cells.
 
-### PKA - [Protein kinase A][PKA]
-Die **Proteinkinase A** (**PKA**) ist eine cAMP-abhängige [Proteinkinase][PKA] und zählt zu den [Serin][Serin]/[Threonin](https://de.wikipedia.org/wiki/Threonin "Threonin")-Kinasen. Sie ist im Vergleich zu anderen Proteinkinasen am besten untersucht und charakterisiert. PKA ist an der Regulation im [Energiestoffwechsel](https://de.wikipedia.org/wiki/Energiestoffwechsel "Energiestoffwechsel") ([Glykogen](https://de.wikipedia.org/wiki/Glykogen "Glykogen"), [Lipiden](https://de.wikipedia.org/wiki/Lipid "Lipid"), [Kohlenhydrate](https://de.wikipedia.org/wiki/Kohlenhydrate "Kohlenhydrate")) beteiligt. Außerdem spielt PKA eine wichtige Rolle bei der Modifikation von Synapsen und der Kontrolle bei Ionenkanälen. Schließlich werden über PKA spezielle [Transkriptionsfaktoren](https://de.wikipedia.org/wiki/Transkriptionsfaktor "Transkriptionsfaktor") aktiviert, das so genannte _cAMP-responsive element-binding protein_ (CREB). Durch einen Coaktivator (_CREB-binding protein_) wird die [Transkription](https://de.wikipedia.org/wiki/Transkription_(Biologie) "Transkription (Biologie)") von Zielgenen ermöglicht, die über ein cAMP-Antwortelement (_cAMP responsive element_) verfügen.
+### PKA
+> Wikipedia - [Protein kinase A][wiki:PKA]
+> 
+In [cell biology](https://en.wikipedia.org/wiki/Cell_biology "Cell biology"), **protein kinase A** (**PKA**[[N 1]](https://en.wikipedia.org/wiki/Protein_kinase_A#cite_note-1)) is a family of [enzymes](https://en.wikipedia.org/wiki/Enzyme "Enzyme") whose activity is dependent on cellular levels of [cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_AMP "Cyclic AMP") (cAMP). PKA is also known as **cAMP-dependent protein kinase** ([EC](https://en.wikipedia.org/wiki/Enzyme_Commission_number "Enzyme Commission number")  [2.7.11.11](https://enzyme.expasy.org/EC/2.7.11.11)). Protein kinase A has several functions in the cell, including regulation of [glycogen](https://en.wikipedia.org/wiki/Glycogen "Glycogen"), [sugar](https://en.wikipedia.org/wiki/Sugar "Sugar"), and [lipid](https://en.wikipedia.org/wiki/Lipid "Lipid")  [metabolism](https://en.wikipedia.org/wiki/Metabolism "Metabolism").
 
 ### G-Protein 
 Die Bezeichnung **G-Protein** steht vereinfacht für _Guanosintriphosphat-bindendes  [Protein](https://de.wikipedia.org/wiki/Protein "Protein")_ oder _GTP-bindendes Protein_. G-Proteine besetzen eine Schlüsselposition in der Signalweiterleitung ([Signaltransduktion](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")) zwischen [Rezeptor](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)") und [Second-Messenger](https://de.wikipedia.org/wiki/Second_Messenger "Second Messenger")-Systemen. Man unterscheidet zwischen membranständigen [_heterotrimeren_  G-Proteinen](https://de.wikipedia.org/wiki/Heterotrimeres_G-Protein "Heterotrimeres G-Protein") und cytosolischen sogenannten [_kleinen_  G-Proteinen](https://de.wikipedia.org/wiki/Kleine_GTPase "Kleine GTPase").
@@ -173,6 +175,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/800px-Cyclic-AMPchemdraw.png
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [wiki:cerebellum]:https://en.wikipedia.org/wiki/Cerebellum
+[wiki:PKA]: 
 
 [PK]:https://en.wikipedia.org/wiki/Protein_kinase
 [PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
@@ -215,7 +218,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsyMTI2Mzg3MzE5LDE1MD
-cxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5
-MywyMDk3MjkwMDIxXX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxNDg5NTc5NjA2LDIxMj
+YzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTcz
+MiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
