@@ -92,9 +92,8 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 
 # Enzyme
 ## ADCY1
->**Adenylylcyclase Typ 1** ist ein [*Enzym*][Enzym], das beim Menschen vom ADCY1-Gen kodiert wird.
-
->Dieses Gen codiert eine Form von Adenylylcyclase, die im Gehirn exprimiert wird. Ein ähnliches Protein in Mäusen ist an der Musterbildung des Gehirns beteiligt.
+This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Aug 2013]
+> Gene
 
 ### Funktion
 >ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
@@ -153,11 +152,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbMTczMjYzNzM4OCwtMjE0NjAwMTM3
-MSwxNjQ5OTg5NjU4LDEzNzc2NjYzMTcsLTEyNzg4OTM0MDksOT
-UxMjk0MTk5LDEyODIyMzE0MDMsNzcwMzAzMDk4LDE5Mzc0NzI0
-NzcsNTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4ND
-I3MDM0MzIsLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYy
-NzkxMywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OC
-w5MDk3NDY1MzFdfQ==
+VyXG4iLCJoaXN0b3J5IjpbLTM4NDE1ODIwLC0yMTQ2MDAxMzcx
+LDE2NDk5ODk2NTgsMTM3NzY2NjMxNywtMTI3ODg5MzQwOSw5NT
+EyOTQxOTksMTI4MjIzMTQwMyw3NzAzMDMwOTgsMTkzNzQ3MjQ3
+Nyw1NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0Mj
+cwMzQzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3
+OTEzLC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LD
+kwOTc0NjUzMV19
 -->
