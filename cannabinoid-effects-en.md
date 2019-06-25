@@ -163,8 +163,10 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 
 *ADCY1* is a calmodulin-sensitive [adenylyl cyclase](https://en.wikipedia.org/wiki/Adenylyl_cyclase "Adenylyl cyclase"). In terms of function, It may be involved in regulatory processes in the central nervous system; specifically, it may play a role in memory acquisition and learning. It is inhibited by the [G protein](https://en.wikipedia.org/wiki/G_protein "G protein")beta and gamma subunit complex.[[7]](https://en.wikipedia.org/wiki/ADCY1#cite_note-genecards-7)
 > Wikipedia - [ADCY1][wiki:ADCY1]
-> 
-This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Aug 2013]
+
+This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. 
+
+> Genecards - [ADCY1]:[gene:ADCY1]
 # Articles
 
 Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransduktion. 
@@ -183,7 +185,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [cannabinoid-path-link]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
 <!-- Wikipedia references -->
-[wiki:ADCY1]:[https://en.wikipedia.org/w/index.php?title=ADCY1&gettingStartedReturn=true](https://en.wikipedia.org/w/index.php?title=ADCY1&gettingStartedReturn=true)
+[wiki:ADCY1]:https://en.wikipedia.org/w/index.php?title=ADCY1&gettingStartedReturn=true
 [wiki:ATP]:https://en.wikipedia.org/wiki/Adenosine_triphosphate
 [wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/800px-Cyclic-AMPchemdraw.png
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
@@ -196,13 +198,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:media:PKA]:https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/PKARII.svg/740px-PKARII.svg.png
-[PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
+
 [Serin]: https://en.wikipedia.org/wiki/Serine
 [wiki:ADC]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
-[ADCY1]: https://en.wikipedia.org/wiki/ADCY1
-[ecb-pathway]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
-
+<-
 [Enzym]: https://en.wikipedia.org/wiki/Enzyme
 
 [PRKAR1A-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1A
@@ -234,8 +234,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODkyNzU4MjI5LDY3NT
-MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
-OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
-A3OTYzOTMsMjA5NzI5MDAyMV19
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTU2NTc1MDQyNCw2Nz
+UzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMjYzODcz
+MTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMT
+AwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
