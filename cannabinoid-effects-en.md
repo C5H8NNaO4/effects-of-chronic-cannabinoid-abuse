@@ -151,7 +151,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 > 
 > \- [https://www.spektrum.de/lexikon/biologie/transkription/67276][spektrum:transkription]
 
-
+[spektrum:cAMP]:https://www.spektrum.de/lexikon/neurowissenschaft/camp/1842
 [spektrum:translated:cAMP]:https://translate.google.de/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.spektrum.de%2Flexikon%2Fneurowissenschaft%2Fcamp%2F1842
 
 <!-- Wiki Pathway References -->
@@ -204,7 +204,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMjAwNDY2ODU0MCw4MD
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTcyODg4MTEyNyw4MD
 Q4MTQ5NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAw
 MjFdfQ==
 -->
