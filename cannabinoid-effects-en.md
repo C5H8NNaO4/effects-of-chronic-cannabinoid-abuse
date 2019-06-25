@@ -166,14 +166,11 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 
 This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. 
 
+ADCY1 (Adenylate Cyclase 1) is a Protein Coding gene. Diseases associated with ADCY1 include [Deafness, Autosomal Recessive 44](http://www.malacards.org/card/deafness_autosomal_recessive_44 "See Deafness, Autosomal Recessive 44 at Malacards") and [Autosomal Recessive Non-Syndromic Sensorineural Deafness Type Dfnb](http://www.malacards.org/card/autosomal_recessive_non_syndromic_sensorineural_deafness_type_dfnb "See Autosomal Recessive Non-Syndromic Sensorineural Deafness Type Dfnb at Malacards"). Among its related pathways are [RET signaling](http://pathcards.genecards.org/card/ret_signaling "See RET signaling at Pathcards") and [Oocyte meiosis](http://pathcards.genecards.org/card/oocyte_meiosis "See Oocyte meiosis at Pathcards"). Gene Ontology (GO) annotations related to this gene include _nucleotide binding_ and _phosphorus-oxygen lyase activity_. An important paralog of this gene is [ADCY5](https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY5).
 > Genecards - [ADCY1]:[gene:ADCY1]
 # Articles
 
-Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransduktion. 
-
-> [**Transkription**][Transkription] _w_ [von latein. transcriptio = Umschrift; Verb _transkribieren_], _RNA-Synthese_, _RNS-Synthese_, der 1. Schritt der Genexpression, bei dem es, von bestimmten [RNA-Viren](https://www.spektrum.de/lexikon/biologie/rna-viren/57339) abgesehen, zu einer DNA-abhängigen ([Desoxyribonucleinsäure](https://www.spektrum.de/lexikon/biologie/desoxyribonucleinsaeuren/17575) fungiert als [Matrize](https://www.spektrum.de/lexikon/biologie/matrize/41400)) Synthese der [Ribonucleinsäuren](https://www.spektrum.de/lexikon/biologie/ribonucleinsaeuren/56954)kommt, die durch DNA-abhängige _[RNA-Polymerase](https://www.spektrum.de/lexikon/biologie/rna-polymerase/57324)_ katalysiert wird und zur Bildung von [messenger-RNA](https://www.spektrum.de/lexikon/biologie/messenger-rna/42380) (mRNA),[transfer-RNA](https://www.spektrum.de/lexikon/biologie/transfer-rna/67236) (tRNA), [ribosomaler RNA](https://www.spektrum.de/lexikon/biologie/ribosomale-rna/56971)(rRNA; [vgl. Abb. 1](https://www.spektrum.de/lexika/showpopup.php?lexikon_id=9&art_id=67276&nummer=30744) ) und einer Reihe weiterer RNA-Spezies führt. Die Transkription ähnelt der _DNA-[Replikation](https://www.spektrum.de/lexikon/biologie/replikation/56274)_ dahingehend, daß eine matrizenabhängige Synthese von[Nucleinsäuren](https://www.spektrum.de/lexikon/biologie/nucleinsaeuren/46910) aus Nucleosidtriphosphaten ([2’-Desoxyribonucleosid-5’-triphosphate](https://www.spektrum.de/lexikon/biologie/2-desoxyribonucleosid-5-triphosphate/17580), [Ribonucleosid-5’-triphosphate](https://www.spektrum.de/lexikon/biologie/ribonucleosid-5-triphosphate/56959)) erfolgt. Sie unterscheidet sich von dieser aber auch in wesentlichen Merkmalen [[...][blog:spektrum:transkription]]
-> 
-> \- [https://www.spektrum.de/lexikon/biologie/transkription/67276][spektrum:transkription]
+Here's a list of 
 
 [spektrum:cAMP]:https://www.spektrum.de/lexikon/neurowissenschaft/camp/1842
 [spektrum:translated:cAMP]:https://translate.google.de/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.spektrum.de%2Flexikon%2Fneurowissenschaft%2Fcamp%2F1842
@@ -202,7 +199,9 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [Serin]: https://en.wikipedia.org/wiki/Serine
 [wiki:ADC]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
 
-<-
+<!-- Genecard references-->
+[gene:ADCY1]:  https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1
+
 [Enzym]: https://en.wikipedia.org/wiki/Enzyme
 
 [PRKAR1A-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1A
@@ -234,8 +233,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTU2NTc1MDQyNCw2Nz
-UzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMjYzODcz
-MTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMT
-AwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNTAzOTM3MjI5LDY3NT
+MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
+OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
+A3OTYzOTMsMjA5NzI5MDAyMV19
 -->
