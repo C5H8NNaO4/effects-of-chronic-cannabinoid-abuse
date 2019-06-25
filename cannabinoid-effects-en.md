@@ -91,7 +91,9 @@ From the perspective of  [biochemistry](https://en.wikipedia.org/wiki/Biochemist
 
 ### cAMP
 **Cyclic adenosine monophosphate** (**cAMP**, **cyclic AMP**, or **3',5'-cyclic  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")**) is a [second messenger](https://en.wikipedia.org/wiki/Second_messenger "Second messenger")important in many biological processes. cAMP is a derivative of [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate") (ATP) and used for intracellular [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction "Signal transduction") in many different organisms, conveying the [cAMP-dependent pathway](https://en.wikipedia.org/wiki/CAMP-dependent_pathway "CAMP-dependent pathway"). It should not be confused with **5'-**AMP-activated protein kinase ([AMP-activated protein kinase](https://en.wikipedia.org/wiki/AMP-activated_protein_kinase "AMP-activated protein kinase")).
-[![cAMP Molecule][wiki:camp-molecule]][c
+<div style='display:flex' />
+[![cAMP Molecule][wiki:camp-molecule]][wiki:cAMP]
+</div>
 ### PKA - [Protein kinase A][PKA]
 Die **Proteinkinase A** (**PKA**) ist eine cAMP-abhängige [Proteinkinase][PKA] und zählt zu den [Serin][Serin]/[Threonin](https://de.wikipedia.org/wiki/Threonin "Threonin")-Kinasen. Sie ist im Vergleich zu anderen Proteinkinasen am besten untersucht und charakterisiert. PKA ist an der Regulation im [Energiestoffwechsel](https://de.wikipedia.org/wiki/Energiestoffwechsel "Energiestoffwechsel") ([Glykogen](https://de.wikipedia.org/wiki/Glykogen "Glykogen"), [Lipiden](https://de.wikipedia.org/wiki/Lipid "Lipid"), [Kohlenhydrate](https://de.wikipedia.org/wiki/Kohlenhydrate "Kohlenhydrate")) beteiligt. Außerdem spielt PKA eine wichtige Rolle bei der Modifikation von Synapsen und der Kontrolle bei Ionenkanälen. Schließlich werden über PKA spezielle [Transkriptionsfaktoren](https://de.wikipedia.org/wiki/Transkriptionsfaktor "Transkriptionsfaktor") aktiviert, das so genannte _cAMP-responsive element-binding protein_ (CREB). Durch einen Coaktivator (_CREB-binding protein_) wird die [Transkription](https://de.wikipedia.org/wiki/Transkription_(Biologie) "Transkription (Biologie)") von Zielgenen ermöglicht, die über ein cAMP-Antwortelement (_cAMP responsive element_) verfügen.
 
@@ -151,7 +153,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [cannabinoid-path-link]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
 <!-- Wikipedia references -->
-[cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
+[wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/220px-Cyclic-AMPchemdraw.png
+[wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [PK]:https://en.wikipedia.org/wiki/Protein_kinase
 [PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [Serin]: https://en.wikipedia.org/wiki/Serine
@@ -191,6 +194,6 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
  [signal-transduction-via-cannabinoid-receptors]: http://asd
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDczODA2NjUsLTg4MjczOTczMiwtMT
-AwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
+eyJoaXN0b3J5IjpbLTIyMzgzMjExNiwtODgyNzM5NzMyLC0xMD
+A3OTYzOTMsMjA5NzI5MDAyMV19
 -->
