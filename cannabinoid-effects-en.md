@@ -1,7 +1,7 @@
 
 
 # Chronic cannabis abuse - a neuro-biological primer
-
+<!--more-->
 ## Preface
 
 This article is **not** complete yet. This is just a draft and its completion will take some time.
@@ -245,9 +245,9 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMzk2MjUxMjMwLDYwNj
-ExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIz
-OTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMT
-I2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3
-MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTE4MzYxNDY3MCw2MD
+YxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAy
+MzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMj
+EyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5
+NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
 -->
