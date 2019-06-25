@@ -15,7 +15,7 @@ After 14 years of excessive THC consumption, the negative symptoms of drug abuse
 
 Mixed consumption of nicotine, cannabis, MDMA, psylocybin and LSD is not harmless and can have devastating consequences. 
 
-I'm not trying to say drugs are bad (mkay ). I spent a lot of time having fun. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
+I'm not trying to say drugs are bad (m'kay). I spent a lot of time having fun. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
 
 ## Effects
 The effects of years of drug abuse are extensive and range from confusion, memory disorders, excessive sweating, depression, bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
@@ -237,7 +237,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxODE0NDU1NDY5LDE5OD
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODU5Mjk5NzMyLDE5OD
 U1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5
 OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04OD
 I3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
