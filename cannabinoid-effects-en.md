@@ -74,7 +74,7 @@ The cAMP cascade is an intracellular  [signal transduction](https://translate.go
 
 > Spektrum - [cAMP][spektrum:cAMP] ([translated][spektrum:translated:cAMP])
 
-# Brain Regions
+## Brain Regions
 
 ### Hippocampus
 The  **hippocampus**  (from the  [Greek](https://en.wikipedia.org/wiki/Ancient_Greek "Ancient Greek")  ἱππόκαμπος, "[seahorse](https://en.wikipedia.org/wiki/Seahorse "Seahorse")" from ἵππος  _hippos_, "horse" and κάμπος  _kampos_, "sea-monster") is a major component of the  [brain](https://en.wikipedia.org/wiki/Brain "Brain")  of  [humans](https://en.wikipedia.org/wiki/Human "Human")  and other  [vertebrates](https://en.wikipedia.org/wiki/Vertebrates "Vertebrates"). Humans and other mammals have two hippocampi, one in each  [side of the brain](https://en.wikipedia.org/wiki/Cerebral_hemisphere "Cerebral hemisphere"). The hippocampus is part of the  [limbic system](https://en.wikipedia.org/wiki/Limbic_system "Limbic system"), and plays important roles in the  [consolidation](https://en.wikipedia.org/wiki/Memory_consolidation "Memory consolidation")  of information from  [short-term memory](https://en.wikipedia.org/wiki/Short-term_memory "Short-term memory")  to  [long-term memory](https://en.wikipedia.org/wiki/Long-term_memory "Long-term memory"), and in  [spatial memory](https://en.wikipedia.org/wiki/Spatial_memory "Spatial memory")  that enables navigation. The hippocampus is located under the  [cerebral cortex](https://en.wikipedia.org/wiki/Cerebral_cortex "Cerebral cortex")  in the  [allocortex](https://en.wikipedia.org/wiki/Allocortex "Allocortex"),[[1]](https://en.wikipedia.org/wiki/Hippocampus#cite_note-Martin2003-1)[[2]](https://en.wikipedia.org/wiki/Hippocampus#cite_note-Amaral2007-1a-2)[[3]](https://en.wikipedia.org/wiki/Hippocampus#cite_note-Amaral2007-1b-3)  and in  [primates](https://en.wikipedia.org/wiki/Primate "Primate")  it is in the  [medial temporal lobe](https://en.wikipedia.org/wiki/Medial_temporal_lobe "Medial temporal lobe"). It contains two main interlocking parts: the  [hippocampus proper](https://en.wikipedia.org/wiki/Hippocampus_proper "Hippocampus proper")(also called Ammon's horn)[[4]](https://en.wikipedia.org/wiki/Hippocampus#cite_note-Pearce01-4)  and the  [dentate gyrus](https://en.wikipedia.org/wiki/Dentate_gyrus "Dentate gyrus").
@@ -243,9 +243,9 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTQxMzgzNzQ5NCwxMj
-I4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQz
-MzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsOD
-A0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMDk3Mjkw
-MDIxXX0=
+bCBQcmltZXJcbiIsImhpc3RvcnkiOls2MDYxMTA4MDcsLTE0MT
+M4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMwODYx
+MiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMxOSwxNT
+A3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYz
+OTMsMjA5NzI5MDAyMV19
 -->
