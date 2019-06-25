@@ -97,7 +97,8 @@ In addition to its direct role in motor control, the cerebellum is necessary for
 The **Cannabinoid receptor type 1**  (**CB1**), also known as  **cannabinoid receptor 1**, is a  [G protein-coupled](https://en.wikipedia.org/wiki/G_protein-coupled_receptor "G protein-coupled receptor")  [cannabinoid receptor](https://en.wikipedia.org/wiki/Cannabinoid_receptor "Cannabinoid receptor")that in humans is encoded by the  _CNR1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-IUPHAR_CB1_Receptor-5)  The human CB1  receptor is  [expressed](https://en.wikipedia.org/wiki/Gene_expression "Gene expression")  in the  [peripheral nervous system](https://en.wikipedia.org/wiki/Peripheral_nervous_system "Peripheral nervous system")and  [central nervous system](https://en.wikipedia.org/wiki/Central_nervous_system "Central nervous system").[[5]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-IUPHAR_CB1_Receptor-5)  It is activated by:  [endocannabinoids](https://en.wikipedia.org/wiki/Endocannabinoids "Endocannabinoids"), a group of  [retrograde neurotransmitters](https://en.wikipedia.org/wiki/Retrograde_signaling "Retrograde signaling")  that include  [anandamide](https://en.wikipedia.org/wiki/Anandamide "Anandamide")  and  [2-arachidonoylglycerol](https://en.wikipedia.org/wiki/2-arachidonoylglycerol "2-arachidonoylglycerol")  (2-AG); plant  [phytocannabinoids](https://en.wikipedia.org/wiki/Phytocannabinoid "Phytocannabinoid"), such as the compound  [THC](https://en.wikipedia.org/wiki/Tetrahydrocannabinol "Tetrahydrocannabinol")  which is an active ingredient of the  [psychoactive drug](https://en.wikipedia.org/wiki/Psychoactive_drug "Psychoactive drug")  [cannabis](https://en.wikipedia.org/wiki/Cannabis_(drug) "Cannabis (drug)"); and,  [synthetic analogs of THC](https://en.wikipedia.org/wiki/Synthetic_cannabinoids "Synthetic cannabinoids"). CB1 is  [antagonized](https://en.wikipedia.org/wiki/Receptor_antagonist "Receptor antagonist")  by the phytocannabinoid  [tetrahydrocannabivarin](https://en.wikipedia.org/wiki/Tetrahydrocannabivarin "Tetrahydrocannabivarin")  (THCV).[[6]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-6)[[7]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-7)
 
 The primary  [endogenous agonist](https://en.wikipedia.org/wiki/Endogenous_agonist "Endogenous agonist")  of the human CB1  receptor is  [anandamide](https://en.wikipedia.org/wiki/Anandamide "Anandamide").[[5]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-IUPHAR_CB1_Receptor-5)
-> Wikipedia - [G protein][
+> Wikipedia - [G protein][wiki:GP]
+
 ### G protein-coupled receptor
 **G protein-coupled receptors**  (**GPCRs**), also known as  **seven-(pass)-transmembrane domain receptors**,  **7TM receptors**,  **heptahelical receptors**,  **serpentine receptor**, and  **G protein–linked receptors**  (**GPLR**), constitute a large  [protein family](https://en.wikipedia.org/wiki/Protein_family "Protein family")  of  [receptors](https://en.wikipedia.org/wiki/Cell_surface_receptor "Cell surface receptor")that detect  [molecules](https://en.wikipedia.org/wiki/Molecule "Molecule")  outside the  [cell](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)")  and activate internal  [signal transduction](https://en.wikipedia.org/wiki/Signal_transduction "Signal transduction")  pathways and, ultimately, cellular responses. Coupling with  [G proteins](https://en.wikipedia.org/wiki/G_protein "G protein"), they are called seven-transmembrane receptors because they pass through the  [cell membrane](https://en.wikipedia.org/wiki/Cell_membrane "Cell membrane")  seven times.[[2]](https://en.wikipedia.org/wiki/G_protein-coupled_receptor#cite_note-trz-2)
 
@@ -184,7 +185,8 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 
 [spektrum:cAMP]:https://www.spektrum.de/lexikon/neurowissenschaft/camp/1842
 [spektrum:translated:cAMP]:https://translate.google.de/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.spektrum.de%2Flexikon%2Fneurowissenschaft%2Fcamp%2F1842
-
+[spektrum:AC]:https://www.spektrum.de/lexikon/neurowissenschaft/adenylatcyclase/147
+[spektrum:AC]:https://www.spektrum.de/lexikon/neurowissenschaft/adenylatcyclase/147
 <!-- Wiki Pathway References -->
 [dopamine-path]:https://raw.githubusercontent.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/master/dopamine-WP2436_98240.svg?sanitize=true
 [dopamine-path-link]:https://www.wikipathways.org/index.php/Pathway:WP2436
@@ -243,7 +245,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMzUzODg2NTQwLDYwNj
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMzc3MDMwNzQyLDYwNj
 ExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIz
 OTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMT
 I2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3
