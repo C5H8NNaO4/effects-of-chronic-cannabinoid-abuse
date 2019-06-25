@@ -117,6 +117,8 @@ In [cell biology](https://en.wikipedia.org/wiki/Cell_biology "Cell biology"), **
 
 ---
 
+---
+
 ### G-Protein 
 Die Bezeichnung **G-Protein** steht vereinfacht für _Guanosintriphosphat-bindendes  [Protein](https://de.wikipedia.org/wiki/Protein "Protein")_ oder _GTP-bindendes Protein_. G-Proteine besetzen eine Schlüsselposition in der Signalweiterleitung ([Signaltransduktion](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")) zwischen [Rezeptor](https://de.wikipedia.org/wiki/Rezeptor_(Biochemie) "Rezeptor (Biochemie)") und [Second-Messenger](https://de.wikipedia.org/wiki/Second_Messenger "Second Messenger")-Systemen. Man unterscheidet zwischen membranständigen [_heterotrimeren_  G-Proteinen](https://de.wikipedia.org/wiki/Heterotrimeres_G-Protein "Heterotrimeres G-Protein") und cytosolischen sogenannten [_kleinen_  G-Proteinen](https://de.wikipedia.org/wiki/Kleine_GTPase "Kleine GTPase").
 
@@ -220,7 +222,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODE5ODM5Mzk5LDIxMj
-YzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTcz
-MiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMjAzOTMyNDk3OCwtOD
+E5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5
+NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ
+==
 -->
