@@ -29,7 +29,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
 >! Spoiler: It's mostly Wikipedia. 
 >
-# Basics
+# Metabolism
 ### THC, ADCY1, ATP, cAMP und die PKA Transkription
 
 THC activates the CNR1, which inhibits [ADCY1][wiki:adcy1] in the synaptic cleft, leading to a reduction in ATP-cAMP transformation
@@ -41,7 +41,10 @@ This results in a chronic deficiency of the secondary messenger *cAMP*, and a re
 
 and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
+### THC and the dopamine system
 
+THC 
+# Basics
 ### ATP - Adenosintriphosphat
 **Adenosine triphosphate**  (**ATP**) is a complex  [organic chemical](https://en.wikipedia.org/wiki/Organic_compound "Organic compound")  that provides energy to drive many processes in living  [cells](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)"), e.g. muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all forms of life, ATP is often referred to as the "molecular unit of  [currency](https://en.wikipedia.org/wiki/Currency "Currency")" of intracellular  [energy transfer](https://en.wikipedia.org/wiki/Energy_transfer "Energy transfer").[[2]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-2)  When consumed in  [metabolic](https://en.wikipedia.org/wiki/Metabolism "Metabolism")  processes, it converts either to  [adenosine diphosphate](https://en.wikipedia.org/wiki/Adenosine_diphosphate "Adenosine diphosphate")(ADP) or to  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")  (AMP). Other processes regenerate ATP so that the human body recycles its own body weight equivalent in ATP each day.[[3]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-3)  It is also a  [precursor](https://en.wikipedia.org/wiki/Precursor_(chemistry) "Precursor (chemistry)")  to DNA and RNA, and is used as a  [coenzyme](https://en.wikipedia.org/wiki/Coenzyme "Coenzyme").
 
@@ -253,10 +256,10 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
-MjExNzg1NzIsLTIwNzU3OTE3NDIsLTExODI0ODE5MTIsNjA2MT
-EwODA3LC0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMTk4NTUwMjM5
-MSw2NzUzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMj
-YzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTcz
-MiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MD
+YxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAy
+MzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMj
+EyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5
+NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
 -->
