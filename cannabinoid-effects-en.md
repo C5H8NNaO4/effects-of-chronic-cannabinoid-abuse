@@ -191,6 +191,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 
 [wiki:cerebellum]:https://en.wikipedia.org/wiki/Cerebellum
 [wiki:GP]: https://en.wikipedia.org/wiki/G_protein
+[wiki:GPCR]:  https://en.wikipedia.org/wiki/G_protein-coupled_receptor
+
 [wiki:PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
@@ -203,7 +205,6 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 
 
 [Enzym]: https://en.wikipedia.org/wiki/Enzyme
-[GPCR]:  https://en.wikipedia.org/wiki/G_protein-coupled_receptor
 
 [PRKAR1A-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1A
 
@@ -234,7 +235,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNTIxMTc0OTUyLDY3NT
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxODY3MDYyMTIyLDY3NT
 MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
 OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
 A3OTYzOTMsMjA5NzI5MDAyMV19
