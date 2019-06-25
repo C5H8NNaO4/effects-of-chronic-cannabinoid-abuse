@@ -63,6 +63,7 @@ In  [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease "A
 Since different  [neuronal cell types](https://en.wikipedia.org/wiki/List_of_distinct_cell_types_in_the_adult_human_body#Nervous_system "List of distinct cell types in the adult human body")  are neatly organized into layers in the hippocampus, it has frequently been used as a  [model system](https://en.wikipedia.org/wiki/Scientific_modelling "Scientific modelling")for studying  [neurophysiology](https://en.wikipedia.org/wiki/Neurophysiology "Neurophysiology"). The form of  [neural plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity "Synaptic plasticity")  known as  [long-term potentiation](https://en.wikipedia.org/wiki/Long-term_potentiation "Long-term potentiation")  (LTP) was initially discovered to occur in the hippocampus and has often been studied in this structure. LTP is widely believed to be one of the main neural mechanisms by which memories are stored in the brain.
 
 ### Cerebellum
+> Wikipedia - [Cerebellum][wiki:cerebellum]
 
 The  **cerebellum**  (Latin for "little brain") is a major feature of the  [hindbrain](https://en.wikipedia.org/wiki/Hindbrain "Hindbrain")  of all  [vertebrates](https://en.wikipedia.org/wiki/Vertebrate "Vertebrate"). Although usually smaller than the  [cerebrum](https://en.wikipedia.org/wiki/Cerebrum "Cerebrum"), in some animals such as the  [mormyrid](https://en.wikipedia.org/wiki/Mormyrid "Mormyrid")  fishes it may be as large as or even larger.[[1]](https://en.wikipedia.org/wiki/Cerebellum#cite_note-1)  In humans, the cerebellum plays an important role in  [motor control](https://en.wikipedia.org/wiki/Motor_control "Motor control"). It may also be involved in some  [cognitive functions](https://en.wikipedia.org/wiki/Cognition "Cognition")  such as  [attention](https://en.wikipedia.org/wiki/Attention "Attention")  and  [language](https://en.wikipedia.org/wiki/Language "Language")  as well as in regulating fear and pleasure responses,[[2]](https://en.wikipedia.org/wiki/Cerebellum#cite_note-2)  but its movement-related functions are the most solidly established. The human cerebellum does not initiate movement, but contributes to  [coordination](https://en.wikipedia.org/wiki/Motor_coordination "Motor coordination"), precision, and accurate timing: it receives input from  [sensory systems](https://en.wikipedia.org/wiki/Sensory_system "Sensory system")  of the  [spinal cord](https://en.wikipedia.org/wiki/Spinal_cord "Spinal cord")  and from other parts of the brain, and integrates these inputs to fine-tune motor activity.[[3]](https://en.wikipedia.org/wiki/Cerebellum#cite_note-Fine-3)  Cerebellar damage produces disorders in  [fine movement](https://en.wikipedia.org/wiki/Fine_motor_skill "Fine motor skill"),  [equilibrium](https://en.wikipedia.org/wiki/Equilibrioception "Equilibrioception"),  [posture](https://en.wikipedia.org/wiki/Human_positions "Human positions"), and  [motor learning](https://en.wikipedia.org/wiki/Motor_learning "Motor learning")  in humans.[[3]](https://en.wikipedia.org/wiki/Cerebellum#cite_note-Fine-3)
 
@@ -81,6 +82,8 @@ The primary  [endogenous agonist](https://en.wikipedia.org/wiki/Endogenous_agoni
 **Adenylyl cyclase**  ([EC](https://en.wikipedia.org/wiki/Enzyme_Commission_number "Enzyme Commission number")  [4.6.1.1](https://enzyme.expasy.org/EC/4.6.1.1), also commonly known as  **adenyl cyclase**  and  **adenylate cyclase**, abbreviated  **AC**) is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")with key regulatory roles in essentially all  [cells](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)").[[2]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:0-2)  It is the most  [polyphyletic](https://en.wikipedia.org/wiki/Polyphyly "Polyphyly")  known enzyme: six distinct classes have been described, all  [catalyzing](https://en.wikipedia.org/wiki/Catalysis "Catalysis")  the same reaction but representing unrelated  [gene](https://en.wikipedia.org/wiki/Gene "Gene")  [families](https://en.wikipedia.org/wiki/Gene_family "Gene family")  with no known  [sequence or structural homology](https://en.wikipedia.org/wiki/Sequence_homology "Sequence homology").[[3]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:1-3)  The best known class of adenylyl cyclases is class III or AC-III (Roman numerals are used for classes). AC-III occurs widely in  [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote "Eukaryote")  and has important roles in many human  [tissues](https://en.wikipedia.org/wiki/Tissue_(biology) "Tissue (biology)").[[4]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:2-4)
 
 All classes of adenylyl cyclase  [catalyse](https://en.wikipedia.org/wiki/Catalysis "Catalysis")  the conversion of  [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate")  (ATP) to  [3',5'-cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate")  (cAMP) and  [pyrophosphate](https://en.wikipedia.org/wiki/Pyrophosphate "Pyrophosphate").[[4]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:2-4)  [Magnesium](https://en.wikipedia.org/wiki/Magnesium "Magnesium")  [ions](https://en.wikipedia.org/wiki/Ion "Ion")  are generally required and appears to be closely involved in the enzymatic mechanism. The cAMP produced by AC then serves as a regulatory signal via specific cAMP-binding  [proteins](https://en.wikipedia.org/wiki/Protein "Protein"), either  [transcription factors](https://en.wikipedia.org/wiki/Transcription_factor "Transcription factor"), enzymes (e.g., cAMP-dependent  [kinases](https://en.wikipedia.org/wiki/Kinase "Kinase")), or ion  [transporters](https://en.wikipedia.org/wiki/Membrane_transport_proteins "Membrane transport proteins").
+
+---
 
 > Spektrum - [Adenylate cyclase][spektrum:ac] ([translated][spektrum:translated:ac])
 
@@ -169,10 +172,11 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!-- Wikipedia references -->
 [wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/220px-Cyclic-AMPchemdraw.png
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
+
 [PK]:https://en.wikipedia.org/wiki/Protein_kinase
 [PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [Serin]: https://en.wikipedia.org/wiki/Serine
-[ADC]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
+[wiki:ADC]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
 [ADCY1]: https://en.wikipedia.org/wiki/ADCY1
 [ecb-pathway]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
@@ -210,7 +214,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTkzNzgxNzc2NywxNT
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMjE0MjE5NDUyNCwxNT
 A3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYz
 OTMsMjA5NzI5MDAyMV19
 -->
