@@ -92,8 +92,12 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 
 # Enzyme
 ## ADCY1
+**Adenylyl cyclase type 1**  is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")  that in humans is encoded by the  _ADCY1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/ADCY1#cite_note-pmid8314585-5)[[6]](https://en.wikipedia.org/wiki/ADCY1#cite_note-entrez-6)
+
+This gene encodes a form of adenylyl cyclase expressed in brain.
+> Wikipedia 
 This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Aug 2013]
-> Gene
+> Genecards - [ADCY1][gene:ADCY1]
 
 ### Funktion
 >ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
@@ -117,6 +121,8 @@ Here's a list of articles well worth reading.
 [ADC]: https://de.wikipedia.org/wiki/Adenylylcyclasen
 [ecb-pathway]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
+<!--- Genecard references -->
+{gene:ADCY1]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY1
 
 [Enzym]: https://en.wikipedia.org/wiki/Enzyme
 [GPCR]: https://de.wikipedia.org/wiki/G-Protein-gekoppelte_Rezeptoren
@@ -152,11 +158,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbLTM4NDE1ODIwLC0yMTQ2MDAxMzcx
-LDE2NDk5ODk2NTgsMTM3NzY2NjMxNywtMTI3ODg5MzQwOSw5NT
-EyOTQxOTksMTI4MjIzMTQwMyw3NzAzMDMwOTgsMTkzNzQ3MjQ3
-Nyw1NjA1OTc4NywxMTQyNjA3MTg0LDQ3MzQ0MDUxNCwtMTg0Mj
-cwMzQzMiwtOTAwOTQ1MDU5LC0xMTEyODgzOTA5LC0xNTgyNjI3
-OTEzLC00NzY4OTg0MjMsMTE4NjUwNzc1NiwxMjg4Mzk5NDk4LD
-kwOTc0NjUzMV19
+VyXG4iLCJoaXN0b3J5IjpbLTIwMTQzMDA3MDMsLTIxNDYwMDEz
+NzEsMTY0OTk4OTY1OCwxMzc3NjY2MzE3LC0xMjc4ODkzNDA5LD
+k1MTI5NDE5OSwxMjgyMjMxNDAzLDc3MDMwMzA5OCwxOTM3NDcy
+NDc3LDU2MDU5Nzg3LDExNDI2MDcxODQsNDczNDQwNTE0LC0xOD
+QyNzAzNDMyLC05MDA5NDUwNTksLTExMTI4ODM5MDksLTE1ODI2
+Mjc5MTMsLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OT
+gsOTA5NzQ2NTMxXX0=
 -->
