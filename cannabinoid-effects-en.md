@@ -186,7 +186,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 [spektrum:cAMP]:https://www.spektrum.de/lexikon/neurowissenschaft/camp/1842
 [spektrum:translated:cAMP]:https://translate.google.de/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.spektrum.de%2Flexikon%2Fneurowissenschaft%2Fcamp%2F1842
 [spektrum:AC]:https://www.spektrum.de/lexikon/neurowissenschaft/adenylatcyclase/147
-[spektrum:AC]:https://www.spektrum.de/lexikon/neurowissenschaft/adenylatcyclase/147
+[spektrum:translated:AC]:https://translate.google.de/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.spektrum.de%2Flexikon%2Fneurowissenschaft%2Fcamp%2F147
 <!-- Wiki Pathway References -->
 [dopamine-path]:https://raw.githubusercontent.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/master/dopamine-WP2436_98240.svg?sanitize=true
 [dopamine-path-link]:https://www.wikipathways.org/index.php/Pathway:WP2436
@@ -245,7 +245,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMzc3MDMwNzQyLDYwNj
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMzk2MjUxMjMwLDYwNj
 ExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIz
 OTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMT
 I2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3
