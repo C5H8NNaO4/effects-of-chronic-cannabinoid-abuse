@@ -118,6 +118,8 @@ In [cell biology](https://en.wikipedia.org/wiki/Cell_biology "Cell biology"), **
 ---
 PKA plays a central role in nervous signal transduction you might want to read the whole [article][wiki:PKA] especially the sections [Activation][wiki:PKA#Activation] and [Function][wiki:PKA#Function]
 
+![Activation and Inactivation of PKA][wiki:media:PKA]
+
 ---
 
 ### G-Protein 
@@ -184,7 +186,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [wiki:PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
-
+[wiki:media:PKA]:https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/PKARII.svg/740px-PKARII.svg.png
 [PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [Serin]: https://en.wikipedia.org/wiki/Serine
 [wiki:ADC]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
@@ -225,7 +227,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxNjA3NjQ2NzkxLC04Nz
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTYzNTQxOTM4LC04Nz
 Q2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5LDE1MDcxMzc4
 ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMD
 k3MjkwMDIxXX0=
