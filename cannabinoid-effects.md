@@ -95,7 +95,8 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 **Adenylyl cyclase type 1**  is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")  that in humans is encoded by the  _ADCY1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/ADCY1#cite_note-pmid8314585-5)[[6]](https://en.wikipedia.org/wiki/ADCY1#cite_note-entrez-6)
 
 This gene encodes a form of adenylyl cyclase expressed in brain.
-> Wikipedia 
+> Wikipedia  - [ADCY1][wiki:ADCY1] 
+> 
 This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Aug 2013]
 > Genecards - [ADCY1][gene:ADCY1]
 
@@ -158,11 +159,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbLTIwMTQzMDA3MDMsLTIxNDYwMDEz
-NzEsMTY0OTk4OTY1OCwxMzc3NjY2MzE3LC0xMjc4ODkzNDA5LD
-k1MTI5NDE5OSwxMjgyMjMxNDAzLDc3MDMwMzA5OCwxOTM3NDcy
-NDc3LDU2MDU5Nzg3LDExNDI2MDcxODQsNDczNDQwNTE0LC0xOD
-QyNzAzNDMyLC05MDA5NDUwNTksLTExMTI4ODM5MDksLTE1ODI2
-Mjc5MTMsLTQ3Njg5ODQyMywxMTg2NTA3NzU2LDEyODgzOTk0OT
-gsOTA5NzQ2NTMxXX0=
+VyXG4iLCJoaXN0b3J5IjpbLTk0NTExNTM5OCwtMjE0NjAwMTM3
+MSwxNjQ5OTg5NjU4LDEzNzc2NjYzMTcsLTEyNzg4OTM0MDksOT
+UxMjk0MTk5LDEyODIyMzE0MDMsNzcwMzAzMDk4LDE5Mzc0NzI0
+NzcsNTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4ND
+I3MDM0MzIsLTkwMDk0NTA1OSwtMTExMjg4MzkwOSwtMTU4MjYy
+NzkxMywtNDc2ODk4NDIzLDExODY1MDc3NTYsMTI4ODM5OTQ5OC
+w5MDk3NDY1MzFdfQ==
 -->
