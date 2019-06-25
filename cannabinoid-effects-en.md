@@ -170,7 +170,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [cannabinoid-path-link]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
 <!-- Wikipedia references -->
-[wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/220px-Cyclic-AMPchemdraw.png
+[wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/800px-Cyclic-AMPchemdraw.png
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 [wiki:cerebellum]:https://en.wikipedia.org/wiki/Cerebellum
 
@@ -215,7 +215,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNTYwNzAzNTUzLDE1MD
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlsyMTI2Mzg3MzE5LDE1MD
 cxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5
 MywyMDk3MjkwMDIxXX0=
 -->
