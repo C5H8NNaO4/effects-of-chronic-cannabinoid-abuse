@@ -1,7 +1,7 @@
 
 
 # Chronic cannabis abuse - a neuro-biological primer
-With over 24 million users, cannabis is the most widely used drug in the USA. It's seemingly harmless substance, abuse however is not to be underestimated and can have tremendous long term consequences.
+With over 24 million users, cannabis is the most widely used drug in the USA. It's a seemingly harmless substance, abuse however is not to be underestimated and can have tremendous long term consequences.
 
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
@@ -264,11 +264,11 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-OTAxODUwODA0LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDEsLTIwNz
-U3OTE3NDIsLTExODI0ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3
-NDk0LDEyMjg4MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTIsLT
-g3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEz
-Nzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzLD
-IwOTcyOTAwMjFdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsz
+MDk1MjI1NDksMTkwMTg1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MT
+c3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjExMDgw
+NywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNj
+c1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3
+MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLT
+EwMDc5NjM5MywyMDk3MjkwMDIxXX0=
 -->
