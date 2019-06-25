@@ -76,7 +76,8 @@ In addition to its direct role in motor control, the cerebellum is necessary for
 The primary  [endogenous agonist](https://en.wikipedia.org/wiki/Endogenous_agonist "Endogenous agonist")  of the human CB1  receptor is  [anandamide](https://en.wikipedia.org/wiki/Anandamide "Anandamide").[[5]](https://en.wikipedia.org/wiki/Cannabinoid_receptor_type_1#cite_note-IUPHAR_CB1_Receptor-5)
 
 ### AC 
-#### Wikipedia
+>  Wikipedia - [Adenylyl cyclase][wiki:adc])
+
 **Adenylyl cyclase**  ([EC](https://en.wikipedia.org/wiki/Enzyme_Commission_number "Enzyme Commission number")  [4.6.1.1](https://enzyme.expasy.org/EC/4.6.1.1), also commonly known as  **adenyl cyclase**  and  **adenylate cyclase**, abbreviated  **AC**) is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")with key regulatory roles in essentially all  [cells](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)").[[2]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:0-2)  It is the most  [polyphyletic](https://en.wikipedia.org/wiki/Polyphyly "Polyphyly")  known enzyme: six distinct classes have been described, all  [catalyzing](https://en.wikipedia.org/wiki/Catalysis "Catalysis")  the same reaction but representing unrelated  [gene](https://en.wikipedia.org/wiki/Gene "Gene")  [families](https://en.wikipedia.org/wiki/Gene_family "Gene family")  with no known  [sequence or structural homology](https://en.wikipedia.org/wiki/Sequence_homology "Sequence homology").[[3]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:1-3)  The best known class of adenylyl cyclases is class III or AC-III (Roman numerals are used for classes). AC-III occurs widely in  [eukaryotes](https://en.wikipedia.org/wiki/Eukaryote "Eukaryote")  and has important roles in many human  [tissues](https://en.wikipedia.org/wiki/Tissue_(biology) "Tissue (biology)").[[4]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:2-4)
 
 All classes of adenylyl cyclase  [catalyse](https://en.wikipedia.org/wiki/Catalysis "Catalysis")  the conversion of  [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate")  (ATP) to  [3',5'-cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate")  (cAMP) and  [pyrophosphate](https://en.wikipedia.org/wiki/Pyrophosphate "Pyrophosphate").[[4]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:2-4)  [Magnesium](https://en.wikipedia.org/wiki/Magnesium "Magnesium")  [ions](https://en.wikipedia.org/wiki/Ion "Ion")  are generally required and appears to be closely involved in the enzymatic mechanism. The cAMP produced by AC then serves as a regulatory signal via specific cAMP-binding  [proteins](https://en.wikipedia.org/wiki/Protein "Protein"), either  [transcription factors](https://en.wikipedia.org/wiki/Transcription_factor "Transcription factor"), enzymes (e.g., cAMP-dependent  [kinases](https://en.wikipedia.org/wiki/Kinase "Kinase")), or ion  [transporters](https://en.wikipedia.org/wiki/Membrane_transport_proteins "Membrane transport proteins").
@@ -209,7 +210,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsxNTA3MTM3ODgzLDgwND
-gxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAy
-MV19
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTkzNzgxNzc2NywxNT
+A3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYz
+OTMsMjA5NzI5MDAyMV19
 -->
