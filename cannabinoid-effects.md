@@ -103,12 +103,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 
 # Articles
 
-Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransduktion. 
-
-> [**Transkription**][Transkription] _w_ [von latein. transcriptio = Umschrift; Verb _transkribieren_], _RNA-Synthese_, _RNS-Synthese_, der 1. Schritt der Genexpression, bei dem es, von bestimmten [RNA-Viren](https://www.spektrum.de/lexikon/biologie/rna-viren/57339) abgesehen, zu einer DNA-abhängigen ([Desoxyribonucleinsäure](https://www.spektrum.de/lexikon/biologie/desoxyribonucleinsaeuren/17575) fungiert als [Matrize](https://www.spektrum.de/lexikon/biologie/matrize/41400)) Synthese der [Ribonucleinsäuren](https://www.spektrum.de/lexikon/biologie/ribonucleinsaeuren/56954)kommt, die durch DNA-abhängige _[RNA-Polymerase](https://www.spektrum.de/lexikon/biologie/rna-polymerase/57324)_ katalysiert wird und zur Bildung von [messenger-RNA](https://www.spektrum.de/lexikon/biologie/messenger-rna/42380) (mRNA),[transfer-RNA](https://www.spektrum.de/lexikon/biologie/transfer-rna/67236) (tRNA), [ribosomaler RNA](https://www.spektrum.de/lexikon/biologie/ribosomale-rna/56971)(rRNA; [vgl. Abb. 1](https://www.spektrum.de/lexika/showpopup.php?lexikon_id=9&art_id=67276&nummer=30744) ) und einer Reihe weiterer RNA-Spezies führt. Die Transkription ähnelt der _DNA-[Replikation](https://www.spektrum.de/lexikon/biologie/replikation/56274)_ dahingehend, daß eine matrizenabhängige Synthese von[Nucleinsäuren](https://www.spektrum.de/lexikon/biologie/nucleinsaeuren/46910) aus Nucleosidtriphosphaten ([2’-Desoxyribonucleosid-5’-triphosphate](https://www.spektrum.de/lexikon/biologie/2-desoxyribonucleosid-5-triphosphate/17580), [Ribonucleosid-5’-triphosphate](https://www.spektrum.de/lexikon/biologie/ribonucleosid-5-triphosphate/56959)) erfolgt. Sie unterscheidet sich von dieser aber auch in wesentlichen Merkmalen [[...][blog:spektrum:transkription]]
-> 
-> \- [https://www.spektrum.de/lexikon/biologie/transkription/67276][spektrum:transkription]
-
+Here's a list of articles well worth reading
 
 
 [dopamine-path]:https://raw.githubusercontent.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/master/dopamine-WP2436_98240.svg?sanitize=true
@@ -156,7 +151,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuZGF0ZTogJz
 IwMjAtMDEtMDEnXG50aXRsZTogRWZmZWN0cyBvZiBDYW5uYWJp
 cyBvbiB0aGUgQnJhaW5cbmF1dGhvcjogTW9yaXR6IFJvZXNzbG
-VyXG4iLCJoaXN0b3J5IjpbMTU3MzQ0ODgxMiwtMjE0NjAwMTM3
+VyXG4iLCJoaXN0b3J5IjpbLTMzMzI5NjExNCwtMjE0NjAwMTM3
 MSwxNjQ5OTg5NjU4LDEzNzc2NjYzMTcsLTEyNzg4OTM0MDksOT
 UxMjk0MTk5LDEyODIyMzE0MDMsNzcwMzAzMDk4LDE5Mzc0NzI0
 NzcsNTYwNTk3ODcsMTE0MjYwNzE4NCw0NzM0NDA1MTQsLTE4ND
