@@ -2,7 +2,7 @@
 
 # Chronic cannabis abuse - a neuro-biological primer
 
-# Preface
+## Preface
 
 This article is **not** complete yet. This is just a draft and its completion will take some time.
 
@@ -10,18 +10,18 @@ At this time, this article contains only a collection of basic neurobiological k
 
 The whole thing is kept very superficial. Gradually, information is collected here which connects the following mentioned diseases to their respective neuropathological causes in order to obtain a general overview of the neurobiological functioning of a withdrawal and to explain the effect of common psychotropic drugs.
 
-## Motivation
+### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
 
 Mixed consumption of nicotine, cannabis, MDMA, psylocybin and LSD is not harmless and can have devastating consequences. 
 
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time having fun. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
 
-## Effects
+### Effects
 The effects of years of drug abuse are extensive and range from confusion, memory disorders, excessive sweating, depression, bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
 \- Yes you can get stuck in a horrortrip and it's no fun at all.
 
-## Treatments
+### Treatments
 The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
 
 # A neurobiological primer
@@ -37,7 +37,7 @@ This results in a chronic deficiency of the secondary messenger *cAMP*, and a re
 
 and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
-# Brain regions
+
 I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
 
 >! Spoiler: It's mostly Wikipedia. 
@@ -237,7 +237,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODU5Mjk5NzMyLDE5OD
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstODkyODkyNjA0LDE5OD
 U1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5
 OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04OD
 I3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
