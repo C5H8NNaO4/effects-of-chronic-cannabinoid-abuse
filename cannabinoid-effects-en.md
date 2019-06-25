@@ -121,8 +121,7 @@ PKA plays a central role in nervous signal transduction you might want to read t
 There are two classes of G proteins. The first function as  [monomeric](https://en.wikipedia.org/wiki/Monomeric "Monomeric")  [small GTPases](https://en.wikipedia.org/wiki/Small_GTPase "Small GTPase")  (small G-proteins), while the second function as  [heterotrimeric G protein](https://en.wikipedia.org/wiki/Heterotrimeric_G_protein "Heterotrimeric G protein")  [complexes](https://en.wikipedia.org/wiki/Protein_complex "Protein complex"). The latter class of complexes is made up of  _[alpha](https://en.wikipedia.org/wiki/G_alpha_subunit "G alpha subunit")_  (α),  _beta_  (β) and  _gamma_  (γ)  [subunits](https://en.wikipedia.org/wiki/Protein_subunit "Protein subunit").[[1]](https://en.wikipedia.org/wiki/G_protein#cite_note-Hurowitz_2000-1)  In addition, the beta and gamma subunits can form a stable dimeric complex referred to as the  [beta-gamma complex](https://en.wikipedia.org/wiki/G_beta-gamma_complex "G beta-gamma complex")  [[2]](https://en.wikipedia.org/wiki/G_protein#cite_note-Clapham-2).
 
 Heterotrimeric G proteins located within the cell are activated by  [G protein-coupled receptors](https://en.wikipedia.org/wiki/G_protein-coupled_receptor "G protein-coupled receptor")  (GPCRs) that span the cell membrane.[[3]](https://en.wikipedia.org/wiki/G_protein#cite_note-3)Signaling molecules bind to a domain of the GPCR located outside the cell, and an intracellular GPCR domain then in turn activates a particular G protein. Some active-state GPCRs have also been shown to be "pre-coupled" with G proteins.[[4]](https://en.wikipedia.org/wiki/G_protein#cite_note-Kou_Qin-4)  The G protein activates a cascade of further signaling events that finally results in a change in cell function. G protein-coupled receptor and G proteins working together transmit signals from many  [hormones](https://en.wikipedia.org/wiki/Hormone "Hormone"),  [neurotransmitters](https://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), and other signaling factors.[[5]](https://en.wikipedia.org/wiki/G_protein#cite_note-Campbell-5)  G proteins regulate metabolic  [enzymes](https://en.wikipedia.org/wiki/Enzyme "Enzyme"),  [ion channels](https://en.wikipedia.org/wiki/Ion_channel "Ion channel"),  [transporter proteins](https://en.wikipedia.org/wiki/Membrane_transport_protein "Membrane transport protein"), and other parts of the cell machinery, controlling  [transcription](https://en.wikipedia.org/wiki/Transcription_(genetics) "Transcription (genetics)"),  [motility](https://en.wikipedia.org/wiki/Motility "Motility"),  [contractility](https://en.wikipedia.org/wiki/Contractility "Contractility"), and  [secretion](https://en.wikipedia.org/wiki/Secretion "Secretion"), which in turn regulate diverse systemic functions such as  [embryonic development](https://en.wikipedia.org/wiki/Embryonic_development "Embryonic development"), learning and memory, and  [homeostasis](https://en.wikipedia.org/wiki/Homeostasis "Homeostasis").[[6]](https://en.wikipedia.org/wiki/G_protein#cite_note-pmid12040175-6)
-
-> Wikipedia - [
+> Wikipedia - [G protein][wiki:GP]
 
 ### G-Protein-gekoppelte Rezeptoren
 
@@ -183,6 +182,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
 
 [wiki:cerebellum]:https://en.wikipedia.org/wiki/Cerebellum
+[wiki:GP]: https://de.wikipedia.org/wiki/G-Proteine
 [wiki:PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
@@ -196,7 +196,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 
 [Enzym]: https://en.wikipedia.org/wiki/Enzyme
 [GPCR]: https://de.wikipedia.org/wiki/G-Protein-gekoppelte_Rezeptoren
-[GP]: https://de.wikipedia.org/wiki/G-Proteine
+
 
 [PRKAR1A-Gene]: https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRKAR1A
 
@@ -227,7 +227,7 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlsyMDQzMDYyNjc1LDY3NT
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNzM4Njg3Mjg5LDY3NT
 MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
 OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
 A3OTYzOTMsMjA5NzI5MDAyMV19
