@@ -159,12 +159,14 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 # Enzyme
 ## ADCY1
 
+**Adenylyl cyclase type 1**  is an  [enzyme](https://en.wikipedia.org/wiki/Enzyme "Enzyme")  that in humans is encoded by the  _ADCY1_  [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5]](https://en.wikipedia.org/wiki/ADCY1#cite_note-pmid8314585-5)[[6]](https://en.wikipedia.org/wiki/ADCY1#cite_note-entrez-6)
 
-### Funktion
->ADCY1 ist eine Calmodulin-sensitive [Adenylylcyclase][ADC]. Funktionell kann es an Regulationsprozessen im Zentralnervensystem beteiligt sein; Insbesondere kann es eine Rolle beim Erwerb und Lernen von Gedächtnissen spielen. Es wird durch den Komplex der [G-Protein][GP]-Beta und -Gamma-Untereinheiten gehemmt.
+This gene encodes a form of adenylyl cyclase expressed in brain
 
-
-
+*ADCY1* is a calmodulin-sensitive [adenylyl cyclase](https://en.wikipedia.org/wiki/Adenylyl_cyclase "Adenylyl cyclase"). In terms of function, It may be involved in regulatory processes in the central nervous system; specifically, it may play a role in memory acquisition and learning. It is inhibited by the [G protein](https://en.wikipedia.org/wiki/G_protein "G protein")beta and gamma subunit complex.[[7]](https://en.wikipedia.org/wiki/ADCY1#cite_note-genecards-7)
+> Wikipedia - [ADCY1][wiki:ADCY1]
+> 
+This gene encodes a member of the of adenylate cyclase gene family that is primarily expressed in the brain. This protein is regulated by calcium/calmodulin concentration and may be involved in brain development. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Aug 2013]
 # Articles
 
 Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransduktion. 
@@ -233,8 +235,8 @@ Weiterführende Artikel zum Thema Transkription, Genregulation und Siganltransdu
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstMTk3NjYzNzk4Miw2Nz
-UzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LDIxMjYzODcz
-MTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMT
-AwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNzQzMzEwNTE4LDY3NT
+MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
+OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
+A3OTYzOTMsMjA5NzI5MDAyMV19
 -->
