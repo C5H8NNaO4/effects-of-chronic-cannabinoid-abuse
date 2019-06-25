@@ -38,7 +38,8 @@ Meinem Verständniss nach, aktiviert THC das CNR1, welches [ADCY1][ADCY1] im syn
 THC activates the CNR1, which inhibits [ADCY1][ADCY1] in the synaptic cleft, leading to a reduction in [ATP-cAMP transformation][ADC]. This results in a chronic deficiency of the secondary messenger *cAMP*, and a reduction of *PKA* transcription, which is dependent on the *cAMP* concentration in the cell and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected] [cannabinoid pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
 # Brain regions
-I don't know a lot about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge I gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. It's mostly Wikipedia. 
+I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
+>! Spoiler: It's mostly Wikipedia. 
 
 ## First Messenger - Ligand
 In  [biochemistry](https://en.wikipedia.org/wiki/Biochemistry "Biochemistry")  and  [pharmacology](https://en.wikipedia.org/wiki/Pharmacology "Pharmacology"), a  **ligand**  is a substance that forms a  [complex](https://en.wikipedia.org/wiki/Complex_(chemistry) "Complex (chemistry)")  with a  [biomolecule](https://en.wikipedia.org/wiki/Biomolecule "Biomolecule")  to serve a biological purpose. In protein-ligand binding, the ligand is usually a molecule which produces a signal by binding to a  [site](https://en.wikipedia.org/wiki/Binding_site "Binding site")  on a target  [protein](https://en.wikipedia.org/wiki/Protein "Protein"). The binding typically results in a change of  [conformational isomerism](https://en.wikipedia.org/wiki/Conformational_isomerism "Conformational isomerism")  (conformation) of the target protein. In DNA-ligand binding studies, the ligand can be a small molecule, ion,[[1]](https://en.wikipedia.org/wiki/Ligand_(biochemistry)#cite_note-1)  or protein[[2]](https://en.wikipedia.org/wiki/Ligand_(biochemistry)#cite_note-2)  which binds to the  [DNA double helix](https://en.wikipedia.org/wiki/Nucleic_acid_double_helix "Nucleic acid double helix"). The relationship between ligand and binding partner is a function of charge, hydrophobicity, and molecular structure. The instance of binding occurs over an infinitesimal range of time and space, so the rate constant is usually a very small number.
@@ -234,7 +235,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2UgLSBBIG5ldXJvYmlvbG9naWNh
-bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNDAyODQ5Nzk3LDY3NT
+bCBQcmltZXJcbiIsImhpc3RvcnkiOlstNjQyMDY3Nzg5LDY3NT
 MwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMx
 OSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC0xMD
 A3OTYzOTMsMjA5NzI5MDAyMV19
