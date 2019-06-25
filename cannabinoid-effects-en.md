@@ -42,8 +42,7 @@ This results in a chronic deficiency of the secondary messenger *cAMP*, and a re
 and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
 ### THC and the dopamine system
-
-THC 
+> *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC)[41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum[42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 # Basics
 ### ATP - Adenosintriphosphat
 **Adenosine triphosphate**  (**ATP**) is a complex  [organic chemical](https://en.wikipedia.org/wiki/Organic_compound "Organic compound")  that provides energy to drive many processes in living  [cells](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)"), e.g. muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all forms of life, ATP is often referred to as the "molecular unit of  [currency](https://en.wikipedia.org/wiki/Currency "Currency")" of intracellular  [energy transfer](https://en.wikipedia.org/wiki/Energy_transfer "Energy transfer").[[2]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-2)  When consumed in  [metabolic](https://en.wikipedia.org/wiki/Metabolism "Metabolism")  processes, it converts either to  [adenosine diphosphate](https://en.wikipedia.org/wiki/Adenosine_diphosphate "Adenosine diphosphate")(ADP) or to  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")  (AMP). Other processes regenerate ATP so that the human body recycles its own body weight equivalent in ATP each day.[[3]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-3)  It is also a  [precursor](https://en.wikipedia.org/wiki/Precursor_(chemistry) "Precursor (chemistry)")  to DNA and RNA, and is used as a  [coenzyme](https://en.wikipedia.org/wiki/Coenzyme "Coenzyme").
@@ -252,14 +251,16 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 <!-- articles -->
 <!-- [The effects of Δ9-tetrahydrocannabinol on the dopamine system]-->
 [thc-effects-dopamine]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/
+[thc-effects-dopamine:41]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MD
-YxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAy
-MzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMj
-EyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5
-NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+OTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMT
+gyNDgxOTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4
+NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLT
+gxOTgzOTM5OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0
+OTQ3LC04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX
+0=
 -->
