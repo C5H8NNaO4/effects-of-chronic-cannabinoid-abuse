@@ -8,6 +8,7 @@
 	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies][Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
 	* [The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]
 * Sweating
+	* [Hyperhidrosis—Causes and Treatment of Enhanced Sweating][Hyperhidrosis—Causes and Treatment of Enhanced Sweating]
 	* [Mechanisms and controllers of eccrine sweating in humans][Mechanisms and controllers of eccrine sweating in humans]
 * Withdrawal
 	* [The cannabis withdrawal syndrome: current insights][The cannabis withdrawal syndrome: current insights]
@@ -39,6 +40,8 @@
 
 
 [Mechanisms and controllers of eccrine sweating in humans]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866164/
+
+[Hyperhidrosis—Causes and Treatment of Enhanced Sweating]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695293/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTE3NDUwOCwtNzM2NTI2Mjk2XX0=
+eyJoaXN0b3J5IjpbLTIxMzA4NDE1NiwtNzM2NTI2Mjk2XX0=
 -->
