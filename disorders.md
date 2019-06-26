@@ -1,6 +1,7 @@
 #### Disorder Related Articles
 * ADHD
-	* 
+	* [Role of dopamine receptors in ADHD: a systematic meta-analysis]
+	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]b
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
 * Anxiety
@@ -23,7 +24,8 @@
 	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system][The effects of Δ9-tetrahydrocannabinol on the dopamine system]
 
 <!-- # ADHD -->
-[Role of dopamine receptors in ADHD: a systematic meta-analysis]:
+[Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
+[Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
 <!--- # Addiction-->
 [Dopamine Signaling in reward-related behaviors]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795306/
 <!---# Anxiety ---> 
@@ -50,5 +52,5 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzIwODk0MywtNzM2NTI2Mjk2XX0=
+eyJoaXN0b3J5IjpbLTk4MTk2Mjg4MiwtNzM2NTI2Mjk2XX0=
 -->
