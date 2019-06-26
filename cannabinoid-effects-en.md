@@ -199,8 +199,47 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 # Articles
 
 <del>Here's a list of articles well worth reading.</del>  Not yet listed.
- [The effects of Δ9-tetrahydrocannabinol on the dopamine system][thc-effects-dopamine]
- >www.ncbi.nlm.nih.gov
+
+#### Disorder Related Articles
+* Addiction
+	* [Dopamine Signaling in reward-related behaviors]
+* Anxiety
+	* [The role of GABA in anxiety disorders][The role of GABA in anxiety disorders]
+* Schizophrenia
+	* [Pathway-specific dopamine abnormalities in schizophrenia][Pathway-specific dopamine abnormalities in schizophrenia]
+	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies][Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
+	* [The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]
+* Sweating
+	* <del> 
+* Withdrawal
+	* [The cannabis withdrawal syndrome: current insights][The cannabis withdrawal syndrome: current insights]
+	* [Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]
+	* [Marijuana Dependence and Its Treatment][Marijuana Dependence and Its Treatment]
+---
+#### General Articles
+* THC
+	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system][The effects of Δ9-tetrahydrocannabinol on the dopamine system]
+
+<!--- # Addiction-->
+[Dopamine Signaling in reward-related behaviors]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795306/
+<!---# Anxiety ---> 
+[The role of GABA in anxiety disorders]:https://www.ncbi.nlm.nih.gov/pubmed/12662130
+
+<!---# Schizophrenia ---> 
+
+[Pathway-specific dopamine abnormalities in schizophrenia]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5177794/
+[Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/
+[The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4032934/
+
+<!--- Withdrawal ---> 
+[The cannabis withdrawal syndrome: current insights]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5414724/
+[Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]:https://www.ncbi.nlm.nih.gov/pubmed/24724880
+[Time-course of the DSM-5 cannabis withdrawal symptoms in poly-substance abusers]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4015312/
+[Marijuana Dependence and Its Treatment]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797098/
+[Diagnostic Criteria for Cannabis Withdrawal Syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3311695/
+[The effects of Δ9-tetrahydrocannabinol on the dopamine system]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/
+
+<!-- //Articles -->
 
 [spektrum:cAMP]:https://www.spektrum.de/lexikon/neurowissenschaft/camp/1842
 [spektrum:translated:cAMP]:https://translate.google.de/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.spektrum.de%2Flexikon%2Fneurowissenschaft%2Fcamp%2F1842
@@ -276,10 +315,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTAyMjMyOTgwMiwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OT
-k4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4
-MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNy
-wxOTg1NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4
-MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0Ny
-wtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
+OTEwNDE0ODA2LDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OT
+g3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgx
+OTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LD
+E5ODU1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgz
+OTM5OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC
+04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
 -->
