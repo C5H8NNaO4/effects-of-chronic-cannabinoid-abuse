@@ -159,6 +159,9 @@ CREB is closely related in structure and function to  [CREM](https://en.wikipedi
 
 CREB has a well-documented role in  [neuronal plasticity](https://en.wikipedia.org/wiki/Neuroplasticity "Neuroplasticity")  and  [long-term memory](https://en.wikipedia.org/wiki/Long-term_memory "Long-term memory")  formation in the brain and has been shown to be integral in the formation of  [spatial memory](https://en.wikipedia.org/wiki/Spatial_memory "Spatial memory").[[5]](https://en.wikipedia.org/wiki/CREB#cite_note-5)  CREB downregulation is implicated in the pathology of  [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease "Alzheimer's disease")  and increasing the expression of CREB is being considered as a possible therapeutic target for Alzheimer's disease.[[6]](https://en.wikipedia.org/wiki/CREB#cite_note-6)  CREB also has a role in  [photoentrainment](https://en.wikipedia.org/wiki/Entrainment_(chronobiology) "Entrainment (chronobiology)")  in mammals.
 > Wikpedia - CREB
+
+### CREM
+**cAMP responsive element modulator** is a [protein](https://en.wikipedia.org/wiki/Protein "Protein") that in humans is encoded by the **CREM**  [gene](https://en.wikipedia.org/wiki/Gene "Gene"),[[5]](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator#cite_note-pmid1461747-5)[[6]](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator#cite_note-pmid7916662-6)[[7]](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator#cite_note-entrez-7) and it belongs to the cAMP-responsive element binding protein family. It has multiple isoforms, which act either as repressors or activators.[[8]](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator#cite_note-8)CREB family is important for in regulating transcription in response to various stresses, metabolic and developmental signals.[[9]](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator#cite_note-9) CREM transcription factors also play an important role in many physiological systems, such as cardiac function,[[10]](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator#cite_note-10) circadian rhythms,[[11]](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator#cite_note-11) locomotion and spermatogenesis
 ## Enzymes / Genes
 
 ### ADCY1
@@ -323,7 +326,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-OTY0MzE0NzEwLC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyND
+NjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyND
 Y3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0
 MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLT
 E0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMw
