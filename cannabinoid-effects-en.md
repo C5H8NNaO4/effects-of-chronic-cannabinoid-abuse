@@ -341,7 +341,10 @@ Here's a list of articles well worth reading.
 [^adhd-substance-misuse]: [https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16)
 
 https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
-[^adhd-dopamine]: [Attention-deficit-hyperactivity disorder and reward deficiency syndrome] - PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781) 
+[^adhd-dopamine]: [Kenneth Blum](https://www.ncbi.nlm.nih.gov/pubmed/?term=Blum%20K%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),1,6,7,8,9,10  [Amanda Lih-Chuan Chen](https://www.ncbi.nlm.nih.gov/pubmed/?term=Chen%20AL%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),2  [Eric R Braverman](https://www.ncbi.nlm.nih.gov/pubmed/?term=Braverman%20ER%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),3,9  [David E Comings](https://www.ncbi.nlm.nih.gov/pubmed/?term=Comings%20DE%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),4  [Thomas JH Chen](https://www.ncbi.nlm.nih.gov/pubmed/?term=Chen%20TJ%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),5[Vanessa Arcuri](https://www.ncbi.nlm.nih.gov/pubmed/?term=Arcuri%20V%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),9  [Seth H Blum](https://www.ncbi.nlm.nih.gov/pubmed/?term=Blum%20SH%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),6  [Bernard W Downs](https://www.ncbi.nlm.nih.gov/pubmed/?term=Downs%20BW%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),7,8  [Roger L Waite](https://www.ncbi.nlm.nih.gov/pubmed/?term=Waite%20RL%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),7  [Alison Notaro](https://www.ncbi.nlm.nih.gov/pubmed/?term=Notaro%20A%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),9  [Joel Lubar](https://www.ncbi.nlm.nih.gov/pubmed/?term=Lubar%20J%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),10[Lonna Williams](https://www.ncbi.nlm.nih.gov/pubmed/?term=Williams%20L%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),7  [Thomas J Prihoda](https://www.ncbi.nlm.nih.gov/pubmed/?term=Prihoda%20TJ%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),11  [Tomas Palomo](https://www.ncbi.nlm.nih.gov/pubmed/?term=Palomo%20T%5BAuthor%5D&cauthor=true&cauthor_uid=19183781),12 and [Marlene Oscar-Berman](https://www.ncbi.nlm.nih.gov/pubmed/?term=Oscar-Berman%20M%5BAuthor%5D&cauthor=true&cauthor_uid=19183781)13
+[Attention-deficit-hyperactivity disorder and reward deficiency syndrome] - 
+PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626918
+
 [^adhd-prevalance]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
@@ -349,11 +352,11 @@ https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls3
-MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1LDQzNjIyOT
-EyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwtOTUyNTM5NjU2LDIw
-NzA0MjQ1ODAsLTQzNzcxOTc4NiwxNzk4MzkwOTAwLC00Mzc3MT
-k3ODYsMTY1NjMzODU1NSwtMTkyNzAwOTA5MSw1MTMzNTY5NjAs
-MTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nzk5ODc2OTksLTE5ND
-kxNzcxNDEsLTIwNzU3OTE3NDIsLTExODI0ODE5MTJdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MjI5NDYxNjIyLDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
+Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
+NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOT
+A5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkx
+LDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OT
+k4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0Ml19
 -->
