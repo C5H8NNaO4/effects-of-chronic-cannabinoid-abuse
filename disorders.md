@@ -8,7 +8,7 @@
 	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies][Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
 	* [The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]
 * Sweating
-	* 
+	* [Mechanisms and controllers of eccrine sweating in humans][Mechanisms and controllers of eccrine sweating in humans]
 * Withdrawal
 	* [The cannabis withdrawal syndrome: current insights][The cannabis withdrawal syndrome: current insights]
 	* [Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]
@@ -36,6 +36,9 @@
 [Marijuana Dependence and Its Treatment]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797098/
 [Diagnostic Criteria for Cannabis Withdrawal Syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3311695/
 [The effects of Δ9-tetrahydrocannabinol on the dopamine system]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/
+
+
+[Mechanisms and controllers of eccrine sweating in humans]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866164/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgzNjk0OTMsLTczNjUyNjI5Nl19
+eyJoaXN0b3J5IjpbLTY2NTE3NDUwOCwtNzM2NTI2Mjk2XX0=
 -->
