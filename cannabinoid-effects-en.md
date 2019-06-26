@@ -197,8 +197,7 @@ Two primary endocannabinoid receptors have been identified: CB1, first cloned in
 Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemical of the catecholamine and [phenethylamine](https://en.wikipedia.org/wiki/Phenethylamine "Phenethylamine") families. It functions both as a hormone and a neurotransmitter, and plays several important roles in the brain and body. It is an [amine](https://en.wikipedia.org/wiki/Amine "Amine") synthesized by removing a [carboxyl group](https://en.wikipedia.org/wiki/Carboxyl_group "Carboxyl group") from a molecule of its [precursor chemical](https://en.wikipedia.org/wiki/Precursor_(chemistry) "Precursor (chemistry)")  [L-DOPA](https://en.wikipedia.org/wiki/L-DOPA "L-DOPA"), which is [synthesized](https://en.wikipedia.org/wiki/Biosynthesis "Biosynthesis") in the brain and kidneys. Dopamine is also synthesized in plants and most animals. In the [brain](https://en.wikipedia.org/wiki/Brain "Brain"), dopamine functions as a [neurotransmitter](https://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter")—a chemical released by [neurons](https://en.wikipedia.org/wiki/Neuron "Neuron") (nerve cells) to send signals to other nerve cells. The brain includes several distinct [dopamine pathways](https://en.wikipedia.org/wiki/Dopaminergic_pathway "Dopaminergic pathway"), one of which plays a major role in the motivational component of [reward-motivated behavior](https://en.wikipedia.org/wiki/Reward_system "Reward system"). The anticipation of most types of rewards increases the level of dopamine in the brain,[[2]](https://en.wikipedia.org/wiki/Dopamine#cite_note-Dissecting_components_of_reward:_%E2%80%98liking%E2%80%99,_%E2%80%98wanting%E2%80%99,_and_learning-2)[_[not in citation given](https://en.wikipedia.org/wiki/Wikipedia:Verifiability "Wikipedia:Verifiability")_] and many [addictive](https://en.wikipedia.org/wiki/Addiction "Addiction")  [drugs](https://en.wikipedia.org/wiki/Psychoactive_drug "Psychoactive drug") increase dopamine release or block its reuptake into neurons following release. Other brain dopamine pathways are involved in [motor control](https://en.wikipedia.org/wiki/Motor_system "Motor system") and in controlling the release of various hormones. These pathways and [cell groups](https://en.wikipedia.org/wiki/Dopaminergic_cell_groups "Dopaminergic cell groups") form a dopamine system which is [neuromodulatory](https://en.wikipedia.org/wiki/Neuromodulation "Neuromodulation").
 
 # Articles
-
-<del>Here's a list of articles well worth reading.
+Here's a list of articles well worth reading.
 
 #### Disorder Related Articles
 * Addiction
@@ -315,10 +314,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NTk3OTIyNTc3LDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OT
-g3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgx
-OTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LD
-E5ODU1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgz
-OTM5OSwyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC
-04ODI3Mzk3MzIsLTEwMDc5NjM5MywyMDk3MjkwMDIxXX0=
+MTE0NTY1NzA4OCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OT
+k4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4
+MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNy
+wxOTg1NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4
+MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0Ny
+wtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
 -->
