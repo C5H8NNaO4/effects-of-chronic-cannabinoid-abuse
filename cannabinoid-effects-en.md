@@ -1,6 +1,6 @@
 
 
-# Chrannabis abuse - living with disorders - a neuro-biological primer
+# Chronic cannabis abuse - living with disorders - a neuro-biological primer
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance. Abuse, however, should not be underestimated as it has many long term consequences.
@@ -9,7 +9,7 @@ With over 24 million users, cannabis is the most widely used drug in the USA; a 
 
 This article is **not** complete yet. This is just a draft and its completion will take some time.
 
-Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, please read the following sections. However, do not expect any conclusions.
+Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, feel free to read the following sections. However, do not expect any conclusions.
 
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal and to explain the effect of common psychotropic drugs.
 
@@ -344,8 +344,8 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NzM1OTg5OTgsNDU2OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyND
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+NDIwMzUyNDcsNDU2OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyND
 U4MCwtNDM3NzE5Nzg2LDE3OTgzOTA5MDAsLTQzNzcxOTc4Niwx
 NjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyND
 Y3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0
