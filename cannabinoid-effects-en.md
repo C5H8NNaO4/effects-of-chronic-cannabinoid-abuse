@@ -341,16 +341,16 @@ Here's a list of articles well worth reading.
 [^adhd-substance-misuse]: [https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16)
 
 https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
-[^adhd-dopamine]:  
+[^adhd-dopamine]: [Attention-deficit-hyperactivity disorder and reward deficiency syndrome] -  
 [^adhd-prevalance]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 
-[# Attention-deficit-hyperactivity disorder and reward deficiency syndrome
+[Attention-deficit-hyperactivity disorder and reward deficiency syndrome]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NjAwODc4NzM1LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0MzYyMj
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+MTE1NTYxODcyLC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0MzYyMj
 kxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOTY1Niwy
 MDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3Nz
 E5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMzU2OTYw
