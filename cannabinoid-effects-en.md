@@ -15,6 +15,7 @@ The whole thing is kept very superficial. Gradually, information is being collec
 ### ADHS 
 ADHS has grown to be an accepted disorder. Research shows that persons with AD(H)S have a higher affinity to sustance abuse and comorbid disorders.^[adhs-prevalance] than persons without attention deficit syndrom.
 > The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.
+
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
 
@@ -337,11 +338,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NDM3NzE5Nzg2LDE3OTgzOTA5MDAsLTQzNzcxOTc4NiwxNjU2Mz
-M4NTU1LC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyNDY3NDcz
-LDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0MSwtMj
-A3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MTM4
-Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMwODYxMi
-wtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMxOV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+MDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3Nz
+E5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMzU2OTYw
+LDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5LC0xOT
+Q5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjEx
+MDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOT
+EsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OV19
 -->
