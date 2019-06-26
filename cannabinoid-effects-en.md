@@ -12,9 +12,13 @@ This article is **not** complete yet. This is just a draft and its completion wi
 Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, please read the following sections. However, do not expect any conclusions.
 
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal and to explain the effect of common psychotropic drugs.
+
 ### ADHS 
-ADHS has grown to be an accepted disorder. Research shows that persons with AD(H)S have a higher affinity to sustance abuse and comorbid disorders.^[adhs-prevalance] than persons without attention deficit syndrom.
+ADHS has grown to be an accepted disorder. 
+>Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. ^[[1][adhs-dopamine-transport]]
+
 > The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.
+
 
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
@@ -47,11 +51,10 @@ This results in a chronic deficiency of the secondary messenger *cAMP*, and a re
 
 and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
-### ADHS, THC and the dopamine system
+### THC and the dopamine system
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
->Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. ^[[1][adhs-dopamine-transport]]
 
 
 # Basics
@@ -338,11 +341,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
-MDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3Nz
-E5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMzU2OTYw
-LDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5LC0xOT
-Q5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjEx
-MDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOT
-EsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+OTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4NiwxNzk4Mz
+kwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNzAwOTA5
+MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nz
+k5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIsLTExODI0
+ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3NDk0LDEyMjg4MTg0Mz
+csMTk4NTUwMjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMzMl19
 -->
