@@ -1,6 +1,6 @@
 
 
-# Chronic cannabis abuse - living with disorders - a neuro-biological primer
+# Chronic cannabis abuse -  a neuro-biological primer
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance. Abuse, however, should not be underestimated as it has many long term consequences.
@@ -16,9 +16,9 @@ The whole thing is kept very superficial. Gradually, information is being collec
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
 
-Mixed consumption of nicotine, cannabis, MDMA, psylocybin and LSD is not harmless and can have devastating consequences. 
+Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmless and can have devastating consequences. 
 
-I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
+I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
 ### ADHD
 ADHD often correlates with substance abuse. People who suffer from ADHD should be extra cautious when dealing with drugs.
@@ -345,11 +345,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
-MzYyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOT
-Y1NiwyMDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwt
-NDM3NzE5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMz
-U2OTYwLDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5
-LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLD
-YwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+ODAwNjk1MTU5LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MD
+c3MCwtOTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4Niwx
+Nzk4MzkwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNz
+AwOTA5MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0
+LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIsLT
+ExODI0ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3NDk0XX0=
 -->
