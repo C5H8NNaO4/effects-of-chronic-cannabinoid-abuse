@@ -17,9 +17,9 @@ The whole thing is kept very superficial. Gradually, information is being collec
 **Attention deficit hyperactivity disorder** (**ADHD**) is a [mental disorder](https://en.wikipedia.org/wiki/Mental_disorder "Mental disorder") of the [neurodevelopmental](https://en.wikipedia.org/wiki/Neurodevelopmental_disorder "Neurodevelopmental disorder") type.[[10]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-pmid23299717-10)[[11]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Caroline2010-11) It is characterized by [difficulty paying attention](https://en.wikipedia.org/wiki/Inattention "Inattention"), excessive activity, and [behavior without regards to consequences](https://en.wikipedia.org/wiki/Impulsivity "Impulsivity") which is not [appropriate for a person's age](https://en.wikipedia.org/wiki/Age_appropriateness "Age appropriateness").[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1)[[2]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-DSM5-2) There are also often problems with regulation of emotions.[[12]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-12)[[13]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-13)[[14]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-14) The symptoms appear before a person is twelve years old, are present for more than six months, and cause problems in at least two settings (such as school, home, or recreational activities).[[3]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-CDC-3)[[15]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Lake2011-15) In children, problems paying attention may result in poor school performance.[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1) Additionally there is an association with other mental disorders and [substance misuse](https://en.wikipedia.org/wiki/Substance_misuse "Substance misuse").[[16]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16) Although it causes impairment, particularly in modern society, many people with ADHD can have sustained attention for tasks they find interesting or rewarding (known as [hyperfocus](https://en.wikipedia.org/wiki/Hyperfocus "Hyperfocus")).[[5]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Koo2019-5)[[17]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Wal2012-17)
 >Wikipedia - [ADHD][wiki:ADHD]
 
->Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. ^[[adhs-dopamine-transport]
+>Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. ^[adhs-dopamine-transport]
 
-> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.^[adhd-pr
+> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.^[adhd-prevalance]
 
 
 ### Motivation
@@ -338,16 +338,17 @@ Here's a list of articles well worth reading.
 
 <!-- ADHS --> 
 
-[adhs-dopamine-transport]:h
+[adhd-dopamine-transport]:h
+[adhd-prevalance]
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NzkxMTIxNDQ4LC05NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3Nz
-E5Nzg2LDE3OTgzOTA5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1
-LC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MD
-E4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5
-MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OT
-QsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMwODYxMl19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
+NzcyODUxNzUsLTk1MjUzOTY1NiwyMDcwNDI0NTgwLC00Mzc3MT
+k3ODYsMTc5ODM5MDkwMCwtNDM3NzE5Nzg2LDE2NTYzMzg1NTUs
+LTE5MjcwMDkwOTEsNTEzMzU2OTYwLDEwMzI0Njc0NzMsMTkwMT
+g1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1Nzkx
+NzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NC
+wxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyXX0=
 -->
