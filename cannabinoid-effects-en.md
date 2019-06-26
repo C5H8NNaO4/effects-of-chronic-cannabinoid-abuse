@@ -14,7 +14,7 @@ Currently, this article contains only a collection of basic neurobiological know
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal, the brain and  psychotropic drugs. 
 
 ### ADHD
-ADHD often correlates with substance abuse, which is why people li
+ADHD often correlates with substance abuse. People suffering from ADHD should be extra cautious consuming drugs.
 
 **Attention deficit hyperactivity disorder** (**ADHD**) is a [mental disorder](https://en.wikipedia.org/wiki/Mental_disorder "Mental disorder") of the [neurodevelopmental](https://en.wikipedia.org/wiki/Neurodevelopmental_disorder "Neurodevelopmental disorder") type.<sup>[[10]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-pmid23299717-10)[[11]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Caroline2010-11)</sup> It is characterized by [difficulty paying attention](https://en.wikipedia.org/wiki/Inattention "Inattention"), excessive activity, and [behavior without regards to consequences](https://en.wikipedia.org/wiki/Impulsivity "Impulsivity") which is not [appropriate for a person's age](https://en.wikipedia.org/wiki/Age_appropriateness "Age appropriateness").<sup>[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1)[[2]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-DSM5-2) </sup>There are also often problems with regulation of emotions.<sup>[[12]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-12)[[13]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-13)[[14]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-14)</sup>  In children, problems paying attention may result in poor school performance.[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1) Additionally there is an association with other mental disorders and [**substance misuse**](https://en.wikipedia.org/wiki/Substance_misuse "Substance misuse").[[16]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16) Although it causes impairment, particularly in modern society, many people with ADHD can have sustained attention for tasks they find interesting or rewarding (known as [hyperfocus](https://en.wikipedia.org/wiki/Hyperfocus "Hyperfocus")).[[5]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Koo2019-5)[[17]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Wal2012-17)
 >Wikipedia - [ADHD][wiki:ADHD]
@@ -346,11 +346,12 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
-NDM4Njg1MDcsNDU2OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyND
-U4MCwtNDM3NzE5Nzg2LDE3OTgzOTA5MDAsLTQzNzcxOTc4Niwx
-NjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyND
-Y3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0
-MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLT
-E0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTM4Njg0MjQyNCw0NTY5ODA3NzAsLTk1MjUzOTY1NiwyMDcwND
+I0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3NzE5Nzg2
+LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMzU2OTYwLDEwMz
+I0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MTc3
+MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNy
+wtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOTFdfQ==
+
 -->
