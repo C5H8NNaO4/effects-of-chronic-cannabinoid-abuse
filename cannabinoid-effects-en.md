@@ -21,7 +21,7 @@ Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmles
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
 ### ADHD
-ADHD often correlates with substance abuse. People who suffer from ADHD should be extra cautious when dealing with drugs.
+ADHD often correlates with substance abuse.[^adhd-substance-misuse] People who suffer from ADHD should be extra cautious when dealing with drugs.
 
 >**Attention deficit hyperactivity disorder** (**ADHD**) is a [mental disorder](https://en.wikipedia.org/wiki/Mental_disorder "Mental disorder") of the [neurodevelopmental](https://en.wikipedia.org/wiki/Neurodevelopmental_disorder "Neurodevelopmental disorder") type.<sup>[[10]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-pmid23299717-10)[[11]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Caroline2010-11)</sup> It is characterized by [difficulty paying attention](https://en.wikipedia.org/wiki/Inattention "Inattention"), excessive activity, and [behavior without regards to consequences](https://en.wikipedia.org/wiki/Impulsivity "Impulsivity") which is not [appropriate for a person's age](https://en.wikipedia.org/wiki/Age_appropriateness "Age appropriateness").<sup>[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1)[[2]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-DSM5-2) </sup>There are also often problems with regulation of emotions.<sup>[[12]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-12)[[13]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-13)[[14]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-14)</sup>  In children, problems paying attention may result in poor school performance.<sup>[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1)</sup> Additionally there is an association with other mental disorders and [**substance misuse**](https://en.wikipedia.org/wiki/Substance_misuse "Substance misuse").<sup>[[16]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16) </sup>Although it causes impairment, particularly in modern society, many people with ADHD can have sustained attention for tasks they find interesting or rewarding (known as [hyperfocus](https://en.wikipedia.org/wiki/Hyperfocus "Hyperfocus")).<sup>[[5]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Koo2019-5)[[17]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Wal2012-17)</sup>
 > --- Wikipedia - [ADHD][wiki:ADHD]
@@ -341,12 +341,13 @@ Here's a list of articles well worth reading.
 
 [^adhd-dopamine]: ADGD - https://www.ncbi.nlm.nih.gov/pubmed/29490380]
 [^adhd-prevalance]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-ODAwNjk1MTU5LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MD
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+MDI4OTEzMzU0LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MD
 c3MCwtOTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4Niwx
 Nzk4MzkwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNz
 AwOTA5MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0
