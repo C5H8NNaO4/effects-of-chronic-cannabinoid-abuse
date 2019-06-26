@@ -46,7 +46,7 @@ and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *H
 ### ADHS, THC and the dopamine system
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum[42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
->Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. ^[adhs-dopamine-transport]
+>Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. ^[[1][adhs-dopamine-transport]]
 
 
 # Basics
@@ -327,16 +327,17 @@ Here's a list of articles well worth reading.
 [cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
 
 <!-- ADHS --> 
-[adhs-dopamine-transport]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
+
+[[asd]adhs-dopamine-transport]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTA4MzUxNTg0MCwxNjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMz
-M1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5
-OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMi
-w2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1
-NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOT
-ksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0N119
+NjAwOTc3MzU1LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMz
+U2OTYwLDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5
+LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLD
+YwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1
+MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OS
+wyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3XX0=
 -->
