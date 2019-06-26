@@ -49,7 +49,7 @@ I don't know anything about neurobiology yet. This article is just a primer; a c
 THC activates the CNR1, which inhibits [ADCY1][wiki:adcy1] in the synaptic cleft, leading to a reduction in ATP-cAMP transformation
 >All classes of adenylyl cyclase [catalyse](https://en.wikipedia.org/wiki/Catalysis "Catalysis") the conversion of [adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate "Adenosine triphosphate") (ATP) to [3',5'-cyclic AMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate") (cAMP) and [pyrophosphate](https://en.wikipedia.org/wiki/Pyrophosphate "Pyrophosphate").[[4]](https://en.wikipedia.org/wiki/Adenylyl_cyclase#cite_note-:2-4)
 >
-This results in a chronic deficiency of the secondary messenger *cAMP*, and a reduction of *PKA* transcription, which is dependent on the *cAMP* concentration in the cell
+This results in chronic deficiency of the secondary messenger *cAMP*, and a reduction of *PKA* transcription, which is dependent on the *cAMP* concentration in the cell
 
 > PKA is also commonly known as cAMP-dependent protein kinase {...] as protein expression varies from cell type to cell type, the proteins that are available for phosphorylation will depend upon the cell in which PKA is present. Thus, the effects of PKA activation vary.
 
@@ -351,7 +351,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTkxNTYxMTU2MCw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OT
+MTM1MjMzNjMyNyw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OT
 I0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwt
 OTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4NiwxNzk4Mz
 kwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNzAwOTA5
