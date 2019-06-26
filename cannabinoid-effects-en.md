@@ -23,14 +23,6 @@ ADHD often correlates with substance abuse. People who suffer from ADHD should b
 
 > The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.[^adhd-prevalance]
 
-
-### Motivation
-After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
-
-Mixed consumption of nicotine, cannabis, MDMA, psylocybin and LSD is not harmless and can have devastating consequences. 
-
-I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
-
 ### Effects
 The effects of years of drug abuse are devastating and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
 
@@ -346,11 +338,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjYyOTM2MjIwLDQ1Njk4MDc3MCwtOTUyNTM5NjU2LDIwNzA0Mj
-Q1ODAsLTQzNzcxOTc4NiwxNzk4MzkwOTAwLC00Mzc3MTk3ODYs
-MTY1NjMzODU1NSwtMTkyNzAwOTA5MSw1MTMzNTY5NjAsMTAzMj
-Q2NzQ3MywxOTAxODUwODA0LDE5Nzk5ODc2OTksLTE5NDkxNzcx
-NDEsLTIwNzU3OTE3NDIsLTExODI0ODE5MTIsNjA2MTEwODA3LC
-0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMTk4NTUwMjM5MV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+MjMwNTMzNzY2LC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05NTI1Mz
+k2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOTA5MDAs
+LTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMz
+M1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5
+OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMi
+w2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzN119
 -->
