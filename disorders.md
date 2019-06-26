@@ -15,7 +15,7 @@
 	* [Marijuana Dependence and Its Treatment][Marijuana Dependence and Its Treatment]
 ---
 #### General Articles
-* Dopamine
+* THC
 	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system][The effects of Δ9-tetrahydrocannabinol on the dopamine system]
 
 <!--- # Addiction-->
@@ -35,7 +35,7 @@
 [Time-course of the DSM-5 cannabis withdrawal symptoms in poly-substance abusers]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4015312/
 [Marijuana Dependence and Its Treatment]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797098/
 [Diagnostic Criteria for Cannabis Withdrawal Syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3311695/
-[thc-effects-dopamine]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/
+[The effects of Δ9-tetrahydrocannabinol on the dopamine system]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTg2NDk0OCwtNzM2NTI2Mjk2XX0=
+eyJoaXN0b3J5IjpbLTE4MzgzNjk0OTMsLTczNjUyNjI5Nl19
 -->
