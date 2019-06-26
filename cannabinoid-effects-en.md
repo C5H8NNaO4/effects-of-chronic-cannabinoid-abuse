@@ -32,7 +32,8 @@ I don't know anything about neurobiology yet. This article is just a primer; a c
 >! Spoiler: It's mostly Wikipedia. 
 
 # ADHS 
-> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.
+ADHS has grown to be an accepted disorder. Research shows that persons with AD(H)S have a high affinity to sustance abuse an
+> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.^[[1][adhs-prevalance]]
 # Metabolism
 ### THC, ADCY1, ATP, cAMP und die PKA Transkription
 
@@ -336,10 +337,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NDUzMzg1NjAxLDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMz
-U2OTYwLDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5
-LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLD
-YwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1
-MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OS
-wyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3XX0=
+MjAzMDQ0OTExMSwxNjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMz
+M1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5
+OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMi
+w2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1
+NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOT
+ksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0N119
 -->
