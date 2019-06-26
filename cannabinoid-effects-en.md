@@ -1,7 +1,7 @@
 
 
 # Chronic cannabis abuse - a neuro-biological primer
-With over 24 million users, cannabis is the most widely used drug in the USA. It's a seemingly harmless substance, abuse however is not to be underestimated and can have tremendous long term consequences.
+With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance. Abuse, however, should not be underestimated and has lots of long term consequences.
 
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
@@ -19,7 +19,7 @@ After 14 years of excessive THC consumption, the negative symptoms of drug abuse
 
 Mixed consumption of nicotine, cannabis, MDMA, psylocybin and LSD is not harmless and can have devastating consequences. 
 
-I'm not trying to say drugs are bad (m'kay). I spent a lot of time having fun. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
+I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
 
 ### Effects
 The effects of years of drug abuse are extensive and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
@@ -322,11 +322,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
-MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nzk5OD
-c2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIsLTExODI0ODE5
-MTIsNjA2MTEwODA3LC0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMT
-k4NTUwMjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5
-Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLT
-g4MjczOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+Mzg5NDA3Miw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwOD
+A0LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIs
+LTExODI0ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3NDk0LDEyMj
+g4MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMz
+MiwtODE5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4Myw4MD
+Q4MTQ5NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzXX0=
 -->
