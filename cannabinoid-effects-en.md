@@ -229,7 +229,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 [wiki:CREB]:https://en.wikipedia.org/wiki/CREB
 
 
-5[Serin]: https://en.wikipedia.org/wiki/Serine
+[Serin]: https://en.wikipedia.org/wiki/Serine
 [wiki:ADC]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
 
 <!-- Genecard references-->
@@ -275,11 +275,11 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-MDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OT
-E3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4
-MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLD
-Y3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4
-NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC
-0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTAyMjMyOTgwMiwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OT
+k4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4
+MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNy
+wxOTg1NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4
+MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0Ny
+wtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
 -->
