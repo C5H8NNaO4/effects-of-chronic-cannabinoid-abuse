@@ -292,12 +292,10 @@ Here's a list of articles well worth reading.
 [wiki:ATP]:https://en.wikipedia.org/wiki/Adenosine_triphosphate
 [wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/800px-Cyclic-AMPchemdraw.png
 [wiki:cAMP]: https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
-
 [wiki:cerebellum]:https://en.wikipedia.org/wiki/Cerebellum
 [wiki:gene-regulation]:https://en.wikipedia.org/wiki/Regulation_of_gene_expression
 [wiki:GP]: https://en.wikipedia.org/wiki/G_protein
 [wiki:GPCR]:  https://en.wikipedia.org/wiki/G_protein-coupled_receptor
-
 [wiki:PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
@@ -349,6 +347,7 @@ Here's a list of articles well worth reading.
 [cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
 
 <!-- ADHS --> 
+#Refer
 [^adhd-substance-misuse]:[Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]
 PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
 
@@ -366,11 +365,11 @@ PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-MzQ2Nzk3MjIxLDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
-Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
-NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOT
-A5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkx
-LDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OT
-k4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0Ml19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MjA4OTkxMjM5Miw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OT
+I0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwt
+OTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4NiwxNzk4Mz
+kwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNzAwOTA5
+MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nz
+k5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDJdfQ==
 -->
