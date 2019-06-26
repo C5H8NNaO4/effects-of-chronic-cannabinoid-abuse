@@ -82,6 +82,15 @@ The cAMP cascade is an intracellular  [signal transduction](https://translate.go
 
 > Spektrum - [cAMP][spektrum:cAMP] ([translated][spektrum:translated:cAMP])
 
+### CREB
+**CREB-TF**  (CREB,  **cAMP response element-binding protein**)[[1]](https://en.wikipedia.org/wiki/CREB#cite_note-ReferenceA-1)  is a cellular  [transcription factor](https://en.wikipedia.org/wiki/Transcription_factor "Transcription factor"). It binds to certain  [DNA](https://en.wikipedia.org/wiki/DNA "DNA")  sequences called cAMP response elements (CRE), thereby increasing or decreasing the  [transcription](https://en.wikipedia.org/wiki/Transcription_(genetics) "Transcription (genetics)")  of the  [genes](https://en.wikipedia.org/wiki/Gene "Gene").[[2]](https://en.wikipedia.org/wiki/CREB#cite_note-Purves-2)  CREB was first described in 1987 as a  [cAMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate")-responsive transcription factor regulating the  [somatostatin](https://en.wikipedia.org/wiki/Somatostatin "Somatostatin")gene.[[3]](https://en.wikipedia.org/wiki/CREB#cite_note-3)
+
+Genes whose transcription is regulated by CREB include:  _[c-fos](https://en.wikipedia.org/wiki/C-fos "C-fos")_,  [BDNF](https://en.wikipedia.org/wiki/BDNF "BDNF"),  [tyrosine hydroxylase](https://en.wikipedia.org/wiki/Tyrosine_hydroxylase "Tyrosine hydroxylase"), numerous  [neuropeptides](https://en.wikipedia.org/wiki/Neuropeptide "Neuropeptide")  (such as  [somatostatin](https://en.wikipedia.org/wiki/Somatostatin "Somatostatin"),  [enkephalin](https://en.wikipedia.org/wiki/Enkephalin "Enkephalin"),  [VGF](https://en.wikipedia.org/wiki/VGF "VGF"),  [corticotropin-releasing hormone](https://en.wikipedia.org/wiki/Corticotropin-releasing_hormone "Corticotropin-releasing hormone")),[[2]](https://en.wikipedia.org/wiki/CREB#cite_note-Purves-2)  and genes involved in the mammalian  [circadian clock](https://en.wikipedia.org/wiki/Circadian_clock "Circadian clock")  ([PER1](https://en.wikipedia.org/wiki/PER1 "PER1"),  [PER2](https://en.wikipedia.org/wiki/PER2 "PER2")).[[4]](https://en.wikipedia.org/wiki/CREB#cite_note-:0-4)
+
+CREB is closely related in structure and function to  [CREM](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator "CAMP responsive element modulator")  ([cAMP response element modulator](https://en.wikipedia.org/wiki/CAMP_response_element_modulator "CAMP response element modulator")) and ATF-1 ([activating transcription factor-1](https://en.wikipedia.org/wiki/Activating_transcription_factor-1 "Activating transcription factor-1")) proteins. CREB proteins are expressed in many animals, including humans.
+
+CREB has a well-documented role in  [neuronal plasticity](https://en.wikipedia.org/wiki/Neuroplasticity "Neuroplasticity")  and  [long-term memory](https://en.wikipedia.org/wiki/Long-term_memory "Long-term memory")  formation in the brain and has been shown to be integral in the formation of  [spatial memory](https://en.wikipedia.org/wiki/Spatial_memory "Spatial memory").[[5]](https://en.wikipedia.org/wiki/CREB#cite_note-5)  CREB downregulation is implicated in the pathology of  [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease "Alzheimer's disease")  and increasing the expression of CREB is being considered as a possible therapeutic target for Alzheimer's disease.[[6]](https://en.wikipedia.org/wiki/CREB#cite_note-6)  CREB also has a role in  [photoentrainment](https://en.wikipedia.org/wiki/Entrainment_(chronobiology) "Entrainment (chronobiology)")  in mammals.
+> Wikpedia
 ## Brain Regions
 
 ### Hippocampus
@@ -217,8 +226,10 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 [wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:media:PKA]:https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/PKARII.svg/740px-PKARII.svg.png
+[wiki:CREB]:https://en.wikipedia.org/wiki/CREB
 
-[Serin]: https://en.wikipedia.org/wiki/Serine
+
+5[Serin]: https://en.wikipedia.org/wiki/Serine
 [wiki:ADC]: https://en.wikipedia.org/wiki/Adenylyl_cyclase
 
 <!-- Genecard references-->
@@ -264,11 +275,11 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsz
-MDk1MjI1NDksMTkwMTg1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MT
-c3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjExMDgw
-NywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNj
-c1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3
-MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzIsLT
-EwMDc5NjM5MywyMDk3MjkwMDIxXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+MDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OT
+E3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4
+MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLD
+Y3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4
+NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyLC
+0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
 -->
