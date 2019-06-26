@@ -44,7 +44,7 @@ This results in a chronic deficiency of the secondary messenger *cAMP*, and a re
 and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
 ### ADHS, THC and the dopamine system
-> *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum[42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
+> *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
 >Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. ^[[1][adhs-dopamine-transport]]
 
@@ -328,16 +328,16 @@ Here's a list of articles well worth reading.
 
 <!-- ADHS --> 
 
-[[asd]adhs-dopamine-transport]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
+[adhs-dopamine-transport]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NjAwOTc3MzU1LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMz
-U2OTYwLDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5
-LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLD
-YwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1
-MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OS
-wyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
+MTc2MjExNzksMTY1NjMzODU1NSwtMTkyNzAwOTA5MSw1MTMzNT
+Y5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nzk5ODc2OTks
+LTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIsLTExODI0ODE5MTIsNj
+A2MTEwODA3LC0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMTk4NTUw
+MjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LD
+IxMjYzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDddfQ==
 -->
