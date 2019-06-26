@@ -1,6 +1,6 @@
 
 
-# Chronic cannabis abuse - a neuro-biological primer
+# ADHS and chronic cannabis abuse - a neuro-biological primer
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance. Abuse, however, should not be underestimated as it has many long term consequences.
@@ -30,7 +30,9 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 
 I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
 >! Spoiler: It's mostly Wikipedia. 
->
+
+# ADHS 
+> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.
 # Metabolism
 ### THC, ADCY1, ATP, cAMP und die PKA Transkription
 
@@ -333,11 +335,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
-MTc2MjExNzksMTY1NjMzODU1NSwtMTkyNzAwOTA5MSw1MTMzNT
-Y5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nzk5ODc2OTks
-LTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIsLTExODI0ODE5MTIsNj
-A2MTEwODA3LC0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMTk4NTUw
-MjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LD
-IxMjYzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDddfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+NDUzMzg1NjAxLDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMz
+U2OTYwLDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5
+LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLD
+YwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1
+MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OS
+wyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3XX0=
 -->
