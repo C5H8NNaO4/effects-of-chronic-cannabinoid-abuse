@@ -1,7 +1,7 @@
 #### Disorder Related Articles
 * ADHD
 	* [Role of dopamine receptors in ADHD: a systematic meta-analysis]
-	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]b
+	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome][Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
 * Anxiety
@@ -25,7 +25,8 @@
 
 <!-- # ADHD -->
 [Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
-[Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
+[Attention-deficit-hyperactivity disorder and reward deficiency syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
+[Attention deficit hyperactivity disorder (ADHD): Overview]:[https://www.ncbi.nlm.nih.gov/books/NBK321129/](https://www.ncbi.nlm.nih.gov/books/NBK321129/)
 <!--- # Addiction-->
 [Dopamine Signaling in reward-related behaviors]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795306/
 <!---# Anxiety ---> 
@@ -52,5 +53,5 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTk2Mjg4MiwtNzM2NTI2Mjk2XX0=
+eyJoaXN0b3J5IjpbLTE4OTU3MTA1MzUsLTczNjUyNjI5Nl19
 -->
