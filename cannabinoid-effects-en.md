@@ -338,17 +338,18 @@ Here's a list of articles well worth reading.
 
 <!-- ADHS --> 
 
-[adhd-dopamine-transport]:h
-[adhd-prevalance]
+[adhd-dopamine-transport]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
+[adhd-prevalance]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
-NzcyODUxNzUsLTk1MjUzOTY1NiwyMDcwNDI0NTgwLC00Mzc3MT
-k3ODYsMTc5ODM5MDkwMCwtNDM3NzE5Nzg2LDE2NTYzMzg1NTUs
-LTE5MjcwMDkwOTEsNTEzMzU2OTYwLDEwMzI0Njc0NzMsMTkwMT
-g1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1Nzkx
-NzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NC
-wxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTE5NzgzMDMxMywtOTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNz
+cxOTc4NiwxNzk4MzkwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1
+NSwtMTkyNzAwOTA5MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOT
+AxODUwODA0LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3
+OTE3NDIsLTExODI0ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3ND
+k0LDEyMjg4MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTJdfQ==
+
 -->
