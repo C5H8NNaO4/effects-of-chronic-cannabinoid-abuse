@@ -42,6 +42,10 @@
 [Mechanisms and controllers of eccrine sweating in humans]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866164/
 
 [Hyperhidrosis—Causes and Treatment of Enhanced Sweating]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695293/
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/)
+
+[Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA4NDE1NiwtNzM2NTI2Mjk2XX0=
+eyJoaXN0b3J5IjpbMTAxNzA0MzczOCwtNzM2NTI2Mjk2XX0=
 -->
