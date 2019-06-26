@@ -13,9 +13,10 @@ Currently, this article contains only a collection of basic neurobiological know
 
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal, the brain and  psychotropic drugs. 
 
-### ADHS 
-Since a lot of persons 
-**Attention deficit hyperactivity disorder** (**ADHD**) is a [mental disorder](https://en.wikipedia.org/wiki/Mental_disorder "Mental disorder") of the [neurodevelopmental](https://en.wikipedia.org/wiki/Neurodevelopmental_disorder "Neurodevelopmental disorder") type.[[10]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-pmid23299717-10)[[11]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Caroline2010-11) It is characterized by [difficulty paying attention](https://en.wikipedia.org/wiki/Inattention "Inattention"), excessive activity, and [behavior without regards to consequences](https://en.wikipedia.org/wiki/Impulsivity "Impulsivity") which is not [appropriate for a person's age](https://en.wikipedia.org/wiki/Age_appropriateness "Age appropriateness").[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1)[[2]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-DSM5-2) There are also often problems with regulation of emotions.[[12]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-12)[[13]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-13)[[14]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-14) The symptoms appear before a person is twelve years old, are present for more than six months, and cause problems in at least two settings (such as school, home, or recreational activities).[[3]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-CDC-3)[[15]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Lake2011-15) In children, problems paying attention may result in poor school performance.[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1) Additionally there is an association with other mental disorders and [substance misuse](https://en.wikipedia.org/wiki/Substance_misuse "Substance misuse").[[16]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16) Although it causes impairment, particularly in modern society, many people with ADHD can have sustained attention for tasks they find interesting or rewarding (known as [hyperfocus](https://en.wikipedia.org/wiki/Hyperfocus "Hyperfocus")).[[5]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Koo2019-5)[[17]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Wal2012-17)
+### ADHD
+A lot of persons living with ADHD are prone to addiction. 
+
+**Attention deficit hyperactivity disorder** (**ADHD**) is a [mental disorder](https://en.wikipedia.org/wiki/Mental_disorder "Mental disorder") of the [neurodevelopmental](https://en.wikipedia.org/wiki/Neurodevelopmental_disorder "Neurodevelopmental disorder") type.[[10]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-pmid23299717-10)[[11]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Caroline2010-11) It is characterized by [difficulty paying attention](https://en.wikipedia.org/wiki/Inattention "Inattention"), excessive activity, and [behavior without regards to consequences](https://en.wikipedia.org/wiki/Impulsivity "Impulsivity") which is not [appropriate for a person's age](https://en.wikipedia.org/wiki/Age_appropriateness "Age appropriateness").[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1)[[2]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-DSM5-2) There are also often problems with regulation of emotions.[[12]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-12)[[13]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-13)[[14]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-14)  In children, problems paying attention may result in poor school performance.[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1) Additionally there is an association with other mental disorders and [substance misuse](https://en.wikipedia.org/wiki/Substance_misuse "Substance misuse").[[16]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16) Although it causes impairment, particularly in modern society, many people with ADHD can have sustained attention for tasks they find interesting or rewarding (known as [hyperfocus](https://en.wikipedia.org/wiki/Hyperfocus "Hyperfocus")).[[5]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Koo2019-5)[[17]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Wal2012-17)
 >Wikipedia - [ADHD][wiki:ADHD]
 
 >Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. [^adhd-dopamine]
@@ -345,11 +346,12 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-MDQzNTc5NjI1LDQ1Njk4MDc3MCwtOTUyNTM5NjU2LDIwNzA0Mj
-Q1ODAsLTQzNzcxOTc4NiwxNzk4MzkwOTAwLC00Mzc3MTk3ODYs
-MTY1NjMzODU1NSwtMTkyNzAwOTA5MSw1MTMzNTY5NjAsMTAzMj
-Q2NzQ3MywxOTAxODUwODA0LDE5Nzk5ODc2OTksLTE5NDkxNzcx
-NDEsLTIwNzU3OTE3NDIsLTExODI0ODE5MTIsNjA2MTEwODA3LC
-0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMTk4NTUwMjM5MV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTU2ODUzMzE4OSw0NTY5ODA3NzAsLTk1MjUzOTY1NiwyMDcwND
+I0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3NzE5Nzg2
+LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMzU2OTYwLDEwMz
+I0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MTc3
+MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNy
+wtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOTFdfQ==
+
 -->
