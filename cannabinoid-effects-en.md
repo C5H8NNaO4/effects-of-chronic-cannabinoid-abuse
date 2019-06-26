@@ -198,7 +198,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 
 # Articles
 
-<del>Here's a list of articles well worth reading.</del>  Not yet listed.
+<del>Here's a list of articles well worth reading.
 
 #### Disorder Related Articles
 * Addiction
@@ -210,7 +210,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies][Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
 	* [The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]
 * Sweating
-	* <del> 
+	* <del>... _ ...</del>
 * Withdrawal
 	* [The cannabis withdrawal syndrome: current insights][The cannabis withdrawal syndrome: current insights]
 	* [Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]
@@ -315,7 +315,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-OTEwNDE0ODA2LDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OT
+NTk3OTIyNTc3LDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OT
 g3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgx
 OTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LD
 E5ODU1MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgz
