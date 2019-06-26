@@ -47,7 +47,7 @@ and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *H
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum[42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
 >Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning.
->
+
 # Basics
 ### ATP - Adenosintriphosphat
 **Adenosine triphosphate**  (**ATP**) is a complex  [organic chemical](https://en.wikipedia.org/wiki/Organic_compound "Organic compound")  that provides energy to drive many processes in living  [cells](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)"), e.g. muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all forms of life, ATP is often referred to as the "molecular unit of  [currency](https://en.wikipedia.org/wiki/Currency "Currency")" of intracellular  [energy transfer](https://en.wikipedia.org/wiki/Energy_transfer "Energy transfer").[[2]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-2)  When consumed in  [metabolic](https://en.wikipedia.org/wiki/Metabolism "Metabolism")  processes, it converts either to  [adenosine diphosphate](https://en.wikipedia.org/wiki/Adenosine_diphosphate "Adenosine diphosphate")(ADP) or to  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")  (AMP). Other processes regenerate ATP so that the human body recycles its own body weight equivalent in ATP each day.[[3]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-3)  It is also a  [precursor](https://en.wikipedia.org/wiki/Precursor_(chemistry) "Precursor (chemistry)")  to DNA and RNA, and is used as a  [coenzyme](https://en.wikipedia.org/wiki/Coenzyme "Coenzyme").
@@ -324,15 +324,18 @@ Here's a list of articles well worth reading.
 <!-- images -->
 [cannabis-statistics-image]:https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabis-statistics.png
 [cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
+
+<!-- ADHS --> 
+[adhs-dopamine-transport]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjA5NjIxNTY2MSwxNjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMz
-M1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5
-OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMi
-w2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1
-NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOT
-ksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0N119
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
+MjY2MTYzODYsMTY1NjMzODU1NSwtMTkyNzAwOTA5MSw1MTMzNT
+Y5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nzk5ODc2OTks
+LTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIsLTExODI0ODE5MTIsNj
+A2MTEwODA3LC0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMTk4NTUw
+MjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5Mzk5LD
+IxMjYzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDddfQ==
 -->
