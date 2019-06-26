@@ -10,6 +10,7 @@
 * Sweating
 	* [Hyperhidrosis—Causes and Treatment of Enhanced Sweating][Hyperhidrosis—Causes and Treatment of Enhanced Sweating]
 	* [Mechanisms and controllers of eccrine sweating in humans][Mechanisms and controllers of eccrine sweating in humans]
+	* [Profuse sweating on the palms, soles, and axillae][Profuse sweating on the palms, soles, and axillae]
 * Withdrawal
 	* [The cannabis withdrawal syndrome: current insights][The cannabis withdrawal syndrome: current insights]
 	* [Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]
@@ -43,9 +44,7 @@
 
 [Hyperhidrosis—Causes and Treatment of Enhanced Sweating]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695293/
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/)
-
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzA0MzczOCwtNzM2NTI2Mjk2XX0=
+eyJoaXN0b3J5IjpbMTEyMzQyNjg1LC03MzY1MjYyOTZdfQ==
 -->
