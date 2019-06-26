@@ -1,4 +1,5 @@
 
+[TOC]
 
 # Chronic cannabis abuse -  a neuro-biological primer
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
@@ -347,7 +348,7 @@ Here's a list of articles well worth reading.
 [cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
 
 <!-- ADHS --> 
-#Refer
+
 [^adhd-substance-misuse]:[Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]
 PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
 
@@ -361,15 +362,17 @@ PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
  [Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
 
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
+
+## References
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjA4OTkxMjM5Miw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OT
-I0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwt
-OTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4NiwxNzk4Mz
-kwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNzAwOTA5
-MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nz
-k5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDJdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls2
+MDI3OTgxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyND
+Y5NSw0MzYyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1
+MjUzOTY1NiwyMDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MD
+kwMCwtNDM3NzE5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEs
+NTEzMzU2OTYwLDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OT
+g3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyXX0=
 -->
