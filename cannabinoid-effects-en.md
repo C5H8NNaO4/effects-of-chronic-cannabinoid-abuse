@@ -286,6 +286,7 @@ Here's a list of articles well worth reading.
 [cannabinoid-path-link]:https://www.wikipathways.org/index.php/Pathway:WP3869
 
 <!-- Wikipedia references -->
+[wiki:ADHD]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
 [wiki:ADCY1]:https://en.wikipedia.org/w/index.php?title=ADCY1&gettingStartedReturn=true
 [wiki:ATP]:https://en.wikipedia.org/wiki/Adenosine_triphosphate
 [wiki:camp-molecule]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cyclic-AMPchemdraw.png/800px-Cyclic-AMPchemdraw.png
@@ -365,11 +366,11 @@ PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
-ODA1NDAxNTMsNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MD
-c2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2
-OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nz
-g2LDE3OTgzOTA5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0x
-OTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MDE4NT
-A4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0MV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+NTY5MTczNzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLTE3MjQyND
+A3NjEsNTg1OTI0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1
+Njk4MDc3MCwtOTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOT
+c4NiwxNzk4MzkwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwt
+MTkyNzAwOTA5MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxOD
+UwODA0LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDFdfQ==
 -->
