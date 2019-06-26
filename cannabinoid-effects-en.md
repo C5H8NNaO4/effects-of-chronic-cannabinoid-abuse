@@ -199,6 +199,7 @@ Dopamine (DA, a contraction of 3,4-dihydroxyphenethylamine) is an organic chemic
 # Articles
 Here's a list of articles well worth reading.
 
+
 #### Disorder Related Articles
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
@@ -209,7 +210,9 @@ Here's a list of articles well worth reading.
 	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies][Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
 	* [The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]
 * Sweating
-	* <del>... _ ...</del>
+	* [Hyperhidrosis—Causes and Treatment of Enhanced Sweating][Hyperhidrosis—Causes and Treatment of Enhanced Sweating]
+	* [Mechanisms and controllers of eccrine sweating in humans][Mechanisms and controllers of eccrine sweating in humans]
+	* [Profuse sweating on the palms, soles, and axillae][Profuse sweating on the palms, soles, and axillae]
 * Withdrawal
 	* [The cannabis withdrawal syndrome: current insights][The cannabis withdrawal syndrome: current insights]
 	* [Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]
@@ -238,6 +241,12 @@ Here's a list of articles well worth reading.
 [Diagnostic Criteria for Cannabis Withdrawal Syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3311695/
 [The effects of Δ9-tetrahydrocannabinol on the dopamine system]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/
 
+
+[Mechanisms and controllers of eccrine sweating in humans]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2866164/
+
+[Hyperhidrosis—Causes and Treatment of Enhanced Sweating]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695293/
+
+[Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!-- //Articles -->
 
 [spektrum:cAMP]:https://www.spektrum.de/lexikon/neurowissenschaft/camp/1842
@@ -313,11 +322,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTE0NTY1NzA4OCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OT
-k4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4
-MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNy
-wxOTg1NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4
-MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0Ny
-wtODgyNzM5NzMyLC0xMDA3OTYzOTMsMjA5NzI5MDAyMV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
+MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nzk5OD
+c2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIsLTExODI0ODE5
+MTIsNjA2MTEwODA3LC0xNDEzODM3NDk0LDEyMjg4MTg0MzcsMT
+k4NTUwMjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMzMiwtODE5ODM5
+Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4Myw4MDQ4MTQ5NDcsLT
+g4MjczOTczMiwtMTAwNzk2MzkzLDIwOTcyOTAwMjFdfQ==
 -->
