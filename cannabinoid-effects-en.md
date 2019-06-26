@@ -21,8 +21,7 @@ Mixed consumption of nicotine, cannabis, MDMA, psylocybin and LSD is not harmles
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health. Trust me, I've been there and I'm not going back. Drugs ruined my life.
 
 ### Effects
-The effects of years of drug abuse are extensive and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
-\- Yes you can get stuck in a horrortrip and it's no fun at all.
+The effects of years of drug abuse are devastating and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
 
 ### Treatments
 The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
@@ -321,11 +320,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NjA1MjU5MDA0LDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MDE4NT
-A4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0
-MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMT
-IyODgxODQzNywxOTg1NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0
-MzMyLC04MTk4MzkzOTksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLD
-gwNDgxNDk0NywtODgyNzM5NzMyLC0xMDA3OTYzOTNdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTkyNzAwOTA5MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxOD
+UwODA0LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3
+NDIsLTExODI0ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3NDk0LD
+EyMjg4MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTIsLTg3NDY5
+NDMzMiwtODE5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4My
+w4MDQ4MTQ5NDcsLTg4MjczOTczMiwtMTAwNzk2MzkzXX0=
 -->
