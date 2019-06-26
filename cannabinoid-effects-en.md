@@ -1,6 +1,6 @@
 
 
-# ADHS and chronic cannabis abuse - a neuro-biological primer
+# Chrannabis abuse - living with disorders - a neuro-biological primer
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance. Abuse, however, should not be underestimated as it has many long term consequences.
@@ -344,11 +344,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
-NTY5ODA3NzAsLTk1MjUzOTY1NiwyMDcwNDI0NTgwLC00Mzc3MT
-k3ODYsMTc5ODM5MDkwMCwtNDM3NzE5Nzg2LDE2NTYzMzg1NTUs
-LTE5MjcwMDkwOTEsNTEzMzU2OTYwLDEwMzI0Njc0NzMsMTkwMT
-g1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1Nzkx
-NzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NC
-wxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+NzM1OTg5OTgsNDU2OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyND
+U4MCwtNDM3NzE5Nzg2LDE3OTgzOTA5MDAsLTQzNzcxOTc4Niwx
+NjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyND
+Y3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0
+MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLT
+E0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxXX0=
 -->
