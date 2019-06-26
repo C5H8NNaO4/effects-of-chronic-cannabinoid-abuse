@@ -349,8 +349,7 @@ Here's a list of articles well worth reading.
 [cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
 
 <!-- ADHS --> 
-[^adhd-substance-misuse]:Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis
--- https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
+[^adhd-substance-misuse]:[Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]
 PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
 </br>
 
@@ -358,13 +357,15 @@ PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
 PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626918
 [^adhd-prevalance]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 
+[https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
+
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MzQzMzIxNTExLDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
+MzUxMzUzMTE0LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
 Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
 NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOT
 A5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkx
