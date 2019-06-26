@@ -53,7 +53,7 @@ This results in chronic deficiency of the secondary messenger *cAMP*, and a redu
 
 > PKA is also commonly known as cAMP-dependent protein kinase {...] as protein expression varies from cell type to cell type, the proteins that are available for phosphorylation will depend upon the cell in which PKA is present. Thus, the effects of PKA activation vary.
 
-and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
+and may lead to a dystonia of *PKA* [gene regulation][wiki:gene-regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
 ### THC and the dopamine system
 
@@ -350,11 +350,11 @@ PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTM1MjMzNjMyNyw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OT
-I0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwt
-OTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4NiwxNzk4Mz
-kwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNzAwOTA5
-MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0LDE5Nz
-k5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDJdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+Mjk4NzI2MjM2LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
+Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
+NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOT
+A5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkx
+LDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OT
+k4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0Ml19
 -->
