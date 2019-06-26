@@ -228,7 +228,6 @@ The initiating event leading to a change in gene expression includes activation 
 # Articles
 Here's a list of articles well worth reading.
 
-
 #### Disorder Related Articles
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
@@ -350,7 +349,9 @@ Here's a list of articles well worth reading.
 [cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
 
 <!-- ADHS --> 
-[^adhd-substance-misuse]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
+[^adhd-substance-misuse]:Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis
+-- https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
+
 
 [^adhd-dopamine]: [Attention-deficit-hyperactivity disorder and reward deficiency syndrome] - 
 PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626918
@@ -361,11 +362,11 @@ PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-OTkyODgxNTY1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
-Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
-NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOT
-A5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkx
-LDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OT
-k4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0Ml19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+NTQxMDUzMDgsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyND
+Y5NSw0MzYyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1
+MjUzOTY1NiwyMDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MD
+kwMCwtNDM3NzE5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEs
+NTEzMzU2OTYwLDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OT
+g3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyXX0=
 -->
