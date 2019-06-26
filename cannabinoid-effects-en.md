@@ -338,21 +338,22 @@ Here's a list of articles well worth reading.
 [cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
 
 <!-- ADHS --> 
-[^adhd-substance-misuse]:  > Test
+[^adhd-substance-misuse]: [https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16)
 
 https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
-[^adhd-dopamine]: ADGD - https://www.ncbi.nlm.nih.gov/pubmed/29490380]
+[^adhd-dopamine]:  >
+https://www.ncbi.nlm.nih.gov/pubmed/29490380]
 [^adhd-prevalance]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
-ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNz
-cwLC05NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3
-OTgzOTA5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MD
-A5MDkxLDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQs
-MTk3OTk4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMT
-E4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OTRdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTk5NzQxNjkxLDU4NTkyNDY5NSw0MzYyMjkxMjMsLTI2MjkzNj
+IyMCw0NTY5ODA3NzAsLTk1MjUzOTY1NiwyMDcwNDI0NTgwLC00
+Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3NzE5Nzg2LDE2NTYzMz
+g1NTUsLTE5MjcwMDkwOTEsNTEzMzU2OTYwLDEwMzI0Njc0NzMs
+MTkwMTg1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMD
+c1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwN119
 -->
