@@ -13,7 +13,7 @@ Currently, this article contains only a collection of basic neurobiological know
 
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal and to explain the effect of common psychotropic drugs.
 ### ADHS 
-ADHS has grown to be an accepted disorder. Research shows that persons with AD(H)S have a higher affinity to sustance abuse and comorbid disorders.^[adhs-prevalance] than persons without attention deficit syndrom.
+ADHS has grown to be an accepted disorder. Research shows that persons with AD(H)S have a higher affinity to sustance abuse and comorbid disorders.^[adhs-prevalance] tha<n persons without attention deficit syndrom.
 > The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
@@ -337,11 +337,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NDM3NzE5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTEsNTEzMz
-U2OTYwLDEwMzI0Njc0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5
-LC0xOTQ5MTc3MTQxLC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLD
-YwNjExMDgwNywtMTQxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1
-MDIzOTEsNjc1MzA4NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OS
-wyMTI2Mzg3MzE5LDE1MDcxMzc4ODMsODA0ODE0OTQ3XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+Nzk4MzkwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNz
+AwOTA5MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3MywxOTAxODUwODA0
+LDE5Nzk5ODc2OTksLTE5NDkxNzcxNDEsLTIwNzU3OTE3NDIsLT
+ExODI0ODE5MTIsNjA2MTEwODA3LC0xNDEzODM3NDk0LDEyMjg4
+MTg0MzcsMTk4NTUwMjM5MSw2NzUzMDg2MTIsLTg3NDY5NDMzMi
+wtODE5ODM5Mzk5LDIxMjYzODczMTksMTUwNzEzNzg4M119
 -->
