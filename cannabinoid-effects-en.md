@@ -43,8 +43,11 @@ This results in a chronic deficiency of the secondary messenger *cAMP*, and a re
 
 and may lead to a dystonia of *PKA* [gene regulation][gene regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
-### THC and the dopamine system
-> *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC)[41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum[42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
+### ADHS, THC and the dopamine system
+> *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum[42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
+
+>Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning.
+>
 # Basics
 ### ATP - Adenosintriphosphat
 **Adenosine triphosphate**  (**ATP**) is a complex  [organic chemical](https://en.wikipedia.org/wiki/Organic_compound "Organic compound")  that provides energy to drive many processes in living  [cells](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)"), e.g. muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all forms of life, ATP is often referred to as the "molecular unit of  [currency](https://en.wikipedia.org/wiki/Currency "Currency")" of intracellular  [energy transfer](https://en.wikipedia.org/wiki/Energy_transfer "Energy transfer").[[2]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-2)  When consumed in  [metabolic](https://en.wikipedia.org/wiki/Metabolism "Metabolism")  processes, it converts either to  [adenosine diphosphate](https://en.wikipedia.org/wiki/Adenosine_diphosphate "Adenosine diphosphate")(ADP) or to  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")  (AMP). Other processes regenerate ATP so that the human body recycles its own body weight equivalent in ATP each day.[[3]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-3)  It is also a  [precursor](https://en.wikipedia.org/wiki/Precursor_(chemistry) "Precursor (chemistry)")  to DNA and RNA, and is used as a  [coenzyme](https://en.wikipedia.org/wiki/Coenzyme "Coenzyme").
@@ -325,11 +328,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyND
-Y3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0
-MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLT
-E0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMw
-ODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMxOS
-wxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MjA5NjIxNTY2MSwxNjU2MzM4NTU1LC0xOTI3MDA5MDkxLDUxMz
+M1Njk2MCwxMDMyNDY3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5
+OSwtMTk0OTE3NzE0MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMi
+w2MDYxMTA4MDcsLTE0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1
+NTAyMzkxLDY3NTMwODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOT
+ksMjEyNjM4NzMxOSwxNTA3MTM3ODgzLDgwNDgxNDk0N119
 -->
