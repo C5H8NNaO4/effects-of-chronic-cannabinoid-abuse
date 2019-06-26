@@ -354,7 +354,10 @@ PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
 
 [^adhd-dopamine]: [Attention-deficit-hyperactivity disorder and reward deficiency syndrome] - 
 PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626918
-[^adhd-prevalance]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
+[^adhd-prevalance]:[Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
+PMID: 
+
+[Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 
  [Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
 
@@ -363,8 +366,8 @@ PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NjI1MjMwMjk1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+MTMyOTE3NDkzLDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
 Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
 NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOT
 A5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkx
