@@ -1,32 +1,34 @@
 #### Disorder Related Articles
 * ADHD
 	* [Role of dopamine receptors in ADHD: a systematic meta-analysis]
-	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome][Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
+	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
+	* [Attention deficit hyperactivity disorder (ADHD): Overview]
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
 * Anxiety
-	* [The role of GABA in anxiety disorders][The role of GABA in anxiety disorders]
+	* [The role of GABA in anxiety disorders]
 * Schizophrenia
-	* [Pathway-specific dopamine abnormalities in schizophrenia][Pathway-specific dopamine abnormalities in schizophrenia]
-	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies][Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
+	* [Pathway-specific dopamine abnormalities in schizophrenia]
+	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
 	* [The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]
 * Sweating
-	* [Hyperhidrosis—Causes and Treatment of Enhanced Sweating][Hyperhidrosis—Causes and Treatment of Enhanced Sweating]
-	* [Mechanisms and controllers of eccrine sweating in humans][Mechanisms and controllers of eccrine sweating in humans]
-	* [Profuse sweating on the palms, soles, and axillae][Profuse sweating on the palms, soles, and axillae]
+	* [Hyperhidrosis—Causes and Treatment of Enhanced Sweating]
+	* [Mechanisms and controllers of eccrine sweating in humans]
+	* [Profuse sweating on the palms, soles, and axillae]
 * Withdrawal
-	* [The cannabis withdrawal syndrome: current insights][The cannabis withdrawal syndrome: current insights]
+	* [The cannabis withdrawal syndrome: current insights]
 	* [Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]
-	* [Marijuana Dependence and Its Treatment][Marijuana Dependence and Its Treatment]
+	* [Marijuana Dependence and Its Treatment][
 ---
 #### General Articles
 * THC
-	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system][The effects of Δ9-tetrahydrocannabinol on the dopamine system]
-
+	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system]
+	
 <!-- # ADHD -->
 [Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
-[Attention deficit hyperactivity disorder (ADHD): Overview]:[https://www.ncbi.nlm.nih.gov/books/NBK321129/](https://www.ncbi.nlm.nih.gov/books/NBK321129/)
+[Attention deficit hyperactivity disorder (ADHD): Overview]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
+
 <!--- # Addiction-->
 [Dopamine Signaling in reward-related behaviors]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795306/
 <!---# Anxiety ---> 
@@ -53,5 +55,5 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU3MTA1MzUsLTczNjUyNjI5Nl19
+eyJoaXN0b3J5IjpbMjc2MDc2ODIzLC03MzY1MjYyOTZdfQ==
 -->
