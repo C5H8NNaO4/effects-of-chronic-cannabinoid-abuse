@@ -150,6 +150,15 @@ There are two classes of G proteins. The first function as  [monomeric](https://
 Heterotrimeric G proteins located within the cell are activated by  [G protein-coupled receptors](https://en.wikipedia.org/wiki/G_protein-coupled_receptor "G protein-coupled receptor")  (GPCRs) that span the cell membrane.[[3]](https://en.wikipedia.org/wiki/G_protein#cite_note-3)Signaling molecules bind to a domain of the GPCR located outside the cell, and an intracellular GPCR domain then in turn activates a particular G protein. Some active-state GPCRs have also been shown to be "pre-coupled" with G proteins.[[4]](https://en.wikipedia.org/wiki/G_protein#cite_note-Kou_Qin-4)  The G protein activates a cascade of further signaling events that finally results in a change in cell function. G protein-coupled receptor and G proteins working together transmit signals from many  [hormones](https://en.wikipedia.org/wiki/Hormone "Hormone"),  [neurotransmitters](https://en.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"), and other signaling factors.[[5]](https://en.wikipedia.org/wiki/G_protein#cite_note-Campbell-5)  G proteins regulate metabolic  [enzymes](https://en.wikipedia.org/wiki/Enzyme "Enzyme"),  [ion channels](https://en.wikipedia.org/wiki/Ion_channel "Ion channel"),  [transporter proteins](https://en.wikipedia.org/wiki/Membrane_transport_protein "Membrane transport protein"), and other parts of the cell machinery, controlling  [transcription](https://en.wikipedia.org/wiki/Transcription_(genetics) "Transcription (genetics)"),  [motility](https://en.wikipedia.org/wiki/Motility "Motility"),  [contractility](https://en.wikipedia.org/wiki/Contractility "Contractility"), and  [secretion](https://en.wikipedia.org/wiki/Secretion "Secretion"), which in turn regulate diverse systemic functions such as  [embryonic development](https://en.wikipedia.org/wiki/Embryonic_development "Embryonic development"), learning and memory, and  [homeostasis](https://en.wikipedia.org/wiki/Homeostasis "Homeostasis").[[6]](https://en.wikipedia.org/wiki/G_protein#cite_note-pmid12040175-6)
 > Wikipedia - [G protein][wiki:GP]
 
+### CREB
+**CREB-TF**  (CREB,  **cAMP response element-binding protein**)[[1]](https://en.wikipedia.org/wiki/CREB#cite_note-ReferenceA-1)  is a cellular  [transcription factor](https://en.wikipedia.org/wiki/Transcription_factor "Transcription factor"). It binds to certain  [DNA](https://en.wikipedia.org/wiki/DNA "DNA")  sequences called cAMP response elements (CRE), thereby increasing or decreasing the  [transcription](https://en.wikipedia.org/wiki/Transcription_(genetics) "Transcription (genetics)")  of the  [genes](https://en.wikipedia.org/wiki/Gene "Gene").[[2]](https://en.wikipedia.org/wiki/CREB#cite_note-Purves-2)  CREB was first described in 1987 as a  [cAMP](https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate "Cyclic adenosine monophosphate")-responsive transcription factor regulating the  [somatostatin](https://en.wikipedia.org/wiki/Somatostatin "Somatostatin")gene.[[3]](https://en.wikipedia.org/wiki/CREB#cite_note-3)
+
+Genes whose transcription is regulated by CREB include:  _[c-fos](https://en.wikipedia.org/wiki/C-fos "C-fos")_,  [BDNF](https://en.wikipedia.org/wiki/BDNF "BDNF"),  [tyrosine hydroxylase](https://en.wikipedia.org/wiki/Tyrosine_hydroxylase "Tyrosine hydroxylase"), numerous  [neuropeptides](https://en.wikipedia.org/wiki/Neuropeptide "Neuropeptide")  (such as  [somatostatin](https://en.wikipedia.org/wiki/Somatostatin "Somatostatin"),  [enkephalin](https://en.wikipedia.org/wiki/Enkephalin "Enkephalin"),  [VGF](https://en.wikipedia.org/wiki/VGF "VGF"),  [corticotropin-releasing hormone](https://en.wikipedia.org/wiki/Corticotropin-releasing_hormone "Corticotropin-releasing hormone")),[[2]](https://en.wikipedia.org/wiki/CREB#cite_note-Purves-2)  and genes involved in the mammalian  [circadian clock](https://en.wikipedia.org/wiki/Circadian_clock "Circadian clock")  ([PER1](https://en.wikipedia.org/wiki/PER1 "PER1"),  [PER2](https://en.wikipedia.org/wiki/PER2 "PER2")).[[4]](https://en.wikipedia.org/wiki/CREB#cite_note-:0-4)
+
+CREB is closely related in structure and function to  [CREM](https://en.wikipedia.org/wiki/CAMP_responsive_element_modulator "CAMP responsive element modulator")  ([cAMP response element modulator](https://en.wikipedia.org/wiki/CAMP_response_element_modulator "CAMP response element modulator")) and ATF-1 ([activating transcription factor-1](https://en.wikipedia.org/wiki/Activating_transcription_factor-1 "Activating transcription factor-1")) proteins. CREB proteins are expressed in many animals, including humans.
+
+CREB has a well-documented role in  [neuronal plasticity](https://en.wikipedia.org/wiki/Neuroplasticity "Neuroplasticity")  and  [long-term memory](https://en.wikipedia.org/wiki/Long-term_memory "Long-term memory")  formation in the brain and has been shown to be integral in the formation of  [spatial memory](https://en.wikipedia.org/wiki/Spatial_memory "Spatial memory").[[5]](https://en.wikipedia.org/wiki/CREB#cite_note-5)  CREB downregulation is implicated in the pathology of  [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease "Alzheimer's disease")  and increasing the expression of CREB is being considered as a possible therapeutic target for Alzheimer's disease.[[6]](https://en.wikipedia.org/wiki/CREB#cite_note-6)  CREB also has a role in  [photoentrainment](https://en.wikipedia.org/wiki/Entrainment_(chronobiology) "Entrainment (chronobiology)")  in mammals.
+> Wikpedia - CREB
 ## Enzymes / Genes
 
 ### ADCY1
@@ -313,11 +322,11 @@ Here's a list of articles well worth reading.
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls4
-NTY3Mzc4MDksLTE5MjcwMDkwOTEsNTEzMzU2OTYwLDEwMzI0Nj
-c0NzMsMTkwMTg1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MTc3MTQx
-LC0yMDc1NzkxNzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNywtMT
-QxMzgzNzQ5NCwxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4
-NjEyLC04NzQ2OTQzMzIsLTgxOTgzOTM5OSwyMTI2Mzg3MzE5LD
-E1MDcxMzc4ODMsODA0ODE0OTQ3LC04ODI3Mzk3MzJdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+OTY0MzE0NzEwLC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyND
+Y3NDczLDE5MDE4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0
+MSwtMjA3NTc5MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLT
+E0MTM4Mzc0OTQsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMw
+ODYxMiwtODc0Njk0MzMyLC04MTk4MzkzOTksMjEyNjM4NzMxOS
+wxNTA3MTM3ODgzLDgwNDgxNDk0NywtODgyNzM5NzMyXX0=
 -->
