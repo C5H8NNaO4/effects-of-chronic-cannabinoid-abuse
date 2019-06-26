@@ -19,7 +19,7 @@ The whole thing is kept very superficial. Gradually, information is being collec
 
 >Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. [^adhd-dopamine]
 
-> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.^[adhd-prevalance]
+> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.[^adhd-prevalance]
 
 
 ### Motivation
@@ -338,17 +338,17 @@ Here's a list of articles well worth reading.
 
 <!-- ADHS --> 
 
-[^adhd-dopamine]: https://www.ncbi.nlm.nih.gov/pubmed/29490380
+[^adhd-dopamine]: ADGD - https://www.ncbi.nlm.nih.gov/pubmed/29490380]
 [^adhd-prevalance]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-OTY3OTEyNTI2LC05NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3Nz
-E5Nzg2LDE3OTgzOTA5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1
-LC0xOTI3MDA5MDkxLDUxMzM1Njk2MCwxMDMyNDY3NDczLDE5MD
-E4NTA4MDQsMTk3OTk4NzY5OSwtMTk0OTE3NzE0MSwtMjA3NTc5
-MTc0MiwtMTE4MjQ4MTkxMiw2MDYxMTA4MDcsLTE0MTM4Mzc0OT
-QsMTIyODgxODQzNywxOTg1NTAyMzkxLDY3NTMwODYxMl19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
+NTY5ODA3NzAsLTk1MjUzOTY1NiwyMDcwNDI0NTgwLC00Mzc3MT
+k3ODYsMTc5ODM5MDkwMCwtNDM3NzE5Nzg2LDE2NTYzMzg1NTUs
+LTE5MjcwMDkwOTEsNTEzMzU2OTYwLDEwMzI0Njc0NzMsMTkwMT
+g1MDgwNCwxOTc5OTg3Njk5LC0xOTQ5MTc3MTQxLC0yMDc1Nzkx
+NzQyLC0xMTgyNDgxOTEyLDYwNjExMDgwNywtMTQxMzgzNzQ5NC
+wxMjI4ODE4NDM3LDE5ODU1MDIzOTEsNjc1MzA4NjEyXX0=
 -->
