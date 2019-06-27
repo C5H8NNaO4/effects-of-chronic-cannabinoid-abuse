@@ -65,6 +65,8 @@ This leads to a chronic imbalance of dopamine levels between the mesolimbic syst
 
 > DA hypothesis proposed that the positive symptoms of schizophrenia are due to an excess of DA signaling in the striatal and/or mesolimbic areas of the brain[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R3). In contrast, negative symptoms are thought to be related to deficits in prefrontal cortical DA signaling, likely through D1receptors[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R5)
 
+> Dysfunction of dopaminergic system is implicated in many neuropsychological diseases, including attention deficit hyperactivity disorder (ADHD)
+
 > The observation that ADHD represents a dopamine-deficient state could explain why treatments that increase dopamine levels in the nucleus accumbens, such as amphetamine and methylphenidate, improve symptoms, at least acutely.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3598008/#R3) However, based on the increasing evidence for D2 receptor desensitization/downregulation as a mechanism underlying ADHD, one might expect these drugs to have an enhanced potential to cause addiction
 
 # A neurobiological primer
@@ -440,8 +442,8 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-MjM3NTExMTg2LC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+ODY3Mzc5OTY5LC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
 g4MiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUx
 MiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOT
 A1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0
