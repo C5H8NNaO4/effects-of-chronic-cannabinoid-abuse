@@ -389,19 +389,16 @@ PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 
 [^cannabis-psychosis-risk-factor]: [Cannabis use and the risk of developing a psychotic disorder]
 PMID:  [18560513](https://www.ncbi.nlm.nih.gov/pubmed/18560513) | PMCID: [PMC2424288]
-
 [^cannabis-schizo-evidence]: [Cannabis and psychosis: Neurobiology]
 PMID:[29490380][Cannabis and psychosis: Neurobiology]
-
 [^cannabis-schizo-risk-value]:[Cannabis consumption and psychosis or schizophrenia development]
 PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
-
+[^cannabis-effects-thc]
 
 [Cannabis use and the risk of developing a psychotic disorder]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/
-
 [Cannabis and psychosis: Neurobiology]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 [Cannabis consumption and psychosis or schizophrenia development]:https://www.ncbi.nlm.nih.gov/pubmed/30442059
-
+[The effects of Δ9-tetrahydrocannabinol on the dopamine system]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/
 
 <!--- PMC IDS --> 
 [PMC2424288]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/pdf/wpa020068.pdf
@@ -414,11 +411,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls2
-MDQ3NjMzNSw5NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3NDM0OT
-cxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5
-OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOT
-U0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcx
-LC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMz
-gyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTVdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTkzMzE5NjI4MSw5NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3ND
+M0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIw
+OTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMT
+YxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4
+MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LD
+cxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTVdfQ==
 -->
