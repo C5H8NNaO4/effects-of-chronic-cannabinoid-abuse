@@ -57,7 +57,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
  -- [Cannabis consumption and psychosis or schizophrenia development]
  
-Long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> as it directly stimulates the mesolimbic system,<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup> which leads to a constant excess of dopamine in the meso-limbic system. In combination with the underlying dopmine deficiency<sup>[</sup>[^adhd-sugar]<sup>]</sup> in the [prefontal cortex][wiki:prefrontal-cortex] *([nucleus accumbens][wiki:nucleus-accumbens])* in persons with ADHD<sup>[</sup>[^adhd-dopa]<sup>]</sup>, this leads to a much higher risk of developing drug induced psychoses such as schizophrenia, due to the chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex, which is what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup>
+Long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> as it directly stimulates the mesolimbic system,<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup> which leads to a constant excess of dopamine in the meso-limbic system. In combination with the underlying dopmine deficiency<sup>[</sup>[^adhd-sugar]<sup>]</sup> in persons with ADHD<sup>[</sup>[^adhd-dopa]<sup>]</sup>, this leads to a much higher risk of developing drug induced psychoses such as schizophrenia, due to the chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex, which is what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup>
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
@@ -448,10 +448,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NjA2MTYxMDI4LC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
-g4MiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUx
-MiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOT
-A1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0
-MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNj
-AyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MV19
+ODY0NTY3MjY1LDE2MDYxNjEwMjgsLTk1NjYzODU0LDk3ODA3Nz
+gwNiwxOTcwMzEzODgyLC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2
+LC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNT
+k1OTUyMDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2
+MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMT
+U2OTE3MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0XX0=
 -->
