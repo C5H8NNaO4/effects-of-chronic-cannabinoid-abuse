@@ -1,4 +1,4 @@
-# Consequencs of chronic cannabis abuse -   ADHD and psychoses - a neuro-biological primer
+# Consequencs of chronic cannabis abuse -   ADHD and psychoses - Increased risk of developing drug-induced psychotic disorders in patients with ADHD - a neuro-biological primer
 
 <!--more-->
 [German version](https://translate.google.de/translate?sl=en&tl=de&u=https%3A%2F%2Foxytocin.home.blog%2F2019%2F06%2F27%2Fconsequences-of-chronic-drug-abuse%2F) \(google translate) - Maschinell übersetzt wirkt der Artikel auf Deutsch leider nicht sehr authentisch. Vermutlich werde ich dieses nach seiner Fertigstellung manuell übersetzen. 
@@ -50,6 +50,20 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 
 <sub> Side note: If you're being suicidal, seek help, it helps. --- If you can't keep up living, change your life, make it the one you want to live. --- It's easier to change your life than to kill yourself. --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your family, change yours! <3 
 
+## Increased risk of developing drug-induced psychotic disorders in patients with ADHD
+### THC, the dopamine system, and the dopamine hypthesis.
+As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia because the mesolimbic system can be directly stimulated by drugs.
+This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates. In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
+
+> *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
+
+> Increases in mesolimbic dopamine transmission are observed when animals are treated with all known drugs of abuse, including cannabis
+
+> The revised dopamine hypothesis states that dopamine abnormalities in the mesolimbic and prefrontal brain regions exist in schizophrenia.
+
+> DA hypothesis proposed that the positive symptoms of schizophrenia are due to an excess of DA signaling in the striatal and/or mesolimbic areas of the brain[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R3). In contrast, negative symptoms are thought to be related to deficits in prefrontal cortical DA signaling, likely through D1receptors[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R5)
+
+
 # A neurobiological primer
 
 I don't know anything about neurobiology yet. This article is just a primer; a compilation of basic neurobiological knowledge gathered from the internet. If you're interested in these topics, you probably already know most of what's being mentioned from here on. 
@@ -68,18 +82,6 @@ This results in chronic deficiency of the secondary messenger *cAMP*, and a redu
 
 and may lead to a dystonia of *PKA* [gene regulation][wiki:gene-regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
-##
-### THC, the dopamine system, and the dopamine hypthesis.
-As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia because the mesolimbic system can be directly stimulated by drugs.
-This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates. In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
-
-> *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
-
-> Increases in mesolimbic dopamine transmission are observed when animals are treated with all known drugs of abuse, including cannabis
-
-> The revised dopamine hypothesis states that dopamine abnormalities in the mesolimbic and prefrontal brain regions exist in schizophrenia.
-
-> DA hypothesis proposed that the positive symptoms of schizophrenia are due to an excess of DA signaling in the striatal and/or mesolimbic areas of the brain[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R3). In contrast, negative symptoms are thought to be related to deficits in prefrontal cortical DA signaling, likely through D1receptors[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R5)
 
 # Basics
 ### ATP - Adenosintriphosphat
@@ -409,11 +411,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
-NjU3MzIwNDQsMTk3MDMxMzg4MiwtMTE3NDM0OTcxMCwtMTI1MD
-c4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEz
-ODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxND
-QyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5
-NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMT
-cyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+NDUyNTc2NTk3LDE5NzAzMTM4ODIsLTExNzQzNDk3MTAsLTEyNT
+A3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDEx
+MzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMT
+Q0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3MSwtMTk1Mzcw
+OTc2OSwxNTY5MTczNzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLT
+E3MjQyNDA3NjEsNTg1OTI0Njk1LDQzNjIyOTEyM119
 -->
