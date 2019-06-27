@@ -73,8 +73,11 @@ As mentioned before long term cannabis use favors development of psychotic disor
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
-Given that 
-Increases in mesolimbic dopamine transmission are observed when animals are treated with all known drugs of abuse, including cannabis
+as the mesolimbic system can be directly stimulated by drugs.
+> Increases in mesolimbic dopamine transmission are observed when animals are treated with all known drugs of abuse, including cannabis
+
+The fact that a lot of schizophrenic patients common
+
 > The revised dopamine hypothesis states that dopamine abnormalities in the mesolimbic and prefrontal brain regions exist in schizophrenia.
 
 > DA hypothesis proposed that the positive symptoms of schizophrenia are due to an excess of DA signaling in the striatal and/or mesolimbic areas of the brain[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R3). In contrast, negative symptoms are thought to be related to deficits in prefrontal cortical DA signaling, likely through D1receptors[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R5)
@@ -406,11 +409,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
-NjEzMTAxMzEsLTExNzQzNDk3MTAsLTEyNTA3ODY0MzYsLTExNj
-A4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDExMzgzNiw1OTU5NTIw
-NDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxND
-MzMTc4NDIzLDQ2MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTcz
-NzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNT
-g1OTI0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+OTgwNjIyMTA1LC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMT
+YwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUy
+MDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMT
+QzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3
+MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLD
+U4NTkyNDY5NSw0MzYyMjkxMjMsLTI2MjkzNjIyMF19
 -->
