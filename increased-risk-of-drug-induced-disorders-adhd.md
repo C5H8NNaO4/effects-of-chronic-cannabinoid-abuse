@@ -1,12 +1,12 @@
-## Abstract
-Due to their impulsive behaviour, a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders, such as schizophrenia? --- A small meta-analysis.
-
-<!--more-->
-
 ## Disclaimer
 This article is part of the post [Consequencs of Chronic Cannabis Abuse --- Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD --- A Neuro-Biological Primer](https://oxytocin.home.blog/2019/06/27/consequences-of-chronic-drug-abuse/) which turned out too broad for one title. 
 
 The title reads "drugs" because I make LSD responsible for some of my symptoms, the study, however, only refers to cannabs and shows that ADHD in combination with chronic cannabis abuse does in fact increase the risk of developing schizophrenia and other psychotic disorders.
+
+The article doesn't mean to add any scientific value, please do **not** cite anything or take its value for granted.
+
+## Abstract
+Due to their impulsive behaviour, a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders, such as schizophrenia? --- A small meta-analysis.
 
 # Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it may have long term consequences.
@@ -126,8 +126,8 @@ FuY2VzIGxpa2UgY2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzExNTk0
-ODczMTIsNDI1Njg5ODA2LC01Njk2MzA5OTQsOTgyMjA1ODY1LD
-E4OTQ4MDkwMTEsMjA0NDEzNDY0NCwtMTAyNDU4MTIxNiwtMzkz
-OTQ2OTQzLDUxODg4MjgzMV19
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wy0yMTI1
+OTkwOTEyLDQyNTY4OTgwNiwtNTY5NjMwOTk0LDk4MjIwNTg2NS
+wxODk0ODA5MDExLDIwNDQxMzQ2NDQsLTEwMjQ1ODEyMTYsLTM5
+Mzk0Njk0Myw1MTg4ODI4MzFdfQ==
 -->
