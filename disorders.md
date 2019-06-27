@@ -8,7 +8,7 @@
 * Anxiety
 	* [The role of GABA in anxiety disorders]
 * Psychosis
-	* # Cannabis use and the risk of developing a psychotic disorder
+	*	[Cannabis use and the risk of developing a psychotic disorder]
 * Schizophrenia
 	* [Pathway-specific dopamine abnormalities in schizophrenia]
 	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
@@ -37,7 +37,7 @@
 [The role of GABA in anxiety disorders]:https://www.ncbi.nlm.nih.gov/pubmed/12662130
 
 <!---# Psychosis -->
-[Cannabis use and the risk of developing a psychotic disorder
+[Cannabis use and the risk of developing a psychotic disorder]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/
 
 <!---# Schizophrenia ---> 
 
@@ -60,5 +60,5 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDM3ODMyMCwtNzM2NTI2Mjk2XX0=
+eyJoaXN0b3J5IjpbNTMxMDY0MywtNzM2NTI2Mjk2XX0=
 -->
