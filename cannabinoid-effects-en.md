@@ -25,7 +25,7 @@ Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmles
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
 ### Psychoses
-Frequent long term abuse of potent cannabis may induce psychotic symptoms and increases the risk of developing psychotic disorders such as schizophrenia or schizoaffective disorder. <sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup>
+Frequent long-term abuse of potent cannabis can induce psychotic symptoms and increase the risk of developing psychotic disorders such as schizophrenia or schizoaffective. <sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup>
  
 > Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
 
@@ -33,8 +33,9 @@ Frequent long term abuse of potent cannabis may induce psychotic symptoms and in
 
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
 
+
 ### ADHD
-[ADHD][wiki:ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious when dealing with drugs, as increased risk of addiction<sup>[</sup>[^adhd-substance-misuse-2]<sup>]</sup> and high prevalance<sup>[</sup>[^adhd-prevalance]<sup>]</sup> of comorbid disorders pose a high risk of developing psychotic and personality disorders.
+[ADHD][wiki:ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious dealing with drugs. Increased risk of addiction<sup>[</sup>[^adhd-substance-misuse-2]<sup>]</sup> and high prevalance<sup>[</sup>[^adhd-prevalance]<sup>]</sup> of comorbid disorders pose a high risk of developing psychotic and personality disorders.
 
 > Adolescents with attention-deficit/hyperactivity disorder (ADHD) are known to be at significantly greater risk for the development of substance use disorders (SUD) compared to peers. Impulsivity, which could lead to higher levels of drug use, is a known symptom of ADHD and likely accounts, in part, for this relationship. 
 
@@ -447,11 +448,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjAwNzA2MDk0NiwxODY0NTY3MjY1LDE2MDYxNjEwMjgsLTk1Nj
-YzODU0LDk3ODA3NzgwNiwxOTcwMzEzODgyLC0xMTc0MzQ5NzEw
-LC0xMjUwNzg2NDM2LC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LD
-E2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEzOSwxNjE5NTQy
-ODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzEsLT
-E5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTVdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+MDA2Njk5ODA5LC0yMDA3MDYwOTQ2LDE4NjQ1NjcyNjUsMTYwNj
+E2MTAyOCwtOTU2NjM4NTQsOTc4MDc3ODA2LDE5NzAzMTM4ODIs
+LTExNzQzNDk3MTAsLTEyNTA3ODY0MzYsLTExNjA4ODU1MTIsLT
+E3MTYyMDk3OTgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMzkwNTU5
+MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLD
+Q2MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5XX0=
 -->
