@@ -36,7 +36,8 @@ Frequent long term abuse of potent cannabis may induce psychotic symptoms and in
 
 >Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. [^adhd-dopamine]
 
-A 12 month study 
+> To examine the 12-month prevalence, risk factors, and comorbidity of ADHD in a collective of adult psychiatric patients admitted to an open general ward in a psychiatric hospital in Schleswig-Holstein (Germany) over a period of one year
+
 > The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % ni cotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.[^adhd-prevalance]
 
 ### Effects
@@ -394,8 +395,8 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls5
-NzEzMDQxNzQsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NT
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
+OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NT
 YwMywxNDMzMTc4NDIzLDQ2MDUzODA3MSwtMTk1MzcwOTc2OSwx
 NTY5MTczNzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLTE3MjQyND
 A3NjEsNTg1OTI0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1
