@@ -23,7 +23,7 @@ Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmles
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
 ### Psychoses
-Frequent long term abuse of potent cannabis may induce psychotic symptoms and increases the risk of developing psychotic disorders such as schizophrenia or schizoaffective disorder. [^cannabis-psychosis-risk-factor],[^
+Frequent long term abuse of potent cannabis may induce psychotic symptoms and increases the risk of developing psychotic disorders such as schizophrenia or schizoaffective disorder. [^cannabis-psychosis-risk-factor] [^cannabis-schizo-evidence]
  
 > Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
 
@@ -367,6 +367,9 @@ PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626
 [^adhd-prevalance]:[Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
 PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 
+[^cannabis-psychosis-risk-factor]: 
+[^cannabis-schizo-evidence]:
+
 [Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 
  [Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
@@ -374,15 +377,17 @@ PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 
 ## References
+
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTc1NDc4MzM2MiwxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNT
-M4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1
-LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2Mj
-I5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05NTI1Mzk2NTYs
-MjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOTA5MDAsLTQzNz
-cxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkxXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+MDE3NzU1NTE0LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1Mz
+gwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTUs
+NzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0MzYyMj
+kxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOTY1Niwy
+MDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3Nz
+E5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTFdfQ==
 -->
