@@ -73,7 +73,8 @@ As mentioned before long term cannabis intake favors development of psychotic di
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
-
+Given that 
+> The revised dopamine hypothesis states that dopamine abnormalities in the mesolimbic and prefrontal brain regions exist in schizophrenia.
 
 # Basics
 ### ATP - Adenosintriphosphat
@@ -403,8 +404,8 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-MjY1ODgyOTE2LC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMT
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTk4MjIzODM0LC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMT
 YwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUy
 MDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMT
 QzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3
