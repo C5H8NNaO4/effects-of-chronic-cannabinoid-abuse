@@ -1,4 +1,4 @@
-# Chronic cannabis abuse -  a neuro-biological primer
+# Consequencs of chronic cannabis abuse -   ADHD and psychoses - a neuro-biological primer
 
 
 <!--more-->
@@ -395,11 +395,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
-OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NT
-YwMywxNDMzMTc4NDIzLDQ2MDUzODA3MSwtMTk1MzcwOTc2OSwx
-NTY5MTczNzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLTE3MjQyND
-A3NjEsNTg1OTI0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1
-Njk4MDc3MCwtOTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOT
-c4NiwxNzk4MzkwOTAwLC00Mzc3MTk3ODZdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+NjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mj
+g0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0x
+OTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMD
+Q3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzLC0y
+NjI5MzYyMjAsNDU2OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyND
+U4MCwtNDM3NzE5Nzg2LDE3OTgzOTA5MDBdfQ==
 -->
