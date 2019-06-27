@@ -17,6 +17,7 @@ With over 24 million users, cannabis is the most widely used drug in the USA; a 
 [ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious dealing with drugs. Increased risk of addiction<sup>[</sup>[^adhd-substance-misuse-2]<sup>]</sup> and high prevalance<sup>[</sup>[^adhd-prevalance]<sup>]</sup> of comorbid disorders carry a high risk of developing psychotic and personality disorders.
 
 > Adolescents with attention-deficit/hyperactivity disorder (ADHD) are known to be at significantly greater risk for the development of substance use disorders (SUD) compared to peers. Impulsivity, which could lead to higher levels of drug use, is a known symptom of ADHD and likely accounts, in part, for this relationship. 
+>  -- [Childhood ADHD and Risk for Substance Dependence in Adulthood: A Longitudinal, Population-Based Study]
 
 >Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. [^adhd-dopamine]
 
@@ -108,5 +109,5 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA3NDkzMDEsNTE4ODgyODMxXX0=
+eyJoaXN0b3J5IjpbLTEwNzMxMDg0NjgsNTE4ODgyODMxXX0=
 -->
