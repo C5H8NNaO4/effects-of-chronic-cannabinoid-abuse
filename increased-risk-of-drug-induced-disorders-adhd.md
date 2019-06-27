@@ -31,6 +31,7 @@ Frequent long-term abuse of strong cannabis can cause psychotic symptoms and inc
 > Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
 
 > Cannabis is involved in approximately 50% of psychosis, schizophrenia, and schizophreniform psychosis cases.<sup>[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref2),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref3),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref5)]</sup> 
+> --  [Cannabis and psychosis: Neurobiology]
 ## Conclusion.
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
  -- [Cannabis consumption and psychosis or schizophrenia development]
@@ -108,5 +109,5 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc5MjI2NjAsNTE4ODgyODMxXX0=
+eyJoaXN0b3J5IjpbLTM5Mzk0Njk0Myw1MTg4ODI4MzFdfQ==
 -->
