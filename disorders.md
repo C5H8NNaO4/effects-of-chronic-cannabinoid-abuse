@@ -35,6 +35,7 @@
 
 <!--- # Addiction-->
 [Dopamine Signaling in reward-related behaviors]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795306/
+[A Brain on Cannabinoids: The Role of Dopamine Release in Reward Seeking]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405830/
 <!---# Anxiety ---> 
 [The role of GABA in anxiety disorders]:https://www.ncbi.nlm.nih.gov/pubmed/12662130
 
@@ -63,6 +64,6 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAzNzgzNTUsNTMxMDY0MywtNzM2NT
-I2Mjk2XX0=
+eyJoaXN0b3J5IjpbMTU1ODY3NDgyLDUzMTA2NDMsLTczNjUyNj
+I5Nl19
 -->
