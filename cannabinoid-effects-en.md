@@ -48,7 +48,7 @@ The effects of years of drug abuse are devastating and range from confusion, mem
 ### Treatments
 The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
 
-<sub> Side note: If you're being suicidal, seek help, it helps. - You know, if you can't keep up living like that, if you want to die, change your life, make it the one you
+<sub> Side note: If you're being suicidal, seek help, it helps. - You know, if you can't keep up living like you do, if you want to die, change your life, make it the one you want to live.
 
 # A neurobiological primer
 
@@ -402,11 +402,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NTU0Njg3MzQ4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OT
-EzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0
-NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OT
-gxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0
-MzYyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOT
-Y1NiwyMDcwNDI0NTgwLC00Mzc3MTk3ODZdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls3
+MDcxNTYxMDgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMzkwNTU5MT
+M5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2
+MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMjc5OD
+E1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1LDQz
+NjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwtOTUyNTM5Nj
+U2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4Nl19
 -->
