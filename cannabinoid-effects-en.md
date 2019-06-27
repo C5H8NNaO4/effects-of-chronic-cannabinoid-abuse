@@ -23,7 +23,10 @@ Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmles
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
 ### Psychoses
+Long term use of cannabis may induce psychotic symptoms and increases the risk 
+> Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.[^cannabis-psychosis-risk-factor]
 
+> 
 
 ### ADHD
 ADHD often correlates with substance abuse.[^adhd-substance-misuse] People who suffer from ADHD should be extra cautious when dealing with drugs.
@@ -372,8 +375,8 @@ PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
-Mzc1NTQ5NTcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzOD
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls5
+NzM1ODUyNTIsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzOD
 A3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMjc5ODE1NSw3
 MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1LDQzNjIyOT
 EyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwtOTUyNTM5NjU2LDIw
