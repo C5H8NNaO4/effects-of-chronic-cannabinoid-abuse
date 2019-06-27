@@ -14,7 +14,7 @@ With over 24 million users, cannabis is the most widely used drug in the USA; a 
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
 ## ADHD
-[ADHD][wiki:ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious dealing with drugs. Increased risk of addiction<sup>[</sup>[^adhd-substance-misuse-2]<sup>]</sup> and high prevalance<sup>[</sup>[^adhd-prevalance]<sup>]</sup> of comorbid disorders carry a high risk of developing psychotic and personality disorders.
+[ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious dealing with drugs. Increased risk of addiction<sup>[</sup>[^adhd-substance-misuse-2]<sup>]</sup> and high prevalance<sup>[</sup>[^adhd-prevalance]<sup>]</sup> of comorbid disorders carry a high risk of developing psychotic and personality disorders.
 
 > Adolescents with attention-deficit/hyperactivity disorder (ADHD) are known to be at significantly greater risk for the development of substance use disorders (SUD) compared to peers. Impulsivity, which could lead to higher levels of drug use, is a known symptom of ADHD and likely accounts, in part, for this relationship. 
 
@@ -59,7 +59,8 @@ Long term cannabis use favors development of psychotic disorders such as schizop
 [cannabis-statistics-image]:https://github.com/C5H8NNaO4/effects-of-chronic-cannabinoid-abuse/raw/master/cannabis-statistics.png
 [cannabis-statistics]:https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR1-2016/NSDUH-FFR1-2016.pdf
 
-<!-- ADHS --> 
+<!-- ADHD --> 
+[ADHD]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
 
 [^adhd-substance-misuse]:[Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]
 PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
@@ -107,5 +108,5 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4ODgyODMxXX0=
+eyJoaXN0b3J5IjpbLTE4NzA3NDkzMDEsNTE4ODgyODMxXX0=
 -->
