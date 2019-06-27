@@ -1,4 +1,5 @@
 # Consequencs of chronic cannabis abuse -   ADHD and psychoses - a neuro-biological primer
+
 <!--more-->
 [German version](https://translate.google.de/translate?sl=en&tl=de&u=https%3A%2F%2Foxytocin.home.blog%2F2019%2F06%2F27%2Fconsequences-of-chronic-drug-abuse%2F) \(google translate) - Maschinell übersetzt wirkt der Artikel auf Deutsch leider nicht sehr authentisch. Vermutlich werde ich dieses nach seiner Fertigstellung manuell übersetzen. 
 ## Preface
@@ -13,7 +14,6 @@ This article is **not** complete yet. This is just a draft and its completion wi
 Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, feel free to read the following sections. However, do not expect any conclusions.
 
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of cannabis abuse, withdrawal, and  psychotropic drugs. 
-
 
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain.
@@ -68,6 +68,7 @@ This results in chronic deficiency of the secondary messenger *cAMP*, and a redu
 
 and may lead to a dystonia of *PKA* [gene regulation][wiki:gene-regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
+##
 ### THC, the dopamine system, and the dopamine hypthesis.
 As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia because the mesolimbic system can be directly stimulated by drugs.
 This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates. In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
@@ -408,11 +409,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-OTcwMzEzODgyLC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMT
-YwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUy
-MDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMT
-QzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3
-MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLD
-U4NTkyNDY5NSw0MzYyMjkxMjMsLTI2MjkzNjIyMF19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls0
+NjU3MzIwNDQsMTk3MDMxMzg4MiwtMTE3NDM0OTcxMCwtMTI1MD
+c4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEz
+ODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxND
+QyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5
+NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMT
+cyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzXX0=
 -->
