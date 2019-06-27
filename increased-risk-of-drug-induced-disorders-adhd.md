@@ -19,11 +19,10 @@ With over 24 million users, cannabis is the most widely used drug in the USA; a 
 > Adolescents with attention-deficit/hyperactivity disorder (ADHD) are known to be at significantly greater risk for the development of substance use disorders (SUD) compared to peers. Impulsivity, which could lead to higher levels of drug use, is a known symptom of ADHD and likely accounts, in part, for this relationship. 
 >  -- [Childhood ADHD and Risk for Substance Dependence in Adulthood: A Longitudinal, Population-Based Study]
 
->Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. [^adhd-dopamine]
-
 > To examine the 12-month prevalence, risk factors, and comorbidity of ADHD in a collective of adult psychiatric patients admitted to an open general ward in a psychiatric hospital in Schleswig-Holstein (Germany) over a period of one year
 
 > The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % ni cotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.
+> -- [Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
 
 ## Psychoses
 Frequent long-term abuse of strong cannabis can cause psychotic symptoms and increase the risk of psychotic disorders such as schizophrenia or schizoaffective.
@@ -109,5 +108,5 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMxMDg0NjgsNTE4ODgyODMxXX0=
+eyJoaXN0b3J5IjpbLTE0Njc5MjI2NjAsNTE4ODgyODMxXX0=
 -->
