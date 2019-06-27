@@ -405,7 +405,7 @@ PMID:  [25162629](https://www.ncbi.nlm.nih.gov/pubmed/25162629) | PMCID:  [PMC41
 PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: [PMC2626918]
 [^adhd-prevalance]:[Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
 PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
-
+[^adhd-sugar]
 [Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 [Childhood ADHD and Risk for Substance Dependence in Adulthood: A Longitudinal, Population-Based Study]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4146503/
  [Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
@@ -438,11 +438,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-Mzc5MjcyOTQ5LC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
-g4MiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUx
-MiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOT
-A1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0
-MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNj
-AyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTc2Mzc4OTg0NywtOTU2NjM4NTQsOTc4MDc3ODA2LDE5NzAzMT
+M4ODIsLTExNzQzNDk3MTAsLTEyNTA3ODY0MzYsLTExNjA4ODU1
+MTIsLTE3MTYyMDk3OTgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMz
+kwNTU5MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4
+NDIzLDQ2MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LD
+YwMjc5ODE1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjFdfQ==
 -->
