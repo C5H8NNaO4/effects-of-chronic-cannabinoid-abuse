@@ -52,7 +52,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 
 <sub> Side note: If you're being suicidal, seek help, it helps. --- If you can't keep up living, change your life, make it the one you want to live. --- It's easier to change your life than to kill yourself. --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your family, change yours! <3 
 
-## Increased risk of developing drug-induced psychotic disorders in patients with ADHD
+## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 ### THC, the dopamine system, and the dopamine hypthesis.
 As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia because the mesolimbic system can be directly stimulated by drugs.
 This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates. In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
@@ -413,11 +413,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjE3Mjk4NzM4LDE5NzAzMTM4ODIsLTExNzQzNDk3MTAsLTEyNT
-A3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDEx
-MzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMT
-Q0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3MSwtMTk1Mzcw
-OTc2OSwxNTY5MTczNzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLT
-E3MjQyNDA3NjEsNTg1OTI0Njk1LDQzNjIyOTEyM119
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls5
+NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3NDM0OTcxMCwtMTI1MD
+c4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEz
+ODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxND
+QyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5
+NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMT
+cyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzXX0=
 -->
