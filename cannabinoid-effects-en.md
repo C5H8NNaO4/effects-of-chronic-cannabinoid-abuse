@@ -48,7 +48,7 @@ The effects of years of drug abuse are devastating and range from confusion, mem
 ### Treatments
 The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
 
-<sub> Side note: If you're being suicidal, seek help, it helps. --- You know, if you can't keep up living like you do, if you want to die, change your life, make it the one you want to live. --- Trust me it's way easier to live 
+<sub> Side note: If you're being suicidal, seek help, it helps. --- You know, if you can't keep up living like you do, change your life, make it the one you want to live. --- It's easier to change it than to kill yourself. --- 
 
 # A neurobiological primer
 
@@ -404,7 +404,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-MjQ4MzQ5ODM3LC0xMjUwNzg2NDM2LC0xMTYwODg1NTEyLC0xNz
+MDg1NzEwNzEwLC0xMjUwNzg2NDM2LC0xMTYwODg1NTEyLC0xNz
 E2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEz
 OSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0Nj
 A1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgx
