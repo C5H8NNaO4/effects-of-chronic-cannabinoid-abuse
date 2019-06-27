@@ -69,13 +69,14 @@ This results in chronic deficiency of the secondary messenger *cAMP*, and a redu
 and may lead to a dystonia of *PKA* [gene regulation][wiki:gene-regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
 ### THC, the dopamine system, and the dopamine hypthesis.
-As mentioned before long term cannabis intake favors development of psychotic disorders such as schizophrenia
+As mentioned before long term cannabis use favors development of psychotic disorders such as schizophrenia
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
-Given that 
+Given that THC intake leads to a chronic excess of d
 > The revised dopamine hypothesis states that dopamine abnormalities in the mesolimbic and prefrontal brain regions exist in schizophrenia.
 
+> DA hypothesis proposed that the positive symptoms of schizophrenia are due to an excess of DA signaling in the striatal and/or mesolimbic areas of the brain[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R3). In contrast, negative symptoms are thought to be related to deficits in prefrontal cortical DA signaling, likely through D1receptors[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R5)
 # Basics
 ### ATP - Adenosintriphosphat
 **Adenosine triphosphate**  (**ATP**) is a complex  [organic chemical](https://en.wikipedia.org/wiki/Organic_compound "Organic compound")  that provides energy to drive many processes in living  [cells](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)"), e.g. muscle contraction, nerve impulse propagation, and chemical synthesis. Found in all forms of life, ATP is often referred to as the "molecular unit of  [currency](https://en.wikipedia.org/wiki/Currency "Currency")" of intracellular  [energy transfer](https://en.wikipedia.org/wiki/Energy_transfer "Energy transfer").[[2]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-2)  When consumed in  [metabolic](https://en.wikipedia.org/wiki/Metabolism "Metabolism")  processes, it converts either to  [adenosine diphosphate](https://en.wikipedia.org/wiki/Adenosine_diphosphate "Adenosine diphosphate")(ADP) or to  [adenosine monophosphate](https://en.wikipedia.org/wiki/Adenosine_monophosphate "Adenosine monophosphate")  (AMP). Other processes regenerate ATP so that the human body recycles its own body weight equivalent in ATP each day.[[3]](https://en.wikipedia.org/wiki/Adenosine_triphosphate#cite_note-3)  It is also a  [precursor](https://en.wikipedia.org/wiki/Precursor_(chemistry) "Precursor (chemistry)")  to DNA and RNA, and is used as a  [coenzyme](https://en.wikipedia.org/wiki/Coenzyme "Coenzyme").
@@ -405,10 +406,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTk4MjIzODM0LC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMT
-YwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUy
-MDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMT
-QzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3
-MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLD
-U4NTkyNDY5NSw0MzYyMjkxMjMsLTI2MjkzNjIyMF19
+MTgyMDc1NjI3MiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMT
+E2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1
+MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLD
+E0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1Njkx
+NzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MS
+w1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjBdfQ==
 -->
