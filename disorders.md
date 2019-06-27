@@ -7,6 +7,8 @@
 	* [Dopamine Signaling in reward-related behaviors]
 * Anxiety
 	* [The role of GABA in anxiety disorders]
+* Psychosis
+	* # Cannabis use and the risk of developing a psychotic disorder
 * Schizophrenia
 	* [Pathway-specific dopamine abnormalities in schizophrenia]
 	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
@@ -34,6 +36,9 @@
 <!---# Anxiety ---> 
 [The role of GABA in anxiety disorders]:https://www.ncbi.nlm.nih.gov/pubmed/12662130
 
+<!---# Psychosis -->
+[Cannabis use and the risk of developing a psychotic disorder
+
 <!---# Schizophrenia ---> 
 
 [Pathway-specific dopamine abnormalities in schizophrenia]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5177794/
@@ -55,5 +60,5 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MDc2ODIzLC03MzY1MjYyOTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDM3ODMyMCwtNzM2NTI2Mjk2XX0=
 -->
