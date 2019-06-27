@@ -32,7 +32,7 @@ Frequent long term abuse of potent cannabis may induce psychotic symptoms and in
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
 
 ### ADHD
-[ADHD][wiki:ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>, </sup>[^adhd-substance-misuse-2]<sup>]</sup> People who suffer from ADHD should be extra cautious when dealing with drugs because increased risk of addiction and high prevalance of comorbid disorders pose a high risk of developing psychotic and personality disorders.
+[ADHD][wiki:ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>, </sup>[^adhd-substance-misuse-2]<sup>]</sup> People who suffer from ADHD should be extra cautious when dealing with drugs because increased risk of addiction and high prevalance [^adhd-prevalance] of comorbid disorders pose a high risk of developing psychotic and personality disorders.
 
 > Adolescents with attention-deficit/hyperactivity disorder (ADHD) are known to be at significantly greater risk for the development of substance use disorders (SUD) compared to peers. Impulsivity, which could lead to higher levels of drug use, is a known symptom of ADHD and likely accounts, in part, for this relationship. Other factors, such as a biologically increased susceptibility to substance dependence (addiction), may also play a role.
 
@@ -40,7 +40,7 @@ Frequent long term abuse of potent cannabis may induce psychotic symptoms and in
 
 > To examine the 12-month prevalence, risk factors, and comorbidity of ADHD in a collective of adult psychiatric patients admitted to an open general ward in a psychiatric hospital in Schleswig-Holstein (Germany) over a period of one year
 
-> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % ni cotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.[^adhd-prevalance]
+> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % ni cotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.
 
 ### Effects
 The effects of years of drug abuse are devastating and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
@@ -363,6 +363,7 @@ Here's a list of articles well worth reading.
 [^adhd-substance-misuse]:[Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]
 PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
 [^adhd-substance-misuse-2]:[Childhood ADHD and Risk for Substance Dependence in Adulthood: A Longitudinal, Population-Based Study]
+PMID:  [25162629](https://www.ncbi.nlm.nih.gov/pubmed/25162629) | PMCID:  [PMC4146503]
 [^adhd-dopamine]: [Attention-deficit-hyperactivity disorder and reward deficiency syndrome] - 
 PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: [PMC2626918]
 [^adhd-prevalance]:[Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
@@ -391,6 +392,7 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 <!--- PMC IDS --> 
 [PMC2424288]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/pdf/wpa020068.pdf
 [PMC2626918]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/pdf/NDT-4-893.pdf
+[PMC4146503]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4146503/pdf/pone.0105640.pdf
 ## References
 
 
@@ -398,11 +400,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls5
-MTQ3MjEyMDgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMzkwNTU5MT
-M5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2
-MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMjc5OD
-E1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1LDQz
-NjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwtOTUyNTM5Nj
-U2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4Nl19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+OTE3ODM3NjYwLDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OT
+EzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0
+NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OT
+gxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0
+MzYyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOT
+Y1NiwyMDcwNDI0NTgwLC00Mzc3MTk3ODZdfQ==
 -->
