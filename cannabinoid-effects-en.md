@@ -50,7 +50,7 @@ The effects of years of drug abuse are devastating and range from confusion, mem
 ### Treatments
 The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
 
-<sub> Side note: If you're being suicidal, seek help, it helps. --- If you can't keep up living, change your life, make it the one you want to live. --- It's easier to change your life than to kill yourself. --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your family, change yours! <3 
+<sub> Side note: If you're being suicidal: seek help. It helps. --- If you can't keep up living: Change your life, make it the one you want to live. --- It's easier to change your life than to kill yourself. --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your family, change yours! <3 
 
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 ### THC, the dopamine system, and the dopamine hypthesis.
@@ -413,11 +413,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls5
-NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3NDM0OTcxMCwtMTI1MD
-c4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEz
-ODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxND
-QyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5
-NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMT
-cyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MjA5NTQyMzkxNiw5NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3ND
+M0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIw
+OTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMT
+YxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4
+MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LD
+cxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTVdfQ==
 -->
