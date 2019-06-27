@@ -9,6 +9,7 @@ I'm not a neuro-biologist. This article doesn't mean to add any scientific value
 Due to their impulsive behaviour, a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders, such as schizophrenia? --- A small meta-analysis.
 
 # Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
+## Preface
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it may have long term consequences.
 
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
@@ -126,8 +127,8 @@ FuY2VzIGxpa2UgY2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzQ1ODQy
-MTY1LDQyNTY4OTgwNiwtNTY5NjMwOTk0LDk4MjIwNTg2NSwxOD
-k0ODA5MDExLDIwNDQxMzQ2NDQsLTEwMjQ1ODEyMTYsLTM5Mzk0
-Njk0Myw1MTg4ODI4MzFdfQ==
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzEwMDEx
+MTM3MzEsNDI1Njg5ODA2LC01Njk2MzA5OTQsOTgyMjA1ODY1LD
+E4OTQ4MDkwMTEsMjA0NDEzNDY0NCwtMTAyNDU4MTIxNiwtMzkz
+OTQ2OTQzLDUxODg4MjgzMV19
 -->
