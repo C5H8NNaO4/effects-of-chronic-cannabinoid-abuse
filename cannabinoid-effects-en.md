@@ -362,13 +362,14 @@ Here's a list of articles well worth reading.
 
 [^adhd-substance-misuse]:[Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]
 PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
-
+[^adhd-substance-misuse-2]:[Childhood ADHD and Risk for Substance Dependence in Adulthood: A Longitudinal, Population-Based Study]
 [^adhd-dopamine]: [Attention-deficit-hyperactivity disorder and reward deficiency syndrome] - 
 PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: [PMC2626918]
 [^adhd-prevalance]:[Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
 PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 
 [Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
+[Childhood ADHD and Risk for Substance Dependence in Adulthood: A Longitudinal, Population-Based Study]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4146503/
  [Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 
@@ -397,11 +398,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTcxNDA2OTQ3NiwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NT
-kxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMs
-NDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNz
-k4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUs
-NDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05NTI1Mz
-k2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls5
+MTQ3MjEyMDgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMzkwNTU5MT
+M5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2
+MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMjc5OD
+E1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1LDQz
+NjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwtOTUyNTM5Nj
+U2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4Nl19
 -->
