@@ -1,12 +1,12 @@
-### Abstract
+## Abstract
 Due to their impulsive behaviour, a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders, such as schizophrenia? --- A small meta-analysis.
 
 <!--more-->
-----
-### Disclaimer
+
+## Disclaimer
 This article is part of the post [Consequencs of Chronic Cannabis Abuse --- Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD --- A Neuro-Biological Primer](https://oxytocin.home.blog/2019/06/27/consequences-of-chronic-drug-abuse/) which turned out too broad for one title. 
 
-The title says drugs because I make LSD responsible for some of my symptoms, the study, however, only refers to cannabs and shows that ADHD in combination with chronic cannabis abuse does in fact increase the risk of developing schizophrenia and other psychotic disorders.
+The title reads "drugs" because I make LSD responsible for some of my symptoms, the study, however, only refers to cannabs and shows that ADHD in combination with chronic cannabis abuse does in fact increase the risk of developing schizophrenia and other psychotic disorders.
 
 # Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it may have long term consequences.
@@ -32,6 +32,7 @@ Frequent long-term abuse of potent cannabis can cause psychotic symptoms and inc
 
 > Cannabis is involved in approximately 50% of psychosis, schizophrenia, and schizophreniform psychosis cases.<sup>[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref2),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref3),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref5)]</sup> 
 > --  [Cannabis and psychosis: Neurobiology]
+
 ## Conclusion.
 Long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> as it directly stimulates the mesolimbic system,<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup> which leads to a constant excess of dopamine<sup>[</sup>[^cannabis-dopamine]<sup>]</sup>. In combination with the underlying dopmine deficiency<sup>[</sup>[^adhd-sugar]<sup>]</sup> in persons with ADHD,<sup>[</sup>[^adhd-dopa]<sup>]</sup> this leads to a much higher risk of developing drug induced psychoses such as schizophrenia, due to the chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex, which is what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup>
 
@@ -125,8 +126,8 @@ FuY2VzIGxpa2UgY2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wy0xNjYw
-MDMxNDQ1LDQyNTY4OTgwNiwtNTY5NjMwOTk0LDk4MjIwNTg2NS
-wxODk0ODA5MDExLDIwNDQxMzQ2NDQsLTEwMjQ1ODEyMTYsLTM5
-Mzk0Njk0Myw1MTg4ODI4MzFdfQ==
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzExNTk0
+ODczMTIsNDI1Njg5ODA2LC01Njk2MzA5OTQsOTgyMjA1ODY1LD
+E4OTQ4MDkwMTEsMjA0NDEzNDY0NCwtMTAyNDU4MTIxNiwtMzkz
+OTQ2OTQzLDUxODg4MjgzMV19
 -->
