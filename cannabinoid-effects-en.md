@@ -363,7 +363,7 @@ Here's a list of articles well worth reading.
 PMID: [27663939](https://www.ncbi.nlm.nih.gov/pubmed/27663939)
 
 [^adhd-dopamine]: [Attention-deficit-hyperactivity disorder and reward deficiency syndrome] - 
-PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626918
+PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: [PMC2626918]
 [^adhd-prevalance]:[Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
 PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 
@@ -378,15 +378,17 @@ PMID:  [18560513](https://www.ncbi.nlm.nih.gov/pubmed/18560513) | PMCID: [PMC242
 PMID:[29490380][Cannabis and psychosis: Neurobiology]
 
 [^cannabis-schizo-risk-value]:[Cannabis consumption and psychosis or schizophrenia development]
-[Cannabis consumption and psychosis or schizophrenia development]
+PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 
 [Cannabis use and the risk of developing a psychotic disorder]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/
+
 [Cannabis and psychosis: Neurobiology]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 [Cannabis consumption and psychosis or schizophrenia development]:https://www.ncbi.nlm.nih.gov/pubmed/30442059
 
 
 <!--- PMC IDS --> 
 [PMC2424288]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/pdf/wpa020068.pdf
+[PMC2626918]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/pdf/NDT-4-893.pdf
 ## References
 
 
@@ -394,8 +396,8 @@ PMID:[29490380][Cannabis and psychosis: Neurobiology]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls3
-OTQ1MTEyOTgsMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNz
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsz
+OTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNz
 g0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTks
 NjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
 Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
