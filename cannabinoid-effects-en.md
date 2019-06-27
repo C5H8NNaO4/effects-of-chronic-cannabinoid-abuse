@@ -55,7 +55,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 ### THC, the dopamine system, and the dopamine hypthesis.
 As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> because the mesolimbic system can be directly stimulated by drugs<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup>
-This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup> In combination with the underlying dopmine deficiency of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
+This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup> The combination of a underlying dopmine deficiency in persons with ADHD lead to a much higher risk of developing drug induced psychoses such as schizophrenia.
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
@@ -405,7 +405,9 @@ PMID:  [25162629](https://www.ncbi.nlm.nih.gov/pubmed/25162629) | PMCID:  [PMC41
 PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: [PMC2626918]
 [^adhd-prevalance]:[Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
 PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
-[^adhd-sugar]
+
+[^adhd-sugar]:[Attention-Deficit/Hyperactivity Disorder: Is it Time to Reappraise the Role of Sugar Consumption?]
+
 [Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
 [Childhood ADHD and Risk for Substance Dependence in Adulthood: A Longitudinal, Population-Based Study]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4146503/
  [Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis]:https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16
@@ -438,11 +440,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTc2Mzc4OTg0NywtOTU2NjM4NTQsOTc4MDc3ODA2LDE5NzAzMT
-M4ODIsLTExNzQzNDk3MTAsLTEyNTA3ODY0MzYsLTExNjA4ODU1
-MTIsLTE3MTYyMDk3OTgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMz
-kwNTU5MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4
-NDIzLDQ2MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LD
-YwMjc5ODE1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjFdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+NjIzMTk2OTksLTk1NjYzODU0LDk3ODA3NzgwNiwxOTcwMzEzOD
+gyLC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMTYwODg1NTEy
+LC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MD
+U1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQy
+Myw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MD
+I3OTgxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxXX0=
 -->
