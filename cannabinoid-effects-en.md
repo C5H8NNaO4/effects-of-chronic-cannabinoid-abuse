@@ -27,7 +27,7 @@ ADHD often correlates with substance abuse.[^adhd-substance-misuse] People who s
 
 >Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. [^adhd-dopamine]
 
-> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % nicotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.[^adhd-prevalance]
+> The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % ni cotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.[^adhd-prevalance]
 
 ### Effects
 The effects of years of drug abuse are devastating and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity and paranoia to panic attacks, dissociativity and schizoaffective disorders.
@@ -367,10 +367,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NDMzMTc4NDIzLDQ2MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MT
-czNzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjEs
-NTg1OTI0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MD
-c3MCwtOTUyNTM5NjU2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4Niwx
-Nzk4MzkwOTAwLC00Mzc3MTk3ODYsMTY1NjMzODU1NSwtMTkyNz
-AwOTA5MSw1MTMzNTY5NjAsMTAzMjQ2NzQ3M119
+NDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNz
+A5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwt
+MTcyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5Mz
+YyMjAsNDU2OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyNDU4MCwt
+NDM3NzE5Nzg2LDE3OTgzOTA5MDAsLTQzNzcxOTc4NiwxNjU2Mz
+M4NTU1LC0xOTI3MDA5MDkxLDUxMzM1Njk2MF19
 -->
