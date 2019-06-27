@@ -253,33 +253,56 @@ The initiating event leading to a change in gene expression includes activation 
 # Articles
 Here's a list of articles well worth reading.
 
+
 #### Disorder Related Articles
+* ADHD
+	* [Role of dopamine receptors in ADHD: a systematic meta-analysis]
+	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
+	* [Attention deficit hyperactivity disorder (ADHD): Overview]
+	* [Overview of Attention Deficit Hyperactivity Disorder in Young Children]
+	* [Attention-Deficit/Hyperactivity Disorder: Is it Time to Reappraise the Role of Sugar Consumption?]
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
+	* [A Brain on Cannabinoids: The Role of Dopamine Release in Reward Seeking]
 * Anxiety
-	* [The role of GABA in anxiety disorders][The role of GABA in anxiety disorders]
+	* [The role of GABA in anxiety disorders]
+* Psychosis
+	*	[Cannabis use and the risk of developing a psychotic disorder]
+	*	[Cannabis and psychosis: Neurobiology]
+	*	[Cannabis consumption and psychosis or schizophrenia development]
 * Schizophrenia
-	* [Pathway-specific dopamine abnormalities in schizophrenia][Pathway-specific dopamine abnormalities in schizophrenia]
-	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies][Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
+	* [Pathway-specific dopamine abnormalities in schizophrenia]
+	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
 	* [The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]
 * Sweating
-	* [Hyperhidrosis—Causes and Treatment of Enhanced Sweating][Hyperhidrosis—Causes and Treatment of Enhanced Sweating]
-	* [Mechanisms and controllers of eccrine sweating in humans][Mechanisms and controllers of eccrine sweating in humans]
-	* [Profuse sweating on the palms, soles, and axillae][Profuse sweating on the palms, soles, and axillae]
+	* [Hyperhidrosis—Causes and Treatment of Enhanced Sweating]
+	* [Mechanisms and controllers of eccrine sweating in humans]
+	* [Profuse sweating on the palms, soles, and axillae]
 * Withdrawal
-	* [The cannabis withdrawal syndrome: current insights][The cannabis withdrawal syndrome: current insights]
+	* [The cannabis withdrawal syndrome: current insights]
 	* [Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]
-	* [Marijuana Dependence and Its Treatment][Marijuana Dependence and Its Treatment]
+	* [Marijuana Dependence and Its Treatment][
 ---
 #### General Articles
 * THC
-	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system][The effects of Δ9-tetrahydrocannabinol on the dopamine system]
-
+	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system]
+	
+<!-- # ADHD -->
+[Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
+[Attention-deficit-hyperactivity disorder and reward deficiency syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
+[Attention deficit hyperactivity disorder (ADHD): Overview]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
+[Overview of Attention Deficit Hyperactivity Disorder in Young Children]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768532/
+[Attention-Deficit/Hyperactivity Disorder: Is it Time to Reappraise the Role of Sugar Consumption?]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3598008/
 <!--- # Addiction-->
 [Dopamine Signaling in reward-related behaviors]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795306/
+[A Brain on Cannabinoids: The Role of Dopamine Release in Reward Seeking]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405830/
 <!---# Anxiety ---> 
 [The role of GABA in anxiety disorders]:https://www.ncbi.nlm.nih.gov/pubmed/12662130
 
+<!---# Psychosis -->
+[Cannabis use and the risk of developing a psychotic disorder]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/
+[Cannabis and psychosis: Neurobiology]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
+[Cannabis consumption and psychosis or schizophrenia development]:https://www.ncbi.nlm.nih.gov/pubmed/30442059
 <!---# Schizophrenia ---> 
 
 [Pathway-specific dopamine abnormalities in schizophrenia]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5177794/
@@ -415,8 +438,8 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NjM3ODUxMTQxLC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+Mzc5MjcyOTQ5LC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
 g4MiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUx
 MiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOT
 A1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0
