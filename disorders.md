@@ -4,6 +4,7 @@
 	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
 	* [Attention deficit hyperactivity disorder (ADHD): Overview]
 	* [Overview of Attention Deficit Hyperactivity Disorder in Young Children]
+	* [Attention-Deficit/Hyperactivity Disorder: Is it Time to Reappraise the Role of Sugar Consumption?]
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
 	* [A Brain on Cannabinoids: The Role of Dopamine Release in Reward Seeking]
@@ -35,7 +36,7 @@
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 [Attention deficit hyperactivity disorder (ADHD): Overview]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
 [Overview of Attention Deficit Hyperactivity Disorder in Young Children]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768532/
-[Attention-Deficit/Hyperactivity Disorder: Is it Time to Reappraise the Role of Sugar Consumption?]:[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3598008/
+[Attention-Deficit/Hyperactivity Disorder: Is it Time to Reappraise the Role of Sugar Consumption?]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3598008/
 <!--- # Addiction-->
 [Dopamine Signaling in reward-related behaviors]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795306/
 [A Brain on Cannabinoids: The Role of Dopamine Release in Reward Seeking]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405830/
@@ -67,6 +68,6 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNDMwMDEyLDM2OTgzNTU1Nyw1MzEwNj
-QzLC03MzY1MjYyOTZdfQ==
+eyJoaXN0b3J5IjpbMTg1MDY5NDM0MSwzNjk4MzU1NTcsNTMxMD
+Y0MywtNzM2NTI2Mjk2XX0=
 -->
