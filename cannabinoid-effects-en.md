@@ -55,7 +55,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 ### THC, the dopamine system, and the dopamine hypthesis.
 As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> because the mesolimbic system can be directly stimulated by drugs<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup>
-This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup> In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
+This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup> In combination with the underlying dopmine deficiency of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
@@ -65,6 +65,7 @@ This leads to a chronic imbalance of dopamine levels between the mesolimbic syst
 
 > DA hypothesis proposed that the positive symptoms of schizophrenia are due to an excess of DA signaling in the striatal and/or mesolimbic areas of the brain[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R3). In contrast, negative symptoms are thought to be related to deficits in prefrontal cortical DA signaling, likely through D1receptors[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R5)
 
+> The observation that ADHD represents a dopamine-deficient state could explain why treatments that increase dopamine levels in the nucleus accumbens, such as amphetamine and methylphenidate, improve symptoms, at least acutely.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3598008/#R3) However, based on the increasing evidence for D2 receptor desensitization/downregulation as a mechanism underlying ADHD, one might expect these drugs to have an enhanced potential to cause addiction
 
 # A neurobiological primer
 
@@ -415,7 +416,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTI1MTg5MTMyLC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
+NjM3ODUxMTQxLC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
 g4MiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUx
 MiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOT
 A1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0
