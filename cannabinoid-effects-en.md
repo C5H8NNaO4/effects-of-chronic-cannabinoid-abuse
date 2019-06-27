@@ -34,6 +34,8 @@ Frequent long term abuse of potent cannabis may induce psychotic symptoms and in
 ### ADHD
 [ADHD][wiki:ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious when dealing with drugs.
 
+> Adolescents with attention-deficit/hyperactivity disorder (ADHD) are known to be at significantly greater risk for the development of substance use disorders (SUD) compared to peers. Impulsivity, which could lead to higher levels of drug use, is a known symptom of ADHD and likely accounts, in part, for this relationship. Other factors, such as a biologically increased susceptibility to substance dependence (addiction), may also play a role.
+
 >Research has shown that, in children with ADHD, the chemical messenger dopamine is transported differently between the nerve cells of the brain, especially in the regions that are used for memory and learning. [^adhd-dopamine]
 
 > To examine the 12-month prevalence, risk factors, and comorbidity of ADHD in a collective of adult psychiatric patients admitted to an open general ward in a psychiatric hospital in Schleswig-Holstein (Germany) over a period of one year
@@ -395,11 +397,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mj
-g0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0x
-OTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMD
-Q3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzLC0y
-NjI5MzYyMjAsNDU2OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyND
-U4MCwtNDM3NzE5Nzg2LDE3OTgzOTA5MDBdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+Mjg0MjgzNjk4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OT
+EzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0
+NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OT
+gxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0
+MzYyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOT
+Y1NiwyMDcwNDI0NTgwLC00Mzc3MTk3ODZdfQ==
 -->
