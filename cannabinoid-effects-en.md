@@ -1,6 +1,6 @@
 # Consequencs of chronic cannabis abuse -   ADHD and psychoses - a neuro-biological primer
 <!--more-->
-[German version](https://translate.google.de/translate?sl=en&tl=de&u=https%3A%2F%2Foxytocin.home.blog%2F2019%2F06%2F27%2Fconsequences-of-chronic-drug-abuse%2F) \(google translate)
+[German version](https://translate.google.de/translate?sl=en&tl=de&u=https%3A%2F%2Foxytocin.home.blog%2F2019%2F06%2F27%2Fconsequences-of-chronic-drug-abuse%2F) \(google translate) - Maschinell übersetzt wirkt der Artikel auf Deutsch leider nicht sehr authentisch. Vermutlich werde ich dieses nach seiner Fe
 ## Preface
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it has many long term consequences.
 
@@ -403,11 +403,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
-MDMwNTU3NzI3LC0xMjUwNzg2NDM2LC0xMTYwODg1NTEyLC0xNz
-E2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEz
-OSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0Nj
-A1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgx
-NTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0Mz
-YyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzBdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MTc1OTcyNTUxNiwtMTI1MDc4NjQzNiwtMTE2MDg4NTUxMiwtMT
+cxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkx
+MzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsND
+YwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4
+MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUsND
+M2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwXX0=
 -->
