@@ -1,5 +1,5 @@
 ### Abstract
-Due to their impulsive behaviour a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders such as schizophrenia? --- A small meta-analysis.
+Due to their impulsive behaviour, a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders such as schizophrenia? --- A small meta-analysis.
 
 <!--more-->
 ----
@@ -125,7 +125,7 @@ FuY2VzIGxpa2UgQ2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wzk4MjIw
-NTg2NSwxODk0ODA5MDExLDIwNDQxMzQ2NDQsLTEwMjQ1ODEyMT
-YsLTM5Mzk0Njk0Myw1MTg4ODI4MzFdfQ==
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wy04NDg1
+OTg4ODcsOTgyMjA1ODY1LDE4OTQ4MDkwMTEsMjA0NDEzNDY0NC
+wtMTAyNDU4MTIxNiwtMzkzOTQ2OTQzLDUxODg4MjgzMV19
 -->
