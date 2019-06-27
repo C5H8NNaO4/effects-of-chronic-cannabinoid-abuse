@@ -16,7 +16,7 @@ Currently, this article contains only a collection of basic neurobiological know
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of cannabis abuse, withdrawal, the brain and  psychotropic drugs. 
 
 ### Motivation
-After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
+After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold turkey, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
 
 Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmless and can have devastating consequences. 
 
@@ -403,8 +403,8 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-MzIwNDM4Mjg3LC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NT
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MjM5NTM4NTUyLC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NT
 QxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3
 LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NT
 M3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0
