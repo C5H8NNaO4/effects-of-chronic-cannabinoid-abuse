@@ -1,12 +1,7 @@
 # Consequencs of chronic cannabis abuse -   ADHD and psychoses - Increased risk of developing drug-induced psychotic disorders in patients with ADHD - a neuro-biological primer
 
 <!--more-->
-[German version](https://translate.google.de/translate?sl=en&tl=de&u=https%3A%2F%2Foxytocin.home.blog%2F2019%2F06%2F27%2Fconsequences-of-chronic-drug-abuse%2F) \(google translate) - Maschinell übersetzt wirkt der Artikel auf Deutsch leider nicht sehr authentisch. Vermutlich werde ich dieses nach seiner Fertigstellung manuell übersetzen. 
-## Preface
-With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it has many long term consequences.
-
-[![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
-
+[German version](https://translate.google.de/translate?sl=en&tl=de&u=https%3A%2F%2Foxytocin.home.blog%2F2019%2F06%2F27%2Fconsequences-of-chronic-drug-abuse%2F) \(google translate) - Maschinell übersetzt wirkt der Artikel auf Deutsch leider nicht sehr authentisch. Vermutlich werde ich diesen nach seiner Fertigstellung manuell übersetzen. 
 
 ### Disclaimer
 This article is **not** complete yet. This is just a draft and its completion will take some time.
@@ -14,6 +9,13 @@ This article is **not** complete yet. This is just a draft and its completion wi
 Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, feel free to read the following sections. However, do not expect any conclusions.
 
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of cannabis abuse, withdrawal, and  psychotropic drugs. 
+
+
+
+## Preface
+With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it has many long term consequences.
+
+[![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain.
@@ -412,10 +414,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-NDUyNTc2NTk3LDE5NzAzMTM4ODIsLTExNzQzNDk3MTAsLTEyNT
-A3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDEx
-MzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMT
-Q0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3MSwtMTk1Mzcw
-OTc2OSwxNTY5MTczNzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLT
-E3MjQyNDA3NjEsNTg1OTI0Njk1LDQzNjIyOTEyM119
+MTU4NzQ4ODk4MCwxOTcwMzEzODgyLC0xMTc0MzQ5NzEwLC0xMj
+UwNzg2NDM2LC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQx
+MTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LD
+E0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3
+MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0LC
+0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0MzYyMjkxMjNdfQ==
 -->
