@@ -53,7 +53,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 <sub> Side note: If you're being suicidal: Seek help. It helps. --- If you can't keep up living: Change your life; make it the one you want to live.  --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your loved ones, change yours! <3 
 
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
-### THC, the dopamine system, and the dopamine hypthesis.
+### ADHD, THC, the dopamine system, and the dopamine hypthesis.
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
  -- [Cannabis consumption and psychosis or schizophrenia development]
  
@@ -447,11 +447,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-ODY0NTY3MjY1LDE2MDYxNjEwMjgsLTk1NjYzODU0LDk3ODA3Nz
-gwNiwxOTcwMzEzODgyLC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2
-LC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNT
-k1OTUyMDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2
-MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMT
-U2OTE3MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MjAwNzA2MDk0NiwxODY0NTY3MjY1LDE2MDYxNjEwMjgsLTk1Nj
+YzODU0LDk3ODA3NzgwNiwxOTcwMzEzODgyLC0xMTc0MzQ5NzEw
+LC0xMjUwNzg2NDM2LC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LD
+E2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEzOSwxNjE5NTQy
+ODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzEsLT
+E5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTVdfQ==
 -->
