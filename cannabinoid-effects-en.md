@@ -8,7 +8,7 @@ With over 24 million users, cannabis is the most widely used drug in the USA; a 
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
 
-
+### Disclaimer
 This article is **not** complete yet. This is just a draft and its completion will take some time.
 
 Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, feel free to read the following sections. However, do not expect any conclusions.
@@ -369,11 +369,11 @@ PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsz
-MjYwNTczNDksMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzOD
-A3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMjc5ODE1NSw3
-MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1LDQzNjIyOT
-EyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwtOTUyNTM5NjU2LDIw
-NzA0MjQ1ODAsLTQzNzcxOTc4NiwxNzk4MzkwOTAwLC00Mzc3MT
-k3ODYsMTY1NjMzODU1NSwtMTkyNzAwOTA5MV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+NDM3NzI2NTQxLDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1Mz
+gwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTUs
+NzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0MzYyMj
+kxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOTY1Niwy
+MDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3Nz
+E5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTFdfQ==
 -->
