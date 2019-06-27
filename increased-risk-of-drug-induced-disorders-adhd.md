@@ -35,7 +35,7 @@ Frequent long-term abuse of potent cannabis can cause psychotic symptoms and inc
 > --  [Cannabis and psychosis: Neurobiology]
 
 ## Conclusion.
-Long term cannabis use favors the development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup>, as it directly stimulates the mesolimbic system<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup>, which leads to a constant excess of dopamine<sup>[</sup>[^cannabis-dopamine]<sup>]</sup>. Given their general affinity to psychotic disorder development<sup>[</sup>[^adhd-prevalance]<sup>]</sup> and the combination of the underlying dopamine deficiency<sup>[</sup>[^adhd-sugar]<sup>]</sup> in persons with ADHD<sup>[</sup>[^adhd-dopa]<sup>]</sup>, this leads to a much higher risk of developing drug-induced psychoses such as schizophrenia due to chronic imbalance of dopamine levels between the mesolimbic pathway and the prefrontal cortex. --- A condition, as being postulated by the dopamine hypothesis.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup>
+Long term cannabis use favors the development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup>, as it directly stimulates the mesolimbic system<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup>, which leads to a constant excess of dopamine<sup>[</sup>[^cannabis-dopamine]<sup>]</sup>. Given their general affinity to psychotic disorder development<sup>[</sup>[^adhd-prevalance]<sup>]</sup> and the combination of the underlying dopamine deficiency<sup>[</sup>[^adhd-sugar]<sup>]</sup> in persons with ADHD<sup>[</sup>[^adhd-dopa]<sup>]</sup>, this leads to a much higher risk of developing drug-induced psychoses such as schizophrenia due to chronic imbalance of dopamine levels between the reward system and the prefrontal cortex. --- A condition the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup>
 
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
  -- [Cannabis consumption and psychosis or schizophrenia development]
@@ -127,8 +127,8 @@ FuY2VzIGxpa2UgY2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzE2Mzk3
-NTY1MDcsNDY4MzM5Njg4LC0yODY2MzYyOCwtMTAxMzI1Njc5NS
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzE4MzU3
+MjI1NDQsNDY4MzM5Njg4LC0yODY2MzYyOCwtMTAxMzI1Njc5NS
 wtMTAxMzI1Njc5NSwtMTQxMTU3MDQzNSwtMjAxMDcwODc4OCwx
 NzU0NDg3OTc0LDQyNTY4OTgwNiwtNTY5NjMwOTk0LDk4MjIwNT
 g2NSwxODk0ODA5MDExLDIwNDQxMzQ2NDQsLTEwMjQ1ODEyMTYs
