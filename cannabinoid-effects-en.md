@@ -27,9 +27,7 @@ Frequent long term abuse of potent cannabis may induce psychotic symptoms and in
  
 > Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
 
-> There is now reasonable evidence from longitudinal studies that regular cannabis use predicts an increased risk of schizophrenia and of reporting psychotic symptoms
-
-> Cannabis is involved in approximately 50% of psychosis, schizophrenia, and schizophreniform psychosis cases.<sup>[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref2),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref3),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref5)]</sup> Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well understood.
+> Cannabis is involved in approximately 50% of psychosis, schizophrenia, and schizophreniform psychosis cases.<sup>[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref2),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref3),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref5)]</sup> 
 
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
 
@@ -386,7 +384,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTQ3MzQyNTQ5NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNT
+MTcyMDU4NTIwNSwxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNT
 M4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1
 LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2Mj
 I5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05NTI1Mzk2NTYs
