@@ -33,11 +33,11 @@ Frequent long-term abuse of strong cannabis can cause psychotic symptoms and inc
 > Cannabis is involved in approximately 50% of psychosis, schizophrenia, and schizophreniform psychosis cases.<sup>[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref2),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref3),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref5)]</sup> 
 > --  [Cannabis and psychosis: Neurobiology]
 ## Conclusion.
+Long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> as it directly stimulates the mesolimbic system,<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup> which leads to a constant excess of dopamine<sup>[</sup>[^cannabis-dopamine]<sup>]</sup>. In combination with the underlying dopmine deficiency<sup>[</sup>[^adhd-sugar]<sup>]</sup> in persons with ADHD,<sup>[</sup>[^adhd-dopa]<sup>]</sup> this leads to a much higher risk of developing drug induced psychoses such as schizophrenia, due to the chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex, which is what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup>
+
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
  -- [Cannabis consumption and psychosis or schizophrenia development]
  
-Long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> as it directly stimulates the mesolimbic system,<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup> which leads to a constant excess of dopamine<sup>[</sup>[^cannabis-dopamine]<sup>]</sup>. In combination with the underlying dopmine deficiency<sup>[</sup>[^adhd-sugar]<sup>]</sup> in persons with ADHD,<sup>[</sup>[^adhd-dopa]<sup>]</sup> this leads to a much higher risk of developing drug induced psychoses such as schizophrenia, due to the chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex, which is what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup>
-
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 > -- [The effects of Δ9-tetrahydrocannabinol on the dopamine system]
 
@@ -115,14 +115,14 @@ b3RpYyBEaXNvcmRlcnMgaW4gUGF0aWVudHMgd2l0aFxuICBBRE
 hEXG5hdXRob3I6IE1vcml0eiBSb2Vzc2xlclxudGFnczogJ2Nh
 bm5hYmlzLCBhZGhkLCByaXNrLCBwc3ljaG9zZXMsIHNjaGl6b3
 BocmVuaWEnXG5jYXRlZ29yaWVzOiAnTmV1cm9zY2llbmNlLCBN
-ZXRhLUFuYWx5c2lzJ1xuc3RhdHVzOiBkcmFmdFxuZXhjZXJwdD
-ogPi1cbiAgRHVlIHRvIHRoZWlyIGltcHVsc2l2ZSBiZWhhdmlv
-dXIgYSBsb3Qgb2YgcGVvcGxlIHdpdGggQURIRCB0ZW5kIHRvIG
-1pc3VzZVxuICBzdWJzdGFuY2VzIGxpa2UgQ2FubmFiaXMg4oCU
-IERvZXMgY2hyb25pYyBjYW5uYWJpcyBjb25zdW1lIGFuZCBBRE
-hEIGFmZmVjdCB0aGVcbiAgcmlzayBvZiBkZXZlbG9waW5nIHBz
-eWNob3RpYyBkaXNvcmRlcnMgc3VjaCBhcyBzY2hpem9waHJlbm
-lhPyDigJQgQSBzbWFsbFxuICBtZXRhLWFuYWx5c2lzLlxuIiwi
-aGlzdG9yeSI6WzkxMDc3Mzk2OSwtMTAyNDU4MTIxNiwtMzkzOT
-Q2OTQzLDUxODg4MjgzMV19
+ZXRhLUFuYWx5c2lzJ1xuZXhjZXJwdDogPi1cbiAgRHVlIHRvIH
+RoZWlyIGltcHVsc2l2ZSBiZWhhdmlvdXIgYSBsb3Qgb2YgcGVv
+cGxlIHdpdGggQURIRCB0ZW5kIHRvIG1pc3VzZVxuICBzdWJzdG
+FuY2VzIGxpa2UgQ2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
+YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
+AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
+cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzIwNDQx
+MzQ2NDQsLTEwMjQ1ODEyMTYsLTM5Mzk0Njk0Myw1MTg4ODI4Mz
+FdfQ==
 -->
