@@ -1,5 +1,5 @@
 ## Disclaimer
-This article is part of the post [Consequencs of Chronic Cannabis Abuse --- Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD --- A Neuro-Biological Primer](https://oxytocin.home.blog/2019/06/27/consequences-of-chronic-drug-abuse/) which turned out too broad for one title. 
+This article is part of the post [Consequencs of Chronic Cannabis Abuse --- Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD --- A Neuro-Biological Primer](https://oxytocin.home.blog/2019/06/27/consequences-of-chronic-drug-abuse/) which turned out too extensive for one title. 
 
 The title reads "drugs" because I make LSD responsible for some of my symptoms, the study, however, only refers to cannabis and shows that ADHD in combination with chronic cannabis abuse does in "fact" increase the risk of developing schizophrenia and other psychotic disorders.
 
@@ -127,8 +127,8 @@ FuY2VzIGxpa2UgY2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzEwMDEx
-MTM3MzEsNDI1Njg5ODA2LC01Njk2MzA5OTQsOTgyMjA1ODY1LD
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wy00NzQ0
+ODk3MTIsNDI1Njg5ODA2LC01Njk2MzA5OTQsOTgyMjA1ODY1LD
 E4OTQ4MDkwMTEsMjA0NDEzNDY0NCwtMTAyNDU4MTIxNiwtMzkz
 OTQ2OTQzLDUxODg4MjgzMV19
 -->
