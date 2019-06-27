@@ -70,8 +70,7 @@ and may lead to a dystonia of *PKA* [gene regulation][wiki:gene-regulation] in t
 
 ### THC, the dopamine system, and the dopamine hypthesis.
 As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia because the mesolimbic system can be directly stimulated by drugs.
-This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex whic
-
+This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates. In combination with the increased dopamine catabolism of persons with ADHD. 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
 
@@ -411,7 +410,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTcwNzI0ODg1LC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMT
+OTY4NDEwMTAwLC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMT
 YwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUy
 MDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMT
 QzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3
