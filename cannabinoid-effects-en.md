@@ -54,7 +54,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 ### THC, the dopamine system, and the dopamine hypthesis.
-As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia[^ because the mesolimbic system can be directly stimulated by drugs.
+As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> because the mesolimbic system can be directly stimulated by drugs.
 This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates. In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
@@ -396,6 +396,7 @@ PMID:[29490380][Cannabis and psychosis: Neurobiology]
 [^cannabis-schizo-risk-value]:[Cannabis consumption and psychosis or schizophrenia development]
 PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 
+
 [Cannabis use and the risk of developing a psychotic disorder]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/
 
 [Cannabis and psychosis: Neurobiology]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
@@ -413,11 +414,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls4
-NjgyNTA0MTcsOTc4MDc3ODA2LDE5NzAzMTM4ODIsLTExNzQzND
-k3MTAsLTEyNTA3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3
-OTgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MT
-k1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3
-MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMjc5ODE1NSw3MT
-M4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls2
+MDQ3NjMzNSw5NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3NDM0OT
+cxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5
+OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOT
+U0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcx
+LC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMz
+gyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTVdfQ==
 -->
