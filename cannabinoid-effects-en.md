@@ -378,7 +378,7 @@ PMID:  [18560513](https://www.ncbi.nlm.nih.gov/pubmed/18560513) | PMCID: [PMC242
 PMID:[29490380][Cannabis and psychosis: Neurobiology]
 
 [^cannabis-schizo-risk-value]:[Cannabis consumption and psychosis or schizophrenia development]
-[Cannabis consumption and psychosis or schizophrenia development
+[Cannabis consumption and psychosis or schizophrenia development]
 
 [Cannabis use and the risk of developing a psychotic disorder]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/
 [Cannabis and psychosis: Neurobiology]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
@@ -394,11 +394,11 @@ PMID:[29490380][Cannabis and psychosis: Neurobiology]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTg5MjM2MTU2MywxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMz
-E3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3Mzcx
-OSw2MDI3OTgxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NT
-kyNDY5NSw0MzYyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAs
-LTk1MjUzOTY1NiwyMDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5OD
-M5MDkwMCwtNDM3NzE5Nzg2LDE2NTYzMzg1NTVdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls3
+OTQ1MTEyOTgsMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNz
+g0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTks
+NjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
+Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
+NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOT
+A5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1XX0=
 -->
