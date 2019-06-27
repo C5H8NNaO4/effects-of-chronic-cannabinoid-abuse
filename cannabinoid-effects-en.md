@@ -73,7 +73,8 @@ As mentioned before long term cannabis use favors development of psychotic disor
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
-Given that THC intake leads to a chronic excess of d
+Given that 
+Increases in mesolimbic dopamine transmission are observed when animals are treated with all known drugs of abuse, including cannabis
 > The revised dopamine hypothesis states that dopamine abnormalities in the mesolimbic and prefrontal brain regions exist in schizophrenia.
 
 > DA hypothesis proposed that the positive symptoms of schizophrenia are due to an excess of DA signaling in the striatal and/or mesolimbic areas of the brain[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R3). In contrast, negative symptoms are thought to be related to deficits in prefrontal cortical DA signaling, likely through D1receptors[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R5)
@@ -405,11 +406,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTgyMDc1NjI3MiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMT
-E2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1
-MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLD
-E0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1Njkx
-NzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MS
-w1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjBdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+NjEzMTAxMzEsLTExNzQzNDk3MTAsLTEyNTA3ODY0MzYsLTExNj
+A4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDExMzgzNiw1OTU5NTIw
+NDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxND
+MzMTc4NDIzLDQ2MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTcz
+NzE5LDYwMjc5ODE1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNT
+g1OTI0Njk1LDQzNjIyOTEyMywtMjYyOTM2MjIwXX0=
 -->
