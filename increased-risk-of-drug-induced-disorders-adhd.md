@@ -109,5 +109,13 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mzk0Njk0Myw1MTg4ODI4MzFdfQ==
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6ID4tXG4gIEluY3JlYXNlZC
+BSaXNrIG9mIERldmVsb3BpbmcgRHJ1Zy1JbmR1Y2VkIFBzeWNo
+b3RpYyBEaXNvcmRlcnMgaW4gUGF0aWVudHMgd2l0aFxuICBBRE
+hEXG5hdXRob3I6IE1vcml0eiBSb2Vzc2xlclxudGFnczogJ2Nh
+bm5hYmlzLCBhZGhkLCByaXNrLCBwc3ljaG9zZXMsIHNjaGl6b3
+BocmVuaWEnXG5jYXRlZ29yaWVzOiAnTmV1cm9zY2llbmNlLCBN
+ZXRhLUFuYWx5c2lzJ1xuc3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
+9yeSI6Wy0xMDI0NTgxMjE2LC0zOTM5NDY5NDMsNTE4ODgyODMx
+XX0=
 -->
