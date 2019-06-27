@@ -32,7 +32,7 @@ Frequent long term abuse of potent cannabis may induce psychotic symptoms and in
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
 
 ### ADHD
-[ADHD][wiki:ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious when dealing with drugs.
+[ADHD][wiki:ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>, </sup>[^adhd-substance-misuse-2]<sup>]</sup> People who suffer from ADHD should be extra cautious when dealing with drugs because increased risk 
 
 > Adolescents with attention-deficit/hyperactivity disorder (ADHD) are known to be at significantly greater risk for the development of substance use disorders (SUD) compared to peers. Impulsivity, which could lead to higher levels of drug use, is a known symptom of ADHD and likely accounts, in part, for this relationship. Other factors, such as a biologically increased susceptibility to substance dependence (addiction), may also play a role.
 
@@ -398,10 +398,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-Mjg0MjgzNjk4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OT
-EzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0
-NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OT
-gxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0
-MzYyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOT
-Y1NiwyMDcwNDI0NTgwLC00Mzc3MTk3ODZdfQ==
+OTQ1MzM1MjgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMzkwNTU5MT
+M5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2
+MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMjc5OD
+E1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1LDQz
+NjIyOTEyMywtMjYyOTM2MjIwLDQ1Njk4MDc3MCwtOTUyNTM5Nj
+U2LDIwNzA0MjQ1ODAsLTQzNzcxOTc4Nl19
 -->
