@@ -55,7 +55,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 ### THC, the dopamine system, and the dopamine hypthesis.
 As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> because the mesolimbic system can be directly stimulated by drugs<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup>
-This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates. In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
+This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates.<sup>[^schizo-role-dopamine]</sup> In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
@@ -396,6 +396,7 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 
 [^cannabis-effects-thc]:[The effects of Δ9-tetrahydrocannabinol on the dopamine system]
 
+[^schizo-role-dopamine]:[The Role of Dopamine in Schizophrenia from a Neurobiological and Evolutionary Perspective: Old Fashioned, but Still in Vogue]
 
 [Cannabis use and the risk of developing a psychotic disorder]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/
 [Cannabis and psychosis: Neurobiology]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
@@ -413,11 +414,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-OTU2NjM4NTQsOTc4MDc3ODA2LDE5NzAzMTM4ODIsLTExNzQzND
-k3MTAsLTEyNTA3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3
-OTgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MT
-k1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3
-MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMjc5ODE1NSw3MT
-M4MjA0NzQsLTE3MjQyNDA3NjEsNTg1OTI0Njk1XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls2
+NTUzMjg1MywtOTU2NjM4NTQsOTc4MDc3ODA2LDE5NzAzMTM4OD
+IsLTExNzQzNDk3MTAsLTEyNTA3ODY0MzYsLTExNjA4ODU1MTIs
+LTE3MTYyMDk3OTgsMTY1NDExMzgzNiw1OTU5NTIwNDAsMzkwNT
+U5MTM5LDE2MTk1NDI4NDcsMTQ0Mjc3NTYwMywxNDMzMTc4NDIz
+LDQ2MDUzODA3MSwtMTk1MzcwOTc2OSwxNTY5MTczNzE5LDYwMj
+c5ODE1NSw3MTM4MjA0NzQsLTE3MjQyNDA3NjFdfQ==
 -->
