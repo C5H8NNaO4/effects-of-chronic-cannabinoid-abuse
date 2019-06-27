@@ -107,7 +107,7 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 [PMC4146503]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4146503/pdf/pone.0105640.pdf
 
 ---
-*For mrs
+*dedicated to Mrs. Schornstein and Mr. Schremel*
 ## References
 
 
@@ -125,7 +125,7 @@ FuY2VzIGxpa2UgQ2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wy0xODk4
-MTA2NjAzLDE4OTQ4MDkwMTEsMjA0NDEzNDY0NCwtMTAyNDU4MT
-IxNiwtMzkzOTQ2OTQzLDUxODg4MjgzMV19
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wzk4MjIw
+NTg2NSwxODk0ODA5MDExLDIwNDQxMzQ2NDQsLTEwMjQ1ODEyMT
+YsLTM5Mzk0Njk0Myw1MTg4ODI4MzFdfQ==
 -->
