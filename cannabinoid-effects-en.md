@@ -1,7 +1,6 @@
 # Consequencs of chronic cannabis abuse -   ADHD and psychoses - a neuro-biological primer
-
-
 <!--more-->
+German version (google translate)
 ## Preface
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it has many long term consequences.
 
@@ -15,8 +14,9 @@ Currently, this article contains only a collection of basic neurobiological know
 
 The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of cannabis abuse, withdrawal, the brain and  psychotropic drugs. 
 
+
 ### Motivation
-After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold detoxification, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
+After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain.
 
 Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmless and can have devastating consequences. 
 
@@ -403,11 +403,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTI1MDc4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNj
-U0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0
-NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOT
-UzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3
-NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNj
-I5MzYyMjAsNDU2OTgwNzcwLC05NTI1Mzk2NTZdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
+MTAxMDI1NjM2LC0xMjUwNzg2NDM2LC0xMTYwODg1NTEyLC0xNz
+E2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEz
+OSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0Nj
+A1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgx
+NTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0Mz
+YyMjkxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzBdfQ==
 -->
