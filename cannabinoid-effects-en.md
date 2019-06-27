@@ -69,7 +69,7 @@ This results in chronic deficiency of the secondary messenger *cAMP*, and a redu
 and may lead to a dystonia of *PKA* [gene regulation][wiki:gene-regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
 ### THC, the dopamine system, and the dopamine hypthesis.
-As mentioned before long term cannabis intake favors de
+As mentioned before long term cannabis intake favors development of psychotic disorders such as schizophrenia
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
@@ -403,11 +403,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTQyNTcwMTIzNiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMT
-E2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1
-MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLD
-E0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1Njkx
-NzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MS
-w1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjBdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+MjY1ODgyOTE2LC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMT
+YwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUy
+MDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMT
+QzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3
+MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxLD
+U4NTkyNDY5NSw0MzYyMjkxMjMsLTI2MjkzNjIyMF19
 -->
