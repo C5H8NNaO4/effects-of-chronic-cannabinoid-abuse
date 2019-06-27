@@ -54,7 +54,7 @@ The good part of the story is, you can fix all of this. It's a long way to go; i
 
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 ### THC, the dopamine system, and the dopamine hypthesis.
-As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> because the mesolimbic system can be directly stimulated by drugs<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup>
+Long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> because the mesolimbic system can be directly stimulated by drugs<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup>
 This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup> The combination of a underlying dopmine deficiency[^adhd-sugar] in the [prefontal cortex][wiki:prefrontal-cortex] *([nucleus accumbens][wiki:nucleus-accumbens])* in persons with ADHD leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
@@ -347,11 +347,12 @@ Here's a list of articles well worth reading.
 [wiki:gene-regulation]:https://en.wikipedia.org/wiki/Regulation_of_gene_expression
 [wiki:GP]: https://en.wikipedia.org/wiki/G_protein
 [wiki:GPCR]:  https://en.wikipedia.org/wiki/G_protein-coupled_receptor
-[wiki:nucleus-accumbens]:[https://de.wikipedia.org/wiki/Nucleus_accumbens](https://de.wikipedia.org/wiki/Nucleus_accumbens)
+[wiki:nucleus-accumbens]:https://en.wikipedia.org/wiki/Nucleus_accumbens](https://en.wikipedia.org/wiki/Nucleus_accumbens)
 [wiki:PKA]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Activation]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:PKA#Function]: https://en.wikipedia.org/wiki/Protein_kinase_A
 [wiki:media:PKA]:https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/PKARII.svg/740px-PKARII.svg.png
+[wiki:prefrontal-cortex]:https://en.wikipedia.org/wiki/Prefrontal_cortex](https://en.wikipedia.org/wiki/Prefrontal_cortex)
 [wiki:CREB]:https://en.wikipedia.org/wiki/CREB
 
 
@@ -443,11 +444,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-ODMwODM0NjQyLC05NTY2Mzg1NCw5NzgwNzc4MDYsMTk3MDMxMz
-g4MiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUx
-MiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOT
-A1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0
-MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNj
-AyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls4
+MDcwNDM4MTQsLTk1NjYzODU0LDk3ODA3NzgwNiwxOTcwMzEzOD
+gyLC0xMTc0MzQ5NzEwLC0xMjUwNzg2NDM2LC0xMTYwODg1NTEy
+LC0xNzE2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MD
+U1OTEzOSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQy
+Myw0NjA1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MD
+I3OTgxNTUsNzEzODIwNDc0LC0xNzI0MjQwNzYxXX0=
 -->
