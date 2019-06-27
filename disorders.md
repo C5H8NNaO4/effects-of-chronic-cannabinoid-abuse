@@ -3,6 +3,7 @@
 	* [Role of dopamine receptors in ADHD: a systematic meta-analysis]
 	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
 	* [Attention deficit hyperactivity disorder (ADHD): Overview]
+	* [Overview of Attention Deficit Hyperactivity Disorder in Young Children]
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
 	* [A Brain on Cannabinoids: The Role of Dopamine Release in Reward Seeking]
@@ -33,7 +34,7 @@
 [Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 [Attention deficit hyperactivity disorder (ADHD): Overview]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
-
+[Overview of Attention Deficit Hyperactivity Disorder in Young Children]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768532/
 <!--- # Addiction-->
 [Dopamine Signaling in reward-related behaviors]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795306/
 [A Brain on Cannabinoids: The Role of Dopamine Release in Reward Seeking]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405830/
@@ -65,6 +66,6 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MTI4MzA5LDUzMTA2NDMsLTczNjUyNj
+eyJoaXN0b3J5IjpbMzY5ODM1NTU3LDUzMTA2NDMsLTczNjUyNj
 I5Nl19
 -->
