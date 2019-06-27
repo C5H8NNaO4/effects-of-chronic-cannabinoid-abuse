@@ -50,11 +50,11 @@ The effects of years of drug abuse are devastating and range from confusion, mem
 ### Treatments
 The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
 
-<sub> Side note: If you're being suicidal: seek help. It helps. --- If you can't keep up living: Change your life, make it the one you want to live. --- It's easier to change your life than to kill yourself. --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your family, change yours! <3 
+<sub> Side note: If you're being suicidal: Seek help. It helps. --- If you can't keep up living: Change your life; make it the one you want to live.  --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your loved ones, change yours! <3 
 
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 ### THC, the dopamine system, and the dopamine hypthesis.
-As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia because the mesolimbic system can be directly stimulated by drugs.
+As mentioned before, long term cannabis use favors development of psychotic disorders such as schizophrenia[^^ because the mesolimbic system can be directly stimulated by drugs.
 This leads to a chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex which is exactly what the dopamine hypothesis postulates. In combination with the increased dopamine catabolism of persons with ADHD in the prefrontal cortex this leads to a much higher risk of developing drug induced psychoses such as schizophrenia.
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
@@ -414,7 +414,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjA5NTQyMzkxNiw5NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3ND
+MTA0MjA5ODU4NSw5NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3ND
 M0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIw
 OTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMT
 YxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4
