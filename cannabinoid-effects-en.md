@@ -68,8 +68,8 @@ This results in chronic deficiency of the secondary messenger *cAMP*, and a redu
 
 and may lead to a dystonia of *PKA* [gene regulation][wiki:gene-regulation] in the *Hippocampus*, *cerebellum* and *basal ganglia*. [Specifically affected][cannabinoid-pathway] are: PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B, PRKACA, PRKACB and PRKACG.
 
-### THC and the dopamine system
-Long term 
+### THC, the dopamine system, and the dopamine hypthesis.
+As mentioned before long term cannabis intake favors de
 
 > *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
 
@@ -404,10 +404,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMTE2MDg4NTUxMiwtMT
-cxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1MjA0MCwzOTA1NTkx
-MzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNzg0MjMsND
-YwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4
-MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUsND
-M2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwXX0=
+MTQyNTcwMTIzNiwtMTE3NDM0OTcxMCwtMTI1MDc4NjQzNiwtMT
+E2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NTk1
+MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLD
+E0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1Njkx
+NzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MS
+w1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjBdfQ==
 -->
