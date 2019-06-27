@@ -23,8 +23,9 @@ Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmles
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
 ### Psychoses
-Frequent long term abuse of potent cannabis may induce psychotic symptoms and increases the risk of developing psychotic disorders such as schi
-> Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.[^cannabis-psychosis-risk-factor]
+Frequent long term abuse of potent cannabis may induce psychotic symptoms and increases the risk of developing psychotic disorders such as schizophrenia or schizoaffective disorder. [^cannabis-psychosis-risk-factor]
+ 
+> Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
 
 > 
 
@@ -376,7 +377,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-Mjc4MjIwMTgwLDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1Mz
+NTY0NTkyMDIwLDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1Mz
 gwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTUs
 NzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0MzYyMj
 kxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOTY1Niwy
