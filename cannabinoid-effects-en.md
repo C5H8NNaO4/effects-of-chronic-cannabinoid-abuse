@@ -3,7 +3,7 @@
 
 <!--more-->
 ## Preface
-With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated; it has many long term consequences.
+With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it has many long term consequences.
 
 [![National Survey on Drug Use and Health][cannabis-statistics-image]][cannabis-statistics]
 
@@ -403,11 +403,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTE2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEzODM2LDU5NT
-k1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAz
-LDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1Nj
-kxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2
-MSw1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OT
-gwNzcwLC05NTI1Mzk2NTYsMjA3MDQyNDU4MF19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+MzIwNDM4Mjg3LC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NT
+QxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3
+LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NT
+M3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0
+LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0MzYyMjkxMjMsLTI2Mj
+kzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOTY1Nl19
 -->
