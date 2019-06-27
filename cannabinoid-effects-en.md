@@ -368,6 +368,7 @@ PMID: [19183781](https://www.ncbi.nlm.nih.gov/pubmed/19183781)  | PMCID: PMC2626
 PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 
 [^cannabis-psychosis-risk-factor]: [Cannabis use and the risk of developing a psychotic disorder]
+PMID:  [18560513](https://www.ncbi.nlm.nih.gov/pubmed/18560513) | PMCID: PMC2424288
 [^cannabis-schizo-evidence]: [Cannabis and psychosis: Neurobiology]
 [^cannabis-schizo-risk-value]:[Cannabis consumption and psychosis or schizophrenia development]
 
@@ -381,6 +382,9 @@ PMID: [29490380](https://www.ncbi.nlm.nih.gov/pubmed/29490380)
 
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 
+
+<!--- PMC IDS --> 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/pdf/wpa020068.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/pdf/wpa020068.pdf)
 ## References
 
 
@@ -389,10 +393,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MTc0Mjg1MzkxOCwxNDQyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNT
-M4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTksNjAyNzk4MTU1
-LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5MjQ2OTUsNDM2Mj
-I5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05NTI1Mzk2NTYs
-MjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOTA5MDAsLTQzNz
-cxOTc4NiwxNjU2MzM4NTU1LC0xOTI3MDA5MDkxXX0=
+NzU5NTIyODMyLDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1Mz
+gwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgxNTUs
+NzEzODIwNDc0LC0xNzI0MjQwNzYxLDU4NTkyNDY5NSw0MzYyMj
+kxMjMsLTI2MjkzNjIyMCw0NTY5ODA3NzAsLTk1MjUzOTY1Niwy
+MDcwNDI0NTgwLC00Mzc3MTk3ODYsMTc5ODM5MDkwMCwtNDM3Nz
+E5Nzg2LDE2NTYzMzg1NTUsLTE5MjcwMDkwOTFdfQ==
 -->
