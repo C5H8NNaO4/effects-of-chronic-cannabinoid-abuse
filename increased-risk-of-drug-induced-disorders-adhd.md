@@ -1,12 +1,12 @@
 ### Abstract
-Due to their impulsive behaviour, a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders such as schizophrenia? --- A small meta-analysis.
+Due to their impulsive behaviour, a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders, such as schizophrenia? --- A small meta-analysis.
 
 <!--more-->
 ----
 ### Disclaimer
 This article is part of the post [Consequencs of Chronic Cannabis Abuse --- Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD --- A Neuro-Biological Primer](https://oxytocin.home.blog/2019/06/27/consequences-of-chronic-drug-abuse/) which turned out too broad for one title. 
 
-The title says drugs because I mainly make LSD responsible for my symptoms, the study however shows that ADHD in combination with chronic cannabis abuse does in fact increase the risk of developing schizophrenia and other psychotic disorders.
+The title says drugs because I make LSD responsible for some of my symptoms, the study however shows that ADHD in combination with chronic cannabis abuse does in fact increase the risk of developing schizophrenia and other psychotic disorders.
 
 # Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it may have long term consequences.
@@ -125,7 +125,7 @@ FuY2VzIGxpa2UgQ2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wy04NDg1
-OTg4ODcsOTgyMjA1ODY1LDE4OTQ4MDkwMTEsMjA0NDEzNDY0NC
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6Wy01Njk2
+MzA5OTQsOTgyMjA1ODY1LDE4OTQ4MDkwMTEsMjA0NDEzNDY0NC
 wtMTAyNDU4MTIxNiwtMzkzOTQ2OTQzLDUxODg4MjgzMV19
 -->
