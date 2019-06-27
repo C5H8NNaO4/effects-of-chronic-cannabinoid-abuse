@@ -13,7 +13,7 @@ This article is **not** complete yet. This is just a draft and its completion wi
 
 Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, feel free to read the following sections. However, do not expect any conclusions.
 
-The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of withdrawal, the brain and  psychotropic drugs. 
+The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of cannabis abuse, withdrawal, the brain and  psychotropic drugs. 
 
 ### Motivation
 After 14 years of excessive THC consumption, the negative symptoms of drug abuse clearly outweigh its positive side effects. As part of a psychiatric treatment and a cold withdrawal, I would like to understand on a neuro-biological level what effects years of abuse of various drugs have on the mammalian brain. 
@@ -396,11 +396,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsz
-OTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1NjAzLDE0MzMxNz
-g0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1NjkxNzM3MTks
-NjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MDc2MSw1ODU5Mj
-Q2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2OTgwNzcwLC05
-NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nzg2LDE3OTgzOT
-A5MDAsLTQzNzcxOTc4NiwxNjU2MzM4NTU1XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MjEzOTA4NjIzNCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNz
+c1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5
+LDE1NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyND
+I0MDc2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAs
+NDU2OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3Nz
+E5Nzg2LDE3OTgzOTA5MDAsLTQzNzcxOTc4Nl19
 -->
