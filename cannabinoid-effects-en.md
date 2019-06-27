@@ -23,7 +23,7 @@ Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmles
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
 ### Psychoses
-Frequent long term abuse of potent cannabis may induce psychotic symptoms and increases the risk of developing psychotic disorders such as schizophrenia or schizoaffective disorder. [^cannabis-psychosis-risk-factor] [^cannabis-schizo-evidence] [^cannabis-schizo-risk-value]
+Frequent long term abuse of potent cannabis may induce psychotic symptoms and increases the risk of developing psychotic disorders such as schizophrenia or schizoaffective disorder. <sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup>
  
 > Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
 
@@ -32,7 +32,7 @@ Frequent long term abuse of potent cannabis may induce psychotic symptoms and in
 > Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
 
 ### ADHD
-ADHD often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse] People who suffer from ADHD should be extra cautious when dealing with drugs.
+ADHD often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious when dealing with drugs.
 
 >**Attention deficit hyperactivity disorder** (**ADHD**) is a [mental disorder](https://en.wikipedia.org/wiki/Mental_disorder "Mental disorder") of the [neurodevelopmental](https://en.wikipedia.org/wiki/Neurodevelopmental_disorder "Neurodevelopmental disorder") type.<sup>[[10]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-pmid23299717-10)[[11]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Caroline2010-11)</sup> It is characterized by [difficulty paying attention](https://en.wikipedia.org/wiki/Inattention "Inattention"), excessive activity, and [behavior without regards to consequences](https://en.wikipedia.org/wiki/Impulsivity "Impulsivity") which is not [appropriate for a person's age](https://en.wikipedia.org/wiki/Age_appropriateness "Age appropriateness").<sup>[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1)[[2]]                                                                                                                                                                                                                                                                                                                                                                                                                         (https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-DSM5-2) </sup>There are also often problems with regulation of emotions.<sup>[[12]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-12)[[13]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-13)[[14]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-14)</sup>  In children, problems paying attention may result in poor school performance.<sup>[[1]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-NIH2016-1)</sup> Additionally there is an association with other mental disorders and [**substance misuse**](https://en.wikipedia.org/wiki/Substance_misuse "Substance misuse").<sup>[[16]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-16) </sup>Although it causes impairment, particularly in modern society, many people with ADHD can have sustained attention for tasks they find interesting or rewarding (known as [hyperfocus](https://en.wikipedia.org/wiki/Hyperfocus "Hyperfocus")).<sup>[[5]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Koo2019-5)[[17]](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder#cite_note-Wal2012-17)</sup>
 > --- Wikipedia - [ADHD][wiki:ADHD]
@@ -396,11 +396,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NjE5OTA2NjE2LDM5MDU1OTEzOSwxNjE5NTQyODQ3LDE0NDI3Nz
-U2MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzEsLTE5NTM3MDk3Njks
-MTU2OTE3MzcxOSw2MDI3OTgxNTUsNzEzODIwNDc0LC0xNzI0Mj
-QwNzYxLDU4NTkyNDY5NSw0MzYyMjkxMjMsLTI2MjkzNjIyMCw0
-NTY5ODA3NzAsLTk1MjUzOTY1NiwyMDcwNDI0NTgwLC00Mzc3MT
-k3ODYsMTc5ODM5MDkwMCwtNDM3NzE5Nzg2XX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOls1
+MDE0NTYxNiwzOTA1NTkxMzksMTYxOTU0Mjg0NywxNDQyNzc1Nj
+AzLDE0MzMxNzg0MjMsNDYwNTM4MDcxLC0xOTUzNzA5NzY5LDE1
+NjkxNzM3MTksNjAyNzk4MTU1LDcxMzgyMDQ3NCwtMTcyNDI0MD
+c2MSw1ODU5MjQ2OTUsNDM2MjI5MTIzLC0yNjI5MzYyMjAsNDU2
+OTgwNzcwLC05NTI1Mzk2NTYsMjA3MDQyNDU4MCwtNDM3NzE5Nz
+g2LDE3OTgzOTA5MDAsLTQzNzcxOTc4Nl19
 -->
