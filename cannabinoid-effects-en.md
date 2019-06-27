@@ -1,4 +1,4 @@
-# Consequencs of Chronic Cannabis Abuse --- Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD - A Neuro-Biological Primer
+# Consequencs of Chronic Cannabis Abuse --- Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD --- A Neuro-Biological Primer
 
 <!--more-->
 [German version](https://translate.google.de/translate?sl=en&tl=de&u=https%3A%2F%2Foxytocin.home.blog%2F2019%2F06%2F27%2Fconsequences-of-chronic-drug-abuse%2F) \(google translate) - Maschinell übersetzt wirkt der Artikel auf Deutsch leider nicht sehr authentisch. Vermutlich werde ich diesen nach seiner Fertigstellung manuell übersetzen. 
@@ -413,8 +413,8 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-NDAyNDAwMTEwLDE5NzAzMTM4ODIsLTExNzQzNDk3MTAsLTEyNT
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+MjE3Mjk4NzM4LDE5NzAzMTM4ODIsLTExNzQzNDk3MTAsLTEyNT
 A3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDEx
 MzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMT
 Q0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3MSwtMTk1Mzcw
