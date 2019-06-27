@@ -1,5 +1,5 @@
 ### Abstract
-Due to their impulsive behaviour a lot of people with ADHD tend to misuse substances like Cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders such as schizophrenia? --- A small meta-analysis.
+Due to their impulsive behaviour a lot of people with ADHD tend to misuse substances like cannabis --- Does chronic cannabis consume and ADHD affect the risk of developing psychotic disorders such as schizophrenia? --- A small meta-analysis.
 
 <!--more-->
 ----
@@ -25,7 +25,7 @@ With over 24 million users, cannabis is the most widely used drug in the USA; a 
 > -- [Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
 
 ## Psychoses
-Frequent long-term abuse of strong cannabis can cause psychotic symptoms and increase the risk of psychotic disorders such as schizophrenia or schizoaffective.
+Frequent long-term abuse of potent cannabis can cause psychotic symptoms and increase the risk of psychotic disorders such as schizophrenia or schizoaffective.
 <sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup>
  
 > Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
@@ -122,7 +122,7 @@ FuY2VzIGxpa2UgQ2FubmFiaXMg4oCUIERvZXMgY2hyb25pYyBj
 YW5uYWJpcyBjb25zdW1lIGFuZCBBREhEIGFmZmVjdCB0aGVcbi
 AgcmlzayBvZiBkZXZlbG9waW5nIHBzeWNob3RpYyBkaXNvcmRl
 cnMgc3VjaCBhcyBzY2hpem9waHJlbmlhPyDigJQgQSBzbWFsbF
-xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzIwNDQx
-MzQ2NDQsLTEwMjQ1ODEyMTYsLTM5Mzk0Njk0Myw1MTg4ODI4Mz
-FdfQ==
+xuICBtZXRhLWFuYWx5c2lzLlxuIiwiaGlzdG9yeSI6WzE4OTQ4
+MDkwMTEsMjA0NDEzNDY0NCwtMTAyNDU4MTIxNiwtMzkzOTQ2OT
+QzLDUxODg4MjgzMV19
 -->
