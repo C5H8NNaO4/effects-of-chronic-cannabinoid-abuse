@@ -1,6 +1,6 @@
 # Consequencs of chronic cannabis abuse -   ADHD and psychoses - a neuro-biological primer
 <!--more-->
-German version (google translate)
+[German version](https://translate.google.de/translate?sl=en&tl=de&u=https%3A%2F%2Foxytocin.home.blog%2F2019%2F06%2F27%2Fconsequences-of-chronic-drug-abuse%2F) \(google translate)
 ## Preface
 With over 24 million users, cannabis is the most widely used drug in the USA; a seemingly harmless substance if you smoke a joint in the morning - abuse, however should not be underestimated as it has many long term consequences.
 
@@ -12,7 +12,7 @@ This article is **not** complete yet. This is just a draft and its completion wi
 
 Currently, this article contains only a collection of basic neurobiological knowledge. If you are interested in this topic, feel free to read the following sections. However, do not expect any conclusions.
 
-The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of cannabis abuse, withdrawal, the brain and  psychotropic drugs. 
+The whole thing is kept very superficial. Gradually, information is being collected that links the following mentioned diseases to their respective neuropathological causes in order to get a general overview of the neurobiological functioning of cannabis abuse, withdrawal, and  psychotropic drugs. 
 
 
 ### Motivation
@@ -404,7 +404,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
 5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsy
-MTAxMDI1NjM2LC0xMjUwNzg2NDM2LC0xMTYwODg1NTEyLC0xNz
+MDMwNTU3NzI3LC0xMjUwNzg2NDM2LC0xMTYwODg1NTEyLC0xNz
 E2MjA5Nzk4LDE2NTQxMTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEz
 OSwxNjE5NTQyODQ3LDE0NDI3NzU2MDMsMTQzMzE3ODQyMyw0Nj
 A1MzgwNzEsLTE5NTM3MDk3NjksMTU2OTE3MzcxOSw2MDI3OTgx
