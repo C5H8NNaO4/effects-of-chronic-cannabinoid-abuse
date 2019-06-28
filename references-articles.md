@@ -35,6 +35,7 @@
 	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system]
 * DMT 
 	* [N, N-Dimethyltryptamine (DMT), an Endogenous Hallucinogen: Past, Present, and Future Research to Determine Its Role and Function][30127713][^30127713]
+	* [Neuropharmacology of N,N-Dimethyltryptamine][27126737][^27126737]
 	* 
 <!-- # ADHD -->
 
@@ -114,7 +115,7 @@ PMID:  [21904085] | PMCID: [PMC3598008]
 PMID:  [30127713] | PMCID: [PMC6088236]
 
 
-
+[27126737]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5048497/
 [PMC5048497]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5048497/pdf/nihms784728.pdf
 [^27126737]:Neuropharmacology of N,N-Dimethyltryptamine
 PMID:  [27126737] | PMCID: PMC5048497
@@ -123,5 +124,5 @@ NIHMSID: NIHMS784728
 
 (https://www.ncbi.nlm.nih.gov/pubmed/27126737)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjQxOTI2MSwtMTI4NjE0ODcwM119
+eyJoaXN0b3J5IjpbMTQwMjg3MDA2MiwtMTI4NjE0ODcwM119
 -->
