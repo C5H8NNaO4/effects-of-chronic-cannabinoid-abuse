@@ -1,3 +1,12 @@
+<div class="excerpt">
+    of the mammalian brain.
+</div>
+<!--more-->
+# Cannabinoid pathway of the mammalian brain.
+
+An attempt to render pathways using mermaid and the stackedit publish feature for blogger. 
+
+```mermaid
 graph LR
 2AG[2-arachidonylglycerol]
 ARA[Arachidonic acid]
@@ -102,3 +111,4 @@ PE[Phosphatidylethanolamine]
 PE-->NAPE
 
 linkStyle default interpolate base
+```
