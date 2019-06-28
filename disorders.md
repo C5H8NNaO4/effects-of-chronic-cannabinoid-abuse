@@ -74,6 +74,13 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTkzMjA2ODMsMzY5ODM1NTU3LDUzMT
-A2NDMsLTczNjUyNjI5Nl19
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE5ldXJvYmlvbG9neSBBcn
+RpY2xlcyBXZWxsIFdvcnRoIFJlYWRpbmdcbmF1dGhvcjogTW9y
+aXR6IFJvZXNzbGVyXG50YWdzOiAnbmV1cm9iaW9sZ3ksIGFydG
+ljbGVzLCByZWZlcmVuY2VzLCB3b3J0aCByZWFkaW5nJ1xuY2F0
+ZWdvcmllczogTmV1cm9zY2llbmNlXG5leGNlcnB0OiBBIGxpc3
+Qgb2YgbmV1cm9iaW9sb2d5IGFydGljbGVzIHdlbGwgd29ydGgg
+cmVhZGluZ1xuIiwiaGlzdG9yeSI6WzE4NjU2OTYzODksLTE1MT
+kzMjA2ODMsMzY5ODM1NTU3LDUzMTA2NDMsLTczNjUyNjI5Nl19
+
 -->
