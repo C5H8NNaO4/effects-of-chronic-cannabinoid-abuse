@@ -30,6 +30,7 @@ The effects of years of drug abuse are devastating and range from confusion, mem
 The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
 
 <sub> Side note: If you're being suicidal: Seek help. It helps. --- If you can't keep up living: Change your life; make it the one you want to live.  --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your loved ones, change yours! <3 
+
 ## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
 
 ### ADHD
@@ -428,11 +429,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsz
-ODgxNTg3NTcsMTQ1ODA5ODYxMywyMTM0MDMyNDEsLTIwMDcwNj
-A5NDYsMTg2NDU2NzI2NSwxNjA2MTYxMDI4LC05NTY2Mzg1NCw5
-NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3NDM0OTcxMCwtMTI1MD
-c4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEz
-ODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxND
-QyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxXX0=
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
+Mjc3NzczMTAxLDE0NTgwOTg2MTMsMjEzNDAzMjQxLC0yMDA3MD
+YwOTQ2LDE4NjQ1NjcyNjUsMTYwNjE2MTAyOCwtOTU2NjM4NTQs
+OTc4MDc3ODA2LDE5NzAzMTM4ODIsLTExNzQzNDk3MTAsLTEyNT
+A3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDEx
+MzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMT
+Q0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3MV19
 -->
