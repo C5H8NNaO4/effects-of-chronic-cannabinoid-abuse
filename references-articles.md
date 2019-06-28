@@ -30,7 +30,7 @@
 	* [Cannabis withdrawal in chronic, frequent cannabis smokers during sustained abstinence within a closed residential environment]
 	* [Marijuana Dependence and Its Treatment][
 ---
-#### General Articles
+#### Drug related articles
 * THC
 	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system]
 	
@@ -104,6 +104,11 @@ PMID:  [21904085] | PMCID: [PMC3598008]
 
 <!-- ADHD -->
 
+<!-- Drugs -->
+
+# N, N-Dimethyltryptamine (DMT), an Endogenous Hallucinogen: Past, Present, and Future Research to Determine Its Role and Function
+PMCID: PMC6088236
+PMID:  [30127713](https://www.ncbi.nlm.nih.gov/pubmed/30127713)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYxNDg3MDNdfQ==
+eyJoaXN0b3J5IjpbNDA4MDEwNTA5LC0xMjg2MTQ4NzAzXX0=
 -->
