@@ -1,10 +1,11 @@
+# Article
 #### Disorder Related Articles
 * ADHD
-	* [Role of dopamine receptors in ADHD: a systematic meta-analysis]
-	* [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
-	* [Attention deficit hyperactivity disorder (ADHD): Overview]
+	- [Role of dopamine receptors in ADHD: a systematic meta-analysis]
+	- [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
+	- [Attention deficit hyperactivity disorder (ADHD): Overview]
 	* [Overview of Attention Deficit Hyperactivity Disorder in Young Children]
-	* [Attention-Deficit/Hyperactivity Disorder: Is it Time to Reappraise the Role of Sugar Consumption?]
+	- [Attention-Deficit/Hyperactivity Disorder: Is it Time to Reappraise the Role of Sugar Consumption?]
 * Addiction
 	* [Dopamine Signaling in reward-related behaviors]
 	* [A Brain on Cannabinoids: The Role of Dopamine Release in Reward Seeking]
@@ -13,7 +14,7 @@
 * Psychosis
 	*	[Cannabis use and the risk of developing a psychotic disorder]
 	*	[Cannabis and psychosis: Neurobiology]
-	*	[Cannabis consumption and psychosis or schizophrenia]
+	*	[Cannabis consumption and psychosis or schizophrenia development]
 	*	[Cannabis and psychosis revisited]
 * Schizophrenia
 	* [Pathway-specific dopamine abnormalities in schizophrenia]
@@ -47,7 +48,9 @@
 <!---# Psychosis -->
 [Cannabis use and the risk of developing a psychotic disorder]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424288/
 [Cannabis and psychosis: Neurobiology]:https://www.ncbi.nlm.nih.gov/pubmed/29490380
+
 [Cannabis consumption and psychosis or schizophrenia development]:https://www.ncbi.nlm.nih.gov/pubmed/30442059
+
 [Cannabis and psychosis revisited]:https://www.ncbi.nlm.nih.gov/pubmed/25751443
 <!---# Schizophrenia ---> 
 
@@ -70,6 +73,6 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDMzMjY2LDM2OTgzNTU1Nyw1MzEwNj
-QzLC03MzY1MjYyOTZdfQ==
+eyJoaXN0b3J5IjpbMTY3MjkxODc1NiwzNjk4MzU1NTcsNTMxMD
+Y0MywtNzM2NTI2Mjk2XX0=
 -->
