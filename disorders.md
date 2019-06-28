@@ -13,7 +13,8 @@
 * Psychosis
 	*	[Cannabis use and the risk of developing a psychotic disorder]
 	*	[Cannabis and psychosis: Neurobiology]
-	*	[Cannabis consumption and psychosis or schizophrenia development]
+	*	[Cannabis consumption and psychosis or schizophrenia 
+	*	development]
 * Schizophrenia
 	* [Pathway-specific dopamine abnormalities in schizophrenia]
 	* [Signaling Pathways in Schizophrenia: emerging targets and therapeutic strategies]
@@ -68,6 +69,6 @@
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDY5NDM0MSwzNjk4MzU1NTcsNTMxMD
+eyJoaXN0b3J5IjpbLTY4Njk1Nzc1MywzNjk4MzU1NTcsNTMxMD
 Y0MywtNzM2NTI2Mjk2XX0=
 -->
