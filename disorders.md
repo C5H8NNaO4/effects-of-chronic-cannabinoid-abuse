@@ -2,7 +2,7 @@
 
 #### Disorder Related Articles
 * ADHD
-	- [Role of dopamine receptors in ADHD: a systematic meta-analysis] [^PMID-22610946]
+	- [Role of dopamine receptors in ADHD: a systematic meta-analysis] [^PMID:22610946]
 
 	- [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
 	- [Attention deficit hyperactivity disorder (ADHD): Overview]
@@ -87,7 +87,7 @@ aXR6IFJvZXNzbGVyXG50YWdzOiAnbmV1cm9iaW9sZ3ksIGFydG
 ljbGVzLCByZWZlcmVuY2VzLCB3b3J0aCByZWFkaW5nJ1xuY2F0
 ZWdvcmllczogTmV1cm9zY2llbmNlXG5leGNlcnB0OiBBIGxpc3
 Qgb2YgbmV1cm9iaW9sb2d5IGFydGljbGVzIHdlbGwgd29ydGgg
-cmVhZGluZ1xuIiwiaGlzdG9yeSI6WzEzNjExNjA3OTcsMTg2NT
+cmVhZGluZ1xuIiwiaGlzdG9yeSI6WzExNDc5OTA3MDQsMTg2NT
 Y5NjM4OSwtMTUxOTMyMDY4MywzNjk4MzU1NTcsNTMxMDY0Mywt
 NzM2NTI2Mjk2XX0=
 -->
