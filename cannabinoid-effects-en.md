@@ -23,6 +23,15 @@ Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmles
 
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
+### Effects
+The effects of years of drug abuse are devastating and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity, eating disorder and paranoia to panic attacks, dissociativity and schizoaffective disorder. 
+
+### Treatments
+The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
+
+<sub> Side note: If you're being suicidal: Seek help. It helps. --- If you can't keep up living: Change your life; make it the one you want to live.  --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your loved ones, change yours! <3 
+## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
+
 ### ADHD
 [ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious dealing with drugs. Increased risk of addiction<sup>[</sup>[^adhd-substance-misuse-2]<sup>]</sup> and high prevalance<sup>[</sup>[^adhd-prevalance]<sup>]</sup> of comorbid disorders carry a high risk of developing psychotic and personality disorders.
 
@@ -42,32 +51,6 @@ Frequent long-term abuse of potent cannabis can cause psychotic symptoms and inc
 
 > Cannabis is involved in approximately 50% of psychosis, schizophrenia, and schizophreniform psychosis cases.<sup>[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref2),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref3),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref5)]</sup> 
 > --  [Cannabis and psychosis: Neurobiology]
-### Effects
-The effects of years of drug abuse are devastating and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity, eating disorder and paranoia to panic attacks, dissociativity and schizoaffective disorder. 
-
-### Treatments
-The good part of the story is, you can fix all of this. It's a long way to go; it won't be easy, but it's indeed very possible to get back on track.
-
-<sub> Side note: If you're being suicidal: Seek help. It helps. --- If you can't keep up living: Change your life; make it the one you want to live.  --- [Worldwide hotlines for suicide prevention](https://faq.whatsapp.com/de/android/28030010/)  --- Don't change the life of your loved ones, change yours! <3 
-
-## Increased Risk of Developing Drug-Induced Psychotic Disorders in Patients with ADHD
-### ADHD, THC, the dopamine system, and the dopamine hypthesis.
-> Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
- -- [Cannabis consumption and psychosis or schizophrenia development]
- 
-Long term cannabis use favors development of psychotic disorders such as schizophrenia<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup> as it directly stimulates the mesolimbic system,<sup>[</sup>[^cannabis-effects-thc]<sup>]</sup> which leads to a constant excess of dopamine in the meso-limbic system. In combination with the underlying dopmine deficiency<sup>[</sup>[^adhd-sugar]<sup>]</sup> in persons with ADHD<sup>[</sup>[^adhd-dopa]<sup>]</sup>, this leads to a much higher risk of developing drug induced psychoses such as schizophrenia, due to the chronic imbalance of dopamine levels between the mesolimbic system and prefrontal cortex, which is what the dopamine hypothesis postulates.<sup>[</sup>[^schizo-role-dopamine]<sup>]</sup>
-
-> *In vivo* microdialysis shows that acute THC increases dopamine efflux in the prefrontal cortex (PFC) [41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R41), striatum [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5123717/#R42) and nucleus accumbens
-
-> Increases in mesolimbic dopamine transmission are observed when animals are treated with all known drugs of abuse, including cannabis
-
-> The revised dopamine hypothesis states that dopamine abnormalities in the mesolimbic and prefrontal brain regions exist in schizophrenia.
-
-> DA hypothesis proposed that the positive symptoms of schizophrenia are due to an excess of DA signaling in the striatal and/or mesolimbic areas of the brain[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R3). In contrast, negative symptoms are thought to be related to deficits in prefrontal cortical DA signaling, likely through D1receptors[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635536/#R5)
-
-> Dysfunction of dopaminergic system is implicated in many neuropsychological diseases, including attention deficit hyperactivity disorder (ADHD)
-
-> The observation that ADHD represents a dopamine-deficient state could explain why treatments that increase dopamine levels in the nucleus accumbens, such as amphetamine and methylphenidate, improve symptoms, at least acutely.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3598008/#R3) However, based on the increasing evidence for D2 receptor desensitization/downregulation as a mechanism underlying ADHD, one might expect these drugs to have an enhanced potential to cause addiction
 
 # A neurobiological primer
 
@@ -445,11 +428,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
-MzM0NDM4NTQwLDE0NTgwOTg2MTMsMjEzNDAzMjQxLC0yMDA3MD
-YwOTQ2LDE4NjQ1NjcyNjUsMTYwNjE2MTAyOCwtOTU2NjM4NTQs
-OTc4MDc3ODA2LDE5NzAzMTM4ODIsLTExNzQzNDk3MTAsLTEyNT
-A3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDEx
-MzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMT
-Q0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3MV19
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsz
+ODgxNTg3NTcsMTQ1ODA5ODYxMywyMTM0MDMyNDEsLTIwMDcwNj
+A5NDYsMTg2NDU2NzI2NSwxNjA2MTYxMDI4LC05NTY2Mzg1NCw5
+NzgwNzc4MDYsMTk3MDMxMzg4MiwtMTE3NDM0OTcxMCwtMTI1MD
+c4NjQzNiwtMTE2MDg4NTUxMiwtMTcxNjIwOTc5OCwxNjU0MTEz
+ODM2LDU5NTk1MjA0MCwzOTA1NTkxMzksMTYxOTU0Mjg0NywxND
+QyNzc1NjAzLDE0MzMxNzg0MjMsNDYwNTM4MDcxXX0=
 -->
