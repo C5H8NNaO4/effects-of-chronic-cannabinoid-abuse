@@ -105,10 +105,10 @@ PMID:  [21904085] | PMCID: [PMC3598008]
 <!-- ADHD -->
 
 <!-- Drugs -->
+[30127713]:(https://www.ncbi.nlm.nih.gov/pubmed/30127713)
+[^30127713]:N-Dimethyltryptamine (DMT), an Endogenous Hallucinogen: Past, Present, and Future Research to Determine Its Role and Function
+PMID:  [30127713] | PMCID: [PMC6088236]
 
-# N, N-Dimethyltryptamine (DMT), an Endogenous Hallucinogen: Past, Present, and Future Research to Determine Its Role and Function
-PMCID: PMC6088236
-PMID:  [30127713](https://www.ncbi.nlm.nih.gov/pubmed/30127713)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MDEwNTA5LC0xMjg2MTQ4NzAzXX0=
+eyJoaXN0b3J5IjpbMTk2NTQzMjI0LC0xMjg2MTQ4NzAzXX0=
 -->
