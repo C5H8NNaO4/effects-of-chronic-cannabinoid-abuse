@@ -36,7 +36,7 @@
 	*  [The effects of Δ9-tetrahydrocannabinol on the dopamine system]
 	
 <!-- # ADHD -->
-[Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
+
 [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 [Attention deficit hyperactivity disorder (ADHD): Overview]:https://www.ncbi.nlm.nih.gov/books/NBK321129/
 [Overview of Attention Deficit Hyperactivity Disorder in Young Children]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768532/
@@ -74,6 +74,12 @@
 [Hyperhidrosis—Causes and Treatment of Enhanced Sweating]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695293/
 
 [Profuse sweating on the palms, soles, and axillae]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472949/
+
+
+<!--- REFERENCES --->
+
+[Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
+[^PMID: 22610946]:[Role of dopamine receptors in ADHD: a systematic meta-analysis]
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE5ldXJvYmlvbG9neSBBcn
 RpY2xlcyBXZWxsIFdvcnRoIFJlYWRpbmdcbmF1dGhvcjogTW9y
@@ -81,7 +87,7 @@ aXR6IFJvZXNzbGVyXG50YWdzOiAnbmV1cm9iaW9sZ3ksIGFydG
 ljbGVzLCByZWZlcmVuY2VzLCB3b3J0aCByZWFkaW5nJ1xuY2F0
 ZWdvcmllczogTmV1cm9zY2llbmNlXG5leGNlcnB0OiBBIGxpc3
 Qgb2YgbmV1cm9iaW9sb2d5IGFydGljbGVzIHdlbGwgd29ydGgg
-cmVhZGluZ1xuIiwiaGlzdG9yeSI6Wy05MzA5OTI4MTEsMTg2NT
-Y5NjM4OSwtMTUxOTMyMDY4MywzNjk4MzU1NTcsNTMxMDY0Mywt
-NzM2NTI2Mjk2XX0=
+cmVhZGluZ1xuIiwiaGlzdG9yeSI6WzUxOTY5OTQxNiwxODY1Nj
+k2Mzg5LC0xNTE5MzIwNjgzLDM2OTgzNTU1Nyw1MzEwNjQzLC03
+MzY1MjYyOTZdfQ==
 -->
