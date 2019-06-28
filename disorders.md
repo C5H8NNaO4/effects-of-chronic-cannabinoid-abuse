@@ -2,8 +2,8 @@
 
 #### Disorder Related Articles
 * ADHD
-	- [Role of dopamine receptors in ADHD: a systematic meta-analysis]
-		-- PMID 22610946
+	- [Role of dopamine receptors in ADHD: a systematic meta-analysis] [^PMID-22610946]
+
 	- [Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
 	- [Attention deficit hyperactivity disorder (ADHD): Overview]
 	* [Overview of Attention Deficit Hyperactivity Disorder in Young Children]
@@ -79,7 +79,7 @@
 <!--- REFERENCES --->
 
 [Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
-[^PMID: 22610946]:[Role of dopamine receptors in ADHD: a systematic meta-analysis]
+[^PMID:22610946]:[Role of dopamine receptors in ADHD: a systematic meta-analysis]
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE5ldXJvYmlvbG9neSBBcn
 RpY2xlcyBXZWxsIFdvcnRoIFJlYWRpbmdcbmF1dGhvcjogTW9y
@@ -87,7 +87,7 @@ aXR6IFJvZXNzbGVyXG50YWdzOiAnbmV1cm9iaW9sZ3ksIGFydG
 ljbGVzLCByZWZlcmVuY2VzLCB3b3J0aCByZWFkaW5nJ1xuY2F0
 ZWdvcmllczogTmV1cm9zY2llbmNlXG5leGNlcnB0OiBBIGxpc3
 Qgb2YgbmV1cm9iaW9sb2d5IGFydGljbGVzIHdlbGwgd29ydGgg
-cmVhZGluZ1xuIiwiaGlzdG9yeSI6WzUxOTY5OTQxNiwxODY1Nj
-k2Mzg5LC0xNTE5MzIwNjgzLDM2OTgzNTU1Nyw1MzEwNjQzLC03
-MzY1MjYyOTZdfQ==
+cmVhZGluZ1xuIiwiaGlzdG9yeSI6WzEzNjExNjA3OTcsMTg2NT
+Y5NjM4OSwtMTUxOTMyMDY4MywzNjk4MzU1NTcsNTMxMDY0Mywt
+NzM2NTI2Mjk2XX0=
 -->
