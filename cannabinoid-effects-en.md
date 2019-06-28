@@ -23,18 +23,7 @@ Mixed consumption of Nicotine, Cannabis, MDMA, Psylocybin and LSD is not harmles
 
 I'm not trying to say drugs are bad (m'kay). I spent a lot of time enjoying my life. Excessive consume over years, however, is and always will be toxic to you, your body and your mental health.
 
-### Psychoses
-Frequent long-term abuse of potent cannabis can induce psychotic symptoms and increase the risk of developing psychotic disorders such as schizophrenia or schizoaffective. <sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup>
- 
-> Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
-
-> Cannabis is involved in approximately 50% of psychosis, schizophrenia, and schizophreniform psychosis cases.<sup>[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref2),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref3),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref5)]</sup> 
-
-> Cannabis use doubles the risk of developing psychosis in vulnerable people. There even exists a relationship regarding the dose used and the age of first use.
-
-
-
-## ADHD
+### ADHD
 [ADHD] often correlates with substance abuse.<sup>[</sup>[^adhd-substance-misuse]<sup>]</sup> People who suffer from ADHD should be extra cautious dealing with drugs. Increased risk of addiction<sup>[</sup>[^adhd-substance-misuse-2]<sup>]</sup> and high prevalance<sup>[</sup>[^adhd-prevalance]<sup>]</sup> of comorbid disorders carry a high risk of developing psychotic and personality disorders.
 
 > Adolescents with attention-deficit/hyperactivity disorder (ADHD) are known to be at significantly greater risk for the development of substance use disorders (SUD) compared to peers. Impulsivity, which could lead to higher levels of drug use, is a known symptom of ADHD and likely accounts, in part, for this relationship. 
@@ -45,6 +34,14 @@ Frequent long-term abuse of potent cannabis can induce psychotic symptoms and in
 > The 12-month prevalence of ADHD was 59.0 % (severe symptomatology: 33.1 %), high rates of comorbid disorders (92.9 % depression, 5.1 % bipolar disorder, 28.6 % anxiety disorder, 30.6 % emotional unstable (Borderline) personality disorder, 31.6 % avoidant personality disorder, 18.4 % dependent personality disorder, 25.5 % combined personality disorder, 10.2 % obsessive-compulsive personality disorder, 26.5 % PTSD, 25.5 % restless legs syndrome, 24.5 % adiposity, 11.2 % eating disorder, 45.9 % learning difficulty, 51.0 % ni cotine dependency, 4.1 % alcohol dependency, 7.1 % illegal substance dependency), risk factors for ADHD, a high genetic risk (72.4 %) and problems in psychosocial functioning.
 > -- [Attention-deficit/hyperactivity disorder (ADHD) in adult psychiatry: Data on 12-month prevalence, risk factors and comorbidity]
 
+## Psychoses
+Frequent long-term abuse of potent cannabis can cause psychotic symptoms and increase the risk of psychotic disorders such as schizophrenia or schizoaffective.
+<sup>[</sup>[^cannabis-psychosis-risk-factor]<sup>, </sup>[^cannabis-schizo-evidence]<sup>, </sup>[^cannabis-schizo-risk-value]<sup>]</sup>
+ 
+> Cannabis is a known risk factor for schizophrenia, although the exact neurobiological process through which the effects on psychosis occur is not well-understood.
+
+> Cannabis is involved in approximately 50% of psychosis, schizophrenia, and schizophreniform psychosis cases.<sup>[[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref2),[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref3),[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref4),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3927252/#ref5)]</sup> 
+> --  [Cannabis and psychosis: Neurobiology]
 ### Effects
 The effects of years of drug abuse are devastating and range from confusion, memory disorders, excessive sweating, depression, anxiety,  bipolarity, eating disorder and paranoia to panic attacks, dissociativity and schizoaffective disorder. 
 
@@ -448,11 +445,11 @@ PMID:[30442059][Cannabis consumption and psychosis or schizophrenia development]
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IENvbnNlcXVlbmNlcyBvZi
 BDaHJvbmljIERydWcgQWJ1c2VcbnRhZ3M6ICdBVFAsIGNBTVAs
 IENhbm5hYmlzLCBOZXVyb2Jpb2xvZ3knXG5leGNlcnB0OiBBIG
-5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlst
-MjAxNTkxNzk5MiwxNDU4MDk4NjEzLDIxMzQwMzI0MSwtMjAwNz
-A2MDk0NiwxODY0NTY3MjY1LDE2MDYxNjEwMjgsLTk1NjYzODU0
-LDk3ODA3NzgwNiwxOTcwMzEzODgyLC0xMTc0MzQ5NzEwLC0xMj
-UwNzg2NDM2LC0xMTYwODg1NTEyLC0xNzE2MjA5Nzk4LDE2NTQx
-MTM4MzYsNTk1OTUyMDQwLDM5MDU1OTEzOSwxNjE5NTQyODQ3LD
-E0NDI3NzU2MDMsMTQzMzE3ODQyMyw0NjA1MzgwNzFdfQ==
+5ldXJvYmlvbG9naWNhbCBQcmltZXJcbiIsImhpc3RvcnkiOlsx
+MzM0NDM4NTQwLDE0NTgwOTg2MTMsMjEzNDAzMjQxLC0yMDA3MD
+YwOTQ2LDE4NjQ1NjcyNjUsMTYwNjE2MTAyOCwtOTU2NjM4NTQs
+OTc4MDc3ODA2LDE5NzAzMTM4ODIsLTExNzQzNDk3MTAsLTEyNT
+A3ODY0MzYsLTExNjA4ODU1MTIsLTE3MTYyMDk3OTgsMTY1NDEx
+MzgzNiw1OTU5NTIwNDAsMzkwNTU5MTM5LDE2MTk1NDI4NDcsMT
+Q0Mjc3NTYwMywxNDMzMTc4NDIzLDQ2MDUzODA3MV19
 -->
