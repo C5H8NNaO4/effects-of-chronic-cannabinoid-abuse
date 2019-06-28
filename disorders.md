@@ -79,16 +79,19 @@
 <!--- REFERENCES --->
 ## References
 
-[Role of dopamine receptors in ADHD: a systematic meta-analysis]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
+[22610946]:https://www.ncbi.nlm.nih.gov/pubmed/22610946
 [^PMID:22610946]:[Role of dopamine receptors in ADHD: a systematic meta-analysis]
+PMID: [22610946]
+
 
 [19183781]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/
 [PMC2626918]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626918/pdf/NDT-4-893.pdf
-
 [^PMID:19183781]:[Attention-deficit-hyperactivity disorder and reward deficiency syndrome]
 PMID:  [19183781] | PMCID: [PMC2626918]
 
-(https://www.ncbi.nlm.nih.gov/pubmed/19183781)
+
+
+Bookshelf ID: NBK321129
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE5ldXJvYmlvbG9neSBBcn
 RpY2xlcyBXZWxsIFdvcnRoIFJlYWRpbmdcbmF1dGhvcjogTW9y
@@ -96,7 +99,7 @@ aXR6IFJvZXNzbGVyXG50YWdzOiAnbmV1cm9iaW9sZ3ksIGFydG
 ljbGVzLCByZWZlcmVuY2VzLCB3b3J0aCByZWFkaW5nJ1xuY2F0
 ZWdvcmllczogTmV1cm9zY2llbmNlXG5leGNlcnB0OiBBIGxpc3
 Qgb2YgbmV1cm9iaW9sb2d5IGFydGljbGVzIHdlbGwgd29ydGgg
-cmVhZGluZ1xuIiwiaGlzdG9yeSI6Wy0xMTI3MTE5MzgxLDE4Nj
+cmVhZGluZ1xuIiwiaGlzdG9yeSI6Wy0yMDEzOTYxNTQwLDE4Nj
 U2OTYzODksLTE1MTkzMjA2ODMsMzY5ODM1NTU3LDUzMTA2NDMs
 LTczNjUyNjI5Nl19
 -->
