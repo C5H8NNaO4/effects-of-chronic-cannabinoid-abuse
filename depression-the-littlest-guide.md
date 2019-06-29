@@ -2,7 +2,7 @@
 
 # Living with Mental Disorders - The littlest Guide.
 
-** It’s your life - your responsibility. **
+**It’s your life - your responsibility.**
 
 1. Depression
 	* Life’s a bitch
@@ -66,5 +66,5 @@ phase will be
 **Nobody** can help you by being a dependency you have to rely on. - it’s **your** life.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjYzNzEyNSwyMDY5Mzg4MzUzXX0=
+eyJoaXN0b3J5IjpbMTMyMTY2NTYyMSwyMDY5Mzg4MzUzXX0=
 -->
