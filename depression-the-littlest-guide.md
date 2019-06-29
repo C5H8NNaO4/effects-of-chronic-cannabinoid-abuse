@@ -66,5 +66,14 @@ phase will be
 **Nobody** can help you by being a dependency you have to rely on. - it’s **your** life.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTY2NTYyMSwyMDY5Mzg4MzUzXX0=
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IExpdmluZyBXaXRoIE1lbn
+RhbCBEaXNvcmRlcnMgLSBUaGUgTGl0dGxlc3QgR3VpZGVcbmF1
+dGhvcjogTW9yaXR6IFJvZXNzbGVyXG50YWdzOiAnZGVwcmVzc2
+lvbiwgYmlwb2xhciBkaXNvcmRlciwgc2NoaXpvcGhyZW5pYSwg
+ZWF0aW5nIGRpc29yZGVyLCBndWlkZSdcbmNhdGVnb3JpZXM6IC
+dHdWlkZXMsIExpZmVzdHlsZSdcbmV4Y2VycHQ6ID4tXG4gIFRo
+ZSBsaXR0bGVzdCBndWlkZSBmb3IgbGl2aW5nIHdpdGggZGVwcm
+Vzc2lvbiwgYmlwb2xhciBkaXNvcmRlciBhbmRcbiAgc2NoaXpv
+cGhyZW5pYVxuc3RhdHVzOiBkcmFmdFxuIiwiaGlzdG9yeSI6Wz
+E5OTQ3MzUzOTcsMTMyMTY2NTYyMSwyMDY5Mzg4MzUzXX0=
 -->
