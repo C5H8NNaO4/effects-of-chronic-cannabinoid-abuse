@@ -21,7 +21,8 @@
 		* You can break it by recognizing it
 	* The more dopamine you use during a euphoric phase the worse the depressive
 phase will be
-	* Drugs will destabilize you by artficially raising your dopamine output in the mesolimbic pathway
+	* Drugs will destabilize you by artficially raising your dopamine outputs
+		* Your brain adapts and produces less on its own
 	*	Find objectively recognizable patterns in your everydaylife to distinguish episodes
 		* Spending habits? Have a look at your money flow. 
 		* Do you want to die or hug the world? - neither is right
@@ -65,5 +66,5 @@ phase will be
 **Nobody** can help you by being a dependency you have to rely on. - it’s **your** life.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTM4ODM1M119
+eyJoaXN0b3J5IjpbMjM2ODQ4NDkwLDIwNjkzODgzNTNdfQ==
 -->
