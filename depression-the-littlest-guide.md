@@ -19,7 +19,7 @@
 	* Your lifelong problems won’t be solved by a single thought that changes everything
 	* It’s a circle.
 		* You can break it by recognizing it
-	* The more dopamine you use during a euphoric phase the worse the depressive
+	* The more dopamine pour out during a euphoric phase the worse the depressive
 phase will be
 	* Drugs will destabilize you by artficially raising your dopamine outputs
 		* Your brain adapts and produces less on its own
@@ -75,6 +75,6 @@ dHdWlkZXMsIExpZmVzdHlsZSdcbmV4Y2VycHQ6ID4tXG4gIEEg
 ZmV3IHRoaW5ncyBJIGxlYXJudCBsaXZpbmcgd2l0aCBkZXByZX
 NzaW9uLCBiaXBvbGFyIGRpc29yZGVyLCBwdHNkLCBhbmRcbiAg
 c2NoaXpvcGhyZW5pYS5cbnN0YXR1czogZHJhZnRcbiIsImhpc3
-RvcnkiOlsxMDE1MDAxNzU5LDEzMjE2NjU2MjEsMjA2OTM4ODM1
-M119
+RvcnkiOls2OTEwMzU1ODUsMTAxNTAwMTc1OSwxMzIxNjY1NjIx
+LDIwNjkzODgzNTNdfQ==
 -->
