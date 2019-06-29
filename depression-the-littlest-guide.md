@@ -1,8 +1,8 @@
 
 
-# Living with mental disorders - The littlest guide.
+# Living with Mental Disorders - The littlest Guide.
 
-## It’s your life - your responsibility.
+** It’s your life - your responsibility. **
 
 1. Depression
 	* Life’s a bitch
@@ -60,11 +60,11 @@ phase will be
 	* Grow up
 	* Change your life - make it worth living
 		* It's easier than you think (: 
-	* <3 - I love you even if I don't know you, I love everyone.
+	* <3 - I love you even if I don't know you! I love everyone.
 		* don't make me sad.
 ----
 **Nobody** can help you by being a dependency you have to rely on. - it’s **your** life.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2ODQ4NDkwLDIwNjkzODgzNTNdfQ==
+eyJoaXN0b3J5IjpbMjE0MjYzNzEyNSwyMDY5Mzg4MzUzXX0=
 -->
