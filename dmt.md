@@ -6,10 +6,8 @@ Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgrupp
 
 > Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
 > 
-Ein einfaches Bespiel wäre der 
-> **Dimethylether**. Er ist der einfachste [Ether](https://de.wikipedia.org/wiki/Ether "Ether") und ein [Dialkylether](https://de.wikipedia.org/wiki/Dialkylether "Dialkylether"). Er enthält zwei [Methylgruppen](https://de.wikipedia.org/wiki/Methylgruppe "Methylgruppe") als organische Reste. Dimethylether ist polar und findet in flüssiger Form als [Lösemittel](https://de.wikipedia.org/wiki/L%C3%B6semittel "Lösemittel") Verwendung.
+Ein einfaches Bespiel wäre der Dimethylether mit der Strukturformel 
 
-Die Strukturformel ist denkbar simpel ![dimethylether](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/180px-Dimethyl_ether_Structural_Formulae.svg.png)
 
 
 ---
@@ -43,10 +41,12 @@ Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermitt
 *Frage:*
 Bedeutet das, dass Serotonin Halluzinationen verursachen kann? 
  
-Definitionen
----
+## Definitionen
+### Chemie
 #### Ether
-> Als **Ether** (in der Gemeinsprache auch **Äther**[[1]](https://de.wikipedia.org/wiki/Ether#cite_note-1)) werden in der Chemie [organische Verbindungen](https://de.wikipedia.org/wiki/Organische_Verbindung "Organische Verbindung") bezeichnet, die als [funktionelle Gruppe](https://de.wikipedia.org/wiki/Funktionelle_Gruppe "Funktionelle Gruppe") eine Ethergruppe – ein [Sauerstoffatom](https://de.wikipedia.org/wiki/Sauerstoff "Sauerstoff"), das mit zwei [Organylresten](https://de.wikipedia.org/wiki/Organylgruppe "Organylgruppe") substituiert ist – besitzen (R1–O–R2).![Allgemeine Struktur der Ether](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FunktionelleGruppen_Ether.svg/100px-FunktionelleGruppen_Ether.svg.png)
+> Als **Ether** (in der Gemeinsprache auch **Äther**[[1]](https://de.wikipedia.org/wiki/Ether#cite_note-1)) werden in der Chemie [organische Verbindungen](https://de.wikipedia.org/wiki/Organische_Verbindung "Organische Verbindung") bezeichnet, die als [funktionelle Gruppe](https://de.wikipedia.org/wiki/Funktionelle_Gruppe "Funktionelle Gruppe") eine Ethergruppe – ein [Sauerstoffatom](https://de.wikipedia.org/wiki/Sauerstoff "Sauerstoff"), das mit zwei [Organylresten](https://de.wikipedia.org/wiki/Organylgruppe "Organylgruppe") substituiert ist – besitzen.![Allgemeine Struktur der Ether](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FunktionelleGruppen_Ether.svg/100px-FunktionelleGruppen_Ether.svg.png)
+
+---
 
 >Die  **Zirbeldrüse**,  **Epiphysis cerebri**  oder kurz  **Epiphyse**,  [anatomisch](https://de.wikipedia.org/wiki/Nomenklatur_(Anatomie) "Nomenklatur (Anatomie)")  auch  **Glandula pinealis**  ([deutsche](https://de.wikipedia.org/wiki/Deutsche_Sprache "Deutsche Sprache")  Bezeichnung wohl nach der Form der  [Zapfen](https://de.wikipedia.org/wiki/Zapfen_(Botanik) "Zapfen (Botanik)")  der  [Zirbelkiefer](https://de.wikipedia.org/wiki/Zirbelkiefer "Zirbelkiefer")  (_Pinus cembra_);  [synonyme](https://de.wikipedia.org/wiki/Synonymie "Synonymie")  Fachausdrücke siehe weiter unten), ist eine kleine, oft kegelförmige  [endokrine Drüse](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse")auf der Rückseite des  [Mittelhirns](https://de.wikipedia.org/wiki/Mittelhirn "Mittelhirn")  im  [Epithalamus](https://de.wikipedia.org/wiki/Epithalamus "Epithalamus")  (einem Teil des  [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn")).
 >
@@ -67,5 +67,5 @@ Definitionen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgzMTM1MjMsMjg4MTY3MDA2XX0=
+eyJoaXN0b3J5IjpbNzI3MjQyODkyLDI4ODE2NzAwNl19
 -->
