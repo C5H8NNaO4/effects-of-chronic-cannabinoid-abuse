@@ -2,7 +2,7 @@
 ## Basics
 ### Grundlagen der Chemie
 
-Der Prefix *N,N-Dimethyl* in DMT bezeichnet einfach nur die beiden Organyl- bzw Methylgruppen *CH3* die an ein Tryptamin gebunden sind. 
+Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *CH3* die an ein Tryptamin gebunden sind. 
 
 > Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
 
@@ -37,19 +37,20 @@ Es wird **vermutet**, dass DMT in der Zirbeldrüße hergestellt wird (*Fear and 
 ### Wirkung
 Die meisten Halluzinogene wie Lysergsäurediethylamid (LSD) und 2,5-Dimethoxy-4-methylamphetamin (DOM) verursachen sensorische Verzerrungen und Depersonalisierung bei hohen Dosen.
 
-Eigenen Erfahrungen nach, wirkt DMT stark halluzinogen insbesondere betroffen ist die Verarbeitung visueller Informationen. - Die visuell-halluzinogene Wirkung habe ich aletwa 10 fach stärker als die von LSD empfunden. -  Hält jedoch nur etwa 10 - 15 minuten an.
+Eigenen Erfahrungen nach, wirkt DMT stark halluzinogen insbesondere betroffen ist die Verarbeitung visueller Informationen. - Die visuell-halluzinogene Wirkung habe ich etwa 10 fach stärker als die von LSD empfunden. -  Die Dauer der Wirkung ist Kurz und hält in etwa 10 - 15 minuten an.
  
+ Tryptamine
 ---
 
 Die  **Zirbeldrüse**,  **Epiphysis cerebri**  oder kurz  **Epiphyse**,  [anatomisch](https://de.wikipedia.org/wiki/Nomenklatur_(Anatomie) "Nomenklatur (Anatomie)")  auch  **Glandula pinealis**  ([deutsche](https://de.wikipedia.org/wiki/Deutsche_Sprache "Deutsche Sprache")  Bezeichnung wohl nach der Form der  [Zapfen](https://de.wikipedia.org/wiki/Zapfen_(Botanik) "Zapfen (Botanik)")  der  [Zirbelkiefer](https://de.wikipedia.org/wiki/Zirbelkiefer "Zirbelkiefer")  (_Pinus cembra_);  [synonyme](https://de.wikipedia.org/wiki/Synonymie "Synonymie")  Fachausdrücke siehe weiter unten), ist eine kleine, oft kegelförmige  [endokrine Drüse](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse")auf der Rückseite des  [Mittelhirns](https://de.wikipedia.org/wiki/Mittelhirn "Mittelhirn")  im  [Epithalamus](https://de.wikipedia.org/wiki/Epithalamus "Epithalamus")  (einem Teil des  [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn")).
 
 In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https://de.wikipedia.org/wiki/Neurosekretorische_Zelle "Neurosekretorische Zelle"), die  **Pinealozyten**, das  [Hormon](https://de.wikipedia.org/wiki/Hormon "Hormon")  [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"). Dieses  [Neurohormon](https://de.wikipedia.org/wiki/Neurohormon "Neurohormon")wird bei Dunkelheit gebildet und in  [Blut](https://de.wikipedia.org/wiki/Blutgef%C3%A4%C3%9Fsystem "Blutgefäßsystem")  und  [Liquor](https://de.wikipedia.org/wiki/Liquor_cerebrospinalis "Liquor cerebrospinalis")  freigesetzt, so überwiegend  [nachts](https://de.wikipedia.org/wiki/Nacht "Nacht"). Melatonin beeinflusst den  [Schlaf-Wach-Rhythmus](https://de.wikipedia.org/wiki/Zirkadiane_Rhythmik "Zirkadiane Rhythmik")und andere zeitabhängige Rhythmen des Körpers
-## Tryptaminderivate
+
 **Melatonin** ist ein [Hormon](https://de.wikipedia.org/wiki/Hormon "Hormon"), das von den [Pinealozyten](https://de.wikipedia.org/wiki/Pinealozyt "Pinealozyt") in der [Zirbeldrüse](https://de.wikipedia.org/wiki/Zirbeldr%C3%BCse "Zirbeldrüse") (Epiphyse) – einem Teil des [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn") – aus [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") produziert wird und den [Tag-Nacht-Rhythmus](https://de.wikipedia.org/wiki/Zirkadiane_Rhythmik "Zirkadiane Rhythmik") des menschlichen Körpers steuert.
 
 **Serotonin**, auch **5-Hydroxytryptamin** (**5-HT**) oder **Enteramin**, ist ein [Gewebshormon](https://de.wikipedia.org/wiki/Gewebshormone "Gewebshormone") und [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"). Es kommt unter anderem im [Zentralnervensystem](https://de.wikipedia.org/wiki/Zentralnervensystem "Zentralnervensystem"), [Darmnervensystem](https://de.wikipedia.org/wiki/Enterisches_Nervensystem "Enterisches Nervensystem"), [Herz-Kreislauf-System](https://de.wikipedia.org/wiki/Herz-Kreislauf-System "Herz-Kreislauf-System") und im [Blut](https://de.wikipedia.org/wiki/Blut "Blut") vor. Der Name dieses [biogenen Amins](https://de.wikipedia.org/wiki/Biogene_Amine "Biogene Amine") leitet sich von seiner Wirkung auf den [Blutdruck](https://de.wikipedia.org/wiki/Blutdruck "Blutdruck") ab: Serotonin ist eine Komponente des [Serums](https://de.wikipedia.org/wiki/Blutserum "Blutserum"), die den [Tonus](https://de.wikipedia.org/wiki/Tonus "Tonus") (Spannung) der [Blutgefäße](https://de.wikipedia.org/wiki/Blutgef%C3%A4%C3%9F "Blutgefäß") reguliert. Es wirkt außerdem auf die Magen-Darm-Tätigkeit und die [Signalübertragung](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")im Zentralnervensystem.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjI2ODg2OSwyODgxNjcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTExNjQwNzM0MjEsMjg4MTY3MDA2XX0=
 -->
