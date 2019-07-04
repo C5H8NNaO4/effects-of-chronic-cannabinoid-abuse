@@ -1,23 +1,10 @@
-# **_N_,_N_-Dimethyltryptamin**
-## Basics
-### Name
-
-Um den Namen von *DMT* zu verstehen bedarf es einiger Grundkenntisse der Chemie die wie folgt beschrieben werde. 
-
-Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *CH3* die an ein Tryptamin gebunden sind. 
-
-> Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
-> 
-Ein einfaches, veranschaulichendes Beispiel ist der Dimethyether <center>[![Strukturformel von Dimethylether](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/180px-Dimethyl_ether_Structural_Formulae.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyl_ether_Structural_Formulae.svg "Strukturformel von Dimethylether")</center>
-
-----
-
-
-
+# DMT -  **_N_,_N_-
+Der Präfix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *(CH3)* - Tryptamin, den Hautptteil
 
 **DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  <center>
 [![Struktur von Dimethyltryptamin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/200px-Dimethyltryptamine_2.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyltryptamine_2.svg "Struktur von Dimethyltryptamin") </center>
 
+##
 Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
 
@@ -42,15 +29,10 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
  
 ## Definitionen
 ### Chemie
-#### Ether
-> Als **Ether** (in der Gemeinsprache auch **Äther**[[1]](https://de.wikipedia.org/wiki/Ether#cite_note-1)) werden in der Chemie [organische Verbindungen](https://de.wikipedia.org/wiki/Organische_Verbindung "Organische Verbindung") bezeichnet, die als [funktionelle Gruppe](https://de.wikipedia.org/wiki/Funktionelle_Gruppe "Funktionelle Gruppe") eine Ethergruppe – ein [Sauerstoffatom](https://de.wikipedia.org/wiki/Sauerstoff "Sauerstoff"), das mit zwei [Organylresten](https://de.wikipedia.org/wiki/Organylgruppe "Organylgruppe") substituiert ist – besitzen. <center>![Allgemeine Struktur der Ether](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FunktionelleGruppen_Ether.svg/100px-FunktionelleGruppen_Ether.svg.png)</center>
+#### Methylgruppe
+> Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
 
-> **Dimethylether**. Er ist der einfachste [Ether](https://de.wikipedia.org/wiki/Ether "Ether") und ein [Dialkylether](https://de.wikipedia.org/wiki/Dialkylether "Dialkylether"). Er enthält zwei [Methylgruppen](https://de.wikipedia.org/wiki/Methylgruppe "Methylgruppe") als organische Reste. Dimethylether ist polar und findet in flüssiger Form als [Lösemittel]
-> (https://de.wikipedia.org/wiki/L%C3%B6semittel "Lösemittel") Verwendung.
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/180px-Dimethyl_ether_Structural_Formulae.svg.png)
-
-asd
-### Tryptamine
+#### Tryptamine
 
 >  [...] sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
 <center>![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)</center>
@@ -77,6 +59,6 @@ asd
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDI4NTgyLDE4MzU4MDAwMywyODgxNj
-cwMDZdfQ==
+eyJoaXN0b3J5IjpbMTkzNDU0NTkxOCwxODM1ODAwMDMsMjg4MT
+Y3MDA2XX0=
 -->
