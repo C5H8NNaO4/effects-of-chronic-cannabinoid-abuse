@@ -17,7 +17,7 @@ Der Prefix *N,N-Dimethyl* in DMT bezeichnet einfach nur die beiden Organyl- bzw 
 
 Interessant sind die Tryptamine, da einige Neurotransmitter Derivate dieser Struktur sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignet, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
-Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermittelt, gehe ich davon aus, dass DMT Aufgrund seiner ähnlichkeit zu Serotonin ein 5HT - Agonist ist und seine Halluzinogene wirkung über die Aktivierung der Serotonin-Signal-Wege vermittelt. 
+Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermittelt, gehe ich davon aus, dass DMT Aufgrund seiner Ähnlichkeit zu Serotonin ein 5HT Agonist ist und seine Halluzinogene wirkung über die Aktivierung der Serotonin-Signal-Wege vermittelt. Ich gehe stark davon aus, dass die meisten 5HT
 
 -- Bedeutet das, dass Serotonin Halluzinationen verursachen kann? 
 
@@ -53,5 +53,5 @@ In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI2MDcxNzYsMjg4MTY3MDA2XX0=
+eyJoaXN0b3J5IjpbMTUxMzg1MTk2MywyODgxNjcwMDZdfQ==
 -->
