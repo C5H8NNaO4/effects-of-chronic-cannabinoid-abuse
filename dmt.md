@@ -15,12 +15,7 @@ Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgrupp
 ---
 
 ### Info
-Interessant sind Tryptamine da einige Neurotransmitter, Derivate dieser Struktur sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
-
-Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermittelt, gehe ich davon aus, dass DMT Aufgrund seiner Ähnlichkeit zu Serotonin ein 5HT Agonist ist und seine Halluzinogene wirkung über die Aktivierung der Serotonin-Signal-Wege vermittelt. Ich gehe stark davon aus, dass die meisten 5HT<sub>2a/2c</sub> Agonisten, bzw. Serotonin-Agonisten eine Halluzinoge Wirkung haben.
-
-*Frage:*
-Bedeutet das, dass Serotonin Halluzinationen verursachen kann? 
+Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
 
 ## Tryptamine
@@ -42,8 +37,13 @@ Es wird **vermutet**, dass DMT in der Zirbeldrüße hergestellt wird (*Fear and 
 Die meisten Halluzinogene wie Lysergsäurediethylamid (LSD) und 2,5-Dimethoxy-4-methylamphetamin (DOM) verursachen sensorische Verzerrungen und Depersonalisierung bei hohen Dosen.
 
 Eigenen Erfahrungen nach, wirkt DMT stark halluzinogen insbesondere betroffen ist die Verarbeitung visueller Informationen. - Die visuell-halluzinogene Wirkung habe ich etwa 10 fach stärker als die von LSD empfunden. -  Die Dauer der Wirkung ist Kurz und hält in etwa 10 - 15 minuten an.
+
+Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermittelt, gehe ich davon aus, dass DMT Aufgrund seiner Ähnlichkeit zu Serotonin ein 5HT Agonist ist und seine Halluzinogene wirkung über die Aktivierung der Serotonin-Signal-Wege vermittelt. Ich gehe stark davon aus, dass die meisten 5HT<sub>2a/2c</sub> Agonisten, bzw. Serotonin-Agonisten eine Halluzinoge Wirkung haben.
+
+*Frage:*
+Bedeutet das, dass Serotonin Halluzinationen verursachen kann? 
  
- Tryptamine
+Definitionen
 ---
 
 Die  **Zirbeldrüse**,  **Epiphysis cerebri**  oder kurz  **Epiphyse**,  [anatomisch](https://de.wikipedia.org/wiki/Nomenklatur_(Anatomie) "Nomenklatur (Anatomie)")  auch  **Glandula pinealis**  ([deutsche](https://de.wikipedia.org/wiki/Deutsche_Sprache "Deutsche Sprache")  Bezeichnung wohl nach der Form der  [Zapfen](https://de.wikipedia.org/wiki/Zapfen_(Botanik) "Zapfen (Botanik)")  der  [Zirbelkiefer](https://de.wikipedia.org/wiki/Zirbelkiefer "Zirbelkiefer")  (_Pinus cembra_);  [synonyme](https://de.wikipedia.org/wiki/Synonymie "Synonymie")  Fachausdrücke siehe weiter unten), ist eine kleine, oft kegelförmige  [endokrine Drüse](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse")auf der Rückseite des  [Mittelhirns](https://de.wikipedia.org/wiki/Mittelhirn "Mittelhirn")  im  [Epithalamus](https://de.wikipedia.org/wiki/Epithalamus "Epithalamus")  (einem Teil des  [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn")).
@@ -56,5 +56,5 @@ In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDcxMjk3NiwyODgxNjcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTI4MjcxOTk4NywyODgxNjcwMDZdfQ==
 -->
