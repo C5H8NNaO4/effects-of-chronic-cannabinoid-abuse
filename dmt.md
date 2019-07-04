@@ -45,6 +45,8 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
  
 Definitionen
 ---
+#### Ether
+> Als **Ether** (in der Gemeinsprache auch **Äther**[[1]](https://de.wikipedia.org/wiki/Ether#cite_note-1)) werden in der Chemie [organische Verbindungen](https://de.wikipedia.org/wiki/Organische_Verbindung "Organische Verbindung") bezeichnet, die als [funktionelle Gruppe](https://de.wikipedia.org/wiki/Funktionelle_Gruppe "Funktionelle Gruppe") eine Ethergruppe – ein [Sauerstoffatom](https://de.wikipedia.org/wiki/Sauerstoff "Sauerstoff"), das mit zwei [Organylresten](https://de.wikipedia.org/wiki/Organylgruppe "Organylgruppe") substituiert ist – besitzen (R1–O–R2).![Allgemeine Struktur der Ether](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FunktionelleGruppen_Ether.svg/100px-FunktionelleGruppen_Ether.svg.png)
 
 >Die  **Zirbeldrüse**,  **Epiphysis cerebri**  oder kurz  **Epiphyse**,  [anatomisch](https://de.wikipedia.org/wiki/Nomenklatur_(Anatomie) "Nomenklatur (Anatomie)")  auch  **Glandula pinealis**  ([deutsche](https://de.wikipedia.org/wiki/Deutsche_Sprache "Deutsche Sprache")  Bezeichnung wohl nach der Form der  [Zapfen](https://de.wikipedia.org/wiki/Zapfen_(Botanik) "Zapfen (Botanik)")  der  [Zirbelkiefer](https://de.wikipedia.org/wiki/Zirbelkiefer "Zirbelkiefer")  (_Pinus cembra_);  [synonyme](https://de.wikipedia.org/wiki/Synonymie "Synonymie")  Fachausdrücke siehe weiter unten), ist eine kleine, oft kegelförmige  [endokrine Drüse](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse")auf der Rückseite des  [Mittelhirns](https://de.wikipedia.org/wiki/Mittelhirn "Mittelhirn")  im  [Epithalamus](https://de.wikipedia.org/wiki/Epithalamus "Epithalamus")  (einem Teil des  [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn")).
 >
@@ -61,9 +63,9 @@ Definitionen
 >Ein **Hormon** ist ein [biochemischer](https://de.wikipedia.org/wiki/Biochemie "Biochemie")  [Botenstoff](https://de.wikipedia.org/wiki/Botenstoff "Botenstoff"), der von speziellen [Zellen](https://de.wikipedia.org/wiki/Zelle_(Biologie) "Zelle (Biologie)") (in [endokrinen Drüsen](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse") oder Geweben) produziert und in den Körperkreislauf abgegeben wird
 
 > Während Neurotransmitter für eine schnelle Reizweiterleitung bzw. –blockade im Nervensystem sorgen, vermitteln Hormone ihre Wirkung über die Blutbahn an die weiter entfernten Zielorgane.
----
-> Als **Ether** (in der Gemeinsprache auch **Äther**[[1]](https://de.wikipedia.org/wiki/Ether#cite_note-1)) werden in der Chemie [organische Verbindungen](https://de.wikipedia.org/wiki/Organische_Verbindung "Organische Verbindung") bezeichnet, die als [funktionelle Gruppe](https://de.wikipedia.org/wiki/Funktionelle_Gruppe "Funktionelle Gruppe") eine Ethergruppe – ein [Sauerstoffatom](https://de.wikipedia.org/wiki/Sauerstoff "Sauerstoff"), das mit zwei [Organylresten](https://de.wikipedia.org/wiki/Organylgruppe "Organylgruppe") substituiert ist – besitzen (R1–O–R2).
+--
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzA4NTA2OSwyODgxNjcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjgzMTM1MjMsMjg4MTY3MDA2XX0=
 -->
