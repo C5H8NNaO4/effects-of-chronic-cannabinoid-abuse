@@ -32,11 +32,12 @@ Dimethyltryptamin bezeichnet also ein Tryptamin mit 2 Methylgruppen als organisc
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/1024px-Dimethyltryptamine_2.svg.png)
 
 ### Bildung
-Es wird **vermutet**, dass DMT in der Zirbeldrüße hergestellt wird (*Fear and Loathing in Las Vegas*) --- bzw. das Melatonin, welches in der Zirbeldrüße gebildet wird, zu DMT umgewandelt wird. --- belegt ist dies jedoch nicht.
+Es wird **vermutet**, dass DMT in der Zirbeldrüße hergestellt wird (*Fear and Loathing in Las Vegas*) --- bzw, dass Melatonin, welches in der Zirbeldrüße gebildet wird, zu DMT umgewandelt wird. --- belegt ist dies jedoch nicht.
 
 ### Wirkung
-Die meisten Halluzinogene wie LSD, Mescalin oder Psylocobin verursachen 
-Eigenen Erfahrungen nach, wirkt DMT stark halluzinogen insbesondere betroffen ist die Verarbeitung visueller Informationen. - Die visuell-halluzinogene Wirkung habe ich etwa 10 fach stärker als die von LSD empfunden. -  Hält jedoch nur etwa 10 - 15 minuten an.
+Die meisten Halluzinogene wie Lysergsäurediethylamid (LSD) und 2,5-Dimethoxy-4-methylamphetamin (DOM) verursachen sensorische Verzerrungen und Depersonalisierung bei hohen Dosen.
+
+Eigenen Erfahrungen nach, wirkt DMT stark halluzinogen insbesondere betroffen ist die Verarbeitung visueller Informationen. - Die visuell-halluzinogene Wirkung habe ich aletwa 10 fach stärker als die von LSD empfunden. -  Hält jedoch nur etwa 10 - 15 minuten an.
  
 ---
 
@@ -50,5 +51,5 @@ In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMzE5MDMsMjg4MTY3MDA2XX0=
+eyJoaXN0b3J5IjpbMTQ5MjI2ODg2OSwyODgxNjcwMDZdfQ==
 -->
