@@ -11,10 +11,18 @@ Ein einfaches Bespiel wäre der **Dimethylether**. Er ist der einfachste [Ether]
 
 ![dImETHYLeTHER](Https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/640px-Dimethyl_ether_Structural_Formulae.svg.png)
 ---
+**Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). Prominente [Derivate](https://de.wikipedia.org/wiki/Derivat_(Chemie) "Derivat (Chemie)") mit Tryptamin-Struktur sind die [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") und [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"), die [Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4uren "Aminosäuren")  [Tryptophan](https://de.wikipedia.org/wiki/Tryptophan "Tryptophan") und die [psychedelisch](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") wirksamen [Halluzinogene](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Dimethyltryptamin](https://de.wikipedia.org/wiki/Dimethyltryptamin "Dimethyltryptamin") und [Psilocybin](https://de.wikipedia.org/wiki/Psilocybin "Psilocybin")sowie [Psilocin](https://de.wikipedia.org/wiki/Psilocin "Psilocin").
+
+
+
 Interessant sind die Tryptamine, da einige Neurotransmitter Derivate dieser Struktur sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignet, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
--- Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermittelt, gehe ich davon aus, dass DMT Aufgrund seiner ähnlichkeit zu Serotonin ein 5HT - Agonist ist und seine Halluzinogene wirku
-**Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). Prominente [Derivate](https://de.wikipedia.org/wiki/Derivat_(Chemie) "Derivat (Chemie)") mit Tryptamin-Struktur sind die [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") und [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"), die [Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4uren "Aminosäuren")  [Tryptophan](https://de.wikipedia.org/wiki/Tryptophan "Tryptophan") und die [psychedelisch](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") wirksamen [Halluzinogene](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Dimethyltryptamin](https://de.wikipedia.org/wiki/Dimethyltryptamin "Dimethyltryptamin") und [Psilocybin](https://de.wikipedia.org/wiki/Psilocybin "Psilocybin")sowie [Psilocin](https://de.wikipedia.org/wiki/Psilocin "Psilocin").
+Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermittelt, gehe ich davon aus, dass DMT Aufgrund seiner ähnlichkeit zu Serotonin ein 5HT - Agonist ist und seine Halluzinogene wirkung über die Aktivierung der Serotonin-Signal-Wege vermittelt. 
+
+-- Bedeutet das, dass Serotonin Halluzinationen verursachen kann? 
+
+
+
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/1024px-Tryptamine_rests_General_Formula_V.svg.png)
 
@@ -45,5 +53,5 @@ In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTU2OTMyLDI4ODE2NzAwNl19
+eyJoaXN0b3J5IjpbLTYwNjU0NzM1NSwyODgxNjcwMDZdfQ==
 -->
