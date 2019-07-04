@@ -14,13 +14,12 @@ Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgrupp
 > **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
 ---
 
-### Info
+
+## Tryptamine
 Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
 
-## Tryptamine
-
-Prominente [Derivate](https://de.wikipedia.org/wiki/Derivat_(Chemie) "Derivat (Chemie)") mit Tryptamin-Struktur sind die [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") und [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"), die [Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4uren "Aminosäuren")  [Tryptophan](https://de.wikipedia.org/wiki/Tryptophan "Tryptophan") und die [psychedelisch](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") wirksamen [Halluzinogene](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Dimethyltryptamin](https://de.wikipedia.org/wiki/Dimethyltryptamin "Dimethyltryptamin") und [Psilocybin](https://de.wikipedia.org/wiki/Psilocybin "Psilocybin")sowie [Psilocin](https://de.wikipedia.org/wiki/Psilocin "Psilocin").
+> Prominente [Derivate](https://de.wikipedia.org/wiki/Derivat_(Chemie) "Derivat (Chemie)") mit Tryptamin-Struktur sind die [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") und [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"), die [Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4uren "Aminosäuren")  [Tryptophan](https://de.wikipedia.org/wiki/Tryptophan "Tryptophan") und die [psychedelisch](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") wirksamen [Halluzinogene](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Dimethyltryptamin](https://de.wikipedia.org/wiki/Dimethyltryptamin "Dimethyltryptamin") und [Psilocybin](https://de.wikipedia.org/wiki/Psilocybin "Psilocybin")sowie [Psilocin](https://de.wikipedia.org/wiki/Psilocin "Psilocin").
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/1024px-Tryptamine_rests_General_Formula_V.svg.png)
 
@@ -59,6 +58,8 @@ Definitionen
 
 #### 
 >Ein **Hormon** ist ein [biochemischer](https://de.wikipedia.org/wiki/Biochemie "Biochemie")  [Botenstoff](https://de.wikipedia.org/wiki/Botenstoff "Botenstoff"), der von speziellen [Zellen](https://de.wikipedia.org/wiki/Zelle_(Biologie) "Zelle (Biologie)") (in [endokrinen Drüsen](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse") oder Geweben) produziert und in den Körperkreislauf abgegeben wird
+
+> Während Neurotransmitter für eine schnelle Reizweiterleitung bzw. –blockade im Nervensystem sorgen, vermitteln Hormone ihre Wirkung über die Blutbahn an die weiter entfernten Zielorgane.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU1NTA1MDUsMjg4MTY3MDA2XX0=
+eyJoaXN0b3J5IjpbMTMwMTg3Nzc2OSwyODgxNjcwMDZdfQ==
 -->
