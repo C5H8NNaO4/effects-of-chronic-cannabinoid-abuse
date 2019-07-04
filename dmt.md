@@ -11,9 +11,7 @@ Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgrupp
 
 ![dImETHYLeTHER](Https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/640px-Dimethyl_ether_Structural_Formulae.svg.png)
 ---
-> **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). Prominente [Derivate](https://de.wikipedia.org/wiki/Derivat_(Chemie) "Derivat (Chemie)") mit Tryptamin-Struktur sind die [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") und [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"), die [Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4uren "Aminosäuren")  [Tryptophan](https://de.wikipedia.org/wiki/Tryptophan "Tryptophan") und die [psychedelisch](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") wirksamen [Halluzinogene](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Dimethyltryptamin](https://de.wikipedia.org/wiki/Dimethyltryptamin "Dimethyltryptamin") und [Psilocybin](https://de.wikipedia.org/wiki/Psilocybin "Psilocybin")sowie [Psilocin](https://de.wikipedia.org/wiki/Psilocin "Psilocin").
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/1024px-Tryptamine_rests_General_Formula_V.svg.png)
+> **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
 ---
 
 Interessant sind die Tryptamine, da einige Neurotransmitter Derivate dieser Struktur sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignet, da sie in der Lage sind  Rezeptoren zu aktivieren.
@@ -52,5 +50,5 @@ In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQwNzM0MjEsMjg4MTY3MDA2XX0=
+eyJoaXN0b3J5IjpbMTA2MTg2NDM2OSwyODgxNjcwMDZdfQ==
 -->
