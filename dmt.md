@@ -49,7 +49,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 > **Neurotransmitter** sind [Botenstoffe](https://de.wikipedia.org/wiki/Botenstoff "Botenstoff"), die an [chemischen Synapsen](https://de.wikipedia.org/wiki/Synapse#Chemische_Synapsen "Synapse") die [Erregung](https://de.wikipedia.org/wiki/Erregungs%C3%BCbertragung "Erregungsübertragung") von einer [Nervenzelle](https://de.wikipedia.org/wiki/Nervenzelle "Nervenzelle") auf andere Zellen übertragen
 
-#### 
 >Ein **Hormon** ist ein [biochemischer](https://de.wikipedia.org/wiki/Biochemie "Biochemie")  [Botenstoff](https://de.wikipedia.org/wiki/Botenstoff "Botenstoff"), der von speziellen [Zellen](https://de.wikipedia.org/wiki/Zelle_(Biologie) "Zelle (Biologie)") (in [endokrinen Drüsen](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse") oder Geweben) produziert und in den Körperkreislauf abgegeben wird
 
 > Während Neurotransmitter für eine schnelle Reizweiterleitung bzw. –blockade im Nervensystem sorgen, vermitteln Hormone ihre Wirkung über die Blutbahn an die weiter entfernten Zielorgane.
@@ -59,6 +58,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxudGl0bGU6IC
 dETVQgLSBOLE4tRGltZXRoeWx0cnlwdGFtaW4nXG4iLCJoaXN0
-b3J5IjpbNTU5NTM0MzY5LDE5OTkwOTQ5NDEsMTgzNTgwMDAzLD
-I4ODE2NzAwNl19
+b3J5IjpbLTYzMzM0Njc5NSwxOTk5MDk0OTQxLDE4MzU4MDAwMy
+wyODgxNjcwMDZdfQ==
 -->
