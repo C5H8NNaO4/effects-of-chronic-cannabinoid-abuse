@@ -18,11 +18,7 @@ Ein einfaches, veranschaulichendes Beispiel ist der Dimethyether
 
 **DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  
 
----
 
-## Tryptamine
-> **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)
 
 Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
@@ -42,7 +38,7 @@ Die meisten Halluzinogene wie Lysergsäurediethylamid (LSD) und 2,5-Dimethoxy-4-
 
 Eigenen Erfahrungen nach, wirkt DMT stark halluzinogen insbesondere betroffen ist die Verarbeitung visueller Informationen. - Die visuell-halluzinogene Wirkung habe ich etwa 10 fach stärker als die von LSD empfunden. -  Die Dauer der Wirkung ist Kurz und hält in etwa 10 - 15 minuten an.
 
-Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermittelt, gehe ich davon aus, dass DMT Aufgrund seiner Ähnlichkeit zu Serotonin ein 5HT Agonist ist und seine Halluzinogene wirkung über die Aktivierung der Serotonin-Signal-Wege vermittelt. Ich gehe stark davon aus, dass die meisten 5HT<sub>2a/2c</sub> Agonisten, bzw. Serotonin-Agonisten eine Halluzinoge Wirkung haben.
+Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermittelt, gehe ich davon aus, dass DMT Aufgrund seiner Ähnlichkeit zu Serotonin ein 5HT Agonist ist und seine Halluzinogene wirkung über die Aktivierung der Serotonin-Signal-Wege vermittelt. Ich gehe stark davon aus, dass die meisten 5HT<sub>2a/2c</sub> Agonisten, bzw. die meisten Serotonin-Agonisten  im allgemeinen eine halluzinoge Wirkung haben.
 
 *Frage:*
 Bedeutet das, dass Serotonin Halluzinationen verursachen kann? 
@@ -55,6 +51,10 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 > **Dimethylether**. Er ist der einfachste [Ether](https://de.wikipedia.org/wiki/Ether "Ether") und ein [Dialkylether](https://de.wikipedia.org/wiki/Dialkylether "Dialkylether"). Er enthält zwei [Methylgruppen](https://de.wikipedia.org/wiki/Methylgruppe "Methylgruppe") als organische Reste. Dimethylether ist polar und findet in flüssiger Form als [Lösemittel](https://de.wikipedia.org/wiki/L%C3%B6semittel "Lösemittel") Verwendung.
 [![Strukturformel von Dimethylether](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/180px-Dimethyl_ether_Structural_Formulae.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyl_ether_Structural_Formulae.svg "Strukturformel von Dimethylether")
 
+### Tryptamine
+
+> sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)
 ----
 ### Neurobiologie
 #### Zirbeldrüße
@@ -78,6 +78,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODY3MzgyNiwxODM1ODAwMDMsMjg4MT
-Y3MDA2XX0=
+eyJoaXN0b3J5IjpbNTYwNTE4MDM1LDE4MzU4MDAwMywyODgxNj
+cwMDZdfQ==
 -->
