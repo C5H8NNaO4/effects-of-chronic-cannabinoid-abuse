@@ -1,5 +1,5 @@
 # DMT -  **_N_,_N_-
-Der Präfix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *(CH3)* - Tryptamin, den Hautptteil des Molekül
+Der Präfix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *(CH3)* - Tryptamin, den Hautptteil des Moleküls.
 
 **DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  <center>
 [![Struktur von Dimethyltryptamin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/200px-Dimethyltryptamine_2.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyltryptamine_2.svg "Struktur von Dimethyltryptamin") </center>
@@ -12,10 +12,10 @@ Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls
 
 
 
-**_N_,_N_-Dimethyltryptamin**, kurz **DMT**, ist ein [halluzinogenes](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Tryptamin](https://de.wikipedia.org/wiki/Tryptamine "Tryptamine")-[Alkaloid](https://de.wikipedia.org/wiki/Alkaloid "Alkaloid"). Es findet u. a. Anwendung als [Psychedelikum](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") bzw. [Entheogen](https://de.wikipedia.org/wiki/Entheogen "Entheogen"), indem es geraucht (als Freibase), geschnupft (als [Yopo](https://de.wikipedia.org/wiki/Yopo#Verwendung "Yopo")) oder injiziert (als Fumaratsalz) wird.[[8]](https://de.wikipedia.org/wiki/Dimethyltryptamin#cite_note-Strassman-8) Eine [Wirkung](https://de.wikipedia.org/wiki/Wirkung_(Pharmakologie) "Wirkung (Pharmakologie)") bei [peroraler](https://de.wikipedia.org/wiki/Peroral "Peroral") Aufnahme (etwa als [Ayahuasca](https://de.wikipedia.org/wiki/Ayahuasca "Ayahuasca")) ist nur bei gleichzeitiger bzw. vorheriger Einnahme von [Monoaminooxidase-Hemmern](https://de.wikipedia.org/wiki/Monoaminooxidase-Hemmer "Monoaminooxidase-Hemmer") (kurz _MAOH_ oder _MAOI_) möglich, da DMT sehr rasch ([First-Pass-Effekt](https://de.wikipedia.org/wiki/First-Pass-Effekt "First-Pass-Effekt")) vom körpereigenen Enzym [Monoaminooxidase](https://de.wikipedia.org/wiki/Monoaminooxidase "Monoaminooxidase") (Typ A) abgebaut wird.
+ **DMT**, ist ein [halluzinogenes](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Tryptamin](https://de.wikipedia.org/wiki/Tryptamine "Tryptamine")-[Alkaloid](https://de.wikipedia.org/wiki/Alkaloid "Alkaloid"). Es findet u. a. Anwendung als [Psychedelikum](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") bzw. [Entheogen](https://de.wikipedia.org/wiki/Entheogen "Entheogen"), indem es geraucht (als Freibase), geschnupft (als [Yopo](https://de.wikipedia.org/wiki/Yopo#Verwendung "Yopo")) oder injiziert (als Fumaratsalz) wird.[[8]](https://de.wikipedia.org/wiki/Dimethyltryptamin#cite_note-Strassman-8) Eine [Wirkung](https://de.wikipedia.org/wiki/Wirkung_(Pharmakologie) "Wirkung (Pharmakologie)") bei [peroraler](https://de.wikipedia.org/wiki/Peroral "Peroral") Aufnahme (etwa als [Ayahuasca](https://de.wikipedia.org/wiki/Ayahuasca "Ayahuasca")) ist nur bei gleichzeitiger bzw. vorheriger Einnahme von [Monoaminooxidase-Hemmern](https://de.wikipedia.org/wiki/Monoaminooxidase-Hemmer "Monoaminooxidase-Hemmer") (kurz _MAOH_ oder _MAOI_) möglich, da DMT sehr rasch ([First-Pass-Effekt](https://de.wikipedia.org/wiki/First-Pass-Effekt "First-Pass-Effekt")) vom körpereigenen Enzym [Monoaminooxidase](https://de.wikipedia.org/wiki/Monoaminooxidase "Monoaminooxidase") (Typ A) abgebaut wird.
 
 ### Bildung
-Es wird **vermutet**, dass DMT in der Zirbeldrüße hergestellt wird (*Fear and Loathing in Las Vegas*) --- bzw, dass Melatonin, welches in der Zirbeldrüße gebildet wird, zu DMT umgewandelt wird. --- belegt ist dies jedoch nicht.
+Es wird **vermutet**, dass DMT in der Zirbeldrüße hergestellt wird (*wie in Fear and Loathing in Las Vegas posst*) --- bzw, dass Melatonin, welches in der Zirbeldrüße gebildet wird, zu DMT umgewandelt wird. --- belegt ist dies jedoch nicht.
 
 ### Wirkung
 Die meisten Halluzinogene wie Lysergsäurediethylamid (LSD) und 2,5-Dimethoxy-4-methylamphetamin (DOM) verursachen sensorische Verzerrungen und Depersonalisierung bei hohen Dosen.
@@ -59,6 +59,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyOTAwNzE2LDE4MzU4MDAwMywyODgxNj
-cwMDZdfQ==
+eyJoaXN0b3J5IjpbMTgxMzM2MzM3NSwxODM1ODAwMDMsMjg4MT
+Y3MDA2XX0=
 -->
