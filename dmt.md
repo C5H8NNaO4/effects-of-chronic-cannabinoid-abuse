@@ -2,18 +2,18 @@
 ## Basics
 ### Grundlagen der Chemie
 
-Der Prefix N,N-Dimethyl... in DMT bezeichnet einfach nur die beiden Organyl- bzw Methylgruppen *CH3* die an eine Tryptaminverbindunge gebunden sind. 
+Der Prefix *N,N-Dimethyl* in DMT bezeichnet einfach nur die beiden Organyl- bzw Methylgruppen *CH3* die an ein Tryptamin gebunden sind. 
 
-Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
+> Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
 
 ---
-Ein einfaches Bespiel wäre der **Dimethylether**. Er ist der einfachste [Ether](https://de.wikipedia.org/wiki/Ether "Ether") und ein [Dialkylether](https://de.wikipedia.org/wiki/Dialkylether "Dialkylether"). Er enthält zwei [Methylgruppen](https://de.wikipedia.org/wiki/Methylgruppe "Methylgruppe") als organische Reste. Dimethylether ist polar und findet in flüssiger Form als [Lösemittel](https://de.wikipedia.org/wiki/L%C3%B6semittel "Lösemittel") Verwendung.
+> Ein einfaches Bespiel wäre der **Dimethylether**. Er ist der einfachste [Ether](https://de.wikipedia.org/wiki/Ether "Ether") und ein [Dialkylether](https://de.wikipedia.org/wiki/Dialkylether "Dialkylether"). Er enthält zwei [Methylgruppen](https://de.wikipedia.org/wiki/Methylgruppe "Methylgruppe") als organische Reste. Dimethylether ist polar und findet in flüssiger Form als [Lösemittel](https://de.wikipedia.org/wiki/L%C3%B6semittel "Lösemittel") Verwendung.
 
 ![dImETHYLeTHER](Https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/640px-Dimethyl_ether_Structural_Formulae.svg.png)
 ---
-**Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). Prominente [Derivate](https://de.wikipedia.org/wiki/Derivat_(Chemie) "Derivat (Chemie)") mit Tryptamin-Struktur sind die [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") und [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"), die [Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4uren "Aminosäuren")  [Tryptophan](https://de.wikipedia.org/wiki/Tryptophan "Tryptophan") und die [psychedelisch](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") wirksamen [Halluzinogene](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Dimethyltryptamin](https://de.wikipedia.org/wiki/Dimethyltryptamin "Dimethyltryptamin") und [Psilocybin](https://de.wikipedia.org/wiki/Psilocybin "Psilocybin")sowie [Psilocin](https://de.wikipedia.org/wiki/Psilocin "Psilocin").
+> **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). Prominente [Derivate](https://de.wikipedia.org/wiki/Derivat_(Chemie) "Derivat (Chemie)") mit Tryptamin-Struktur sind die [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") und [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"), die [Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4uren "Aminosäuren")  [Tryptophan](https://de.wikipedia.org/wiki/Tryptophan "Tryptophan") und die [psychedelisch](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") wirksamen [Halluzinogene](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Dimethyltryptamin](https://de.wikipedia.org/wiki/Dimethyltryptamin "Dimethyltryptamin") und [Psilocybin](https://de.wikipedia.org/wiki/Psilocybin "Psilocybin")sowie [Psilocin](https://de.wikipedia.org/wiki/Psilocin "Psilocin").
 
-
+---
 
 Interessant sind die Tryptamine, da einige Neurotransmitter Derivate dieser Struktur sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignet, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
@@ -53,5 +53,5 @@ In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjU0NzM1NSwyODgxNjcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDI2MDcxNzYsMjg4MTY3MDA2XX0=
 -->
