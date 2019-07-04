@@ -54,7 +54,10 @@ Definitionen
 
 >**Serotonin**, auch **5-Hydroxytryptamin** (**5-HT**) oder **Enteramin**, ist ein [Gewebshormon](https://de.wikipedia.org/wiki/Gewebshormone "Gewebshormone") und [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"). Es kommt unter anderem im [Zentralnervensystem](https://de.wikipedia.org/wiki/Zentralnervensystem "Zentralnervensystem"), [Darmnervensystem](https://de.wikipedia.org/wiki/Enterisches_Nervensystem "Enterisches Nervensystem"), [Herz-Kreislauf-System](https://de.wikipedia.org/wiki/Herz-Kreislauf-System "Herz-Kreislauf-System") und im [Blut](https://de.wikipedia.org/wiki/Blut "Blut") vor. Der Name dieses [biogenen Amins](https://de.wikipedia.org/wiki/Biogene_Amine "Biogene Amine") leitet sich von seiner Wirkung auf den [Blutdruck](https://de.wikipedia.org/wiki/Blutdruck "Blutdruck") ab: Serotonin ist eine Komponente des [Serums](https://de.wikipedia.org/wiki/Blutserum "Blutserum"), die den [Tonus](https://de.wikipedia.org/wiki/Tonus "Tonus") (Spannung) der [Blutgefäße](https://de.wikipedia.org/wiki/Blutgef%C3%A4%C3%9F "Blutgefäß") reguliert. Es wirkt außerdem auf die Magen-Darm-Tätigkeit und die [Signalübertragung](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")im Zentralnervensystem.
 
+#### Neurotransmitter
+> Neurotransmitter, auch als chemische Botenstoffe bekannt, sind körpereigene Chemikalien, die die Neurotransmission ermöglichen.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0OTgyNTQ3LDI4ODE2NzAwNl19
+eyJoaXN0b3J5IjpbLTc0ODUwODk1OSwyODgxNjcwMDZdfQ==
 -->
