@@ -15,8 +15,14 @@ Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls
  **DMT**, ist ein [halluzinogenes](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Tryptamin](https://de.wikipedia.org/wiki/Tryptamine "Tryptamine")-[Alkaloid](https://de.wikipedia.org/wiki/Alkaloid "Alkaloid"). Es findet u. a. Anwendung als [Psychedelikum](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") bzw. [Entheogen](https://de.wikipedia.org/wiki/Entheogen "Entheogen"), indem es geraucht (als Freibase), geschnupft (als [Yopo](https://de.wikipedia.org/wiki/Yopo#Verwendung "Yopo")) oder injiziert (als Fumaratsalz) wird.[[8]](https://de.wikipedia.org/wiki/Dimethyltryptamin#cite_note-Strassman-8) Eine [Wirkung](https://de.wikipedia.org/wiki/Wirkung_(Pharmakologie) "Wirkung (Pharmakologie)") bei [peroraler](https://de.wikipedia.org/wiki/Peroral "Peroral") Aufnahme (etwa als [Ayahuasca](https://de.wikipedia.org/wiki/Ayahuasca "Ayahuasca")) ist nur bei gleichzeitiger bzw. vorheriger Einnahme von [Monoaminooxidase-Hemmern](https://de.wikipedia.org/wiki/Monoaminooxidase-Hemmer "Monoaminooxidase-Hemmer") (kurz _MAOH_ oder _MAOI_) möglich, da DMT sehr rasch ([First-Pass-Effekt](https://de.wikipedia.org/wiki/First-Pass-Effekt "First-Pass-Effekt")) vom körpereigenen Enzym [Monoaminooxidase](https://de.wikipedia.org/wiki/Monoaminooxidase "Monoaminooxidase") (Typ A) abgebaut wird.
 
 ### Bildung
-Es wird **vermutet**, dass DMT in der Zirbeldrüße hergestellt wird (*wie es auch in dem Film "Fear and Loathing in Las Vegas" postuliert wird*) --- bzw, dass Melatonin, welches in der Zirbeldrüße gebildet wird, zu DMT umgewandelt wird. --- belegt ist dies jedoch nicht.
+In vielen Quellen liest man, dass DMT in der Zirbeldrüße hergestellt wird (*wie es auch in dem Film "Fear and Loathing in Las Vegas" postuliert wird*) --- bzw, dass Melatonin, welches in der Zirbeldrüße gebildet wird, zu DMT umgewandelt wird. --- belegt ist dies jedoch nicht.
 
+1972 wurde das erste mal die Transformation von Tryptophan zu DMT in lebenden Ratten beobachtet. 
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6088236/bin/fnins-12-00536-g0002.jpg)
+> Wege zur Biosynthese und zum Metabolismus von DMT. 
+> 1. Biosynthese: Tryptophan (2) wird durch aromatische Aminosäuredecarboxylase (AADC) in Tryptamin (TA, 3) umgewandelt. TA wird unter Verwendung von S-Adenosylmethionin (SAM) als Methylquelle zunächst mit Indol-N-methyltransferase (INMT) zu N-Methyltryptamin (NMT, 4) und dann mit DMT (1) dimethyliert. 
+> 2. Metabolismus: TA, NMT und DMT sind alle Substrate für Monoaminoxidase, wodurch Indol-3-essigsäure (5, IAA) sowohl als gemeinsamer Vorläufermetabolit als auch als der am häufigsten vorkommende Metabolit von DMT selbst erhalten wird. DMT wird auch in DMT-N-Oxid (6) als zweithäufigster Metabolit umgewandelt. Zwei 1,2,3,4-Tetrahydro-beta-carboline (THBCs) wurden ebenfalls als Metaboliten identifiziert. 2-Methyl-THBC (7, MTHBC) und THBC (8).
 ### Wirkung
 Die meisten Halluzinogene wie Lysergsäurediethylamid (LSD) und 2,5-Dimethoxy-4-methylamphetamin (DOM) verursachen sensorische Verzerrungen und Depersonalisierung bei hohen Dosen.
 
@@ -59,6 +65,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI0MjgzMCwxODM1ODAwMDMsMjg4MT
+eyJoaXN0b3J5IjpbMTczMjM1MjUyOSwxODM1ODAwMDMsMjg4MT
 Y3MDA2XX0=
 -->
