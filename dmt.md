@@ -1,4 +1,4 @@
-# DMT -  **_N_,_N_-
+# DMT -  N,N-Dimethyltryptamin
 Der Präfix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *(CH3)* - Tryptamin, den Hautptteil des Moleküls.
 
 **DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  <center>
@@ -65,6 +65,7 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjM1MjUyOSwxODM1ODAwMDMsMjg4MT
-Y3MDA2XX0=
+eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
+9yeSI6WzE3MTQ3MjUzMjAsMTgzNTgwMDAzLDI4ODE2NzAwNl19
+
 -->
