@@ -1,12 +1,14 @@
 # **_N_,_N_-Dimethyltryptamin**
 ## Basics
-### Grundlagen der Chemie
+### Name
+
+Um den Namen von *DMT* zu verstehen bedarf es einiger Grundkenntisse der Chemie die wie folgt beschrieben werde. 
 
 Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *CH3* die an ein Tryptamin gebunden sind. 
 
 > Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
 > 
-Ein einfaches Bespiel wäre der Dimethylether mit der Strukturformel 
+Ein einfacheres Bespiel wäre der Dimethylether mit der Strukturformel 
 
 
 
@@ -67,5 +69,5 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MjQyODkyLDI4ODE2NzAwNl19
+eyJoaXN0b3J5IjpbMTgzNTgwMDAzLDI4ODE2NzAwNl19
 -->
