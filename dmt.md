@@ -11,20 +11,20 @@ Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgrupp
 
 ![dImETHYLeTHER](Https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/640px-Dimethyl_ether_Structural_Formulae.svg.png)
 ---
-> **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
----
-
 
 ## Tryptamine
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/1024px-Tryptamine_rests_General_Formula_V.svg.png)
+
+> **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
+
 Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
 
 > Prominente [Derivate](https://de.wikipedia.org/wiki/Derivat_(Chemie) "Derivat (Chemie)") mit Tryptamin-Struktur sind die [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter") [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") und [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"), die [Aminosäure](https://de.wikipedia.org/wiki/Aminos%C3%A4uren "Aminosäuren")  [Tryptophan](https://de.wikipedia.org/wiki/Tryptophan "Tryptophan") und die [psychedelisch](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") wirksamen [Halluzinogene](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Dimethyltryptamin](https://de.wikipedia.org/wiki/Dimethyltryptamin "Dimethyltryptamin") und [Psilocybin](https://de.wikipedia.org/wiki/Psilocybin "Psilocybin")sowie [Psilocin](https://de.wikipedia.org/wiki/Psilocin "Psilocin").
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/1024px-Tryptamine_rests_General_Formula_V.svg.png)
 
 
-Dimethyltryptamin bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  
+**DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  
 
 **_N_,_N_-Dimethyltryptamin**, kurz **DMT**, ist ein [halluzinogenes](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Tryptamin](https://de.wikipedia.org/wiki/Tryptamine "Tryptamine")-[Alkaloid](https://de.wikipedia.org/wiki/Alkaloid "Alkaloid"). Es findet u. a. Anwendung als [Psychedelikum](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") bzw. [Entheogen](https://de.wikipedia.org/wiki/Entheogen "Entheogen"), indem es geraucht (als Freibase), geschnupft (als [Yopo](https://de.wikipedia.org/wiki/Yopo#Verwendung "Yopo")) oder injiziert (als Fumaratsalz) wird.[[8]](https://de.wikipedia.org/wiki/Dimethyltryptamin#cite_note-Strassman-8) Eine [Wirkung](https://de.wikipedia.org/wiki/Wirkung_(Pharmakologie) "Wirkung (Pharmakologie)") bei [peroraler](https://de.wikipedia.org/wiki/Peroral "Peroral") Aufnahme (etwa als [Ayahuasca](https://de.wikipedia.org/wiki/Ayahuasca "Ayahuasca")) ist nur bei gleichzeitiger bzw. vorheriger Einnahme von [Monoaminooxidase-Hemmern](https://de.wikipedia.org/wiki/Monoaminooxidase-Hemmer "Monoaminooxidase-Hemmer") (kurz _MAOH_ oder _MAOI_) möglich, da DMT sehr rasch ([First-Pass-Effekt](https://de.wikipedia.org/wiki/First-Pass-Effekt "First-Pass-Effekt")) vom körpereigenen Enzym [Monoaminooxidase](https://de.wikipedia.org/wiki/Monoaminooxidase "Monoaminooxidase") (Typ A) abgebaut wird.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/1024px-Dimethyltryptamine_2.svg.png)
@@ -61,5 +61,5 @@ Definitionen
 
 > Während Neurotransmitter für eine schnelle Reizweiterleitung bzw. –blockade im Nervensystem sorgen, vermitteln Hormone ihre Wirkung über die Blutbahn an die weiter entfernten Zielorgane.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTg3Nzc2OSwyODgxNjcwMDZdfQ==
+eyJoaXN0b3J5IjpbMTIwOTc4NTIwOCwyODgxNjcwMDZdfQ==
 -->
