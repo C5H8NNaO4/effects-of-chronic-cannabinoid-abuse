@@ -5,11 +5,13 @@
 Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *CH3* die an ein Tryptamin gebunden sind. 
 
 > Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
+> 
+Ein einfaches Bespiel wäre der 
+> **Dimethylether**. Er ist der einfachste [Ether](https://de.wikipedia.org/wiki/Ether "Ether") und ein [Dialkylether](https://de.wikipedia.org/wiki/Dialkylether "Dialkylether"). Er enthält zwei [Methylgruppen](https://de.wikipedia.org/wiki/Methylgruppe "Methylgruppe") als organische Reste. Dimethylether ist polar und findet in flüssiger Form als [Lösemittel](https://de.wikipedia.org/wiki/L%C3%B6semittel "Lösemittel") Verwendung.
 
----
-> Ein einfaches Bespiel wäre der **Dimethylether**. Er ist der einfachste [Ether](https://de.wikipedia.org/wiki/Ether "Ether") und ein [Dialkylether](https://de.wikipedia.org/wiki/Dialkylether "Dialkylether"). Er enthält zwei [Methylgruppen](https://de.wikipedia.org/wiki/Methylgruppe "Methylgruppe") als organische Reste. Dimethylether ist polar und findet in flüssiger Form als [Lösemittel](https://de.wikipedia.org/wiki/L%C3%B6semittel "Lösemittel") Verwendung.
+Die Strukturformel ist denkbar simpel ![dimethylether](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/180px-Dimethyl_ether_Structural_Formulae.svg.png)
 
-![dImETHYLeTHER](Https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/640px-Dimethyl_ether_Structural_Formulae.svg.png)
+
 ---
 
 ## Tryptamine
@@ -60,5 +62,5 @@ Definitionen
 
 > Während Neurotransmitter für eine schnelle Reizweiterleitung bzw. –blockade im Nervensystem sorgen, vermitteln Hormone ihre Wirkung über die Blutbahn an die weiter entfernten Zielorgane.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgzNTA5NDMsMjg4MTY3MDA2XX0=
+eyJoaXN0b3J5IjpbLTEyMzk0MDUyMjEsMjg4MTY3MDA2XX0=
 -->
