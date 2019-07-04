@@ -1,7 +1,7 @@
 Der Präfix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgruppen *(CH3)* - Tryptamin, den Hautptteil des Moleküls.
 
-**DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  <center>
-[![Struktur von Dimethyltryptamin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/200px-Dimethyltryptamine_2.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyltryptamine_2.svg "Struktur von Dimethyltryptamin") </center>
+**DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  <
+[![Struktur von Dimethyltryptamin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/200px-Dimethyltryptamine_2.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyltryptamine_2.svg "Struktur von Dimethyltryptamin")
 
 ##
 Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
@@ -33,27 +33,20 @@ Da LSD seine Halluzinoge Wirkung Hauptsächlich über die 5HT-Rezeptoren vermitt
 Bedeutet das, dass Serotonin Halluzinationen verursachen kann? 
  
 ## Definitionen
-### Chemie
-#### Methylgruppe
+
 > Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
 
-#### Tryptamine
-
->  [...] sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
-<center>![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)</center>
+>  **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)
 ----
-### Neurobiologie
-#### Zirbeldrüße
 >Die  **Zirbeldrüse**,  **Epiphysis cerebri**  oder kurz  **Epiphyse**,  [anatomisch](https://de.wikipedia.org/wiki/Nomenklatur_(Anatomie) "Nomenklatur (Anatomie)")  auch  **Glandula pinealis**  ([deutsche](https://de.wikipedia.org/wiki/Deutsche_Sprache "Deutsche Sprache")  Bezeichnung wohl nach der Form der  [Zapfen](https://de.wikipedia.org/wiki/Zapfen_(Botanik) "Zapfen (Botanik)")  der  [Zirbelkiefer](https://de.wikipedia.org/wiki/Zirbelkiefer "Zirbelkiefer")  (_Pinus cembra_);  [synonyme](https://de.wikipedia.org/wiki/Synonymie "Synonymie")  Fachausdrücke siehe weiter unten), ist eine kleine, oft kegelförmige  [endokrine Drüse](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse")auf der Rückseite des  [Mittelhirns](https://de.wikipedia.org/wiki/Mittelhirn "Mittelhirn")  im  [Epithalamus](https://de.wikipedia.org/wiki/Epithalamus "Epithalamus")  (einem Teil des  [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn")).
 >
 > In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https://de.wikipedia.org/wiki/Neurosekretorische_Zelle "Neurosekretorische Zelle"), die  **Pinealozyten**, das  [Hormon](https://de.wikipedia.org/wiki/Hormon "Hormon")  [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"). Dieses  [Neurohormon](https://de.wikipedia.org/wiki/Neurohormon "Neurohormon")wird bei Dunkelheit gebildet und in  [Blut](https://de.wikipedia.org/wiki/Blutgef%C3%A4%C3%9Fsystem "Blutgefäßsystem")  und  [Liquor](https://de.wikipedia.org/wiki/Liquor_cerebrospinalis "Liquor cerebrospinalis")  freigesetzt, so überwiegend  [nachts](https://de.wikipedia.org/wiki/Nacht "Nacht"). Melatonin beeinflusst den  [Schlaf-Wach-Rhythmus](https://de.wikipedia.org/wiki/Zirkadiane_Rhythmik "Zirkadiane Rhythmik")und andere zeitabhängige Rhythmen des Körpers
 
-#### Melatonin
->[...] ist ein [Hormon](https://de.wikipedia.org/wiki/Hormon "Hormon"), das von den [Pinealozyten](https://de.wikipedia.org/wiki/Pinealozyt "Pinealozyt") in der [Zirbeldrüse](https://de.wikipedia.org/wiki/Zirbeldr%C3%BCse "Zirbeldrüse") (Epiphyse) – einem Teil des [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn") – aus [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") produziert wird und den [Tag-Nacht-Rhythmus](https://de.wikipedia.org/wiki/Zirkadiane_Rhythmik "Zirkadiane Rhythmik") des menschlichen Körpers steuert.
-#### Serotonin
-> [...] auch **5-Hydroxytryptamin** (**5-HT**) oder **Enteramin**, ist ein [Gewebshormon](https://de.wikipedia.org/wiki/Gewebshormone "Gewebshormone") und [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"). Es kommt unter anderem im [Zentralnervensystem](https://de.wikipedia.org/wiki/Zentralnervensystem "Zentralnervensystem"), [Darmnervensystem](https://de.wikipedia.org/wiki/Enterisches_Nervensystem "Enterisches Nervensystem"), [Herz-Kreislauf-System](https://de.wikipedia.org/wiki/Herz-Kreislauf-System "Herz-Kreislauf-System") und im [Blut](https://de.wikipedia.org/wiki/Blut "Blut") vor. Der Name dieses [biogenen Amins](https://de.wikipedia.org/wiki/Biogene_Amine "Biogene Amine") leitet sich von seiner Wirkung auf den [Blutdruck](https://de.wikipedia.org/wiki/Blutdruck "Blutdruck") ab: Serotonin ist eine Komponente des [Serums](https://de.wikipedia.org/wiki/Blutserum "Blutserum"), die den [Tonus](https://de.wikipedia.org/wiki/Tonus "Tonus") (Spannung) der [Blutgefäße](https://de.wikipedia.org/wiki/Blutgef%C3%A4%C3%9F "Blutgefäß") reguliert. Es wirkt außerdem auf die Magen-Darm-Tätigkeit und die [Signalübertragung](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")im Zentralnervensystem.
+>**Melatonin** ist ein [Hormon](https://de.wikipedia.org/wiki/Hormon "Hormon"), das von den [Pinealozyten](https://de.wikipedia.org/wiki/Pinealozyt "Pinealozyt") in der [Zirbeldrüse](https://de.wikipedia.org/wiki/Zirbeldr%C3%BCse "Zirbeldrüse") (Epiphyse) – einem Teil des [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn") – aus [Serotonin](https://de.wikipedia.org/wiki/Serotonin "Serotonin") produziert wird und den [Tag-Nacht-Rhythmus](https://de.wikipedia.org/wiki/Zirkadiane_Rhythmik "Zirkadiane Rhythmik") des menschlichen Körpers steuert.
 
-#### Neurotransmitter / Hormone
+> **Sertonin** auch **5-Hydroxytryptamin** (**5-HT**) oder **Enteramin**, ist ein [Gewebshormon](https://de.wikipedia.org/wiki/Gewebshormone "Gewebshormone") und [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"). Es kommt unter anderem im [Zentralnervensystem](https://de.wikipedia.org/wiki/Zentralnervensystem "Zentralnervensystem"), [Darmnervensystem](https://de.wikipedia.org/wiki/Enterisches_Nervensystem "Enterisches Nervensystem"), [Herz-Kreislauf-System](https://de.wikipedia.org/wiki/Herz-Kreislauf-System "Herz-Kreislauf-System") und im [Blut](https://de.wikipedia.org/wiki/Blut "Blut") vor. Der Name dieses [biogenen Amins](https://de.wikipedia.org/wiki/Biogene_Amine "Biogene Amine") leitet sich von seiner Wirkung auf den [Blutdruck](https://de.wikipedia.org/wiki/Blutdruck "Blutdruck") ab: Serotonin ist eine Komponente des [Serums](https://de.wikipedia.org/wiki/Blutserum "Blutserum"), die den [Tonus](https://de.wikipedia.org/wiki/Tonus "Tonus") (Spannung) der [Blutgefäße](https://de.wikipedia.org/wiki/Blutgef%C3%A4%C3%9F "Blutgefäß") reguliert. Es wirkt außerdem auf die Magen-Darm-Tätigkeit und die [Signalübertragung](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")im Zentralnervensystem.
+
 > **Neurotransmitter** sind [Botenstoffe](https://de.wikipedia.org/wiki/Botenstoff "Botenstoff"), die an [chemischen Synapsen](https://de.wikipedia.org/wiki/Synapse#Chemische_Synapsen "Synapse") die [Erregung](https://de.wikipedia.org/wiki/Erregungs%C3%BCbertragung "Erregungsübertragung") von einer [Nervenzelle](https://de.wikipedia.org/wiki/Nervenzelle "Nervenzelle") auf andere Zellen übertragen
 
 #### 
@@ -66,6 +59,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxudGl0bGU6IC
 dETVQgLSBOLE4tRGltZXRoeWx0cnlwdGFtaW4nXG4iLCJoaXN0
-b3J5IjpbMTk5OTA5NDk0MSwxODM1ODAwMDMsMjg4MTY3MDA2XX
-0=
+b3J5IjpbNTU5NTM0MzY5LDE5OTkwOTQ5NDEsMTgzNTgwMDAzLD
+I4ODE2NzAwNl19
 -->
