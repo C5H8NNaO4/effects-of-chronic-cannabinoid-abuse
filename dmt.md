@@ -61,6 +61,9 @@ Definitionen
 >Ein **Hormon** ist ein [biochemischer](https://de.wikipedia.org/wiki/Biochemie "Biochemie")  [Botenstoff](https://de.wikipedia.org/wiki/Botenstoff "Botenstoff"), der von speziellen [Zellen](https://de.wikipedia.org/wiki/Zelle_(Biologie) "Zelle (Biologie)") (in [endokrinen Drüsen](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse") oder Geweben) produziert und in den Körperkreislauf abgegeben wird
 
 > Während Neurotransmitter für eine schnelle Reizweiterleitung bzw. –blockade im Nervensystem sorgen, vermitteln Hormone ihre Wirkung über die Blutbahn an die weiter entfernten Zielorgane.
+---
+> Als **Ether** (in der Gemeinsprache auch **Äther**[[1]](https://de.wikipedia.org/wiki/Ether#cite_note-1)) werden in der Chemie [organische Verbindungen](https://de.wikipedia.org/wiki/Organische_Verbindung "Organische Verbindung") bezeichnet, die als [funktionelle Gruppe](https://de.wikipedia.org/wiki/Funktionelle_Gruppe "Funktionelle Gruppe") eine Ethergruppe – ein [Sauerstoffatom](https://de.wikipedia.org/wiki/Sauerstoff "Sauerstoff"), das mit zwei [Organylresten](https://de.wikipedia.org/wiki/Organylgruppe "Organylgruppe") substituiert ist – besitzen (R1–O–R2).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk0MDUyMjEsMjg4MTY3MDA2XX0=
+eyJoaXN0b3J5IjpbMTEwMzA4NTA2OSwyODgxNjcwMDZdfQ==
 -->
