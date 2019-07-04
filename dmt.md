@@ -8,8 +8,7 @@ Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgrupp
 
 > Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
 > 
-Ein einfaches, veranschaulichendes Beispiel ist der Dimethyether
-[![Strukturformel von Dimethylether](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/180px-Dimethyl_ether_Structural_Formulae.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyl_ether_Structural_Formulae.svg "Strukturformel von Dimethylether")
+Ein einfaches, veranschaulichendes Beispiel ist der Dimethyether [![Strukturformel von Dimethylether](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/180px-Dimethyl_ether_Structural_Formulae.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyl_ether_Structural_Formulae.svg "Strukturformel von Dimethylether")
 
 ----
 
@@ -17,8 +16,7 @@ Ein einfaches, veranschaulichendes Beispiel ist der Dimethyether
 
 
 **DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  
-
-
+[![Struktur von Dimethyltryptamin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/200px-Dimethyltryptamine_2.svg.png)](https://de.wikipedia.org/wiki/Datei:Dimethyltryptamine_2.svg "Struktur von Dimethyltryptamin")
 
 Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
@@ -28,7 +26,6 @@ Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls
 
 
 **_N_,_N_-Dimethyltryptamin**, kurz **DMT**, ist ein [halluzinogenes](https://de.wikipedia.org/wiki/Halluzinogen "Halluzinogen")  [Tryptamin](https://de.wikipedia.org/wiki/Tryptamine "Tryptamine")-[Alkaloid](https://de.wikipedia.org/wiki/Alkaloid "Alkaloid"). Es findet u. a. Anwendung als [Psychedelikum](https://de.wikipedia.org/wiki/Psychedelikum "Psychedelikum") bzw. [Entheogen](https://de.wikipedia.org/wiki/Entheogen "Entheogen"), indem es geraucht (als Freibase), geschnupft (als [Yopo](https://de.wikipedia.org/wiki/Yopo#Verwendung "Yopo")) oder injiziert (als Fumaratsalz) wird.[[8]](https://de.wikipedia.org/wiki/Dimethyltryptamin#cite_note-Strassman-8) Eine [Wirkung](https://de.wikipedia.org/wiki/Wirkung_(Pharmakologie) "Wirkung (Pharmakologie)") bei [peroraler](https://de.wikipedia.org/wiki/Peroral "Peroral") Aufnahme (etwa als [Ayahuasca](https://de.wikipedia.org/wiki/Ayahuasca "Ayahuasca")) ist nur bei gleichzeitiger bzw. vorheriger Einnahme von [Monoaminooxidase-Hemmern](https://de.wikipedia.org/wiki/Monoaminooxidase-Hemmer "Monoaminooxidase-Hemmer") (kurz _MAOH_ oder _MAOI_) möglich, da DMT sehr rasch ([First-Pass-Effekt](https://de.wikipedia.org/wiki/First-Pass-Effekt "First-Pass-Effekt")) vom körpereigenen Enzym [Monoaminooxidase](https://de.wikipedia.org/wiki/Monoaminooxidase "Monoaminooxidase") (Typ A) abgebaut wird.
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/1024px-Dimethyltryptamine_2.svg.png)
 
 ### Bildung
 Es wird **vermutet**, dass DMT in der Zirbeldrüße hergestellt wird (*Fear and Loathing in Las Vegas*) --- bzw, dass Melatonin, welches in der Zirbeldrüße gebildet wird, zu DMT umgewandelt wird. --- belegt ist dies jedoch nicht.
@@ -53,7 +50,7 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 ### Tryptamine
 
-> sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
+>  [...] sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)
 ----
 ### Neurobiologie
@@ -67,7 +64,7 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 #### Serotonin
 > [...] auch **5-Hydroxytryptamin** (**5-HT**) oder **Enteramin**, ist ein [Gewebshormon](https://de.wikipedia.org/wiki/Gewebshormone "Gewebshormone") und [Neurotransmitter](https://de.wikipedia.org/wiki/Neurotransmitter "Neurotransmitter"). Es kommt unter anderem im [Zentralnervensystem](https://de.wikipedia.org/wiki/Zentralnervensystem "Zentralnervensystem"), [Darmnervensystem](https://de.wikipedia.org/wiki/Enterisches_Nervensystem "Enterisches Nervensystem"), [Herz-Kreislauf-System](https://de.wikipedia.org/wiki/Herz-Kreislauf-System "Herz-Kreislauf-System") und im [Blut](https://de.wikipedia.org/wiki/Blut "Blut") vor. Der Name dieses [biogenen Amins](https://de.wikipedia.org/wiki/Biogene_Amine "Biogene Amine") leitet sich von seiner Wirkung auf den [Blutdruck](https://de.wikipedia.org/wiki/Blutdruck "Blutdruck") ab: Serotonin ist eine Komponente des [Serums](https://de.wikipedia.org/wiki/Blutserum "Blutserum"), die den [Tonus](https://de.wikipedia.org/wiki/Tonus "Tonus") (Spannung) der [Blutgefäße](https://de.wikipedia.org/wiki/Blutgef%C3%A4%C3%9F "Blutgefäß") reguliert. Es wirkt außerdem auf die Magen-Darm-Tätigkeit und die [Signalübertragung](https://de.wikipedia.org/wiki/Signaltransduktion "Signaltransduktion")im Zentralnervensystem.
 
-#### Neurotransmitter
+#### Neurotransmitter / Hormone
 > **Neurotransmitter** sind [Botenstoffe](https://de.wikipedia.org/wiki/Botenstoff "Botenstoff"), die an [chemischen Synapsen](https://de.wikipedia.org/wiki/Synapse#Chemische_Synapsen "Synapse") die [Erregung](https://de.wikipedia.org/wiki/Erregungs%C3%BCbertragung "Erregungsübertragung") von einer [Nervenzelle](https://de.wikipedia.org/wiki/Nervenzelle "Nervenzelle") auf andere Zellen übertragen
 
 #### 
@@ -78,6 +75,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNTE4MDM1LDE4MzU4MDAwMywyODgxNj
+eyJoaXN0b3J5IjpbMzUwMjczNDEyLDE4MzU4MDAwMywyODgxNj
 cwMDZdfQ==
 -->
