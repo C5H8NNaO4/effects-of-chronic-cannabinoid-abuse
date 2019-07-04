@@ -47,9 +47,9 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 > **Dimethylether**. Er ist der einfachste [Ether](https://de.wikipedia.org/wiki/Ether "Ether") und ein [Dialkylether](https://de.wikipedia.org/wiki/Dialkylether "Dialkylether"). Er enthält zwei [Methylgruppen](https://de.wikipedia.org/wiki/Methylgruppe "Methylgruppe") als organische Reste. Dimethylether ist polar und findet in flüssiger Form als [Lösemittel]
 > (https://de.wikipedia.org/wiki/L%C3%B6semittel "Lösemittel") Verwendung.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dimethyl_ether_Structural_Formulae.svg/180px-Dimethyl_ether_Structural_Formulae.svg.png)
 
-
-
+asd
 ### Tryptamine
 
 >  [...] sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
@@ -77,6 +77,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTM0NTY2NSwxODM1ODAwMDMsMjg4MT
-Y3MDA2XX0=
+eyJoaXN0b3J5IjpbMTI2NDI4NTgyLDE4MzU4MDAwMywyODgxNj
+cwMDZdfQ==
 -->
