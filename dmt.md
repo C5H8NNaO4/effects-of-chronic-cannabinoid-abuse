@@ -2,10 +2,10 @@ Der Präfix *N,N-Dimethyl* bezeichnet  die beiden Organyl- bzw Methylgruppen *(C
 
 **DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste. 
 
-<span>a</span><center>
-![Struktur von Dimethyltryptamin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/200px-Dimethyltryptamine_2.svg.png)
+<center>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/200px-Dimethyltryptamine_2.svg.png)
 </center>
-
+----
 Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
 
@@ -60,6 +60,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxudGl0bGU6IC
 dETVQgLSBOLE4tRGltZXRoeWx0cnlwdGFtaW4nXG4iLCJoaXN0
-b3J5IjpbLTk2NjkxNzg3LDE5NjkzMTUyNTMsLTYzMzM0Njc5NS
-wxOTk5MDk0OTQxLDE4MzU4MDAwMywyODgxNjcwMDZdfQ==
+b3J5IjpbLTExNDQzMjIwNjIsMTk2OTMxNTI1MywtNjMzMzQ2Nz
+k1LDE5OTkwOTQ5NDEsMTgzNTgwMDAzLDI4ODE2NzAwNl19
 -->
