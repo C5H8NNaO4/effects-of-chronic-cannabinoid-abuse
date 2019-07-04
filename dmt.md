@@ -1,4 +1,4 @@
-Der Präfix *N,N-Dimethyl* in bezeichnet  die beiden Organyl- bzw Methylgruppen *(CH3)* - Tryptamin, den Hautptteil des Moleküls.
+Der Präfix *N,N-Dimethyl* bezeichnet  die beiden Organyl- bzw Methylgruppen *(CH3)* - Tryptamin, den Hautptteil des Moleküls.
 
 **DMT**, bzw. *Dimethyltryptamin* bezeichnet also ein Tryptamin mit 2 Methylgruppen als organische Reste.  <
 [<center>![Struktur von Dimethyltryptamin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dimethyltryptamine_2.svg/200px-Dimethyltryptamine_2.svg.png)</center>](https://de.wikipedia.org/wiki/Datei:Dimethyltryptamine_2.svg "Struktur von Dimethyltryptamin")
@@ -37,7 +37,7 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 > Die **Methylgruppe** (auch als Methyl-Rest bezeichnet) ist eine der einfachsten Atomanordnungen in der [organischen Chemie](https://de.wikipedia.org/wiki/Organische_Chemie "Organische Chemie"). Die Formel lautet –CH3.[[1]](https://de.wikipedia.org/wiki/Methylgruppe#cite_note-ABC_Chemie-1)Sie ist keine eigenständige chemische Substanz, sondern stets Teil eines größeren Moleküls. Sie ist die einfachste [Alkylgruppe](https://de.wikipedia.org/wiki/Alkylgruppe "Alkylgruppe") und findet sich in vielen chemischen Verbindungen.
 
 >  **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)
+<center>![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)</center>
 ----
 >Die  **Zirbeldrüse**,  **Epiphysis cerebri**  oder kurz  **Epiphyse**,  [anatomisch](https://de.wikipedia.org/wiki/Nomenklatur_(Anatomie) "Nomenklatur (Anatomie)")  auch  **Glandula pinealis**  ([deutsche](https://de.wikipedia.org/wiki/Deutsche_Sprache "Deutsche Sprache")  Bezeichnung wohl nach der Form der  [Zapfen](https://de.wikipedia.org/wiki/Zapfen_(Botanik) "Zapfen (Botanik)")  der  [Zirbelkiefer](https://de.wikipedia.org/wiki/Zirbelkiefer "Zirbelkiefer")  (_Pinus cembra_);  [synonyme](https://de.wikipedia.org/wiki/Synonymie "Synonymie")  Fachausdrücke siehe weiter unten), ist eine kleine, oft kegelförmige  [endokrine Drüse](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse")auf der Rückseite des  [Mittelhirns](https://de.wikipedia.org/wiki/Mittelhirn "Mittelhirn")  im  [Epithalamus](https://de.wikipedia.org/wiki/Epithalamus "Epithalamus")  (einem Teil des  [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn")).
 >
@@ -58,6 +58,6 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxudGl0bGU6IC
 dETVQgLSBOLE4tRGltZXRoeWx0cnlwdGFtaW4nXG4iLCJoaXN0
-b3J5IjpbMTg0Nzk2NzU2NywtNjMzMzQ2Nzk1LDE5OTkwOTQ5ND
+b3J5IjpbMTk2OTMxNTI1MywtNjMzMzQ2Nzk1LDE5OTkwOTQ5ND
 EsMTgzNTgwMDAzLDI4ODE2NzAwNl19
 -->
