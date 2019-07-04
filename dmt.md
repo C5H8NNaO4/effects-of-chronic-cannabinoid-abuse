@@ -46,7 +46,7 @@ Bedeutet das, dass Serotonin Halluzinationen verursachen kann?
 Definitionen
 ---
 
-Die  **Zirbeldrüse**,  **Epiphysis cerebri**  oder kurz  **Epiphyse**,  [anatomisch](https://de.wikipedia.org/wiki/Nomenklatur_(Anatomie) "Nomenklatur (Anatomie)")  auch  **Glandula pinealis**  ([deutsche](https://de.wikipedia.org/wiki/Deutsche_Sprache "Deutsche Sprache")  Bezeichnung wohl nach der Form der  [Zapfen](https://de.wikipedia.org/wiki/Zapfen_(Botanik) "Zapfen (Botanik)")  der  [Zirbelkiefer](https://de.wikipedia.org/wiki/Zirbelkiefer "Zirbelkiefer")  (_Pinus cembra_);  [synonyme](https://de.wikipedia.org/wiki/Synonymie "Synonymie")  Fachausdrücke siehe weiter unten), ist eine kleine, oft kegelförmige  [endokrine Drüse](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse")auf der Rückseite des  [Mittelhirns](https://de.wikipedia.org/wiki/Mittelhirn "Mittelhirn")  im  [Epithalamus](https://de.wikipedia.org/wiki/Epithalamus "Epithalamus")  (einem Teil des  [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn")).
+>Die  **Zirbeldrüse**,  **Epiphysis cerebri**  oder kurz  **Epiphyse**,  [anatomisch](https://de.wikipedia.org/wiki/Nomenklatur_(Anatomie) "Nomenklatur (Anatomie)")  auch  **Glandula pinealis**  ([deutsche](https://de.wikipedia.org/wiki/Deutsche_Sprache "Deutsche Sprache")  Bezeichnung wohl nach der Form der  [Zapfen](https://de.wikipedia.org/wiki/Zapfen_(Botanik) "Zapfen (Botanik)")  der  [Zirbelkiefer](https://de.wikipedia.org/wiki/Zirbelkiefer "Zirbelkiefer")  (_Pinus cembra_);  [synonyme](https://de.wikipedia.org/wiki/Synonymie "Synonymie")  Fachausdrücke siehe weiter unten), ist eine kleine, oft kegelförmige  [endokrine Drüse](https://de.wikipedia.org/wiki/Endokrine_Dr%C3%BCse "Endokrine Drüse")auf der Rückseite des  [Mittelhirns](https://de.wikipedia.org/wiki/Mittelhirn "Mittelhirn")  im  [Epithalamus](https://de.wikipedia.org/wiki/Epithalamus "Epithalamus")  (einem Teil des  [Zwischenhirns](https://de.wikipedia.org/wiki/Zwischenhirn "Zwischenhirn")).
 
 In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https://de.wikipedia.org/wiki/Neurosekretorische_Zelle "Neurosekretorische Zelle"), die  **Pinealozyten**, das  [Hormon](https://de.wikipedia.org/wiki/Hormon "Hormon")  [Melatonin](https://de.wikipedia.org/wiki/Melatonin "Melatonin"). Dieses  [Neurohormon](https://de.wikipedia.org/wiki/Neurohormon "Neurohormon")wird bei Dunkelheit gebildet und in  [Blut](https://de.wikipedia.org/wiki/Blutgef%C3%A4%C3%9Fsystem "Blutgefäßsystem")  und  [Liquor](https://de.wikipedia.org/wiki/Liquor_cerebrospinalis "Liquor cerebrospinalis")  freigesetzt, so überwiegend  [nachts](https://de.wikipedia.org/wiki/Nacht "Nacht"). Melatonin beeinflusst den  [Schlaf-Wach-Rhythmus](https://de.wikipedia.org/wiki/Zirkadiane_Rhythmik "Zirkadiane Rhythmik")und andere zeitabhängige Rhythmen des Körpers
 
@@ -56,5 +56,5 @@ In der Zirbeldrüse produzieren organtypische  [neurosekretorische Zellen](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjcxOTk4NywyODgxNjcwMDZdfQ==
+eyJoaXN0b3J5IjpbMTUwNjk5NzM5OSwyODgxNjcwMDZdfQ==
 -->
