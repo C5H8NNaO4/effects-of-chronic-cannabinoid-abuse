@@ -13,9 +13,8 @@ Der Prefix *N,N-Dimethyl* in DMT bezeichnet  die beiden Organyl- bzw Methylgrupp
 ---
 
 ## Tryptamine
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/1024px-Tryptamine_rests_General_Formula_V.svg.png)
-
 > **Tryptamine** sind [chemische Verbindungen](https://de.wikipedia.org/wiki/Chemische_Verbindung "Chemische Verbindung"), die vom **2-(Indol-3-yl)-ethylamin** abgeleitet sind. Sie sind [Stoffwechselprodukte](https://de.wikipedia.org/wiki/Stoffwechselprodukt "Stoffwechselprodukt") zahlreicher Lebewesen (vor allem Pflanzen) und zählen zu den [Indolalkaloiden](https://de.wikipedia.org/wiki/Indolalkaloide "Indolalkaloide"). 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tryptamine_rests_General_Formula_V.svg/220px-Tryptamine_rests_General_Formula_V.svg.png)
 
 Interessant sind Tryptamine da einige Neurotransmitter Derivate dieses Moleküls sind, weshalb sich diese grundsätzlich als Ausgangsstruktur für Medikamente bzw. Drogen eignen, da sie in der Lage sind  Rezeptoren zu aktivieren.
 
@@ -61,5 +60,5 @@ Definitionen
 
 > Während Neurotransmitter für eine schnelle Reizweiterleitung bzw. –blockade im Nervensystem sorgen, vermitteln Hormone ihre Wirkung über die Blutbahn an die weiter entfernten Zielorgane.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTc4NTIwOCwyODgxNjcwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTgzNTA5NDMsMjg4MTY3MDA2XX0=
 -->
